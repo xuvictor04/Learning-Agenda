@@ -227,9 +227,9 @@ native speakers cheap and immediate; Wyzant-style services cover academic
 subjects. Then join something local. Amateur societies are astonishingly
 welcoming, chronically short of members under sixty, and will hand a newcomer
 real equipment and real responsibility within a month: astronomy clubs,
-mycological societies, historical and archaeological societies, birding groups
-(Audubon chapters, the RSPB), amateur radio clubs, makerspaces, chess clubs,
-native plant societies, model engineering societies. University departmental
+mycological societies, historical and archaeological societies, birding
+groups (Audubon chapters, the RSPB), amateur radio clubs, makerspaces, chess
+clubs, native plant societies, model engineering societies. University
 seminars and colloquia are very often open to anyone who walks in — the
 schedule is on the department web page. Public lecture series (the Royal
 Institution, Gresham College, Perimeter Institute) post everything free.
@@ -252,8 +252,8 @@ zero: eBird and iNaturalist (both feeding real research datasets), Zooniverse
 across dozens of projects, Foldit for protein folding, Globe at Night for
 light pollution, the AAVSO for variable star photometry, Audubon's Christmas
 Bird Count. Then volunteering with institutions — museum collections and
-herbarium digitisation, archaeological dig seasons, park and trail crews (the
-Student Conservation Association, the Appalachian Mountain Club), Cooperative
+herbarium digitisation, archaeological dig seasons, trail crews (the Student
+Conservation Association, the Appalachian Mountain Club), Cooperative
 Extension's Master Naturalist and Master Gardener programmes, community
 biology labs such as Genspace and BioCurious. Then certifications that are
 also curricula: EMT-Basic, wilderness first responder, amateur radio
@@ -275,8 +275,7 @@ person responsible per session. Offer a short class at a public library,
 makerspace, or community centre — they usually say yes, and the deadline does
 the work. Answer questions where you can be corrected: Stack Exchange,
 field-specific forums, Wikipedia editing, a blog with comments open. Being
-publicly wrong and corrected is expensive to the ego and cheap to everything
-else.
+publicly wrong is expensive to the ego and cheap to everything else.
 
 ## 11. Reference works and encyclopaedias
 
@@ -292,8 +291,8 @@ recurs and you can't place it. Then leave. Mine the bibliographies — that is
 the real value.
 
 **Where the good ones are.** The Stanford Encyclopedia of Philosophy is the
-gold standard for the whole genre: free, peer-reviewed, maintained, and often
-the best thing written on its topic. Oxford's Very Short Introductions run to
+gold standard for the genre: free, peer-reviewed, maintained, and often the
+best thing written on its topic. Oxford's Very Short Introductions run to
 hundreds of volumes by specialists and are the fastest legitimate survey in
 most fields. The Princeton Companions (to Mathematics, to Applied
 Mathematics) are commissioned essays rather than entries, and unusually good.
@@ -301,16 +300,15 @@ Cambridge Companions for individual authors and philosophers, Oxford
 Handbooks for the state of an academic subfield, Grove Music Online for
 music, the DLMF for special functions. Wikipedia's real role is honest and
 limited: excellent for orientation, excellent for citation-mining, uneven in
-depth, and never a source to cite.
+depth, never a source to cite.
 
 ## 12. AI as a mode
 
 **Good for.** On-demand explanation at whatever level you ask for; Socratic
 questioning, when you instruct it to question rather than answer; unlimited
-practice problems and worked variations; translating jargon and notation;
-and — the genuinely distinctive one — finding the name of a concept you can
-only describe. That last capability removes a class of dead end that used to
-cost weeks.
+practice problems; translating jargon and notation; and — the genuinely
+distinctive one — finding the name of a concept you can only describe. That
+last removes a class of dead end that used to cost weeks.
 
 **Fails at.** Truth, and it fails invisibly. It produces the feeling of
 understanding without the substance, in fluent, confident, well-organised
@@ -332,8 +330,8 @@ fear. A real on-ramp, and underrated; a great many scientists were recruited
 by a novel.
 
 **Fails at.** Evidence, completely. Fiction is under no obligation to be
-right and is usually structurally obliged to be wrong, because drama needs
-what reality lacks.
+right and is usually obliged to be wrong, because drama needs what reality
+lacks.
 
 **Where the good ones are.** Primo Levi's *The Periodic Table* is the best
 book ever written about what it is like to be a chemist. *The Wire* on how

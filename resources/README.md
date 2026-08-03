@@ -58,6 +58,24 @@ you make, not a wall you hit.
 | `made-applied.md` | Engineering, computing, public health, business, strategy, design, craft |
 | `languages.md` | Language acquisition — resourced by method, since method transfers |
 | `fundamentals.md` | The universal capacities the whole map runs on |
+| `modes.md` | The full range of sources beyond books — courses, data, places, people, doing |
+| `kit.md` | Equipment and materials worth buying, with prices and honest skip advice |
+
+## Books are the default, not the whole of it
+
+The cluster files above lean textual because books are dense and cheap. They
+are also one channel with specific weaknesses: they can't show motion, can't
+answer back, can't put a thing in your hands, and are always at least a year
+stale. `modes.md` catalogues what else exists and what each mode is uniquely
+good at — the rule is **at least three modes per domain**, because each mode
+fails differently and understanding forms in the overlaps.
+
+`kit.md` handles the equipment half. Buying tools for practice is encouraged
+here: a microscope, a telescope, a soldering iron, or a decent chef's knife
+converts a reading domain into a doing domain, and doing is what the map
+rewards. The buying rule is **cheap version first, upgrade only when its
+limits genuinely annoy you** — and borrow anything over a few hundred dollars
+before you own it.
 
 ## Free sources worth bookmarking
 

@@ -7,11 +7,11 @@ dovetail perfectly and be unable to cut one. Equipment converts a passive
 domain into a practice domain, and practice is what this repo rewards — every
 artifact prompt in `resources/` is a *do*, not a *read*.
 
-So buying is encouraged, with one specific failure mode in view. It is the
-telescope in the closet with the dew cap still bagged. It is the pristine
-chisel set, still in the roll, still wearing its factory grind. Gear bought as
-a *substitute* for practice is the most common way people spend money on
-learning and get nothing, because buying feels like starting and it isn't.
+So buying is encouraged, with one failure mode in view. It is the telescope in
+the closet with the dew cap still bagged, the pristine chisel set still wearing
+its factory grind. Gear bought as a *substitute* for practice is the most
+common way people spend money on learning and get nothing, because buying feels
+like starting and it isn't.
 
 **Rule one: buy the cheap version, use it until its limits genuinely annoy
 you, then upgrade.** Not until you read that the cheap one is limiting — until
@@ -20,15 +20,15 @@ the good version first. That annoyance is information you cannot get any other
 way, and it tells you which of the expensive version's features you need.
 
 **Rule two: buy the thing used weekly before the thing used once.** A $20
-kitchen scale beats a $400 telescope, and this stays true even though the
-telescope is more interesting.
+kitchen scale beats a $400 telescope, and that holds even though the telescope
+is more interesting.
 
 Before either rule: you can use expensive equipment without owning it.
-Libraries (increasingly with a "library of things"), makerspaces and
-hackerspaces, tool libraries, community college shop and lab courses,
-university extension programs, and local astronomy and mineral clubs with
-loaner gear. For anything over a few hundred dollars this is usually the right
-first move, and often the permanent one.
+Libraries with a "library of things", makerspaces and hackerspaces, tool
+libraries, community college shop and lab courses, university extension
+programs, astronomy and mineral clubs with loaner gear. For anything over a
+few hundred dollars this is usually the right first move, and often the
+permanent one.
 
 **Prices below are approximate USD ranges and they drift.** Orders of
 magnitude, not quotes — said once so it isn't hedged on every line.
@@ -39,13 +39,12 @@ magnitude, not quotes — said once so it isn't hedged on every line.
 
 **A library card.** Free, and the highest-leverage item in this file by an
 enormous margin: books, interlibrary loan reaching almost anything, and the
-part most people never discover — remote database access to JSTOR, newspaper
-archives, and often O'Reilly. If you buy nothing else here, get this today.
+part most people never discover — remote access to JSTOR, newspaper archives,
+often O'Reilly. If you buy nothing else here, get this today.
 
 **A notebook system.** $20–40/yr. Not one notebook — a system: a carry
-notebook for capture, a larger bound one for working problems, one place they
-get processed. The paper doesn't matter; always having capture within reach
-does.
+notebook for capture, a bound one for working problems, one place they get
+processed. The paper doesn't matter; capture always being within reach does.
 
 **Index cards.** $10 for hundreds. Cards you wrote beat decks you downloaded,
 and physical cards reorder on a table in a way a document resists.
@@ -58,10 +57,10 @@ at eye height so you can write while reading, which is the whole difference
 between reading and studying.
 
 **Noise-cancelling headphones.** $100–350. Buy if your environment is genuinely
-noisy; skip if it isn't. Over-ear for long sessions.
+noisy; skip if it isn't.
 
-**An e-reader.** $100–200. Worth it for volume reading and public-domain
-canon. Not worth it for anything with diagrams, equations, or page-flipping.
+**An e-reader.** $100–200. Worth it for volume reading and public-domain canon,
+useless for anything with diagrams, equations, or page-flipping.
 
 **A printer/scanner.** $150–300 for a duplex laser multifunction. The case is
 annotation: papers you mark up in pen are papers you actually read. Inkjets
@@ -73,12 +72,11 @@ are a false economy past occasional use.
 
 Almost free, and honestly so. Paper, pencil, patience.
 
-**A proof notebook.** $10, hardbound, unlined. Kept separate, because the
-record of your own failed attempts is the most useful document you'll own here.
+**A proof notebook.** $10, hardbound, unlined, kept separate — the record of
+your own failed attempts is the most useful document you will own here.
 
 **A calculator.** Skip it. A graphing calculator is a $120 answer to a question
-Python answers better and free — unless an exam mandates one, in which case buy
-exactly the mandated model.
+Python answers better and free, unless an exam mandates one.
 
 The real equipment is software, all free: **LaTeX**, which forces precision;
 **Anki**, the spaced-repetition infrastructure principle 2 asks for; a computer
@@ -99,7 +97,7 @@ Jupiter's moons, the Pleiades, Andromeda and comets.
 
 **Then a Dobsonian reflector, 6–8 inch, $350–700.** The standard first real
 telescope for forty years, because it spends your money on the only thing that
-matters: aperture. Aperture is light-gathering area; it sets how faint an
+matters: aperture. Aperture is light-gathering area, and it sets how faint an
 object you can see and how much detail resolves. Magnification is merely a
 choice of eyepiece — any scope can be pushed to 600x, and a bad one will show
 you a large blurry nothing. **Any advertisement leading with magnification is
@@ -117,8 +115,8 @@ excellent for planning. A printed naked-eye atlas is $25–40.
 
 **Weather instruments.** Thermometer and aneroid barometer, $40–90; a home
 station with anemometer and rain gauge, $120–300. Pressure falling ahead of a
-front stops being a sentence in a textbook and becomes something you watched
-happen before the rain. Log the readings — the log is the point.
+front stops being a textbook sentence and becomes something you watched happen
+before the rain. Log the readings — the log is the point.
 
 **A rock and mineral hardness kit.** $25–50: Mohs picks or reference minerals,
 a streak plate, a magnet, dilute hydrochloric acid for the carbonate fizz test,
@@ -148,15 +146,15 @@ the usable entry point is **$200–400**; below that you are buying a toy
 whatever the listing claims. Better: buy used. **University surplus sales and
 lab liquidations** put professional scopes on the market at $150–400, and a
 thirty-year-old professional instrument beats anything new at that price.
-Check the objectives for scratches and the stage for smooth travel; the rest
+Check objectives for scratches and the stage for smooth travel; the rest
 cleans up.
 
 **Slides.** A prepared set ($30–60) calibrates your eye — you learn what a good
-image looks like. Making your own is the skill: blanks and coverslips ($20/100),
-methylene blue and iodine ($15), a dropper. Pond water on day one.
+image looks like. Making your own is the skill: blanks and coverslips ($20 per
+hundred), methylene blue and iodine ($15), a dropper. Pond water on day one.
 
-**A dissection kit.** $20–40. Scalpel, forceps, probe, scissors, pins, tray.
-Anatomy is spatial knowledge and diagrams flatten it.
+**A dissection kit.** $20–40. Anatomy is spatial knowledge, and diagrams
+flatten it.
 
 **A hand lens.** $15–40 for a 10x doublet or triplet loupe. Non-negotiable for
 botany, because plant keys ask about hairs, glands and floral parts you cannot
@@ -168,9 +166,9 @@ actually key things out. Peterson Field Guides and the Audubon Society guides
 are the standard American series; Sibley for North American birds; Collins for
 Britain and Europe. Buy the one whose range map includes your house.
 
-**A plant press.** $40–80 bought, $20 built from plywood, straps, cardboard
-and newspaper. Pressing forces careful collection and honest labelling, and
-the specimens teach you again a year later.
+**A plant press.** $40–80 bought, $20 built from plywood, straps, cardboard and
+newspaper. Pressing forces careful collection and honest labelling, and the
+specimens teach you again a year later.
 
 **Binoculars for birding** — the same pair as astronomy, though 8x42 is the
 birder's preference for the wider, steadier field. One purchase, two clusters.
@@ -188,9 +186,9 @@ regulated differently by jurisdiction, sometimes strictly, and the hazards —
 fumes, thermal runaway, incompatible mixtures — are not learned by improvising.
 The legitimate routes are better anyway: a proper hobby chemistry set from an
 established educational supplier, a community college introductory lab course
-(a few hundred dollars, real fume hoods, a person watching you), or for the
+(a few hundred dollars, real fume hoods, someone watching you), or for the
 biology side a **community bio lab** with benches, autoclaves and PCR at
-$50–150/month. Take the course. It costs less than the glassware.
+$50–150/month. Take the course; it costs less than the glassware.
 
 ---
 
@@ -199,10 +197,9 @@ $50–150/month. Take the course. It costs less than the glassware.
 Mostly free, and the equipment that isn't free is mostly disappointing.
 
 **EEG hobbyist kits.** $200–1,000. Real, and genuinely limited: few channels,
-dry electrodes, poor signal-to-noise, and enormous artifacts from blinking and
-jaw clenching. You can watch alpha rhythm appear when you close your eyes,
-which is a legitimate thrill. You cannot do neuroscience with it. Buy it as a
-toy you're honest about.
+dry electrodes, poor signal-to-noise, enormous artifacts from blinking and jaw
+clenching. You can watch alpha rhythm appear when you close your eyes, which is
+a legitimate thrill. You cannot do neuroscience with it.
 
 **Browser experiments.** Free. **PsychoPy** and **jsPsych** run real
 reaction-time, Stroop, visual-search and psychophysics tasks on yourself and
@@ -217,8 +214,7 @@ which is free and is the environment the field reasons in.
 ## Human & social
 
 **An archive reader's card.** Usually free; ID, proof of address, a short
-registration. National archives, county record offices, university special
-collections. The first time you handle a document nobody has requested in
+registration. The first time you handle a document nobody has requested in
 eleven years, history stops being a genre.
 
 **A scanner, or a phone scanning app.** Free to $200. The phone app is fine;
@@ -233,10 +229,10 @@ actually for.
 
 **Maps and atlases.** Topographic sheets from your national mapping agency
 (USGS quadrangles, Ordnance Survey Explorer), $10–20 each, for places you walk.
-One serious desk atlas: the *Times Comprehensive Atlas of the World*
-($150–250) is the reference standard, the *National Geographic Atlas of the
-World* ($100–170) a cheaper and very good alternative. A wall map you see
-daily beats a better one you shelve.
+One serious desk atlas: the *Times Comprehensive Atlas of the World* ($150–250)
+is the reference standard, the *National Geographic Atlas of the World*
+($100–170) a cheaper and very good alternative. A wall map you see daily beats
+a better one you shelve.
 
 **Travel is the field equipment** for geography and anthropology, and should be
 budgeted as equipment rather than leisure. The variable is not distance but
@@ -248,17 +244,17 @@ language you're learning, teaches what three countries in three weeks does not.
 ## Meaning & expression
 
 **A real instrument, bought used.** Instruments hold value, depreciate the
-moment they leave the shop, and improve with age when they're wooden. A decent
+moment they leave the shop, and improve with age when wooden. A decent
 **acoustic guitar** with a solid top is $150–400 used, $250–450 new; below that
 the action is usually so high that beginners quit and blame their fingers. A
 **weighted-key digital piano**, 88 keys with hammer action, is $500–900 new and
 $300–500 used — weighted is the specification that matters, because unweighted
-keys build a touch you must later unlearn. Whatever you buy, spend $50–100 on a
-setup or tuning; a badly set-up instrument is exactly the tool-maintenance
-failure `made-applied.md` warns about.
+keys build a touch you must later unlearn. Spend $50–100 on a setup or tuning
+either way; a badly set-up instrument is exactly the tool-maintenance failure
+`made-applied.md` warns about.
 
 **A metronome.** $20–30 mechanical, free as an app. The mechanical one gets
-used because it's sitting there.
+used because it is sitting there.
 
 **Sheet music.** IMSLP is free and holds essentially the whole public-domain
 repertoire. Buy modern editions only when the editorial apparatus matters.
@@ -273,7 +269,7 @@ between continuing and stopping.
 **Watercolours.** $60–120: a small **artist-grade** pan set (student grade is
 the false economy — weak, muddy pigments), three brushes, and **100% cotton
 paper at 300 gsm**, the single component that most determines whether the
-result looks like a painting. Cotton paper is $2–4/sheet and worth it.
+result looks like a painting.
 
 **Printmaking.** $50–100 for linocut: blocks, gouges, a brayer, water-based
 ink, a baren. No press — a wooden spoon works. Cutting in reverse and in flat
@@ -298,9 +294,8 @@ The biggest section, because this is where equipment is least optional.
 pencil is the standard false economy: too cold for ground planes, too hot for
 small parts, its tip oxidizing into uselessness within a month, producing cold
 joints you will misdiagnose as circuit bugs for hours. Buy temperature control,
-a spare tip, and a brass sponge. Solder fumes are flux, not lead — still,
-ventilate and fan the smoke away from your face, and wash your hands after
-handling leaded solder.
+a spare tip, a brass sponge. Solder fumes are flux, not lead — still, ventilate,
+fan the smoke away from your face, and wash your hands after leaded solder.
 
 **A multimeter.** $40–80 — the instrument that turns "it doesn't work" into a
 location. If you will ever measure mains, buy a genuine CAT III rating with
@@ -370,8 +365,8 @@ you should buy this only if photography is the point rather than the record.
 ## The staged budget
 
 **Year 1 — under about $300 total.** Deliberately small, because year one is
-for finding out which domains you actually touch, not for equipping domains you
-might.
+for finding out which domains you actually touch, not for equipping domains
+you might.
 
 | Item | Approx. |
 |------|---------|
@@ -387,23 +382,22 @@ might.
 | 10x50 binoculars | $90–150 |
 
 Software — Anki, LaTeX, R, SageMath, Stellarium, PsychoPy, jsPsych, IMSLP — is
-free and all of it installs in week one. It is the cheapest half of this
-document and the half most likely to still be in use in year ten.
+free and installs in week one. It is the cheapest half of this document and the
+half most likely to still be in use in year ten.
 
-**Years 2–5, added one at a time, each triggered by a domain you are actually
-working in.** Soldering station, multimeter, components kit, microcontroller
-kit. A used compound microscope from a surplus sale. A 6–8 inch Dobsonian. An
+**Years 2–5, one at a time, each triggered by a domain you are actually working
+in.** Soldering station, multimeter, components kit, microcontroller kit. A
+used compound microscope from a surplus sale. A 6–8 inch Dobsonian. An
 instrument, used, with a setup. Core hand tools plus sharpening plus the full
 safety set. An e-reader. A newspaper subscription. A museum membership. A
 camera.
 
-**Only after a domain is promoted to T2** — meaning the literacy artifact
-exists and an annual review has funded it: a benchtop oscilloscope, a 3D
-printer, a weather station, a Geiger counter, an EEG kit, a printmaking press,
-a projector, a kiln or a lathe, a serious atlas, a workbench built to your own
-height. Every one of these is justified for someone doing the work and a closet
-ornament for someone who isn't. The tier system exists to tell you which you
-are.
+**Only after a domain is promoted to T2** — the literacy artifact exists and an
+annual review has funded it: a benchtop oscilloscope, a 3D printer, a weather
+station, a Geiger counter, an EEG kit, a printmaking press, a projector, a kiln
+or a lathe, a serious atlas, a workbench built to your own height. Every one is
+justified for someone doing the work and a closet ornament for someone who
+isn't. The tier system exists to tell you which you are.
 
 ---
 
@@ -412,11 +406,10 @@ are.
 - **Makerspaces and hackerspaces** — $30–100/month for laser cutters, CNC,
   welding, printers and electronics benches, and more valuably the people who
   will show you how to use them.
-- **Tool libraries and library "libraries of things"** — free to $50/yr, and
-  increasingly common. Check before buying anything with a motor.
+- **Tool libraries and library "libraries of things"** — free to $50/yr. Check
+  before buying anything with a motor.
 - **University surplus sales and lab liquidations** — where professional
-  microscopes, optics, meters and glassware go for a tenth of new. Get on the
-  mailing list.
+  microscopes, optics, meters and glassware go for a tenth of new.
 - **Community college shop and lab courses** — a few hundred dollars buys a
   semester of supervised access to a machine shop, chemistry lab or ceramics
   studio, plus an instructor who corrects the error you cannot see.
