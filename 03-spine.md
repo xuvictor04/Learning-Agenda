@@ -1,4 +1,4 @@
-# The Spine — A Linear Plan, Year 1 to Year 30+
+# The Spine — A Linear Plan, Year 1 to Year 70
 
 `02-map.md` says what the territory is. `resources/` says what to read and do
 in each part of it. Neither tells you what to do *this year*, or in what
@@ -6,10 +6,38 @@ order, or what has to come first so the thing after it isn't wasted effort.
 That's this file.
 
 The spine walks all 44 ledger domains, the fundamentals, one language, one
-craft, and the mastery spikes across thirty years in a defensible order. It
+craft, and the mastery spikes across seven decades in a defensible order. It
 is a **default sequence, not a contract**. Reorder it freely — but reorder it
 deliberately, at an annual review, knowing which prerequisite you're skipping
 and what it will cost you.
+
+## The seventy-year frame
+
+Year 1 is age 20. Year 70 is age 90.
+
+| Decade | Years | Ages | The work |
+|--------|-------|------|----------|
+| 1 | 1–10 | 20–30 | The trunk: fundamentals, and the domains everything else needs |
+| 2 | 11–20 | 30–40 | The second spike; the branches that needed scaffolding |
+| 3 | 21–30 | 40–50 | The applied world; the ledger completes; synthesis begins |
+| 4 | 31–40 | 50–60 | Integration, first re-foundations, promotions |
+| 5 | 41–50 | 60–70 | The free decade: reclaimed hours, third spike, transmission |
+| 6 | 51–60 | 70–80 | Distillation: what survives you, put in usable form |
+| 7 | 61–70 | 80–90 | The long view: the perspective nobody younger can have |
+
+**The ledger completes around year 30, at age 50 — with forty years left.**
+That is the single most important fact about this plan, and the one most
+people get wrong when they imagine a "lifetime learning plan." Covering the
+map once is the *first third*. What follows is not repetition: fields you
+learned at 25 will have moved by 55, entire domains will exist that have no
+name today, and the domains that actually pull will be waiting for promotion
+to real depth. Decades 4–7 are where a broad education stops being a
+collection and becomes a point of view.
+
+A note on pace. Seventy years is generous for 44 domains — deliberately. The
+slack absorbs the years that go wrong: illness, a demanding program, a new
+child, a move, a job that eats everything. Falling five years behind the
+sequence is not failure; it's the schedule working as designed.
 
 ---
 
@@ -42,7 +70,7 @@ programming ──→ computing, AI, data work in every empirical field
 
 **3. Alternate hard and free.** Every year pairs one prerequisite-chained
 domain with one that has no prerequisites at all — literature, music, art,
-religion, film. This isn't decoration. It's what makes thirty years
+religion, film. This isn't decoration. It's what makes seventy years
 survivable: the free domain is the one you read on a bad week, and it keeps
 the curiosity budget from being the only non-obligatory thing in your life.
 
@@ -67,10 +95,19 @@ allocation:
 
 | Track | Hours/yr | Notes |
 |-------|----------|-------|
-| Two T3 domains | ~250 | 100–150 each; this is the ledger work |
+| Two T3 domains | ~200 | 100 each; this is the ledger work |
 | Spike (T1/T2) | ~150 | Your professional depth; more in some years |
 | Fundamentals | ~50 | Heavy in years 1–2, maintenance after |
+| Frontier slot | ~40 | Reconnaissance on what isn't on the map yet — `04-frontier.md` |
+| Current awareness | ~100 | 2 hrs/wk across all frequencies — `05-current.md` |
 | Curiosity budget | ~50 | Unplanned, off-ledger, no artifact required |
+
+Two of those tracks are new and permanent. The **frontier slot** is 5–10% of
+your hours held open, every year for seventy years, for fields that don't
+exist yet — because over that span some will, and a fixed map would sleep
+through them. **Current awareness** is the live layer: a map with no news
+attached becomes a museum. Both are capped deliberately, because both expand
+to fill whatever you give them.
 
 Two caveats worth stating plainly. **If you're in a demanding degree or
 training program, halve the ledger and run one domain a year** — the spike
@@ -95,7 +132,7 @@ Each year below gives you:
 
 ---
 
-# Decade 1 — Years 1–10: The Trunk
+# Decade 1 — Years 1–10 (ages 20–30): The Trunk
 
 The mission is the trunk of the tree: the fundamentals, the formal and
 physical core that half the ledger depends on, and the habits. Twenty domains
@@ -285,7 +322,7 @@ later domains cheap.
 
 ---
 
-# Decade 2 — Years 11–20: The Second Spike and the Branches
+# Decade 2 — Years 11–20 (ages 30–40): The Second Spike and the Branches
 
 Twelve to fourteen domains, at a deliberately slower ledger pace, because the
 second spike is now taking real hours and the mastery work in
@@ -362,7 +399,7 @@ are the ones that needed a decade of scaffolding underneath them.
 
 ---
 
-# Decade 3 — Years 21–30: The Applied World and Synthesis
+# Decade 3 — Years 21–30 (ages 40–50): The Applied World and Synthesis
 
 The remaining domains are deliberately concentrated in the made-and-applied
 cluster, and that's a design choice: after two decades of largely textual
@@ -415,6 +452,124 @@ synthesis, stewardship, and reinvention tracks from
 
 ---
 
+# The Second Half — Years 31–70 (ages 50–90)
+
+The ledger is done and you are fifty. Forty years remain — more time than the
+whole plan so far has used.
+
+The instinct at this point is to assume the learning is over and only the
+using is left. That instinct is wrong, and the rest of this file exists to
+say why. Four kinds of work fill the second half, and none of them are
+available to someone who hasn't done the first:
+
+**Re-foundation.** A field you brought to literacy at 25 has moved by 55.
+Instrument-driven and computational fields move fastest — biology, astronomy,
+linguistics, medicine, anything that got a new way of measuring. Every domain
+needs a refresh roughly every 15–20 years, and the signal that one is overdue
+is simple: you can no longer follow a current talk in a field you once knew.
+Being taught the new version by someone half your age is the normal
+experience, not a humiliation. See `04-frontier.md`.
+
+**Promotion.** Forty-four literacy passes tell you something no amount of
+planning could: which domains actually pull. The second half is where a
+handful of them go to working depth or mastery. This is a narrowing move —
+saying no to thirty-nine domains in order to say yes to five.
+
+**The frontier.** Fields will exist in your sixties with no name today. The
+slot has been running at 5–10% since year 1 precisely so that you notice them
+and can join rather than watch.
+
+**Transmission.** Synthesis, teaching, institutions, successors. Unshared
+mastery doesn't compound — it retires.
+
+Because these are less schedulable than a literacy pass, the decades below
+are lighter on year-by-year prescription and heavier on the shape of the
+work. The detailed treatment is in `phases/`.
+
+---
+
+# Decade 4 — Years 31–40 (ages 50–60): Integration
+
+**The move:** stop collecting, start connecting. This is typically peak
+professional authority, and the decade where a completed ledger plus two
+mature spikes finally produces work nobody else could do.
+
+- **Re-foundations:** the first systematic pass. Pick the 5–8 domains that
+  have moved most since you learned them and redo the literacy pass on
+  current material.
+- **Promotions:** 3–5 domains from T3 to T2 across the decade, chosen on
+  demonstrated pull rather than on plan.
+- **The signature work:** cross-field synthesis. The problems you've been
+  noticing since Decade 2 that need your specific combination.
+- **Institutions:** begin building the thing that teaches after you — a
+  course, a curriculum, a team, a standard, an open resource.
+- **Maintenance becomes curriculum:** exercise, sleep, hearing and vision
+  correction, social engagement. These stop being background and become
+  scheduled, because they protect the instrument everything else runs on.
+- **Kit:** peak earning meets deferred wants. The big durable goods —
+  a serious telescope, a full workshop, a real instrument, a kiln or lathe —
+  are justifiable now on cost-per-year-of-use. The trap is buying capability
+  instead of exercising it (`resources/kit.md`).
+
+## Decade 5 — Years 41–50 (ages 60–70): The Free Decade
+
+**The move:** obligations loosen and learning hours roughly double. For
+someone who kept the habits for forty years, this can be the most productive
+learning decade of a life — a vast SRS vault, syntopical reading, a network,
+taste, and now time.
+
+- **The third spike,** chosen on pull alone with zero career justification
+  permitted. Beginner-hood here is a practice, not a humiliation, and it is
+  where genuinely new work often comes from.
+- **Transmission at scale:** the book-length synthesis, specific named
+  successors, the institution.
+- **Formal re-entry** is a real and underused option — a degree, a
+  fellowship, a residency. Many institutions actively want older students.
+- **Second re-foundation pass,** with reverse-mentoring now essential:
+  seniority insulates you from the new unless you build against it.
+
+## Decade 6 — Years 51–60 (ages 70–80): Distillation
+
+**The move:** the corpus is large and unsorted. The work is editing, not
+accumulating — deciding what of fifty years is worth passing on and putting
+it in a form that survives you.
+
+- **The summative work:** the book, the curriculum, the archive made legible
+  to a stranger. A thousand scattered pieces distilled into one usable thing
+  is the greater contribution.
+- **Hard learning as health infrastructure.** Novelty and difficulty are the
+  active ingredient — a new language, a new instrument, a new craft beats
+  reviewing what you already know.
+- **Adapt the method, don't lower the ambition.** Audio as a first-class
+  mode, larger type, shorter and more frequent sessions, more spaced review,
+  hearing aids early rather than late. The SRS vault built over five decades
+  is now doing exactly what it was designed for.
+- **The frontier slot still runs.** A frozen model is the characteristic
+  failure of this decade, and the slot is the countermeasure.
+
+## Decade 7 — Years 61–70 (ages 80–90): The Long View
+
+**The move:** you hold something no younger person can — the shape of how
+knowledge actually changed across seventy years, which confident consensus
+collapsed, and what turned out to matter.
+
+- **Capture the view:** memoir, oral history, recorded conversations,
+  annotated bibliographies of a life's reading, letters to successors.
+- **Re-read the canon.** The books you read at twenty are a different
+  experience at eighty, and reading them again with seventy years of context
+  is worth doing deliberately.
+- **Hand things over concretely:** books, tools, instruments, notes, and
+  collections placed with named people or institutions while you can still
+  explain them.
+- **Honest about capacity:** scale sessions to energy, favour depth in fewer
+  domains, keep the practices that protect engagement. The plan's success was
+  never measured by completing every checkbox.
+
+**Year 70 is not a finish line.** A plan written at twenty and still running
+at ninety has already succeeded. Write the next sketch anyway.
+
+---
+
 ## Reordering rules
 
 The sequence is a default. Break it deliberately, under these rules:
@@ -444,9 +599,15 @@ Deliberately absent, and it should stay that way:
   off-ledger, no artifact required. If it ever hits zero, the agenda is
   dying — that's the canary.
 - **Tools and products.** Nothing with a version number appears in a
-  thirty-year plan (`01-principles.md`, principle 5). Tools are learned
-  just-in-time, inside projects.
-- **Your life.** Thirty years contains illness, moves, jobs, people, and
+  seventy-year plan (`01-principles.md`, principle 5). Tools are learned
+  just-in-time, inside projects. The frontier slot exists to catch the rare
+  case where something that looks like a tool is actually a new field —
+  `04-frontier.md` is how you tell the difference.
+- **What fills the frontier slot.** The slot is scheduled; its contents
+  cannot be. Naming in 2026 what you'll study in 2056 is precisely the error
+  the slot is designed to prevent.
+- **Your life.** Seventy years contains illness, moves, jobs, people, and
   losses. The spine assumes interruption; the weekly log exists to make
   restarting cheap. Any lapsed track restarts at the next weekly log, at half
-  size if necessary.
+  size if necessary. A plan that only works in good years isn't a plan, it's
+  a wish.

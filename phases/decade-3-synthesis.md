@@ -1,4 +1,4 @@
-# Decade 3+ (Years 21–30 and beyond): Synthesis, Stewardship, Reinvention
+# Decade 3 (Years 21–30, ages 40–50): Synthesis, Stewardship, Reinvention
 
 **Mission:** do the work only someone with your accumulated spikes can do;
 transfer what you know to people and institutions that outlast you; and keep
@@ -8,6 +8,11 @@ By now the agenda's early bets have matured: two-plus fields of real depth,
 decades of artifacts, a network, and taste. The question of this phase is no
 longer "how do I get good?" but "what is all this *for*?" The three tracks
 below usually run in parallel, with the mix shifting over the decade.
+
+**This is the hinge, not the end.** The 44-domain ledger completes near the
+close of this decade, at around age 50 — with forty years still to run. The
+three tracks below are where the second half's work begins, and
+`decade-4-integration.md` picks them up from here.
 
 ## Track A: Synthesis — the work of the third act
 
@@ -49,7 +54,7 @@ Not everyone takes this track, but keep it honestly open:
   regularly produce their best output after year 25; the agenda's job is to
   make sure yours has the option.
 
-## Ongoing maintenance (all of Decade 3+)
+## Ongoing maintenance (all of Decade 3)
 
 - **Habits, unchanged:** spaced repetition, weekly log, annual review. They
   are decades old now; they cost almost nothing and are load-bearing.
@@ -66,11 +71,12 @@ Not everyone takes this track, but keep it honestly open:
 - [ ] At least one institution/resource/successor carrying your work forward
       without your involvement.
 - [ ] Something begun after year 21 at which you were a genuine beginner.
-- [ ] The annual review of year 30 written — and a sketch of what years
-      31–40 might be for. The agenda doesn't end; it just keeps getting
-      more interesting to write.
+- [ ] All 44 ledger domains checked — the map covered once.
+- [ ] The annual review of year 30 written, and Decade 4 drafted. You are
+      fifty, with forty years left and a completed map to work from. The
+      agenda doesn't end here; it gets more interesting to write.
 
-## Failure modes to watch for in Decade 3+
+## Failure modes to watch for in Decade 3
 
 - **Eminence trap** — spending the decade giving opinions about work instead
   of doing any. The humbling-practice rule in Track A is the antidote.

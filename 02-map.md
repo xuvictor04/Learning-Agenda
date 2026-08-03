@@ -5,6 +5,13 @@ worked through over a lifetime. This file is the map itself, kept general on
 purpose: it doesn't know or care what you already know. Skip freely; the map
 doesn't shrink because you're ahead in places.
 
+## The horizon
+
+Year 1 is age 20; year 70 is age 90. Seven decades, laid out in `03-spine.md`
+and `phases/`. The ledger below completes around year 30 — at fifty, with
+forty years still to run. Covering the map once is the first third of this,
+not the whole of it.
+
 ## Depth tiers = time budgets, nothing more
 
 "Everything" is finite time spread over an unbounded map, so every domain
@@ -24,16 +31,19 @@ Two rules make the budget real:
    only at an annual review, after its literacy artifact exists.
 2. **Concurrency caps:** at most 1–2 fields *actively* funded at T1, 2–3 at
    T2, and ~2 new T3 literacies per year. The caps are per-moment, not per
-   lifetime — over four decades that's 2–3 masteries, 8–12 working depths,
-   and the whole T3 ledger. That *is* "everything," at the only exchange rate
-   time offers.
+   lifetime — over seven decades that's 3–4 masteries, 12–18 working depths,
+   and the whole T3 ledger walked more than once. That *is* "everything," at
+   the only exchange rate time offers.
+3. **The ledger is open at the bottom.** Fields will exist in your sixties
+   that have no name today, and they join the map through the frontier slot —
+   see `04-frontier.md`. A map that can't grow is a map that expires.
 
 ## The ledger: domains of human knowledge
 
 Each unchecked box is a T3 target: bring it to literacy (one survey work +
 one canonical work + one artifact you write and publish), check it, and
 decide at review whether it earns promotion. Order is yours; ~2/year
-compounds through the whole ledger in Decades 1–3. Check off anything you
+compounds through the whole ledger by around year 30. Check off anything you
 can already pass the literacy bar in today.
 
 **Formal**
