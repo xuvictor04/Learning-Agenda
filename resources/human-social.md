@@ -1323,11 +1323,11 @@ into determinism.
   Tomorrow*; owns why cities take the shapes they do and who decided.
   **Political ecology** — Blaikie & Brookfield, *Land Degradation and
   Society*, and Michael Watts, *Silent Violence*; owns who bears environmental
-  harm and why it is never evenly distributed. **Water and climate as constraints** — Peter
-  Gleick's *The World's Water* volumes; owns the two variables that bind
-  hardest and soonest. **Remote sensing** — Lillesand, Kiefer & Chipman,
-  *Remote Sensing and Image Interpretation*; owns measuring the surface of the
-  earth without touching it. **Cartography and its politics** — J.B. Harley,
+  harm and why it is never evenly distributed. **Water and climate as
+  constraints** — Peter Gleick's *The World's Water* volumes; owns the two
+  variables that bind hardest and soonest. **Remote sensing** — Lillesand,
+  Kiefer & Chipman, *Remote Sensing and Image Interpretation*; owns measuring
+  the surface of the earth without touching it. **Cartography and its politics** — J.B. Harley,
   "Deconstructing the Map" (1989), with Mark Monmonier's *How to Lie with
   Maps*; owns the fact that every map is an argument. **Migration and
   population geography** — owns who moves, who cannot, and what borders

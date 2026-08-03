@@ -746,3 +746,76 @@ decades, with a political economy on top deciding who eats.
   Society of America, Soil Science Society of America — and their joint annual
   meeting; CGIAR; SARE; the land-grant extension network, the most underused
   free expertise in this domain.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* soil physics — Hillel, **Introduction to Environmental Soil
+  Physics**: water in soil, which is the binding constraint on nearly
+  everything. Plant breeding — Acquaah, **Principles of Plant Genetics and
+  Breeding**: where genetics meets a harvest and a market. Plant pathology and
+  entomology — Agrios, **Plant Pathology**: the arms race, and why monocultures
+  keep losing it. Irrigation and water management — the FAO's **Irrigation and
+  Drainage Paper 56** (Allen et al., free) is the world standard for
+  evapotranspiration and is genuinely usable. Agroecology — Gliessman,
+  **Agroecology: The Ecology of Sustainable Food Systems**: farms as ecosystems
+  with an accounting requirement. Food science — McGee, **On Food and
+  Cooking**, then Belitz, Grosch & Schieberle, **Food Chemistry**: what happens
+  between field and mouth, which is where most of the value and most of the
+  loss lives. Fisheries — Hilborn & Walters, **Quantitative Fisheries Stock
+  Assessment**: the hardest managed commons, and a corrective to land-only
+  thinking. Agricultural economics — Norton, Alwang & Masters, **Economics of
+  Agricultural Development**: why smallholders make choices that look wrong
+  and are not.
+- *The long canon:* Charles Mann, **The Wizard and the Prophet** — Borlaug
+  versus Vogt, the field's central argument staged as two biographies; if you
+  read one book here, this. Then Borlaug's 1970 Nobel lecture, free, and
+  Ehrlich's **The Population Bomb** as an object lesson in confident
+  prediction. Jack Harlan, **Crops and Man**, the best book on domestication,
+  written by someone who collected seed in fifty countries. Zohary, Hopf &
+  Weiss, **Domestication of Plants in the Old World**, as the reference behind
+  it. Peter Pringle, **The Murder of Nikolai Vavilov**, on the seed bank, the
+  siege of Leningrad and what Lysenkoism cost — the most important political
+  story in the history of this field. Wendell Berry, **The Unsettling of
+  America**, the moral case made beautifully and often empirically contestable;
+  argue with it rather than agreeing. James C. Scott, **Seeing Like a State**,
+  the high-modernist agriculture chapters especially, and **Against the
+  Grain**. Sidney Mintz, **Sweetness and Power**, on sugar, slavery and the
+  making of the modern diet. Judith Carney, **Black Rice**, on knowledge that
+  crossed the Atlantic with enslaved people. Marion Nestle, **Food Politics**.
+  Smil, **Feeding the World** and **How the World Really Works**, for the
+  quantities. Eliot Coleman, **The New Organic Grower**, and Carol Deppe, **The
+  Resilient Gardener**, the two most useful practical books written by people
+  who keep records. Gabe Brown, **Dirt to Soil**, read against the published
+  critiques of regenerative soil-carbon claims — a live and unresolved argument
+  you should be able to state fairly from both sides.
+- *Re-foundation watch:* soil physics and chemistry, the water balance, plant
+  physiology, the nitrogen and phosphorus cycles, breeding statistics and Sen's
+  entitlement framework are permanent. Cultivars, prices, policy and
+  measurement are not, and this field turns over faster than its textbooks
+  suggest. Watch gene-edited crops and the regulatory divergence between
+  jurisdictions, which will decide what is grown where; photosynthesis
+  engineering, which has moved from theory to field trials; biological
+  nitrification inhibition and nitrogen-use efficiency; soil carbon measurement
+  and verification, currently the field's most contested accounting problem;
+  autonomous machinery and machine-vision weeding, which change the labour
+  economics that everything else rests on; and shifting crop zones under
+  warming. The stale signal is arithmetic: your yield figures, fertiliser
+  prices and per-kilogram footprints are the ones you learned, and you are
+  arguing organic versus conventional with a decade-old meta-analysis.
+- *A lifetime practice:* keep one piece of ground and an unbroken record of it.
+  A soil history is the single most valuable thing here — the same sample
+  points, the same depth, the same laboratory, every three to five years for
+  thirty years, watching organic matter, pH, phosphorus and potassium actually
+  move. Alongside it, a dated field book: last frost, sowing, emergence,
+  flowering, harvest, yield per bed, rainfall, every failure and what you think
+  caused it. And save seed from your own selections, year after year, until you
+  have a landrace adapted to your specific ground — a thirty-year artifact
+  nobody can buy and no catalogue can supply.
+- *Rabbit holes:* the Rothamsted Broadbalk and Park Grass experiments, running
+  since 1843 and 1856, with archived soil and grain samples from every year —
+  the finest long-term dataset in any science on this page. Terra preta, the
+  Amazonian dark earths, and the argument about whether they can be remade. The
+  tomato's lost flavour, traced to a mutation deliberately selected for uniform
+  ripening. The Irish famine pathogen's genome, recovered from
+  hundred-and-seventy-year-old herbarium specimens. Cavendish bananas and TR4,
+  a monoculture watching its own extinction approach in slow motion.

@@ -827,9 +827,9 @@ work as an argument and as a roof.
   them — see the 1669 pictures at 60 and again at 80. Late Titian, especially
   *The Flaying of Marsyas*, does the same. Goya's Black Paintings were made by
   a deaf man in his seventies. Matisse's cut-outs were made when he could no
-  longer stand at an easel, and Michelangelo's *Rondanini Pietà* was unfinished
-  at his death at 88 — both are about what remains possible, which is not a
-  subject you can see clearly from twenty.
+  longer stand at an easel, and Michelangelo's *Rondanini Pietà* was left
+  unfinished at his death at 88 — both are about what remains possible, which
+  is not a subject you can see clearly from twenty.
 - *A lifetime practice:* draw daily and fill one sketchbook a year, dated on
   the spine; forty sketchbooks on a shelf is a record of your own seeing that
   nothing else produces. Learn one medium properly and stay in it. Measure and
@@ -999,9 +999,9 @@ ones a script doctor asks.
   Bergman's *Wild Strawberries* follows a man of 78 and cannot be fully read
   at 20. *8½* lands differently once you are Fellini's age when he made it.
   Rewatching is not nostalgia here; it is the method the medium requires.
-- *A lifetime practice:* keep a viewing and playgoing log — title, date, where,
-  and one paragraph written the same night, before anyone else's opinion
-  reaches you. Write criticism in public somewhere, regularly, under your
+- *A lifetime practice:* keep a viewing and playgoing log — title, date and
+  place, plus one paragraph written the same night, before anyone else's
+  opinion reaches you. Write criticism in public somewhere, regularly, under your
   name. Act in or direct one production every year or two, community theater
   entirely counts, because the analytic vocabulary goes dead without it.
 - *Rabbit holes:* film loss and nitrate decay — the Library of Congress's 2013
@@ -1121,3 +1121,63 @@ without trained public speech has no way of deciding anything together.
   Society for the History of Rhetoric. For the craft channel: magazines,
   working editors, and a workshop staffed by people willing to hurt your
   feelings on schedule.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Renaissance humanist rhetoric — Peter Mack, *A History of
+  Renaissance Rhetoric*; owns imitation and copiousness as a pedagogy that
+  actually worked. Chinese rhetoric — Xing Lu, *Rhetoric in Ancient China*;
+  owns persuasion aimed at a ruler who can kill you, which produces very
+  different advice. Arabic *balāgha* — Lara Harb, *Arabic Poetics*; owns
+  wonder and the surprising image as the criterion of good language. Indian
+  *alaṃkāraśāstra* — Ānandavardhana's *Dhvanyāloka* (Daniel Ingalls et al.,
+  Harvard Oriental Series); owns suggestion rather than statement as where
+  meaning lives. Composition and writing studies — Adler-Kassner & Wardle,
+  *Naming What We Know*; owns the empirical question of how writing is
+  learned and whether it transfers. The essay — Phillip Lopate, *The Art of
+  the Personal Essay*; owns thinking performed rather than reported.
+  Stylistics — Virginia Tufte, *Artful Sentences: Syntax as Style*; owns the
+  sentence as a machine with named parts. Argumentation theory — van Eemeren
+  & Grootendorst's pragma-dialectics; owns disagreement as a procedure.
+- *The long canon:* Quintilian, *Institutio Oratoria* (Donald Russell's Loeb,
+  five volumes) — the complete education, still the deepest book in the
+  field; Demosthenes, *On the Crown*; Cicero's *Philippics* and *Orator*;
+  Augustine, *De Doctrina Christiana* Book IV; Erasmus, *De Copia*; Bacon's
+  *Essays*; Samuel Johnson's *Rambler* essays; Sor Juana Inés de la Cruz,
+  *Respuesta a Sor Filotea*; Wollstonecraft, *A Vindication of the Rights of
+  Woman*; Ida B. Wells, *Southern Horrors*; Nelson Mandela's Rivonia trial
+  statement of 1964; Václav Havel, "The Power of the Powerless"; Baldwin, *The
+  Fire Next Time*; Sontag, *Against Interpretation*; Didion, *The White
+  Album*; John McPhee, *Draft No. 4* and Verlyn Klinkenborg's *Several Short
+  Sentences About Writing* as the two craft books that stay useful.
+- *The multi-decade reading and listening plan:* Quintilian is twelve books;
+  read one a year for twelve years, then run it again in your fifties and
+  once more in your seventies, and the marginalia become the record. Under
+  that, three standing habits. Write five hundred words a day, which is seven
+  million words by ninety and the only reliable path to a style. Publish one
+  finished piece a month — four hundred and eighty essays is a body of work
+  whether or not anyone commissioned it. And copy by hand one page a week from
+  a single writer chosen for the year: forty writers, roughly two thousand
+  pages, taken through your own hand. Work the *progymnasmata* in order, all
+  fourteen exercises, one per quarter — three and a half years a pass — and
+  run the sequence again each decade against harder subjects. For the ear,
+  listen to one recorded speech a month with the text in front of you first.
+- *Re-reading:* the unusual case here is that you reread your own work.
+  Every year, read something you wrote ten years earlier and name what is
+  wrong with it in the vocabulary of the field, not in embarrassment. For
+  published models, Montaigne is the demonstration: he revised the *Essays*
+  across three editions over twenty years, and Donald Frame's translation
+  marks the A, B and C layers, so you can literally watch a man rewrite
+  himself between forty and sixty. Johnson on aging and Baldwin on anger both
+  read differently once you have your own version of each.
+- *A lifetime practice:* keep a commonplace book on Locke's indexing method
+  (his *New Method of Making Common-Place-Books* appeared in English in 1706)
+  and never start a new one — one book, forty years, indexed. Keep the
+  editorial log: every change any editor makes to your work, with the pattern
+  named. Write real letters to real people. Edit other people's writing for
+  free, regularly; nothing else exposes your own defaults so fast.
+- *Rabbit holes:* the *ars memorativa* and memory palaces (Frances Yates, *The
+  Art of Memory*); the Royal Society's campaign for a plain style and what it
+  cost English prose; the Chinese eight-legged essay and examination writing;
+  the history of punctuation (M.B. Parkes, *Pause and Effect*); the history of
+  the index (Dennis Duncan, *Index, A History of the*).

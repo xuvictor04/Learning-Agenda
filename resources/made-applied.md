@@ -1381,6 +1381,80 @@ constraints you didn't choose.
   architecture or safety-critical equipment. The portfolio and the produced
   work are the entire credential, which is liberating and merciless.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Type design — Walter Tracy, *Letters of Credit*, and Karen
+  Cheng, *Designing Type* — owns the letterform itself, and is the deepest
+  well in graphic design. Information design — Tufte's *Envisioning
+  Information* and *Visual Explanations*, with Jacques Bertin's *Semiology
+  of Graphics* underneath them — owns encoding quantity as position and
+  mark. Materials and process for product work — Ashby & Johnson,
+  *Materials and Design* — owns why the object feels the way it does. Human
+  factors — Wickens et al., *An Introduction to Human Factors Engineering*,
+  with Dreyfuss's *The Measure of Man and Woman* — owns the body, and is
+  where design touches safety. Service and systems design — Polaine, Løvlie
+  & Reason, *Service Design*. Accessibility — the W3C WCAG documents
+  themselves, plus Kat Holmes, *Mismatch*. Design history and criticism —
+  Adrian Forty, *Objects of Desire*, and Banham, *Theory and Design in the
+  First Machine Age*. Environmental and urban legibility — Kevin Lynch,
+  *The Image of the City*, and Jan Gehl, *Life Between Buildings*.
+- *The long canon:* Bruno Munari, *Design as Art* — playful, short, and
+  wiser than it looks. Jan Tschichold, *The New Typography* and then *The
+  Form of the Book*, which is the same man recanting; read them in that
+  order, it is an education in dogma and its cost. Emil Ruder,
+  *Typographie*, and Armin Hofmann, *Graphic Design Manual*, for the Swiss
+  argument in its own words. Paul Rand, *Thoughts on Design*. Massimo
+  Vignelli, *The Vignelli Canon* (free). Henry Dreyfuss, *Designing for
+  People*, and Loewy's *Never Leave Well Enough Alone*, as the two American
+  temperaments. Sophie Lovell, *Dieter Rams: As Little Design as Possible*.
+  Jef Raskin, *The Humane Interface*, and Alan Cooper, *The Inmates Are
+  Running the Asylum*. Lupton & Miller, *Design Writing Research*. Then the
+  failure literature, which this field neglects and shouldn't: the Therac-25
+  papers as an interface failure, the Three Mile Island control room, the
+  2018 Hawaii false missile alert, and the 737 MAX documents on what
+  happens when the human is the last undesigned component.
+- *The project ladder:*
+  1. A weekend, repeated monthly for a year: redesign one real thing — a
+     form, a sign, a label — and test it on five people. Twelve of these
+     beats any course.
+  2. A complete identity for a real client: mark, type system, applications,
+     and a guidelines document someone else can follow without you.
+  3. A printed object made under production constraint — a letterpressed
+     poster series, a bound book. Ink and paper refuse to be undone.
+  4. A physical product to a manufacturable prototype: CAD, DFM, a real
+     quote from a real vendor, and a conversation about tooling.
+  5. A shipped software product's end-to-end interaction design, with
+     measured outcomes and at least one iteration after launch.
+  6. A wayfinding system installed in a real building or campus, then
+     observed in use — you will find out you were wrong somewhere.
+  7. A design system others build on, documented and governed, maintained
+     for years. Maintenance is the part that separates this from a portfolio.
+  8. Teach a studio course and run critiques. Articulating why something
+     fails is a different skill from fixing it, and it improves the fixing.
+  9. The decade project: a released text typeface with a full character set
+     across weights — three to five years of work, and the field's classic
+     long haul — or a produced object or public identity still in daily use
+     ten years on.
+- *Re-foundation watch:* perception, Gestalt grouping, the optical rules of
+  typography, anthropometry, the empirical test loop and the practice of
+  critique are permanent. A Müller-Brockmann grid works exactly as well
+  today as in 1961. What churns: the tool, which has gone Illustrator to
+  Sketch to Figma inside one career and will move again; platform interface
+  guidelines; and visual fashion, which cycles on roughly a decade. The one
+  real re-foundation in view is interfaces whose behaviour is probabilistic
+  rather than specified — feedback, mapping and the conceptual model all
+  need rebuilding for systems that answer differently each time, and nobody
+  has done it yet. That is a genuine opening, not a tool update.
+- *A lifetime practice:* a daily sketchbook kept for decades — the single
+  habit that most separates designers who improve from designers who
+  plateau. A standing critique group. A personal archive of collected
+  artifacts: tickets, packaging, signage, forms. Redesign one public thing a
+  year and send it, unsolicited, to whoever owns it.
+- *Rabbit holes:* Otto and Marie Neurath's Isotype project; the Vignelli and
+  Noorda *New York City Transit Authority Graphics Standards Manual*; Harry
+  Beck and the London Underground diagram; Muriel Cooper's Visible Language
+  Workshop at MIT; the HfG Ulm and its quarrel with the Bauhaus inheritance.
+
 ---
 
 ## A craft done with the hands
