@@ -121,16 +121,15 @@ more particles; it is that our two best theories cannot both be right.
   Anderson, *Basic Notions of Condensed Matter Physics*. Bell, *Speakable and
   Unspeakable in Quantum Mechanics* — the collected papers, funnier and
   sharper than the folklore. Peierls, *Surprises in Theoretical Physics*.
-  Jaynes, *Probability Theory: The Logic of Science*, heterodox and
-  clarifying about entropy. Pais, *Subtle Is the Lord* and *Inward Bound* —
-  the best scientific biography and the best history of particle physics, both
+  Jaynes, *Probability Theory: The Logic of Science*, heterodox and clarifying
+  about entropy. Pais, *Subtle Is the Lord* and *Inward Bound* — the best
+  scientific biography and the best history of particle physics, both
   demanding. Jammer, *The Conceptual Development of Quantum Mechanics*. Kuhn,
-  *Black-Body Theory and the Quantum Discontinuity*, which argues Planck did
-  not mean what everyone says he meant. Galison, *Image and Logic*, on how
-  experiment actually works. Hossenfelder, *Lost in Math*, and Smolin, *The
-  Trouble with Physics* — read the string-theory quarrel from both sides
-  rather than picking one. Gleick, *Genius*, for the human cost of the
-  Feynman legend.
+  *Black-Body Theory and the Quantum Discontinuity*, arguing Planck did not
+  mean what everyone says he meant. Galison, *Image and Logic*, on how
+  experiment actually works. Hossenfelder, *Lost in Math*, with Smolin, *The
+  Trouble with Physics* — take the string-theory quarrel from both sides.
+  Gleick, *Genius*, for the cost of the Feynman legend.
 - *Re-foundation watch:* the core is close to permanent — Lagrangian and
   Hamiltonian mechanics, Maxwell, thermodynamics, Noether, the renormalization
   group. What moves is what can be measured. Expect the next two decades to be
