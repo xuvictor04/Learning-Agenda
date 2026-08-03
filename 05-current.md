@@ -97,16 +97,16 @@ If you keep one tier, keep this one. A week is long enough for a story to
 acquire a shape and short enough to act on.
 
 **The Economist** is the strongest single object here: one magazine, finite,
-global, and it *ends*. That property matters more than its analysis — a
-finite artifact you finish is structurally different from a feed you
-abandon. Its house view is identifiably liberal-market, and knowing that is
-part of reading it well. Weekly research roundups from **Nature** and
+global, and it *ends* — and that property matters more than its analysis,
+because a finite artifact you finish is structurally different from a feed
+you abandon. Its house view is identifiably liberal-market, and knowing that
+is part of reading it well. Weekly research roundups from **Nature** and
 **Science** cover the scientific week. Add one or two sector newsletters for
 your spike — energy, AI, biotech, whatever's yours — and stop.
 
 ### Monthly and quarterly — analysis and long form
 
-This is where arguments live rather than events. Pick three or four, across
+Where arguments live rather than events. Pick three or four, across
 different traditions:
 
 - **Foreign Affairs** for international relations as practitioners argue it.
@@ -124,7 +124,7 @@ different traditions:
 
 ### Annual — the highest-value tier, and the most underused
 
-Almost nobody reads annually, and it is where the actual information is: an
+Almost nobody reads annually, and it is where the actual information is. An
 annual review is written by people who know how the year came out, with the
 numbers attached and the false alarms removed.
 
@@ -144,12 +144,11 @@ numbers attached and the false alarms removed.
 - **Science:** *Science*'s Breakthrough of the Year, *Nature*'s year-end
   features and its preview of the year ahead, *The Economist*'s *The World
   Ahead*.
-- **Everything numeric:** **Our World in Data**, whose updates are a
-  standing annual review of the human condition, and your own country's
-  statistical yearbook — the ONS, Eurostat, the Census Bureau, or their
-  national equivalent.
+- **Everything numeric:** **Our World in Data**, a standing annual review of
+  the human condition, plus your own country's statistical yearbook — the
+  ONS, Eurostat, the Census Bureau, or the national equivalent.
 
-Here is the argument for this tier, stated plainly:
+The argument for this tier, plainly:
 
 > **Most of what seemed urgent daily does not appear in the annual summary at
 > all.** Not downgraded — absent. It was never an event; it was an update.
@@ -401,8 +400,8 @@ own areas. Keep the intermediaries everywhere else. You'll also start
 noticing you have seen this story before: genuine expertise, and the first
 symptom of the next problem.
 
-**Decades 6–7 (ages 70–90).** The risk inverts. The failure mode is no longer
-overconsumption but a frozen model and a nostalgia curriculum — reading only
+**Decades 6–7 (ages 70–90).** The risk inverts. The failure mode is no
+longer overconsumption but a frozen model and a nostalgia curriculum — only
 about the world you already understand, in the terms you learned it in. So
 deliberate current awareness matters *more* late, not less, and the
 reverse-mentoring the later phase files call for is its highest-value form.

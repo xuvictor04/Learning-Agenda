@@ -6,9 +6,8 @@ of it. Keep learning on adapted terms, place everything you own with people
 who will use it, and end the series honestly.
 
 This decade's contribution is not another domain. It is a view of change over
-time that no younger person can have and no book reconstructs — historians
-work from documents; you worked from inside. It is scarce, and it decays
-unless someone writes it down.
+time no younger person can have and no book reconstructs — historians work
+from documents; you worked from inside. It decays unless it is written down.
 
 ## Years 61–64: What only you can now say
 
@@ -21,14 +20,14 @@ unless someone writes it down.
   believing. Which of your own bets were right for the wrong reasons.
 - **Capture it in a form that survives.** Memoir or long essay if you write
   well; recorded conversations if you talk better than you type; an oral
-  history taken by someone who asks good questions. Recording is cheap and
-  transcription is trivial — there is no excuse left for losing this.
+  history taken by someone who asks good questions. Recording is cheap —
+  there is no excuse left for losing this.
 - **Annotate the reading of a lifetime.** A bibliography of the books that
   changed you, each with a paragraph on what it did and whether it held up,
   is among the most useful documents you can leave — and it is achievable in
   an afternoon a week.
-- **Write letters to specific successors.** Addressed to one person, about one
-  thing they are working on. Letters written to nobody get read by nobody.
+- **Write letters to specific successors.** Addressed to one person, about
+  one thing they are working on. Letters written to nobody get read by nobody.
 
 **Milestones by year 64**
 
@@ -42,13 +41,12 @@ unless someone writes it down.
 **Themes**
 
 - **Keep the ledger alive in whatever form works.** Fewer domains, slower,
-  chosen for pull. `02-map.md` never required a pace; it required honesty
-  about depth.
+  chosen for pull. `02-map.md` never required a pace — only honesty about
+  depth.
 - **Reread the canon deliberately.** The books you read at twenty are
-  different books now, and you are the only person who can run that
-  comparison. Take one canonical work a year against your own marginalia from
-  fifty years ago. Not nostalgia — the clearest measurement of a mind's
-  change anyone gets.
+  different books now, and you are the only person who can run the comparison.
+  One canonical work a year, read against your own marginalia from fifty years
+  ago. Not nostalgia — the clearest measure of a mind's change anyone gets.
 - **The curiosity budget is unchanged.** Ten to twenty percent, off-ledger,
   no artifact required. It was the canary at twenty; it is the canary now.
 - **The craft continues, adapted.** Smaller pieces, better light, sharper
@@ -66,13 +64,13 @@ unless someone writes it down.
 **Themes**
 
 - **Place things, don't leave them.** Books, tools, instruments, notebooks,
-  collections, correspondence, and the unfinished work — each to a named
-  person or institution, written down, and told to them. Anything left to
-  chance is left to a skip.
+  collections, correspondence, unfinished work — each to a named person or
+  institution, written down and told to them. What is left to chance is left
+  to a skip.
 - **Give while you can still explain.** The Dobsonian from year 10, the
   microscope from year 4, the bench and stones from `resources/kit.md` — the
   object is half the gift; the other half is the afternoon showing someone how
-  you used it. Libraries, makerspaces, clubs and schools all take gear gladly.
+  you used it. Libraries, makerspaces, clubs and schools take gear gladly.
 - **Hand over the unfinished work explicitly.** What you were trying to do,
   where you got stuck, what you would try next. Unfinished work with
   instructions is an inheritance; without them it is a puzzle nobody solves.
@@ -109,7 +107,7 @@ were spent — not in the tally at the end.
 ## Year 70 — and after
 
 There is no terminal state here. `03-spine.md` ran out of scheduled years long
-ago and the agenda kept going, because what it was building was never the list.
+ago and the agenda kept going, because what it built was never the list.
 
 A plan written at twenty and still running at ninety has already succeeded. It
 succeeded the first year you kept the habit through something hard, and every

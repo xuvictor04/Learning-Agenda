@@ -13,9 +13,8 @@ at year 41 with a vast repetition vault, syntopical reading that makes a new
 field's literature a matter of weeks rather than years, a network that
 answers, taste, a completed map, two or three spikes — and, for the first time
 since year 1, time. Nobody at 20 has that combination. The system exists
-partly to make sure you arrive here with the habits intact to use it, because
-the hours come back for everyone and almost nobody has anything loaded to put
-in them.
+partly to make sure you arrive here able to use it, because the hours come
+back for everyone and almost nobody has anything loaded to put in them.
 
 ## Years 41–43: Claiming the hours, and the third spike
 
@@ -36,9 +35,9 @@ in them.
 - Beginner-hood is a practice here, not a humiliation. Being visibly bad at
   something in a room of twenty-five-year-olds is the best defense against
   the rigidity that is this decade's real enemy — and you'll notice how fast
-  forty years of habit carries you compared to year 1.
-- Genuinely new work often comes from exactly this: a mind carrying decades of
-  one field's judgment, arriving late and unembarrassed in another.
+  forty years of habit carries you compared to year 1. Genuinely new work
+  often comes from exactly this: a mind carrying decades of one field's
+  judgment, arriving late and unembarrassed in another.
 
 **Milestones by year 43**
 
@@ -58,9 +57,8 @@ in them.
   of a territory you're one of few to have walked end to end is what this
   agenda has been accumulating toward since year 1.
 - Teach where the leverage is: a course that runs annually, a curriculum
-  others teach from, an open resource, a long-form public body of work. One
-  good course reaches more people than twenty years of good mentoring; do
-  both, but don't confuse their scales.
+  others teach from, an open resource. One good course reaches more people
+  than twenty years of good mentoring; do both, but don't confuse the scales.
 - **Formal re-entry is a real and underused option.** A degree, a research
   program, a clinical or artist's residency, a fellowship, a visiting
   position. Many institutions actively want older students — the seminar
@@ -113,12 +111,11 @@ regimen.
 The point specific to this decade: hearing, vision, and mobility limits are
 largely **adaptable**, and adapting early preserves engagement. Hearing aids
 at first need rather than after a decade of withdrawal from conversation.
-Better light and larger type rather than less reading. A cataract handled. A
-rail installed cheerfully, long before it's mandatory. None of this is decline
-management — it's the instrument maintenance of principle 8 in
-`01-principles.md`, applied to a body that now needs it named out loud. The
-failure isn't the limitation; it's quietly dropping the activity the
-limitation made slightly harder.
+Better light and larger type rather than less reading. A rail installed
+cheerfully, long before it's mandatory. None of this is decline management —
+it's the instrument maintenance of principle 8 in `01-principles.md`, applied
+to a body that now needs it named out loud. The failure isn't the limitation;
+it's quietly dropping the activity the limitation made slightly harder.
 
 ## Failure modes to watch for in Decade 5
 
