@@ -74,12 +74,11 @@ its questions with it; the conceptual and normative residue is not shrinking.
   Contemporary Introduction*; Robert Audi, *Epistemology*; Peter Smith's free
   *An Introduction to Formal Logic* and his *Teach Yourself Logic* guide;
   Graham Priest, *An Introduction to Non-Classical Logic*.
-- *Practice:* argument reconstruction, daily. Take a journal article and
-  render it as numbered premises until the hidden ones surface. Write
-  objection-and-reply papers on positions you hold — the discipline is
-  attacking your own view. Do the logic problem sets to completion; the
-  formal skill is what separates readers from participants. Join or run a
-  seminar where someone is obliged to disagree with you every week.
+- *Practice:* argument reconstruction, daily — render a journal article as
+  numbered premises until the hidden ones surface. Write objection-and-reply
+  papers on positions you *hold*. Do the logic problem sets to completion;
+  formal skill separates readers from participants. Join a seminar where
+  someone is obliged to disagree with you weekly.
 - *Primary literature:* *Mind*, *Noûs*, *The Journal of Philosophy*,
   *Philosophical Review*, *Analysis*, *Philosophy East and West*. Landmarks:
   Quine, "Two Dogmas of Empiricism" (1951); Gettier, "Is Justified True
@@ -99,17 +98,14 @@ its questions with it; the conceptual and normative residue is not shrinking.
 - *Frontier:* formal epistemology, philosophy of mind meeting AI, experimental
   philosophy, meta-metaphysics, and the fast institutionalization of Chinese,
   Indian and Africana philosophy as fields rather than curiosities. Follow
-  PhilPapers alerts in your subfield and two or three working philosophers'
-  drafts.
+  PhilPapers alerts in your subfield.
 - *Contribution looks like:* a novel argument, defended in a refereed journal,
-  that other philosophers must now answer. Secondary channels that count:
-  a new critical translation, a synthetic monograph, and genuine public
-  philosophy. There is no creative-production track here — philosophy's
-  output is discursive all the way down.
+  that others must now answer. Also counting: a new critical translation, a
+  synthetic monograph, genuine public philosophy. There is no
+  creative-production track here — the output is discursive all the way down.
 - *Community:* the American Philosophical Association (Eastern, Central,
-  Pacific), the Aristotelian Society, PhilPapers/PhilArchive for
-  distribution, and the subfield-specific societies where the real
-  conversation happens.
+  Pacific), the Aristotelian Society, PhilPapers/PhilArchive, and the
+  subfield societies where the real conversation happens.
 
 ## World religions & mythology
 
