@@ -22,7 +22,7 @@ back for everyone and almost nobody has anything loaded to put in them.
 
 - Plan the doubled budget on paper before it arrives — the year-40 review is
   where this should already have happened. Reclaimed hours that aren't
-  allocated don't sit in an account. They evaporate into errands, news, and
+  allocated don't sit in an account; they evaporate into errands, news, and
   other people's schedules inside six months.
 - A workable default for twenty hours a week: half to the third spike, a
   quarter to transmission, an eighth to re-foundation and the frontier slot

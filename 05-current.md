@@ -1,10 +1,10 @@
 # Current — News, Journals, and Staying Awake
 
 Everything else in this repo is built for durability — a ledger of fields
-that will still exist in 2096, resourced with books that have already
-survived a decade of readers. That bias is correct, and it has one specific
-hole: a map with no live layer becomes a museum. You would know a great deal
-about how the world works and very little about what it is currently doing.
+that will still exist in 2096, resourced with books that already survived a
+decade of readers. That bias is correct, and it has one hole: a map with no
+live layer becomes a museum. You would know a great deal about how the world
+works and very little about what it is currently doing.
 
 This file is the live layer: news, journals, data releases, and the
 discipline of not drowning in them.
@@ -13,26 +13,25 @@ discipline of not drowning in them.
 paradigm shifts, when something earns a row on the map. This file handles
 *ongoing* change: what happened, who did it, what the numbers say now. If the
 question is "what is going on?", it's this file. If it's "does the ledger
-need a new line?", it's that one. Current awareness feeds the frontier file;
-it does not replace it.
+need a new line?", it's that one.
 
 ---
 
 ## 1. The case for and against news
 
-Take the case against seriously first, because it is stronger than most
-daily news consumers have ever let themselves consider.
+Take the case against seriously first; it is stronger than most daily news
+consumers have let themselves consider.
 
 Rolf Dobelli's essay **"Avoid News: Towards a Healthy News Diet"** (2010)
-makes it at full strength: news is to the mind what sugar is to the body —
+puts it at full strength. News is to the mind what sugar is to the body —
 easy to consume, systematically overconsumed, nutritionally close to empty.
 It is recency-biased by construction, since nothing that happened last month
-can be news. It selects for the dramatic over the causal, and so
-systematically misreports risk. It creates a sensation of being informed
-that does not survive contact with a specific question — you have followed a
-conflict for two years and cannot name the parties to the ceasefire. And it
-is optimised, increasingly and openly, for engagement rather than accuracy,
-because attention is what it sells.
+can be news. It selects for the dramatic over the causal, and so misreports
+risk. It creates a sensation of being informed that does not survive contact
+with a specific question — you have followed a conflict for two years and
+cannot name the parties to the ceasefire. And it is optimised, increasingly
+and openly, for engagement rather than accuracy, because attention is what
+it sells.
 
 Nassim Taleb sharpens the mechanism in *Antifragile*: **noise scales faster
 than signal as you raise the sampling frequency.** A variable observed
@@ -41,20 +40,17 @@ and you cannot tell which is which in the moment. The person checking hourly
 is not better informed than the person checking weekly — they are worse
 informed, more confident, and more agitated.
 
-Now the case for, which is also real.
+The case for is also real. Several of the map's domains are not testable in
+a library: politics, economics, media, public health, law, and geopolitics
+are *empirical* fields whose predictions get graded in public, continuously.
+Reading about central banking without ever watching a central bank respond to
+a real shock is like reading about swimming. Current events are where your
+models get scored, and how you notice that a textbook's framing has quietly
+stopped matching reality — exactly the signal `04-frontier.md` needs and
+cannot generate on its own. And you will vote, work, and decide inside a
+world that is moving; disengagement is not neutrality.
 
-Several of the map's domains are not testable in a library. Politics,
-economics, media, public health, law, and geopolitics are *empirical* fields
-whose predictions get graded in public, continuously. Reading about central
-banking without ever watching a central bank respond to a real shock is like
-reading about swimming. Current events are where your models get scored, and
-they are how you notice that a textbook's framing has quietly stopped
-matching reality — exactly the signal `04-frontier.md` needs and cannot
-generate on its own. There is also a plain citizenship argument: you will
-vote, work, and decide inside a world that is moving, and disengagement is
-not neutrality.
-
-**The rule that resolves it, and the rule this whole file runs on:**
+**The rule that resolves it, and the rule this file runs on:**
 
 > **Consume news at the lowest frequency that still lets you act, and prefer
 > sources whose incentive is to be right over sources whose incentive is to

@@ -23,8 +23,7 @@ Authority is the easiest thing in this agenda to mistake for currency.
 - The fields that move fastest are instrument-driven and computational:
   genetics, neuroscience, cosmology, materials, AI, climate, medicine —
   anywhere the data got orders of magnitude bigger or a new instrument opened
-  a window that was shut when you studied. Textual domains drift slowly and
-  can wait another decade.
+  a window shut when you studied. Textual domains drift slowly and can wait.
 - **Be taught the new version by people half your age.** Normal and correct,
   not a concession. The generation that built a field's last fifteen years
   explains them better than anyone who watched from a distance, and your job

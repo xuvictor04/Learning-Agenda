@@ -1,9 +1,9 @@
 # Decade 7 (Years 61–70, ages 80–90): The Long View
 
-**Mission:** hold and hand on the perspective almost nobody gets — seventy
-years of deliberate learning, in one continuous mind, looking back across all
-of it. Keep learning on adapted terms, place everything you own with people
-who will use it, and end the series honestly.
+**Mission:** hand on the perspective almost nobody gets — seventy years of
+deliberate learning, in one continuous mind, looking back across all of it.
+Keep learning on adapted terms, place what you own with people who will use
+it, and end the series honestly.
 
 This decade's contribution is not another domain. It is a view of change over
 time no younger person can have and no book reconstructs — historians work
@@ -122,7 +122,7 @@ system has been from year one.
 ## Failure modes to watch for in Decade 7
 
 - **Waiting for the right time to hand things over.** There isn't one, and
-  waiting converts a gift into an estate problem. Dates in the calendar.
+  waiting turns a gift into an estate problem. Put dates in the calendar.
 - **The archive nobody can use** — boxes without an index, a lifetime of
   notes in a private shorthand. The Decade 6 finding aid prevents this; keep
   it current as things move out.
