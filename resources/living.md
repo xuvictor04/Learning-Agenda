@@ -87,6 +87,72 @@ deep time to a chemistry of self-copying polymers acting in milliseconds.
 - *Community:* SMBE; Society for the Study of Evolution; ASCB. The Cold Spring
   Harbor summer courses are the real apprenticeship if you can get in.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* evo-devo — Gilbert & Barresi, **Developmental Biology**, with
+  Carroll, **Endless Forms Most Beautiful**: how the same toolkit builds a fly
+  and a whale. Phylogenetics — Felsenstein, **Inferring Phylogenies**: what a
+  tree is actually a claim about. Structural biology — Petsko & Ringe,
+  **Protein Structure and Function**: why sequence becomes shape becomes
+  function. Microbiology and virology — Madigan et al., **Brock Biology of
+  Microorganisms**, and Flint et al., **Principles of Virology**: most of life,
+  and the thing that edits it. Immunology — **Janeway's Immunobiology**: the
+  only system that learns without a nervous system. Behavioural ecology —
+  Davies, Krebs & West, **An Introduction to Behavioural Ecology**: what
+  selection does to decisions. Systems and quantitative biology — Alon, **An
+  Introduction to Systems Biology**, and Phillips et al., **Physical Biology of
+  the Cell**: circuits and numbers instead of arrows on diagrams. Paleobiology
+  — Benton, **Vertebrate Palaeontology**: the only direct evidence about what
+  actually happened.
+- *The long canon:* Ernst Mayr, **The Growth of Biological Thought**, the
+  field's intellectual history by one of its architects. George Williams,
+  **Adaptation and Natural Selection** (1966), the book that made adaptationist
+  claims answerable. Gould & Lewontin's 1979 "The Spandrels of San Marco,"
+  eleven pages, then Gould's **The Structure of Evolutionary Theory** if you
+  want the full heterodox case at 1,400 pages. Maynard Smith & Szathmáry, **The
+  Major Transitions in Evolution**. Hamilton, **Narrow Roads of Gene Land** —
+  the collected papers with autobiographical commentary between them, the
+  strangest and most human volume here. Schrödinger, **What Is Life?** (1944),
+  wrong in the details and generative anyway. Jacob, **The Logic of Life** and
+  **The Statue Within**. Lewontin, **The Triple Helix**, and Michael Lynch,
+  **The Origins of Genome Architecture**, two very different arguments that
+  adaptation explains less than you think. Jonathan Weiner, **The Beak of the
+  Finch**, selection measured in real time, still the best demonstration in
+  print. Nick Lane, **Power, Sex, Suicide**, on mitochondria as the constraint
+  behind eukaryotic life. Margulis, **Symbiotic Planet**. Jan Sapp, **The New
+  Foundations of Evolution**, on Woese and how the third domain of life was
+  found and resisted. Laland, Uller et al., **Evolution Evolving** (2024), the
+  extended-synthesis case stated carefully — read the objections too.
+- *Re-foundation watch:* the algorithm is safe. Selection, drift, population
+  genetics, thermodynamics of macromolecules and the comparative method will
+  read the same in forty years. Everything about *access* has already been
+  rebuilt once and will be again. Protein structure prediction stopped being a
+  research problem between 2020 and 2024; single-cell and spatial omics turned
+  tissues into catalogues; long reads produced the first complete human genome
+  and then replaced the single reference with a pangenome; protein design now
+  generates functional sequences that never existed. Assume that by the time
+  you return, sequencing is effectively free, structure is a lookup, and the
+  hard part has moved entirely to causality and to whole-organism physiology,
+  which nobody has automated. Concrete stale signals: you say "junk DNA"
+  without qualification, you talk about *the* human reference genome, or your
+  mental model of protein work is crystallography.
+- *A lifetime practice:* keep something alive and keep records on it. A
+  microscope and a weekly pond sample is the cheapest entry — thirty years of
+  drawn and dated observations from one pond is a real natural history. Better,
+  run your own long-term experiment: serial-transfer a yeast or bacterial line
+  under a selective regime and freeze samples along the way, Lenski in
+  miniature, with a frozen fossil record you can go back to. Maintain a species
+  list with dates and locations, and barcode things — nanopore sequencing is
+  now within a serious amateur budget, and unsequenced species are everywhere.
+  Deposit what you get; a sequence in a public database outlives you.
+- *Rabbit holes:* the citrate mutant in Lenski's long-term *E. coli* experiment
+  and the argument about contingency it settled. Endogenous retroviruses, and
+  the fact that syncytin — the protein that builds your placenta — is viral.
+  Bdelloid rotifers, apparently asexual for tens of millions of years, which
+  should not be possible. Cephalopod RNA editing, where the animals appear to
+  have traded genome evolution for transcript editing. The evolution of the
+  vertebrate eye, done properly, with the numbers on how fast it can happen.
+
 ---
 
 ## Genetics
@@ -173,6 +239,71 @@ gene for X" is almost always the wrong sentence shape.
   that replicates.
 - *Community:* ASHG; Genetics Society of America; Biology of Genomes (CSHL);
   ProbGen.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* human evolutionary genetics — Jobling et al., **Human
+  Evolutionary Genetics**: what our own history left written in us. Quantitative
+  genetics — Falconer & Mackay, **Introduction to Quantitative Genetics**: the
+  statistics of traits nobody can point to a gene for. Clinical genetics —
+  Nussbaum, McInnes & Willard, **Thompson & Thompson Genetics in Medicine**:
+  the point where the field meets a person. Developmental genetics — Gilbert &
+  Barresi, **Developmental Biology**: how a genotype becomes a body, the step
+  everyone skips. Epigenetics done seriously — Allis, Caparros, Jenuwein &
+  Reinberg, **Epigenetics** (Cold Spring Harbor Press): chromatin as
+  regulation, not as folk Lamarckism. Conservation genetics — Frankham, Ballou
+  & Briscoe, **Introduction to Conservation Genetics**: small populations and
+  what inbreeding actually costs. Plant and animal breeding — Bernardo,
+  **Breeding for Quantitative Traits in Plants**: the oldest applied genetics,
+  and still where selection theory gets tested against money. Genome
+  engineering — follow the primary Cas9, base- and prime-editing literature;
+  there is no stable textbook yet and that is itself informative.
+- *The long canon:* Provine, **The Origins of Theoretical Population
+  Genetics**, on how Fisher, Wright and Haldane made a mathematical science out
+  of a quarrel. Fisher, **The Genetical Theory of Natural Selection**, and
+  Haldane, **The Causes of Evolution** — read at least the prefaces of both;
+  the styles tell you everything about the two traditions. Sturtevant, **A
+  History of Genetics**, free from CSHL, by someone who was there. Kevles, **In
+  the Name of Eugenics**, the definitive history, and Comfort, **The Science of
+  Human Perfection**, on how eugenic thinking survived into medical genetics
+  rather than ending. Evelyn Fox Keller, **A Feeling for the Organism**, on
+  Barbara McClintock and what it costs to be right early. Carl Zimmer, **She
+  Has Her Mother's Laugh**, the best general book on heredity written this
+  century. Harden, **The Genetic Lottery**, and the substantial criticism of
+  it, as a live case in how behaviour genetics argues. Jablonka & Lamb,
+  **Evolution in Four Dimensions**, heterodox on inheritance — read with the
+  rebuttals in hand. Doudna & Sternberg, **A Crack in Creation**, then Lander's
+  2016 "The Heroes of CRISPR" and the controversy it caused, which is an
+  education in scientific credit all by itself. The ENCODE 2012 "80%
+  functional" claim together with Graur et al.'s response is the best worked
+  example of a field policing an overreach in public.
+- *Re-foundation watch:* Mendelian logic, recombination mapping,
+  Hardy–Weinberg, the coalescent and the point that heritability is a
+  population statistic are permanent. The empirical surface is not. Biobanks
+  went from thousands to millions of genomes in a decade and will keep going;
+  the reference genome has already been replaced by a pangenome; long reads
+  made structural variation visible; the first CRISPR therapy was approved in
+  late 2023 and in-vivo editing is arriving behind it; polygenic embryo
+  screening moved from thought experiment to a purchasable service, which is
+  the ethical problem of the next twenty years. Expect the portability problem
+  across ancestries to be either solved or entrenched. The stale signal is
+  price and scale: if your figure for the cost of a genome, or your sense of
+  how many variants a trait has, is the one you learned, refresh everything.
+- *A lifetime practice:* become your own longitudinal genomic subject — and
+  the interesting part is not the sequence, it is the interpretation. Keep your
+  raw data, re-annotate it every few years with current tools and databases,
+  and log how the reading of the same unchanged variants shifts. Thirty years
+  of that is a personal history of the field's confidence. Alongside it, build
+  a documented family pedigree with real phenotypes, and breed something with
+  records — a selected line of dry beans, tomatoes or fancy pigeons kept for
+  decades teaches segregation, linkage and inbreeding depression in a way no
+  problem set does.
+- *Rabbit holes:* genomic imprinting and the parental-conflict theory, one of
+  the few genuinely beautiful arguments in biology. Denisovan introgression at
+  EPAS1 and how Tibetans got their altitude adaptation from another species.
+  Haldane's rule and why hybrid sterility hits one sex. Supergenes — the ruff's
+  three mating strategies locked in one inversion. The Y chromosome's long
+  decay and the argument about whether it is going anywhere.
 
 ---
 

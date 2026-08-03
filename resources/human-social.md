@@ -1485,6 +1485,68 @@ well, and the political economy of schooling, which mostly doesn't.
   International Society of the Learning Sciences, Cognitive Science Society,
   EARLI in Europe.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* **Psychometrics and measurement** — item response theory,
+  reliability, validity, differential item functioning; owns the question of
+  what a score actually means, and almost every education argument is secretly
+  a measurement argument. **Economics of education** — Hanushek & Woessmann,
+  plus Chetty and co-authors on teacher value-added; owns what schooling buys
+  and for whom. **Curriculum and instructional design** — Wiggins & McTighe,
+  *Understanding by Design*, and the Direct Instruction literature; owns
+  turning objectives into sequences. **Comparative and international
+  education** — Lant Pritchett, *The Rebirth of Education* ("schooling ain't
+  learning"), plus PISA and the RISE programme; owns the fact that most of the
+  world's classrooms look nothing like the ones the research is done in.
+  **Higher education** — Clark Kerr, *The Uses of the University*; owns what
+  universities are for once research, teaching, and credentialing pull apart.
+  **Expertise and deliberate practice** — Ericsson, read with the Macnamara,
+  Hambrick & Oswald meta-analysis showing practice explains far less variance
+  than the popular version claims. **Philosophy and history of education** —
+  David Labaree, *Someone Has to Fail*; owns why systems built for learning
+  produce sorting instead. **Adult and vocational learning** — the least
+  researched and, at seventy years, the most relevant to you.
+- *The long canon:* Rousseau, *Emile*, as the source of most progressive
+  intuitions, including the wrong ones; Maria Montessori, *The Montessori
+  Method*; Jerome Bruner, *The Process of Education* and *Toward a Theory of
+  Instruction*; Piaget, read alongside the modern verdict that the broad
+  insight held and the stage theory did not; Ivan Illich, *Deschooling
+  Society*, the strongest case against the whole apparatus; Bowles & Gintis,
+  *Schooling in Capitalist America*, for the reproduction argument; Stigler &
+  Hiebert, *The Teaching Gap*, on Japanese lesson study and what a profession
+  that improves itself looks like; Lisa Delpit, *Other People's Children*;
+  Doug Lemov, *Teach Like a Champion*, valuable as craft and explicitly not
+  causal evidence; India's annual ASER reports as a primary-source series on
+  learning in a low-income system; NAEP long-term trend data for the same
+  reason. E.D. Hirsch's *Cultural Literacy* and Bryan Caplan's *The Case
+  Against Education* are both serious and both contested — read Hirsch with
+  his critics on whose culture is being listed, and Caplan with the human
+  capital economists who think his signalling share is far too high.
+- *Re-foundation watch:* language models as tutors are the largest live test of
+  Bloom's two-sigma benchmark, and you should get an answer within fifteen
+  years; expect it to be real but smaller than promised, and watch for whether
+  gains survive outside the developers' own trials. Assessment is being
+  redesigned because unsupervised written work can no longer be verified.
+  Education psychology has already run its replication reckoning — learning
+  styles gone, growth mindset and grit shrunk hard — and the surviving core is
+  small, which is why it is trustworthy. Durable: retrieval, spacing,
+  interleaving, cognitive load, the weakness of transfer. Fashion: every
+  branded intervention with a book deal. Stale when you quote an effect size
+  from a popular book without checking the meta-analysis, or cite Hattie
+  without the methodological critiques.
+- *A lifetime practice:* teach someone, continuously, for the rest of your
+  life — a class, a tutee, an apprentice, a study group — and keep an error
+  log of the mistakes learners actually make in each subject. Over decades
+  that log becomes a real research asset and the single best diagnostic of
+  your own understanding. Separately, run this repo's own retrieval schedule
+  on yourself and keep the data; seventy years of personal learning records is
+  a study nobody has ever run.
+- *Rabbit holes:* Bloom's original two-sigma studies and the dissertations
+  behind them; the Perry Preschool and Abecedarian cohorts followed past age
+  forty; the reading wars, from whole language to phonics and back; Sugata
+  Mitra's "hole in the wall" and its careful debunking; the monitorial schools
+  of Bell and Lancaster, an industrial answer to tutoring at scale in 1800.
+
 ---
 
 ## Media & communication

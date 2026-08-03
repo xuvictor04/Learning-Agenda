@@ -53,9 +53,8 @@ you publish.** If both wince, you learned something cheaply.
   why is there a largest possible insect and a smallest possible mammal?
 - **Read.** Erwin Schrödinger, *What Is Life?* (1944); D'Arcy Wentworth
   Thompson, *On Growth and Form* (1917); Steven Vogel, *Life in Moving
-  Fluids*; Philip Nelson, *Biological Physics: Energy, Information, Life*;
-  Geoffrey West, *Scale* (2017), read sceptically — the quarter-power claims
-  are genuinely contested.
+  Fluids*; Geoffrey West, *Scale* (2017), read sceptically — the
+  quarter-power claims are genuinely contested.
 - **A project.** Pull a published dataset of mammalian body masses and basal
   metabolic rates, fit the exponent yourself, and say honestly whether your
   data can distinguish 3/4 from 2/3. Popular accounts assume it can.
@@ -69,8 +68,7 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Hermann von Helmholtz, *On the Sensations of Tone* (1863); David
   Benson, *Music: A Mathematical Offering* (free PDF from the author); Ross
   W. Duffin, *How Equal Temperament Ruined Harmony (and Why You Should
-  Care)*; Dmitri Tymoczko, *A Geometry of Music* (2011); Douglas Hofstadter,
-  *Gödel, Escher, Bach*.
+  Care)*; Dmitri Tymoczko, *A Geometry of Music* (2011).
 - **A project.** Build a monochord — a board, a string, a movable bridge —
   and find the Pythagorean comma with your own ears and a ruler. Then retune
   a recording into just intonation and hear where the modulation breaks.
@@ -97,8 +95,8 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Robert Trivers, "The Evolution of Reciprocal Altruism" (1971);
   Barkow, Cosmides & Tooby, *The Adapted Mind* (1992); Gould & Lewontin, "The
   Spandrels of San Marco and the Panglossian Paradigm" (1979) — the standing
-  corrective; Joseph Henrich, *The Secret of Our Success* (2015); Henrich,
-  Heine & Norenzayan, "The Weirdest People in the World?" (2010).
+  corrective; Henrich, Heine & Norenzayan, "The Weirdest People in the
+  World?" (2010).
 - **A project.** Pick one widely repeated evolutionary-psychological claim
   and design the study that would falsify it. If no such study exists, say so
   in print — that is itself a finding about the claim.
@@ -111,8 +109,7 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Archie Cochrane, *Effectiveness and Efficiency* (1972); Austin
   Bradford Hill, "The Environment and Disease: Association or Causation?"
   (1965); Evans, Thornton, Chalmers & McPherson, *Testing Treatments* (free
-  online); John Ioannidis, "Why Most Published Research Findings Are False"
-  (2005); Ben Goldacre, *Bad Pharma* (2012).
+  online); Ben Goldacre, *Bad Pharma* (2012).
 - **A project.** Take one Cochrane review, retrieve its trials, re-run the
   meta-analysis, and draw the funnel plot. Publication bias stops being an
   abstraction the first time you see the hole in your own plot.
@@ -125,8 +122,7 @@ you publish.** If both wince, you learned something cheaply.
   empirical stakes.
 - **Read.** Thomas Nagel, "What Is It Like to Be a Bat?" (1974); Patricia
   Churchland, *Neurophilosophy* (1986); Daniel Dennett, *Consciousness
-  Explained* (1991); David Chalmers, *The Conscious Mind* (1996); Anil Seth,
-  *Being You* (2021).
+  Explained* (1991); David Chalmers, *The Conscious Mind* (1996).
 - **A project.** Read Libet's original experiments and the thirty years of
   methodological objections to them, then write the strongest possible case
   against whatever you currently believe about free will. If you can't, you
@@ -139,9 +135,8 @@ you publish.** If both wince, you learned something cheaply.
   anything? The question is now urgent rather than academic.
 - **Read.** Claude Shannon, "Prediction and Entropy of Printed English"
   (1951); Noam Chomsky, "Three Models for the Description of Language"
-  (1956); Manning & Schütze, *Foundations of Statistical Natural Language
-  Processing*; Jurafsky & Martin, *Speech and Language Processing* (free
-  draft); Bender & Koller, "Climbing towards NLU" (ACL 2020).
+  (1956); Jurafsky & Martin, *Speech and Language Processing* (free draft);
+  Bender & Koller, "Climbing towards NLU" (ACL 2020).
 - **A project.** Train an n-gram model and a small neural model on the same
   corpus and characterise where each fails. The failure taxonomy is the
   output that matters; the perplexity number is not.
@@ -196,8 +191,8 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Alfred Thayer Mahan, *The Influence of Sea Power upon History*
   (1890); Halford Mackinder, "The Geographical Pivot of History" (1904);
   Daniel Yergin, *The Prize* (1990); James C. Scott, *The Art of Not Being
-  Governed* (2009); Jared Diamond, *Guns, Germs, and Steel*, read alongside
-  the anthropological objections to it.
+  Governed* (2009); Jared Diamond, *Guns, Germs, and Steel*, with the
+  anthropological objections to it.
 - **A project.** Take one contested border, map its watersheds, passes and
   resource deposits yourself in QGIS, then write down precisely which
   features of the dispute geography fails to explain.
@@ -210,8 +205,7 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Henry Petroski, *To Engineer Is Human* and *The Evolution of
   Useful Things*; Donald Norman, *The Design of Everyday Things*; David Pye,
   *The Nature and Art of Workmanship*; Christopher Alexander et al., *A
-  Pattern Language*; Edward Tufte, *Visual Explanations* (the Challenger
-  chapter).
+  Pattern Language*.
 - **A project.** Take an object you dislike using, document every error it
   induces, then redesign and build it. Give the second version to somebody
   else and watch them fail differently.
@@ -222,9 +216,8 @@ you publish.** If both wince, you learned something cheaply.
   which one actually binds? Lessig's claim that architecture is a form of law
   is now the operating condition of daily life.
 - **Read.** Lawrence Lessig, *Code: Version 2.0* (free); James Boyle, *The
-  Public Domain* (free); Helen Nissenbaum, *Privacy in Context* (2010); Frank
-  Pasquale, *The Black Box Society* (2015); Julie Cohen, *Between Truth and
-  Power* (2019).
+  Public Domain* (free); Helen Nissenbaum, *Privacy in Context* (2010);
+  Frank Pasquale, *The Black Box Society* (2015).
 - **A project.** Read the actual text of one regulation — the GDPR, DMCA
   §1201, the EU AI Act — and write the engineering specification it implies.
   Then find the clause that cannot be implemented as written. There is always
@@ -251,7 +244,7 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Erving Goffman, *The Presentation of Self in Everyday Life*
   (1956); Julian Orr, *Talking About Machines* (1996); Diane Vaughan, *The
   Challenger Launch Decision* (1996); Karen Ho, *Liquidated: An Ethnography
-  of Wall Street* (2009); Gillian Tett, *The Silo Effect* (2015).
+  of Wall Street* (2009).
 - **A project.** Shadow one role for a week, with permission and a notebook.
   Write fieldnotes daily, then produce the gap analysis between documented
   process and observed practice. Every organisation has this gap; almost none
@@ -265,8 +258,7 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Imre Lakatos, *Proofs and Refutations* (1976); Benacerraf &
   Putnam (eds.), *Philosophy of Mathematics: Selected Readings* — especially
   Benacerraf's "Mathematical Truth" (1973); Mary Tiles, *The Philosophy of
-  Set Theory*; Penelope Maddy, "Believing the Axioms" (1988); Eugene Wigner,
-  "The Unreasonable Effectiveness of Mathematics" (1960).
+  Set Theory*; Penelope Maddy, "Believing the Axioms" (1988).
 - **A project.** Write the case for adopting a large cardinal axiom as a
   working set theorist would argue it, then attack the same case as a
   nominalist philosopher would. Both halves in your own voice, 3,000 words.
@@ -280,7 +272,7 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** F. Richard Stephenson, *Historical Eclipses and Earth's Rotation*
   (1997); Anthony Aveni, *Skywatchers*; Clive Ruggles, *Astronomy in
   Prehistoric Britain and Ireland*; E. G. Richards, *Mapping Time: The
-  Calendar and Its History*; Owen Gingerich, *The Book Nobody Read*.
+  Calendar and Its History*.
 - **A project.** Take one dated eclipse from a chronicle, retro-calculate it,
   and see whether it constrains the chronology. Alternatively, survey a local
   alignment with a compass and real error bars — the error bars are what
@@ -294,7 +286,7 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** John Snow, *On the Mode of Communication of Cholera* (1855); Doll
   & Hill on smoking and lung cancer (1954, 1956); Theodore Porter, *Trust in
   Numbers* (1995); Michael Marmot, *The Status Syndrome*; Oreskes & Conway,
-  *Merchants of Doubt* (2010); Paul Farmer, *Pathologies of Power* (2003).
+  *Merchants of Doubt* (2010).
 - **A project.** Reconstruct one local health disparity from open data, then
   identify the specific official who could act on it and what evidence their
   process accepts. The second half is the part nobody does.
@@ -306,8 +298,8 @@ you publish.** If both wince, you learned something cheaply.
   conversion ratio governs both its productivity and its fragility.
 - **Read.** Vaclav Smil, *Energy and Civilization: A History* (2017) and
   *Enriching the Earth* (2001), on Haber–Bosch; Howard T. Odum, *Environment,
-  Power, and Society*; David Montgomery, *Dirt: The Erosion of Civilizations*;
-  Miguel Altieri, *Agroecology*; Michael Pollan, *The Omnivore's Dilemma*.
+  Power, and Society*; David Montgomery, *Dirt: The Erosion of
+  Civilizations*; Miguel Altieri, *Agroecology*.
 - **A project.** Audit the full energy cost of one meal or one garden bed —
   fuel, fertiliser, embodied energy, transport, labour — against calories
   delivered. Year 27–30's agriculture slot is the natural home for it.
@@ -319,8 +311,8 @@ you publish.** If both wince, you learned something cheaply.
   observation and no mechanism; psychology has mechanisms and thin materials.
 - **Read.** William James, *The Principles of Psychology*, the "stream of
   thought" chapter; Erich Auerbach, *Mimesis* (1946); Elaine Scarry,
-  *Dreaming by the Book* (1999); Lisa Zunshine, *Why We Read Fiction* (2006);
-  Keith Oatley, *Such Stuff as Dreams*.
+  *Dreaming by the Book* (1999); Lisa Zunshine, *Why We Read Fiction*
+  (2006).
 - **A project.** Take one technique — free indirect discourse is the obvious
   candidate — and write about what it achieves that a psychological
   description cannot. Read the Kidd and Castano theory-of-mind study and its
@@ -335,7 +327,7 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Martin van Creveld, *Supplying War: Logistics from Wallenstein to
   Patton* (1977); Geoffrey Parker, *The Military Revolution* (1988); Brodie &
   Brodie, *From Crossbow to H-Bomb*; David Edgerton, *The Shock of the Old*
-  (2006); Richard Rhodes, *The Making of the Atomic Bomb* (1986).
+  (2006).
 - **A project.** Pick a campaign and work its supply arithmetic from primary
   figures — rations, fodder, wagon capacity, march rates — then state whether
   the plan was ever achievable. Van Creveld's method is fully reusable.
@@ -348,9 +340,8 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Shannon, "A Mathematical Theory of Communication" (1948); Maynard
   Smith & Szathmáry, *The Major Transitions in Evolution* (1995); John Maynard
   Smith, "The Concept of Information in Biology" (*Philosophy of Science*,
-  2000) with the published replies by Godfrey-Smith and Sterelny; Schneider &
-  Stephens, "Sequence Logos" (1990); Cover & Thomas, *Elements of Information
-  Theory*, ch. 2.
+  2000) with the published replies by Godfrey-Smith and Sterelny; Schneider
+  & Stephens, "Sequence Logos" (1990).
 - **A project.** Compute the information content of a transcription-factor
   binding site from an aligned set of real sequences, and compare it with the
   information needed to locate that site in the genome. Schneider's result —
@@ -364,8 +355,7 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Emmanuel Le Roy Ladurie, *Times of Feast, Times of Famine*
   (1967); Geoffrey Parker, *Global Crisis* (2013); John Brooke, *Climate
   Change and the Course of Global History* (2014); Kyle Harper, *The Fate of
-  Rome* (2017); Sam White, *The Climate of Rebellion in the Early Modern
-  Ottoman Empire* (2011).
+  Rome* (2017).
 - **A project.** Line one regional crisis's documentary chronology up against
   a published tree-ring or ice-core series at annual resolution. Then write
   the paragraph stating what the correlation does not establish.
@@ -378,9 +368,8 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Hermann Ebbinghaus, *Memory* (1885); Dunlosky et al., "Improving
   Students' Learning With Effective Learning Techniques" (*Psychological
   Science in the Public Interest*, 2013); Bjork & Bjork, "Making Things Hard
-  on Yourself, But in a Good Way" (2011); Brown, Roediger & McDaniel, *Make
-  It Stick* (2014); Ericsson & Pool, *Peak* (2016), read with the
-  Macnamara meta-analysis on deliberate practice.
+  on Yourself, But in a Good Way" (2011); Ericsson & Pool, *Peak* (2016),
+  read with the Macnamara meta-analysis on deliberate practice.
 - **A project.** You already have the dataset. Export your SRS review history
   and weekly logs and test one claim above against your own record — interval
   schedule against retention, say. `resources/fundamentals.md` sets the

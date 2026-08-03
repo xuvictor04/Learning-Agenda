@@ -394,9 +394,8 @@ only if you start now.
 ## The fundamentals across seventy years
 
 The capability statements above describe **arrival** — what it looks like to
-stop being weak in a row. None of them describes a ceiling, and across seven
-decades the distance between arrival and ceiling is where most of the value
-is.
+stop being weak in a row. None describes a ceiling, and across seven decades
+the gap between the two is where most of the value sits.
 
 ### What "strong" becomes
 
@@ -440,8 +439,7 @@ library actually is.
 **Math & statistics** — Richard McElreath, *Statistical Rethinking* (lecture
 series free), the best modern applied course; Judea Pearl & Dana Mackenzie,
 *The Book of Why*, then Pearl's *Causality* if it takes; Andrew Gelman,
-Jennifer Hill & Aki Vehtari, *Regression and Other Stories*; David
-Spiegelhalter, *The Art of Statistics*.
+Jennifer Hill & Aki Vehtari, *Regression and Other Stories*.
 
 **Speaking** — Patrick Winston's "How to Speak" (MIT, free, one hour, famous
 for good reason); Aristotle's *Rhetoric* and Quintilian's *Institutio
@@ -468,10 +466,9 @@ on desirable difficulties ("Making Things Hard on Yourself, But in a Good
 Way"); Yana Weinstein & Megan Sumeracki, *Understanding How We Learn*.
 
 **Personal finance** — William Bernstein, *The Four Pillars of Investing*;
-Burton Malkiel, *A Random Walk Down Wall Street*; Jason Zweig, *Your Money
-and Your Brain*; Wade Pfau, *Retirement Planning Guidebook* for the
-decumulation problem that arrives in decade 5 — US-centric, so find the
-equivalent for wherever you are taxed.
+Burton Malkiel, *A Random Walk Down Wall Street*; Wade Pfau, *Retirement
+Planning Guidebook* for the decumulation problem that arrives in decade 5 —
+US-centric, so find the equivalent for wherever you are taxed.
 
 ### What needs re-founding, and what never does
 

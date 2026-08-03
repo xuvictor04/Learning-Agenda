@@ -781,6 +781,66 @@ work as an argument and as a roof.
   galleries, juried exhibitions and biennials; for architects, the RIBA/AIA
   world and open competitions.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Chinese painting and calligraphy — Craig Clunas, *Art in
+  China*; owns the brush as a trace of the person and the amateur ideal.
+  Islamic art and architecture — Blair & Bloom, *The Art and Architecture of
+  Islam 1250–1800*; owns geometry, calligraphy and the worked surface.
+  Japanese art — Penelope Mason, *History of Japanese Art*; owns asymmetry,
+  the screen, and the aesthetics of incompletion. African art — Suzanne
+  Preston Blier, *The Royal Arts of Africa*; owns the object as an agent
+  rather than a picture. Ancient American art — Mary Ellen Miller, *The Art of
+  Mesoamerica*; owns architecture and image as calendar and cosmology.
+  Photography — Beaumont Newhall, *The History of Photography*, with Barthes'
+  *Camera Lucida*; owns the indexical image and its collapse. Urbanism —
+  Kevin Lynch, *The Image of the City*; owns the scale above the building.
+  Technical art history — the National Gallery's free *Technical Bulletin*;
+  owns what imaging and pigment analysis prove that connoisseurship guessed.
+- *The long canon:* the Ajanta cave paintings; the Mogao caves at Dunhuang;
+  the San Vitale mosaics at Ravenna; the Book of Kells; Borobudur; Tōdai-ji at
+  Nara; the Alhambra and Sinan's Selimiye Mosque at Edirne; the Ife heads and
+  the Benin bronzes; Guo Xi's *Early Spring* and Sesshū Tōyō's ink landscapes;
+  Piero della Francesca's Arezzo frescoes; the Van Eycks' Ghent Altarpiece;
+  Bernini's *Ecstasy of St Teresa* against Borromini's San Carlo alle Quattro
+  Fontane, twenty minutes apart in Rome and arguing; Vermeer's thirty-odd
+  surviving paintings; Goya's *Disasters of War* and the Black Paintings;
+  Monet's Water Lilies at the Orangerie and Matisse's chapel at Vence; Käthe
+  Kollwitz, Hilma af Klint, Agnes Martin, Louise Bourgeois. Buildings: Aalto's
+  Villa Mairea and Säynätsalo Town Hall; Lewerentz's St Peter's at Klippan;
+  Barragán's own house in Mexico City; Niemeyer's Brasília; Utzon's Sydney
+  Opera House; Zumthor's Therme Vals; Bawa's Kandalama; Doshi's Sangath.
+- *The multi-decade reading and listening plan:* pick one museum within an
+  hour of where you live and go monthly for forty years — one room per visit,
+  one department per year, and never the whole building in a day. Four hundred
+  and eighty visits will teach you more than any number of survey volumes.
+  Inside that habit, keep the hour rule: once a month, one work, sixty minutes
+  sitting in front of it, notes afterwards. Then two long errands. The first
+  is the Vermeer pilgrimage — about thirty-four paintings scattered across
+  roughly eighteen collections in seven countries, which takes decades and
+  ends with you having seen an entire lifetime's output. The second is one
+  building revisited: choose a cathedral, a mosque, a temple or a modern house
+  you can reach, and return every fifth year in a different season, writing a
+  thousand words each time without rereading the previous ones until the end.
+- *Re-reading:* Rembrandt painted himself for forty years, and the late
+  self-portraits are unreadable until you have your own aging face to bring to
+  them — see the 1669 pictures at 60 and again at 80. Late Titian, especially
+  *The Flaying of Marsyas*, does the same. Goya's Black Paintings were made by
+  a deaf man in his seventies. Matisse's cut-outs were made when he could no
+  longer stand at an easel, and Michelangelo's *Rondanini Pietà* was unfinished
+  at his death at 88 — both are about what remains possible, which is not a
+  subject you can see clearly from twenty.
+- *A lifetime practice:* draw daily and fill one sketchbook a year, dated on
+  the spine; forty sketchbooks on a shelf is a record of your own seeing that
+  nothing else produces. Learn one medium properly and stay in it. Measure and
+  hand-draw one building a year in plan and section. Photograph the same place
+  in the same frame annually.
+- *Rabbit holes:* Vermeer and the camera obscura (Philip Steadman's *Vermeer's
+  Camera*, and the Hockney–Falco thesis); the history of pigments — Egyptian
+  blue, ultramarine, mummy brown; Japanese timber joinery and the carpentry
+  lineages that maintain temples; the golden-ratio myth in architectural
+  history; the restitution debate over the Benin bronzes.
+
 ## Theater, film & narrative media
 
 **The question it asks.** How does a story told through bodies, images and

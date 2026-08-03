@@ -649,6 +649,79 @@ failure, and human coordination. None of them are about a language.
   you depend on. There is no licensure. Your credential is your code, your
   review history, and what you've kept running.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Compilers — Appel, *Modern Compiler Implementation*, or the
+  dragon book (Aho, Lam, Sethi & Ullman) — owns the gap between what you
+  wrote and what runs. Databases — Bailis, Hellerstein & Stonebraker's
+  *Readings in Database Systems* (the Red Book, free) and Bernstein &
+  Newcomer, *Principles of Transaction Processing* — owns durability, which
+  everything else assumes. Security — Ross Anderson, *Security Engineering*
+  (3rd ed., free) — owns adversarial reasoning, and is the best-written
+  systems book in existence. Cryptography — Boneh & Shoup, *A Graduate
+  Course in Applied Cryptography* (free). Formal methods — Lamport,
+  *Specifying Systems* (TLA+, free) — owns the designs you can check before
+  building. Performance — Brendan Gregg, *Systems Performance* — owns the
+  methodology, not the tricks. Embedded and real-time — Lee & Seshia,
+  *Introduction to Embedded Systems* (free) — owns everything with a
+  deadline. Type theory and language design — Harper, *Practical Foundations
+  for Programming Languages*.
+- *The long canon:* Knuth, *The Art of Computer Programming*, which is a
+  twenty-year project and should be treated as one — a section at a time,
+  forever. Peter Naur, "Programming as Theory Building" (1985), the best
+  fifteen pages ever written on why software rots. Parnas, "On the Criteria
+  To Be Used in Decomposing Systems into Modules" (1972). Hoare's Turing
+  lecture, "The Emperor's Old Clothes". Dijkstra's EWDs, read as a
+  temperament rather than a method. Lions' *Commentary on UNIX 6th Edition*
+  — a whole operating system you can read in an evening. Kernighan, *UNIX:
+  A History and a Memoir*. Weinberg, *The Psychology of Computer
+  Programming*, still the sharpest thing on the human half. Brooks, *The
+  Design of Design*. Tracy Kidder, *The Soul of a New Machine*. Michael
+  Abrash's *Graphics Programming Black Book* (free) for the measurement
+  mindset, obsolete in every specific and correct in every general. And the
+  failure canon: Leveson & Turner's "An Investigation of the Therac-25
+  Accidents" (1993), which should be read once a decade.
+- *The project ladder:*
+  1. A weekend: a script that removes a chore you do weekly — then keep it
+     running, unbroken, for a year. That second part is the project.
+  2. A published tool with docs, tests, packaging and versioning, used by
+     strangers who file issues you did not anticipate.
+  3. A service you operate: API, database, deploys, backups, monitoring —
+     and a restore drill you actually perform, not one you documented.
+  4. An interpreter, then a compiler for a small language with a real
+     backend. Nystrom's *Crafting Interpreters* (free) is the on-ramp.
+  5. A storage engine — LSM or B-tree — with a write-ahead log, crash
+     recovery, and fault injection that you trust because it found bugs.
+  6. A distributed system that survives adversarial testing: Raft or a
+     replicated store against Jepsen-style partitions. MIT's 6.5840 labs
+     are free and remain the standard route.
+  7. A hobby OS that boots on real hardware, or a driver merged upstream
+     into the Linux kernel. Both teach that hardware is not an abstraction.
+  8. Maintainership: sustained ownership of something others depend on —
+     the review load, the releases, the security disclosures, the saying no.
+  9. The decade project: publish something original — a system with a paper
+     at OSDI or NSDI, or a library people build on for ten years. In this
+     field those are equally legitimate, which is unusual.
+- *Re-foundation watch:* the memory hierarchy, concurrency, partial failure,
+  the consensus impossibility results, complexity theory and the human
+  factors of being on call at 3 a.m. are permanent. Lamport's 1978 paper
+  will be correct in 2065. What churns, and churns fast: languages,
+  frameworks, cloud APIs, orchestration, and the entire machine-learning
+  toolchain, which has the shortest half-life of anything in this file.
+  Expect to rebuild your working toolkit every five to eight years, learn it
+  inside a project, and never schedule it. Two genuine re-foundations are
+  visible from here: post-quantum migration, which invalidates deployed
+  cryptography rather than merely dating it, and hardware heterogeneity,
+  which changes the constants that architecture reasoning depends on.
+- *A lifetime practice:* run something for decades — a mail server, a site,
+  a home lab, a backup regime whose restores you test annually. Keep an
+  incident journal and reread it. Review other people's code weekly.
+  Publish operational knowledge so the next person stops relearning it.
+- *Rabbit holes:* Therac-25 in full; Multics and what Unix chose not to
+  inherit; the RFC process as a governance invention; Postel's law and its
+  critics; leap seconds; SQLite's testing regime, which is stranger and more
+  rigorous than almost any commercial equivalent.
+
 ---
 
 ## Public health & care systems
@@ -756,6 +829,82 @@ public distrust.
   Research, International Epidemiological Association. Credentials: the MPH
   is the field's entry ticket, the CPH exam certifies it, and state or local
   health-department practice is where most of the real work happens.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Survival analysis — Kleinbaum & Klein, *Survival Analysis:
+  A Self-Learning Text* — owns time-to-event, which is most of clinical
+  epidemiology. Health economics — Drummond et al., *Methods for the
+  Economic Evaluation of Health Care Programmes* — owns the question of what
+  a year of life is worth, which someone is answering whether or not you
+  like it. Demography — Preston, Heuveline & Guillot, *Demography* — owns
+  the denominators everything else divides by. Environmental and
+  occupational health — Frumkin (ed.), *Environmental Health: From Global to
+  Local* — owns exposure, the field's hardest measurement problem. Public
+  health law — Lawrence Gostin, *Public Health Law* — owns the powers, and
+  is a third of practice. Infectious disease modelling — Vynnycky & White,
+  *An Introduction to Infectious Disease Modelling*, as the working bridge
+  to Keeling & Rohani. Quality and safety — the IOM reports *To Err Is
+  Human* and *Crossing the Quality Chasm*, which founded a whole discipline.
+  Global health delivery — the World Bank's *Disease Control Priorities*
+  (free) and Farmer et al., *Reimagining Global Health*.
+- *The long canon:* Archie Cochrane, *Effectiveness and Efficiency* (1972) —
+  seventy pages that created evidence-based medicine. Austin Bradford Hill,
+  "The Environment and Disease: Association or Causation?" (1965), the most
+  cited nine pages in the field. Paul Starr, *The Social Transformation of
+  American Medicine*, for why the US system is shaped as it is. Thomas
+  McKeown, *The Role of Medicine*, read together with Simon Szreter's
+  rebuttal — the argument about whether medicine or plumbing did the work.
+  Frank Snowden, *Epidemics and Society*. Michael Marmot, *The Health Gap*.
+  Randy Shilts, *And the Band Played On*, and Laurie Garrett, *The Coming
+  Plague*, for institutional failure in real time. James Jones, *Bad Blood*,
+  on Tuskegee, and Skloot's *The Immortal Life of Henrietta Lacks* — read
+  both as the ethics curriculum, not as reading. Ioannidis, "Why Most
+  Published Research Findings Are False" (2005). Ben Goldacre, *Bad
+  Pharma*. Case & Deaton, *Deaths of Despair*. Mona Hanna-Attisha, *What the
+  Eyes Don't See*, for what it costs to be right about Flint. Wilkinson &
+  Pickett's *The Spirit Level* is worth reading and is genuinely contested —
+  read the critiques alongside it.
+- *The project ladder:*
+  1. A weekend: reproduce a published figure from NHANES or BRFSS microdata
+     and publish the code. Your number will differ. Find out why.
+  2. A surveillance dashboard from an open feed, maintained for a year, with
+     the data-quality problems documented rather than smoothed away.
+  3. Six months inside a real program — a clinic, a vaccination drive, a
+     needle exchange, a food bank. Nothing else teaches the front desk.
+  4. A survey you designed and ran: sampling frame, instrument, ethics
+     review where applicable, and an honest non-response analysis.
+  5. A cost-effectiveness model of a real local intervention, with
+     sensitivity analysis, delivered to the people who could act on it.
+  6. An outbreak investigation, done properly — case definition, line list,
+     epidemic curve, hypothesis, control measure. If you are not employed to
+     do this, health departments take volunteers and CSTE runs training.
+  7. A pre-registered analysis of an existing cohort, published, including
+     the parts that did not work.
+  8. The decade project: design, run and evaluate an intervention with a
+     real comparison group — then publish the null result if it is null,
+     which is the actual test of whether you belong to this field.
+  9. Serve on a board of health, an IRB, or a county advisory body.
+- *Re-foundation watch:* confounding, selection bias, the prevention
+  paradox, transmission dynamics and the dominance of social determinants
+  are permanent, and so is the fact that implementation is decided by
+  persuasion and law rather than by evidence. What churns: statistical
+  software; specific data platforms; sequencing and wastewater methods,
+  which are becoming infrastructure; disease-specific therapeutics; and the
+  guideline of the moment. One real re-foundation is already underway —
+  causal inference moved from Rothman-era stratification to potential
+  outcomes and DAGs within one career, and something will displace that
+  too. Learn the reasoning, not the estimator.
+- *A lifetime practice:* read *MMWR* weekly for forty years — it is the
+  field talking to itself, and the accumulated pattern recognition is
+  unbuyable. Curate one indicator or dataset personally. Serve locally.
+  Teach statistics to clinicians. Keep a file of your own wrong forecasts,
+  dated, and reread it during the next emergency.
+- *Rabbit holes:* how badly Snow was actually received, and by whom; salt
+  iodization as the highest-return intervention nobody discusses; the 1976
+  swine flu campaign and its aftermath; the design compromises inside the
+  Framingham cohort; Semmelweis as a failure of communication rather than
+  of evidence.
 
 ---
 
