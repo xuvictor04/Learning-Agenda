@@ -333,69 +333,64 @@ what intelligence *is*, and every failure is evidence about what it isn't.
   tree search.
 - Knowledge representation and the frame problem: saying what you know is
   harder than reasoning with it, and saying what *doesn't* change is worse.
-- Agents and rationality: expected utility as the normative standard against
-  which behavior is judged.
-- Reasoning under uncertainty: probability as the successor to logic for most
-  real problems; Bayes nets and graphical models.
+- Agents and rationality: expected utility as the normative standard, and
+  probability as the successor to logic for most real problems.
 - Learning theory: why generalization from finite data is possible at all —
-  bias–variance, PAC learning, and the no-free-lunch result.
+  bias–variance, PAC learning, no free lunch.
 - Reinforcement learning: MDPs, value and policy, exploration versus
-  exploitation, and the credit-assignment problem.
-- Sutton's "bitter lesson": general methods that scale with computation have
-  repeatedly beaten hand-engineered knowledge. Understand why this keeps
-  happening, and what it does and doesn't imply.
-- Specification and alignment: optimizing a stated objective is not the same
-  as getting what you wanted. Goodhart's law is an engineering constraint here,
-  not a witticism.
+  exploitation, credit assignment.
+- Sutton's "bitter lesson": general methods that scale with computation keep
+  beating hand-engineered knowledge. Know why, and what it doesn't imply.
+- Specification and alignment: optimizing a stated objective is not getting
+  what you wanted. Goodhart's law is an engineering constraint, not a joke.
 - The philosophical stack: the Turing test, the Chinese Room, symbol
   grounding, Moravec's paradox.
 
 **What outsiders get wrong.**
-- Capability is not understanding — in two directions. A system's benchmark
-  score tells you almost nothing about what internal representation produced
-  it; interpretability lags capability badly, and the people building these
-  systems will tell you so. Equally, "it's just statistics" is a dismissal
-  masquerading as an analysis; it makes no prediction and rules nothing out.
+- Capability is not understanding — in both directions. A benchmark score
+  tells you almost nothing about what internal representation produced it,
+  and interpretability lags capability badly; the people building these
+  systems will say so. Equally, "it's just statistics" is a dismissal
+  masquerading as an analysis: it makes no prediction and rules nothing out.
 - AI is not the current crop of models. The field is seventy years old. The
   tooling has a two-year half-life; search, representation, learning theory,
-  and the philosophical questions do not. Learn tools inside a project when a
-  project needs them — never schedule a framework years in advance
-  (principle 5). This section deliberately names almost no libraries.
-- Benchmarks are constructed artifacts with their own failure modes:
-  contamination, saturation, and construct invalidity. Learn to read a
-  benchmark as skeptically as a psychology paper.
+  and the philosophical questions do not. Learn tools inside a project that
+  needs them — never schedule a framework years ahead (principle 5). This
+  section deliberately names almost no libraries.
+- Benchmarks are constructed artifacts with their own failure modes —
+  contamination, saturation, construct invalidity. Read one as skeptically
+  as you'd read a psychology paper.
 
 **T3 — Literacy (~250 hrs)**
 - *Start here:* Melanie Mitchell, **Artificial Intelligence: A Guide for
   Thinking Humans**. The door because Mitchell is a working researcher who
-  takes both the achievements and the skepticism seriously, and because she
-  keeps the historical thread visible — you finish knowing the field has a
-  past, which is what separates literacy from following the news.
+  takes both the achievements and the skepticism seriously, and keeps the
+  historical thread visible — you finish knowing the field has a past, which
+  is what separates literacy from following the news.
 - *Survey:* Russell & Norvig, **Artificial Intelligence: A Modern Approach**.
-  Do not attempt it whole at this tier. Read Part I on intelligent agents, the
-  search chapters, skim the chapters on uncertainty and decisions, and read
-  the philosophy-and-futures chapters at the end properly. For history, Nils
-  Nilsson's **The Quest for Artificial Intelligence** (Cambridge, 2010) is the
-  authoritative account by someone who was there.
+  Do not attempt it whole at this tier. Read Part I on intelligent agents and
+  the search chapters, skim uncertainty and decisions, and read the closing
+  philosophy-and-futures chapters properly. For history, Nils Nilsson's **The
+  Quest for Artificial Intelligence** (Cambridge, 2010) is the authoritative
+  account by someone who was there.
 - *Canon:* Turing (1950), "Computing Machinery and Intelligence" — read the
-  objections-and-replies section, not just the imitation game. McCarthy,
-  Minsky, Rochester & Shannon's 1955 Dartmouth proposal, which names the
+  objections-and-replies section, not just the imitation game. The 1955
+  Dartmouth proposal (McCarthy, Minsky, Rochester & Shannon), which names the
   field. Newell & Simon's 1976 Turing Award lecture, "Computer Science as
   Empirical Inquiry: Symbols and Search," for the physical symbol system
-  hypothesis. Searle (1980), "Minds, Brains, and Programs," for the best
-  attack on it. Chapter 1 of Marr's **Vision** for the levels-of-analysis
-  discipline. Sutton's "The Bitter Lesson" (2019) is two pages; read it and
-  then argue with it.
+  hypothesis, then Searle (1980), "Minds, Brains, and Programs," for the best
+  attack on it. Chapter 1 of Marr's **Vision** for levels-of-analysis
+  discipline. Sutton's "The Bitter Lesson" (2019) is two pages — read it, then
+  argue with it.
 - *Course:* MIT OCW **6.034 Artificial Intelligence** — Patrick Winston's
-  lectures, free on video, and the best available teaching of AI *as a field*
-  rather than as a stack. Follow with Berkeley's **CS188, Introduction to
-  Artificial Intelligence**, whose Pacman programming projects are free and
-  are the single most efficient way to make search, CSPs, MDPs, and
-  reinforcement learning stick. Skip courses that are really product
-  tutorials; their content expires before your notes do.
+  lectures, free on video, the best teaching of AI *as a field* rather than as
+  a stack. Follow with Berkeley's **CS188, Introduction to Artificial
+  Intelligence**, whose free Pacman projects are the most efficient way to
+  make search, CSPs, MDPs, and reinforcement learning stick. Skip courses that
+  are really product tutorials; they expire before your notes do.
 - *Artifact:* Write 2,500 words answering: what would have to be true for you
   to say a system understands something? State a concrete test, then apply it
-  to a chess engine, a large language model, and a honeybee. Where your test
+  to a chess engine, a large language model, and a honeybee. Where the test
   gives an answer you don't believe, say so and diagnose why. A literate
   answer engages Turing and Searle without merely restating either.
 
@@ -404,17 +399,17 @@ what intelligence *is*, and every failure is evidence about what it isn't.
   **Reinforcement Learning: An Introduction** (2nd ed, free online — the best
   textbook in the field). Murphy, **Probabilistic Machine Learning: An
   Introduction**, or Bishop's **Pattern Recognition and Machine Learning**.
-  Goodfellow, Bengio & Courville, **Deep Learning** (free online) for the
-  neural side. Shalev-Shwartz & Ben-David, **Understanding Machine Learning**
-  (free) for the theory, which almost everyone skips and shouldn't.
-- *Practice:* Implement, from scratch, in a language you control: A*,
-  minimax with alpha–beta pruning, a CSP solver with constraint propagation, a
-  resolution theorem prover, value iteration, Q-learning, and a policy
-  gradient. Write backpropagation by hand in numpy before you ever call a
-  framework — Karpathy's **Neural Networks: Zero to Hero** series builds up
-  to a working transformer this way and is free. Then reproduce a published
-  result and run an ablation on it: the ablation is where you find out whether
-  you understood the paper or the abstract.
+  Goodfellow, Bengio & Courville, **Deep Learning** (free online). And
+  Shalev-Shwartz & Ben-David, **Understanding Machine Learning** (free) for
+  the theory almost everyone skips and shouldn't.
+- *Practice:* Implement from scratch, in a language you control: A*, minimax
+  with alpha–beta pruning, a CSP solver with constraint propagation, a
+  resolution theorem prover, value iteration, Q-learning, a policy gradient.
+  Write backpropagation by hand in numpy before you ever call a framework —
+  Karpathy's free **Neural Networks: Zero to Hero** builds to a working
+  transformer this way. Then reproduce a published result and run an ablation
+  on it; the ablation is where you learn whether you understood the paper or
+  the abstract.
 - *Primary literature:* NeurIPS, ICML, ICLR, AAAI, IJCAI; JMLR, the Artificial
   Intelligence Journal, TMLR; arXiv cs.AI, cs.LG, cs.CL. Read directly:
   Krizhevsky, Sutskever & Hinton (2012) on AlexNet; Mnih et al. (2015) on
@@ -422,10 +417,9 @@ what intelligence *is*, and every failure is evidence about what it isn't.
   "Attention Is All You Need." Add Amodei et al. (2016), "Concrete Problems
   in AI Safety," for how the specification problem is actually posed.
 - *You've arrived when:* given an unfamiliar paper from a top venue, you can
-  state its claim, identify the baseline it must beat for the claim to mean
-  anything, and implement a stripped-down version that reproduces the
-  qualitative result — and when you can say which of its numbers you don't
-  believe, and why.
+  state its claim, identify the baseline it must beat for that claim to mean
+  anything, implement a stripped-down version that reproduces the qualitative
+  result — and say which of its numbers you don't believe, and why.
 
 **T1 — Mastery**
 - *Graduate texts/monographs:* Koller & Friedman, **Probabilistic Graphical
@@ -436,16 +430,16 @@ what intelligence *is*, and every failure is evidence about what it isn't.
   causal reasoning respectable again in a field that had exiled it.
 - *Frontier:* Mechanistic interpretability; scaling laws and where they break;
   reasoning and planning as open problems rather than solved ones; agents and
-  tool use; learning from human feedback and the alignment problem; the
-  neurosymbolic revival; and evaluation as its own science. Follow the venues
-  directly rather than commentary, and deliberately read researchers who
-  disagree — Sutton and Chollet do not want the same things, and the
-  disagreement is more instructive than either position.
+  tool use; learning from human feedback and alignment; the neurosymbolic
+  revival; evaluation as its own science. Follow the venues directly rather
+  than commentary, and deliberately read researchers who disagree — Sutton and
+  Chollet want different things, and the disagreement teaches more than either
+  position alone.
 - *Contribution looks like:* an algorithm with a proof or a reproducible
   result; a negative result that closes off a direction; an interpretability
-  finding that explains a behavior rather than describing it; or a
-  formalization that lets a fuzzy question be argued precisely.
+  finding that explains a behavior rather than describing it; a formalization
+  that lets a fuzzy question be argued precisely.
 - *Community:* NeurIPS, ICML, ICLR, AAAI, IJCAI, UAI, AISTATS; ACL for
-  language, CVPR for vision, CoRL for robotics; FAccT and AIES for the
-  ethics and governance side. Open review and public reproduction are the
-  norm here — participating in them is the cheapest way in.
+  language, CVPR for vision, CoRL for robotics; FAccT and AIES for ethics and
+  governance. Open review and public reproduction are the norm — joining them
+  is the cheapest way in.

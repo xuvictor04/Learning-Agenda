@@ -155,13 +155,12 @@ that failure, and what survived it, is the field.
   Burgess & Jeffrey, **Computability and Logic**; Smith, **An Introduction to
   Gödel's Theorems**; Halmos, **Naive Set Theory** then Enderton, **Elements
   of Set Theory**.
-- *Practice:* Build the whole tower yourself, in order: soundness and
-  completeness for propositional logic, then for first-order; compactness;
-  Löwenheim–Skolem; then arithmetisation and both incompleteness theorems.
-  Every exercise in Enderton ch. 1–2, most of ch. 3. Then formalise: work
-  through **Software Foundations** (Pierce et al., free, in Coq) or
-  **Mathematics in Lean** — 100+ hours with a proof assistant changes what
-  you believe a proof is.
+- *Practice:* Build the tower yourself, in order: soundness and completeness
+  for propositional logic, then first-order; compactness; Löwenheim–Skolem;
+  then arithmetisation and both incompleteness theorems. Every exercise in
+  Enderton ch. 1–2, most of ch. 3. Then formalise: **Software Foundations**
+  (Pierce et al., free, in Coq) or **Mathematics in Lean** — 100+ hours with
+  a proof assistant changes what you believe a proof is.
 - *Primary literature:* *Journal of Symbolic Logic*, *Bulletin of Symbolic
   Logic*, *Notre Dame Journal of Formal Logic*. Read directly: Gödel 1931;
   Turing 1936; Tarski, "The Semantic Conception of Truth" (1944); Cohen,
@@ -179,8 +178,7 @@ that failure, and what survived it, is the field.
   Taylor, **Proofs and Types** (free).
 - *Frontier:* forcing, large cardinals and Woodin's work on the continuum;
   homotopy type theory and univalent foundations (the **HoTT Book** is free);
-  reverse mathematics; proof assistants and the mathlib project as a
-  foundational experiment running in public.
+  reverse mathematics; mathlib as a foundational experiment running in public.
 - *Contribution looks like:* an independence result; a new axiom with mapped
   consequences; classification theorems in model theory; degree-theoretic
   results in computability; or formalising a major theorem end to end.
@@ -223,21 +221,20 @@ that reversal, because many processes produce the same data.
   million people in 1936 and called the election wrong.
 
 **T3 — Literacy (~200 hrs)**
-- *Start here:* David Spiegelhalter, **The Art of Statistics**. The door
+- *Start here:* David Spiegelhalter, **The Art of Statistics** — the door
   because it teaches the reasoning through real cases and postpones formulas
   until you want them.
 - *Survey:* Freedman, Pisani & Purves, **Statistics** — the great
   calculus-free text, still unmatched on what inference actually means. Then
-  Blitzstein & Hwang, **Introduction to Probability** (free PDF), ch. 1–6, for
-  the mechanics.
+  Blitzstein & Hwang, **Introduction to Probability** (free PDF), ch. 1–6.
 - *Canon:* R. A. Fisher, **The Design of Experiments**, ch. 2 — the lady
   tasting tea, the origin of the modern experiment, in fifteen pages. Then
-  Tukey, **Exploratory Data Analysis** (browse; the spirit matters more than
-  the stem-and-leaf plots) and Tufte, **The Visual Display of Quantitative
+  Tukey, **Exploratory Data Analysis** (browse it; the spirit outlives the
+  stem-and-leaf plots) and Tufte, **The Visual Display of Quantitative
   Information**. Salsburg's **The Lady Tasting Tea** supplies the history.
 - *Course:* Harvard **Stat 110** (Joe Blitzstein) — all lectures free on
-  YouTube and edX, and the best probability course available anywhere at any
-  price. Then Richard McElreath's **Statistical Rethinking** lectures (free,
+  YouTube and edX, and the best probability course available at any price.
+  Then Richard McElreath's **Statistical Rethinking** lectures (free,
   YouTube) for the Bayesian and causal side. Both, in that order.
 - *Artifact:* Find a statistical claim in the news, get the underlying paper,
   reconstruct what was actually done, and write 2,000 words on what it does
@@ -251,10 +248,10 @@ that reversal, because many processes produce the same data.
   Vehtari, **Regression and Other Stories**; Efron & Hastie, **Computer Age
   Statistical Inference** (free).
 - *Practice:* Every exercise in Blitzstein ch. 1–10; Casella & Berger ch.
-  1–10 — twelve months, honestly. Then compute: work the entire *Statistical
-  Rethinking* problem set in Stan, PyMC, or brms, and fit, criticise and
-  break at least twenty models on real messy data. Simulate everything —
-  never trust a result you cannot also generate by simulation.
+  1–10 — twelve months, honestly. Then compute: the entire *Statistical
+  Rethinking* problem set in Stan, PyMC or brms, and twenty-plus models fit,
+  criticised and broken on real messy data. Simulate everything — never trust
+  a result you cannot also generate by simulation.
 - *Primary literature:* *JASA*, *Annals of Statistics*, *JRSS Series B*, and
   *Statistical Science* (start here; it is written to be read). Read
   directly: Neyman & Pearson (1933); Efron, "Bootstrap Methods: Another Look
@@ -277,8 +274,7 @@ that reversal, because many processes produce the same data.
 - *Frontier:* causal inference at scale; conformal prediction; high-
   dimensional and post-selection inference; the statistics of machine
   learning (benign overfitting, double descent); simulation-based inference.
-  Follow Andrew Gelman's blog, arXiv stat.ME and math.ST, and Data Colada for
-  the meta-science front.
+  Follow Andrew Gelman's blog, arXiv stat.ME and math.ST, and Data Colada.
 - *Contribution looks like:* a new estimator or design with proved
   properties; methodology an applied field adopts; or an applied analysis
   decisive enough to settle a live question.
@@ -327,18 +323,17 @@ theories of resources: time, space, randomness, bits.
   Hardware and Software**. It builds a working computer from flashlights and
   relays, so "computation" stops being a metaphor.
 - *Survey:* Sipser, **Introduction to the Theory of Computation**, ch. 0–5
-  and 7 — read ch. 3, 4 and 7 slowly and skip ch. 6 on a first pass.
-  Alternatively Moore & Mertens, **The Nature of Computation**, ch. 1–6: much
-  longer, far more delightful, the best expository book the field has.
-- *Canon:* Turing, **On Computable Numbers** (1936), with Petzold's **The
-  Annotated Turing** as the guide. Then Shannon, **A Mathematical Theory of
-  Communication** (1948) — read it in full; it is one of the most readable
-  landmark papers ever written, and you need only elementary probability.
+  and 7 — go slowly through ch. 3, 4 and 7, skip ch. 6 on a first pass.
+  Alternatively Moore & Mertens, **The Nature of Computation**, ch. 1–6:
+  longer, more delightful, the best expository book the field has.
+- *Canon:* Turing, **On Computable Numbers** (1936), guided by Petzold's
+  **The Annotated Turing**. Then Shannon, **A Mathematical Theory of
+  Communication** (1948), in full — one of the most readable landmark papers
+  ever written, needing only elementary probability.
 - *Course:* MIT OCW **18.404J Theory of Computation** is Sipser teaching his
-  own book on video — take it. For information theory, David MacKay's
-  Cambridge lectures (free on YouTube) with his **Information Theory,
-  Inference, and Learning Algorithms** (free PDF) are the equal of anything
-  paid.
+  own book on video; take it. For information theory, David MacKay's
+  Cambridge lectures (free on YouTube) plus his **Information Theory,
+  Inference, and Learning Algorithms** (free PDF) equal anything paid.
 - *Artifact:* Prove the halting problem undecidable from scratch, explain
   what NP-completeness means and why 3-SAT is the hinge, then estimate the
   entropy of English text and say what that number means. 2,000 words.
@@ -348,16 +343,16 @@ theories of resources: time, space, randomness, bits.
   Modern Approach** (draft free online); Cover & Thomas, **Elements of
   Information Theory**; MacKay; and Kleinberg & Tardos, **Algorithm Design**
   or Cormen et al., **Introduction to Algorithms** for the constructive side.
-- *Practice:* Every exercise in Sipser ch. 1–5 and 7 — all of them, without
-  solutions. Arora & Barak ch. 1–9. Cover & Thomas ch. 2–5, 7–8. Prove
-  fifteen to twenty problems NP-complete by reduction until reductions feel
-  mechanical, because that fluency is the actual skill. Build four things: a
-  Turing machine simulator, a DPLL/CDCL SAT solver, a Huffman plus arithmetic
-  coder, and a Hamming or LDPC decoder you test against a simulated channel.
-- *Primary literature:* in this field the conferences *are* the journals —
-  STOC, FOCS, CCC, SODA; plus *SIAM Journal on Computing*, *Journal of the
-  ACM*, and *IEEE Transactions on Information Theory*. Preprints at ECCC and
-  arXiv cs.CC. Read directly: Shannon (1948); Cook, "The Complexity of
+- *Practice:* Every exercise in Sipser ch. 1–5 and 7, without solutions.
+  Arora & Barak ch. 1–9. Cover & Thomas ch. 2–5, 7–8. Prove fifteen to twenty
+  problems NP-complete by reduction until reductions feel mechanical — that
+  fluency is the actual skill. Build four things: a Turing machine simulator,
+  a DPLL/CDCL SAT solver, a Huffman plus arithmetic coder, and a Hamming or
+  LDPC decoder tested against a simulated channel.
+- *Primary literature:* here the conferences *are* the journals — STOC, FOCS,
+  CCC, SODA — plus *SIAM Journal on Computing*, *Journal of the ACM*, and
+  *IEEE Transactions on Information Theory*; preprints at ECCC and arXiv
+  cs.CC. Read directly: Shannon (1948); Cook, "The Complexity of
   Theorem-Proving Procedures" (1971); Karp, "Reducibility Among Combinatorial
   Problems" (1972); Goldwasser, Micali & Rackoff on zero-knowledge (1985).
 - *You've arrived when:* given an unfamiliar computational problem, you can
