@@ -1197,6 +1197,81 @@ goes, and it is the closest thing the field has to a laboratory.
   licensure. The credential is published work — and, for practitioners,
   service.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Maritime strategy — Julian Corbett, *Some Principles of
+  Maritime Strategy* — owns the argument Mahan got half right, and is the
+  better book. Air power — Tami Davis Biddle, *Rhetoric and Reality in Air
+  Warfare* — owns the gap between what air forces promised and delivered;
+  read Douhet first to see what was promised. Nuclear strategy — Freedman,
+  *The Evolution of Nuclear Strategy*, with Brodie's *Strategy in the
+  Missile Age* — owns the only domain where the theory was built before the
+  evidence. Intelligence — Michael Herman, *Intelligence Power in Peace and
+  War*, and Richard Betts, *Enemies of Intelligence*. Irregular war —
+  Galula, *Counterinsurgency Warfare*, and Mao, *On Guerrilla Warfare*,
+  read as opposing halves of one manual. Civil-military relations —
+  Huntington, *The Soldier and the State*, against Eliot Cohen's *Supreme
+  Command*. Military operations research and simulation — Philip Sabin,
+  *Simulating War*, plus Lanchester's equations and the literature on why
+  they fit the data poorly.
+- *The long canon:* Hans Delbrück, *History of the Art of War* — four
+  volumes, and the founding of source-critical military history. Jomini,
+  *The Art of War*, as the road not taken from Clausewitz. Ardant du Picq,
+  *Battle Studies*, on what men actually do under fire. Liddell Hart,
+  *Strategy*, read with suspicion — he shaped the field and bent evidence to
+  do it. S.L.A. Marshall's *Men Against Fire* is famous, influential, and
+  methodologically discredited; read it to understand how a bad statistic
+  survives fifty years. Adam Tooze, *The Wages of Destruction*, and Richard
+  Overy, *Why the Allies Won* — economies deciding wars. Gerhard Weinberg,
+  *A World at Arms*. Christopher Clark, *The Sleepwalkers*, on how decisions
+  for war are actually made. Graham Allison, *Essence of Decision* — three
+  models of the same crisis, and the best methodological training in this
+  file. Alistair Horne, *A Savage War of Peace*; Neil Sheehan, *A Bright
+  Shining Lie*; H.R. McMaster, *Dereliction of Duty*. Michael Howard, *The
+  Franco-Prussian War*. John Lynn, *Battle: A History of Combat and
+  Culture*, against Keegan and Hanson both.
+- *The project ladder:*
+  1. A weekend: reconstruct the order of battle for one day of one action
+     from primary sources, and notice how much the narrative histories
+     silently invented.
+  2. Design and play a wargame of a small engagement, then write down what
+     your model got wrong. Designing one teaches more than playing fifty.
+  3. Plan and lead a staff ride for other people on terrain you can reach.
+     Explaining a decision while standing where it was made is the test.
+  4. An archival project: work a collection of war diaries or unit records
+     and produce something the published record does not contain.
+  5. A logistics reconstruction — compute a campaign's actual requirement
+     in tons and calories per day, and compare it to what moved.
+  6. A published article in *Parameters*, the *Naval War College Review*,
+     *War in History* or *War on the Rocks*, through real editing.
+  7. Red-team a live decision for an organization, under stakes, where
+     being wrong costs someone something.
+  8. An edited or translated primary source made available to others — a
+     dull, enormous contribution that outlasts most monographs.
+  9. The decade project: an archival monograph on a campaign or an
+     institution that overturns an accepted account. This is ten years and
+     it is the only thing the field ultimately counts.
+- *Re-foundation watch:* the trinity, friction, the primacy of logistics,
+  the political nature of victory, small-unit psychology and deterrence
+  logic are permanent. What churns: force structures, current doctrine,
+  order-of-battle data, and the technology assessment of the moment —
+  drones at mass, hypersonics, AI in command and control — which will read
+  as period pieces. So will most "lessons" from the most recent war; they
+  almost always are. There is also a re-foundation specific to this domain:
+  archives open on thirty-year rules and declassification schedules, so the
+  standard account of any war you live through will be rewritten twice.
+  Plan to reread the standard history of anything twenty years after you
+  first read it, and expect to be embarrassed.
+- *A lifetime practice:* one campaign a year, studied from primary sources,
+  with a written assessment you keep. A commonplace book of sourced
+  quotations. A wargaming group that meets. Terrain walked deliberately —
+  a battlefield a year is forty battlefields.
+- *Rabbit holes:* the Prussian general staff's invention of the staff ride;
+  Blackett's operational research circus in the Battle of the Atlantic; the
+  Dreadnought race as a budget problem; the logistics of the 1918 Ludendorff
+  offensives; the 1973 Sinai argument about tanks and anti-tank missiles,
+  which is being had again right now with different nouns.
+
 ---
 
 ## Design (industrial, graphic, interaction)

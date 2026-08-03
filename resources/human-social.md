@@ -154,18 +154,18 @@ a cause, and how you argue from sources that were never made for you.
   biography can do. For the imperial argument, read Niall Ferguson's *Empire*
   against Caroline Elkins' *Legacy of Violence* — both are contested by
   specialists, and the disagreement is the education.
-- *Re-foundation watch:* prehistory and premodern demography are being rewritten
-  from outside the archive — ancient DNA, isotopes, ice cores, tree rings,
-  pollen cores. The Justinianic plague's severity, the Black Death's reach, and
-  every Bronze Age migration story have all moved since 2015 and will move
-  again. Mass digitization plus text mining is opening corpora no one could read
-  by hand; archives open and close politically (Soviet ones opened in the 1990s,
-  Chinese ones have been closing since roughly 2013). Durable: Braudel's speeds,
-  the lateness of the Great Divergence, the archive-as-selection-effect.
-  Fashion: whichever single-cause grand narrative is currently selling. You have
-  gone stale when your account of the Neolithic, of plague, or of who moved
-  where predates the genomics, or when your reflex citation is a trade
-  bestseller rather than a monograph.
+- *Re-foundation watch:* prehistory and premodern demography are being
+  rewritten from outside the archive — ancient DNA, isotopes, ice cores, tree
+  rings, pollen cores. The Justinianic plague's severity, the Black Death's
+  reach, and every Bronze Age migration story have all moved since 2015 and
+  will move again. Mass digitization plus text mining is opening corpora no one
+  could read by hand; archives open and close politically (Soviet ones opened
+  in the 1990s, Chinese ones have been closing since roughly 2013). Durable:
+  Braudel's speeds, the lateness of the Great Divergence, the
+  archive-as-selection-effect. Fashion: whichever single-cause grand narrative
+  is currently selling. You have gone stale when your account of the Neolithic,
+  of plague, or of who moved where predates the genomics, or when your reflex
+  citation is a trade bestseller rather than a monograph.
 - *A lifetime practice:* adopt one place — a town, a parish, a river valley,
   a city block — and work its records for the rest of your life. Land
   registers, censuses, newspapers, wills, photographs. Nobody else will do it,
@@ -1320,10 +1320,10 @@ into determinism.
 **Beyond T1 — the long shelf**
 
 - *Branch into:* **Urban geography and planning** — Peter Hall, *Cities of
-  Tomorrow*; owns why cities take the shapes they do and who decided. **Political
-  ecology** — Blaikie & Brookfield, *Land Degradation and Society*, and Michael
-  Watts, *Silent Violence*; owns who bears environmental harm and why it is
-  never evenly distributed. **Water and climate as constraints** — Peter
+  Tomorrow*; owns why cities take the shapes they do and who decided.
+  **Political ecology** — Blaikie & Brookfield, *Land Degradation and
+  Society*, and Michael Watts, *Silent Violence*; owns who bears environmental
+  harm and why it is never evenly distributed. **Water and climate as constraints** — Peter
   Gleick's *The World's Water* volumes; owns the two variables that bind
   hardest and soonest. **Remote sensing** — Lillesand, Kiefer & Chipman,
   *Remote Sensing and Image Interpretation*; owns measuring the surface of the
@@ -1718,6 +1718,6 @@ medium that carries it, and the market that pays for it.
   (Pooley & Socolow's debunking, and why the myth persists); the Payne Fund
   studies, the first mass-media effects research and still surprisingly good;
   Radio Rwanda and the incitement literature, including Yanagizawa-Drott's
-  estimate of radio's causal contribution to the genocide; Brazilian telenovelas
-  and fertility decline (La Ferrara and co-authors); the Associated Press wire
-  and how objectivity started as a business decision.
+  estimate of radio's causal contribution to the genocide; Brazilian
+  telenovelas and fertility decline (La Ferrara and co-authors); the Associated
+  Press wire and how objectivity started as a business decision.

@@ -400,6 +400,74 @@ from systems that refuse to hold still.
   LTER network; Society for Conservation Biology. Organization for Tropical
   Studies field courses are the classic immersive apprenticeship.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* biogeochemistry — Schlesinger & Bernhardt, **Biogeochemistry:
+  An Analysis of Global Change**: the elemental accounting under everything
+  else. Landscape ecology and macroecology — Turner & Gardner, **Landscape
+  Ecology in Theory and Practice**, with Brown, **Macroecology**: pattern at
+  the scales where management actually happens. Behavioural ecology — Davies,
+  Krebs & West, **An Introduction to Behavioural Ecology**: why an animal does
+  the thing. Limnology and stream ecology — Wetzel, **Limnology**, and Allan &
+  Castillo, **Stream Ecology**: fresh water, which is 0.01% of the water and
+  most of the biodiversity crisis. Marine ecology — Kaiser et al., **Marine
+  Ecology: Processes, Systems and Impacts**. Soil ecology — Coleman, Callaham &
+  Crossley, **Fundamentals of Soil Ecology**: the least-observed ecosystem on
+  Earth, directly underfoot. Disease ecology — Keeling & Rohani, **Modeling
+  Infectious Diseases in Humans and Animals**: the branch that turned out to
+  matter to everyone. Conservation and restoration — Primack, **Essentials of
+  Conservation Biology**: where the science has to produce a decision.
+- *The long canon:* Charles Elton, **Animal Ecology** (1927) and **The Ecology
+  of Invasions by Animals and Plants** (1958) — both short, both founding.
+  G. Evelyn Hutchinson's essays, especially "Homage to Santa Rosalia" (1959)
+  and "The Paradox of the Plankton" (1961), which set the field's agenda in
+  about twenty pages. MacArthur, **Geographical Ecology**. Worster, **Nature's
+  Economy**, and Kingsland, **Modeling Nature**, for how ecology's ideas were
+  shaped by the politics around them. Gilbert White, **The Natural History of
+  Selborne** (1789), the origin of the phenological record and the model for
+  what you will be doing yourself. Bernd Heinrich, **Ravens in Winter** and
+  **Bumblebee Economics**, the best demonstration in print that one person with
+  patience can still do real ecology. Peter & Rosemary Grant, **40 Years of
+  Evolution**, the payoff of a single sustained study. E.O. Wilson, **The
+  Diversity of Life**, and **Half-Earth** with its critics. Emma Marris,
+  **Rambunctious Garden**, and Fred Pearce, **The New Wild**, two heterodox
+  attacks on restoration baselines and invasion biology — both overstate,
+  both are worth the argument. Suzanne Simard, **Finding the Mother Tree**,
+  read alongside the 2023 critique by Karst, Jones and Hoeksema in *Nature
+  Ecology & Evolution*: the single best available lesson in how a compelling
+  story outruns its evidence. Terborgh & Estes, **Trophic Cascades**. Goulson,
+  **Silent Earth**, on insect decline, with the methodological debate attached.
+- *Re-foundation watch:* natural history skill, sampling theory, energetics,
+  coexistence theory and the species–area relationship are permanent. The
+  evidence base is being replaced underneath them. eDNA and metabarcoding are
+  redefining what a survey is; passive acoustic monitoring and camera traps
+  with machine identification have made continuous census possible where it
+  never was; daily few-metre satellite imagery and biologging small enough for
+  insects close the gap between the plot and the planet; GBIF, eBird and
+  iNaturalist have created an observational record larger than everything
+  professional ecology assembled in a century. Expect that in twenty years a
+  species inventory is a water sample, and that the hard problems have moved to
+  inference and to attribution of change. The stale signal is personal and
+  worth naming: your baseline for a place is your own memory of it. Read
+  Pauly's 1995 note on shifting baselines once a decade as a corrective.
+- *A lifetime practice:* this is the domain where a thirty-year record is
+  worth more than a thirty-year career elsewhere. Pick one patch and record it
+  forever, with a method you can repeat when bored, ill, or eighty: first
+  flowering and leaf-out dates, first arrivals and last departures, ice-on and
+  ice-off, a permanent vegetation plot with a fixed photo point, a moth trap on
+  a set schedule, a monthly pond dip, an annual breeding-bird transect on the
+  same route. Consistency beats intensity absolutely. Submit it to a scheme —
+  eBird, iNaturalist, Nature's Notebook, a butterfly monitoring scheme, the
+  Christmas Bird Count — so the data survives you, which is the whole point.
+- *Rabbit holes:* the Isle Royale wolf–moose study, over sixty years of
+  predator–prey data and a conclusion that keeps changing. The Yellowstone wolf
+  reintroduction and the honest state of the trophic-cascade evidence, which is
+  weaker than the documentaries. The Kaibab deer irruption, a textbook story
+  for fifty years that turned out to be largely wrong. Krakatau's
+  recolonisation after 1883, island biogeography's natural experiment.
+  Leafcutter ants, which farm a fungus and manage its pathogens with
+  antibiotics from a symbiotic bacterium.
+
 ---
 
 ## Medicine & physiology
@@ -504,6 +572,75 @@ different standards of proof, and confusing them is the characteristic error.
   practice — the last undervalued and badly needed.
 - *Community:* American Physiological Society and its Summit; specialty
   societies (ACC, ADA, IDSA); the Cochrane Collaboration.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* immunology — **Janeway's Immunobiology**: the system that
+  explains vaccines, allergy, transplant rejection and most modern therapeutics
+  at once. Neuroscience and neurology — Kandel et al., **Principles of Neural
+  Science**: the organ with the worst physiology-to-clinic translation record.
+  Pharmacology — **Rang & Dale's Pharmacology**: dose, receptor, time, before
+  any drug names. Infectious disease — Sherris **Medical Microbiology**, with
+  **Mandell, Douglas, and Bennett's** as reference: the field that keeps
+  returning. Epidemiology and causal inference — Rothman, **Epidemiology: An
+  Introduction**, then Hernán & Robins, **Causal Inference: What If** (free
+  PDF): the most transferable thing in this entire domain. Comparative and
+  environmental physiology — Schmidt-Nielsen, **Scaling: Why Is Animal Size So
+  Important?**, and Hochachka & Somero, **Biochemical Adaptation**: physiology
+  understood by comparison rather than by one species. Exercise physiology —
+  McArdle, Katch & Katch, **Exercise Physiology**: the only intervention that
+  works on nearly every system. Endocrinology — **Williams Textbook of
+  Endocrinology**: slow signals, and where metabolic medicine is being rewritten
+  now.
+- *The long canon:* Roy Porter, **The Greatest Benefit to Mankind**, the
+  standard history of medicine, long and worth it. William Osler,
+  **Aequanimitas**, for the ethos the profession still half-believes.
+  Mukherjee, **The Emperor of All Maladies**. Nuland, **How We Die**, unsparing
+  and clarifying. Gawande, **Being Mortal**, the most useful book here about
+  what medicine is for. Groopman, **How Doctors Think**, on diagnostic error as
+  cognitive bias. Thomas McKeown, **The Role of Medicine**, arguing that
+  mortality fell from nutrition and sanitation rather than clinical medicine —
+  read with Szreter's corrections; and Illich, **Medical Nemesis**, the
+  furthest version of that attack. Then the modern correctives that actually
+  changed practice: Welch, **Overdiagnosed**; Prasad & Cifu, **Ending Medical
+  Reversal**; Goldacre, **Bad Pharma**. Doll & Hill's 1950 and 1954 smoking
+  papers, and Hill's 1965 "The Environment and Disease: Association or
+  Causation?", nine pages that everyone cites and few read. Skloot, **The
+  Immortal Life of Henrietta Lacks**, and Jones, **Bad Blood**, on Tuskegee —
+  the ethics is not a supplement to this field. Nesse & Williams, **Why We Get
+  Sick**, for the evolutionary frame. Oliver Sacks, anything, for what it
+  looks like to take a patient seriously as a person.
+- *Re-foundation watch:* physiology is durable — the coupled loops, oxygen
+  delivery, pharmacokinetics, anatomy, and the statistics of trials will not
+  move. Therapeutics move constantly and this is the domain where staying stale
+  causes actual harm. In the last five years alone, GLP-1 receptor agonists
+  reorganised metabolic medicine, the first CRISPR therapy was approved,
+  cell therapies moved past haematological cancer, and mRNA became a platform.
+  Expect the next twenty years to bring in-vivo editing, multi-cancer early
+  detection blood tests with a serious overdiagnosis problem attached,
+  continuous phenotyping from wearables, and machine diagnosis whose
+  validation problem is unsolved. The check when you return is concrete: take
+  one common condition, pull the current guideline, and compare it line by line
+  against what you wrote in your artifact. Count the reversals. If there are
+  none, you have the wrong guideline.
+- *A lifetime practice:* two, and they run in parallel for decades. Be your own
+  cohort — a personal record with real measurements taken the same way every
+  time: blood pressure by manual cuff, resting heart rate, weight, an annual
+  fixed-route time trial as a fitness proxy, sleep, periodic labs. Do not
+  over-test; the value is the trend and the first-hand education in measurement
+  error, biological variation and regression to the mean, which no textbook
+  delivers. Second, run a journal club of one: read a single clinical trial a
+  week, all the way to a judgment about whether it should change anything, for
+  thirty years. Keep a list of things you believed that were later reversed —
+  that list is the real credential. And keep current first aid and CPR
+  certification; it is the one clinical skill anyone may use.
+- *Rabbit holes:* Semmelweis, and why correct evidence failed to persuade —
+  the best case study in medicine's epistemics. Barry Marshall drinking *H.
+  pylori*, and what it took to overturn a settled cause. Scurvy, whose cure was
+  discovered and then lost twice. The Minnesota Starvation Experiment, still
+  the definitive human data on semi-starvation and still unrepeatable. The
+  open-label placebo literature, where telling people it is a placebo does not
+  abolish the effect.
 
 ---
 
