@@ -14,6 +14,7 @@ at three timescales that feed each other:
 | Timescale | Document | Question it answers |
 |-----------|----------|---------------------|
 | Decades   | `phases/` | What kind of capability am I building toward? |
+| The whole arc | `03-spine.md` | What order does everything go in, and why? |
 | Years     | `templates/annual-plan.md` | What 2–3 things get serious investment this year? |
 | Weeks     | `templates/weekly-log.md` | What did I actually practice, build, and read? |
 
@@ -21,7 +22,8 @@ at three timescales that feed each other:
 
 ```
 01-principles.md          How learning actually compounds (methods that work)
-02-map.md                 Your personal knowledge map — customize this first
+02-map.md                 The knowledge map — the territory, in three depth tiers
+03-spine.md               The linear plan: all 44 domains sequenced, year 1 to 30+
 phases/
   decade-1-foundations.md   Years 1–10: fundamentals, breadth, first depth
   decade-2-mastery.md       Years 11–20: specialization, original work, teaching
@@ -30,23 +32,30 @@ templates/
   annual-plan.md            Fill out every January (or start of academic year)
   annual-review.md          Fill out every December
   weekly-log.md             Lightweight tracking, ~5 minutes per week
-resources/                  Survey + canon + course for every domain in the map
+resources/
+  <cluster>.md              Every domain at all three tiers: what the field asks,
+                            its big ideas, and T3/T2/T1 paths with texts and practice
+  modes.md                  The full range of sources beyond books
+  kit.md                    Equipment and materials worth buying, with prices
 log/                        Your completed plans, reviews, and logs live here
 ```
 
 ## How to use this repo
 
 1. **Read `01-principles.md` once.** It's the operating manual for everything else.
-2. **Fill in `02-map.md`.** Replace the placeholders with your actual field(s)
-   of study and interests. Everything downstream keys off this.
-3. **Pick this year's targets from `resources/`.** Each domain in the map has
-   a matching entry there — a survey, a canon work, and a course — so a
-   literacy pass is always "read these two, take that one, write the summary."
-4. **Copy `templates/annual-plan.md` into `log/` and fill it out** (e.g.
-   `log/2026-plan.md`). This is where the decade-scale phases become concrete.
-5. **Log weekly, review annually.** The weekly log is deliberately tiny so you
+2. **Read `02-map.md`.** The territory and the three depth tiers. Fill in the
+   tier-assignment table and rate yourself on the fundamentals.
+3. **Open `03-spine.md` to the current year.** It tells you which two domains
+   are up, why those and not others, what to buy, and what has to exist by
+   December. If you only ever read one file after the map, read this one.
+4. **Pull the details from `resources/`.** Every domain has a full entry —
+   what the field is asking, its big ideas, and paths at all three depths.
+   `modes.md` keeps you out of book-only ruts; `kit.md` says what to buy.
+5. **Copy `templates/annual-plan.md` into `log/` and fill it out** (e.g.
+   `log/2026-plan.md`). This is where the spine's year becomes your year.
+6. **Log weekly, review annually.** The weekly log is deliberately tiny so you
    actually do it. The annual review is where you correct course.
-6. **Revise the phase documents every few years.** They are forecasts, not
+7. **Revise the spine and phases every few years.** They are forecasts, not
    contracts. A plan you never revise is a plan you abandoned.
 
 ## The one rule
