@@ -64,14 +64,12 @@ most of them.
 
 ## 2. The frequency ladder
 
-This is the spine of the file. The claim isn't that less news is more
-virtuous. It is stranger than that: **the same event is better understood at
-lower frequency.** A weekly account of a bank failure is more accurate than
-the daily one, because the corrections have landed. The annual account is
-better still, because by then someone has the numbers. You lose almost
-nothing but the adrenaline.
-
-So build a tiered diet, weighted at the bottom of the ladder.
+The spine of the file. The claim isn't that less news is more virtuous; it is
+stranger than that. **The same event is better understood at lower
+frequency.** A weekly account of a bank failure is more accurate than the
+daily one, because the corrections have landed. The annual account is better
+still, because by then someone has the numbers. You lose almost nothing but
+the adrenaline. So build a tiered diet, weighted at the bottom.
 
 ### Daily — small, optional, and strictly time-boxed
 
@@ -83,20 +81,20 @@ Journal* — works if you treat it as an index, not a menu. **Nature
 Briefing** and *Science*'s **ScienceAdviser** are the science equivalents,
 and unusually dense.
 
-The purpose of this tier is knowing what *categories* of thing are
-happening, so the weekly tier has somewhere to attach. Reading a day-one
-story to its end is almost always a mistake — the end of it is speculation.
+This tier exists so you know what *categories* of thing are happening, giving
+the weekly tier somewhere to attach. Reading a day-one story to its end is
+almost always a mistake — the end of it is speculation.
 
 ### Weekly — the highest signal per minute
 
-If you keep one tier, keep this one. A week is long enough for a story to
+If you keep one tier, keep this one: a week is long enough for a story to
 acquire a shape and short enough to act on.
 
-**The Economist** is the strongest single object here: one magazine, finite,
-global, and it *ends* — and that property matters more than its analysis,
-because a finite artifact you finish is structurally different from a feed
-you abandon. Its house view is identifiably liberal-market, and knowing that
-is part of reading it well. Weekly research roundups from **Nature** and
+**The Economist** is the strongest single object here — one magazine,
+finite, global, and it *ends*. That matters more than its analysis, because
+a finite artifact you finish is structurally different from a feed you
+abandon. Its house view is identifiably liberal-market, and knowing that is
+part of reading it well. Weekly research roundups from **Nature** and
 **Science** cover the scientific week. Add one or two sector newsletters for
 your spike — energy, AI, biotech, whatever's yours — and stop.
 
@@ -161,18 +159,18 @@ Journalism is a lossy compression of something else. Often you can just read
 the something else.
 
 **Journals and their news sections.** *Nature* and *Science* run
-professional news desks alongside the research — usually the best available
-account of a scientific story, written by reporters who can read the paper.
+professional news desks alongside the research — usually the best account of
+a scientific story anywhere, written by reporters who can read the paper.
 *NEJM*, *The Lancet*, *The BMJ*, and *Cell* do the same in medicine and
 biology. Tables of contents are free even where the research is paywalled,
-and a library card usually closes the gap.
+and a library card closes the gap.
 
 **Preprint servers.** **arXiv** (physics, maths, CS), **bioRxiv**,
 **medRxiv**, **SSRN** and **NBER working papers** (economics, law),
 **PsyArXiv**. These put you months ahead of journalism. **The warning is not
 optional: a preprint has not been peer reviewed.** It is one lab's claim
-before anyone checked. Read preprints to see what a field is *trying*, never
-to conclude what it has established.
+before anyone checked. Read preprints for what a field is *trying*, never
+for what it has established.
 
 **Institutional and government releases.** Statistical agencies publish
 before anyone reports on them. Central bank statements, minutes, and press
@@ -183,26 +181,26 @@ self-explaining, and the best available training in reading argument. Treaty
 texts, filings, manifestos, budget documents: primary sources are duller than
 their coverage and always more precise.
 
-**How to read a science story backwards.** When a headline claims a finding,
-run this before you believe it or repeat it:
+**How to read a science story backwards.** Before believing or repeating a
+headline finding:
 
 1. **Find the paper.** If the story doesn't name it, that is already
    information about the story.
 2. **Check the sample size** against the claim's ambition.
 3. **Check the effect size, not just significance.** "Statistically
-   significant" says an effect probably isn't zero. It says nothing about
-   whether it matters.
-4. **Check whether the headline claim is the paper's claim.** Compare the
-   headline to the abstract's last sentence. Mismatch is the norm, and it
-   usually originates in the university press release, not the journalist.
+   significant" says an effect probably isn't zero — nothing about whether
+   it matters.
+4. **Check whether the headline claim is the paper's claim.** Compare it to
+   the abstract's last sentence. Mismatch is the norm, and usually
+   originates in the university press release, not the journalist.
 5. **Check the study type.** Observational, animal model, or randomised
-   trial? "Linked to" means correlation and is doing enormous work in most
+   trial? "Linked to" means correlation, and is doing enormous work in most
    health headlines.
 6. **Ask whether it replicated,** or whether one result is being reported as
    a finding.
 
 This is the statistics fundamental in `resources/fundamentals.md` used in
-anger, and it's the highest-return application of it in ordinary life. Ten
+anger, and the highest-return application of it in ordinary life. Ten
 minutes on one story a week does more for your calibration than any amount
 of extra reading.
 
