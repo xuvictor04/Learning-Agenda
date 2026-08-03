@@ -290,8 +290,9 @@ or repeat, from arriving light alone.
   for rocky worlds, and that dark matter is detected or effectively abandoned
   as a WIMP. Durable: stellar structure, radiative transfer, orbital dynamics,
   spectroscopy, the logic of the distance ladder. The stale signal is
-  numerical — if the values you quote for H₀, the exoplanet count or the merger
-  tally are the ones you first learned, you are out of date by construction.
+  numerical — if the values you quote for H₀, the exoplanet count or the
+  merger tally are the ones you first learned, you are out of date by
+  construction.
 - *A lifetime practice:* keep an observing log, on paper, for decades. Not
   pretty pictures — measurements. Estimate variable star magnitudes and submit
   them to the AAVSO, where a fifty-year light curve assembled by amateurs is
