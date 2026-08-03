@@ -1562,3 +1562,108 @@ on the difference between knowing about a thing and being able to do it.
   juried shows and competitions, the local makerspace, farmers' markets,
   gigs, and apprenticeship in both directions. There is no licensure and no
   degree. The work in your hands is the entire argument.
+
+**Beyond T1 — the long shelf**
+
+Everything below is measured in decades of material under your hands, not in
+books read. The books are here because they shorten the plateaus; they do
+not substitute for a single hour at the bench.
+
+- *Branch into:* within woodworking — chairmaking (Peter Galbert,
+  *Chairmaker's Notebook*), which owns compound angles and has no square
+  reference anywhere; timber framing (Jack Sobon, *Build a Classic
+  Timber-Framed House*); instrument making (Cumpiano & Natelson,
+  *Guitarmaking: Tradition and Technology*); boatbuilding (Greg Rössel,
+  *Building Small Boats*), which owns curves that must also be watertight.
+  In metal — blacksmithing (Mark Aspery's *Mastering the Fundamentals of
+  Blacksmithing*), which owns forming hot, and jewellery (Oppi Untracht,
+  *Jewelry Concepts and Technology*), which owns everything small. In clay —
+  glaze chemistry (John Britt, *The Complete Guide to High-Fire Glazes*) and
+  kiln building (Frederick Olsen, *The Kiln Book*), the two places potters
+  stop being decorators. In textiles — tailoring (Cabrera & Meyers, *Classic
+  Tailoring Techniques*), which owns fitting a moving body. In food —
+  bread (Hamelman, *Bread*), fermentation (Sandor Katz, *The Art of
+  Fermentation*), charcuterie (Ruhlman & Polcyn, *Charcuterie*). Adjacent
+  and cheap to start: bookbinding (Arthur Johnson, *The Thames & Hudson
+  Manual of Bookbinding*) and electronics at the bench (Hayes & Horowitz,
+  *Learning the Art of Electronics*).
+- *The long canon:* David Pye, *The Nature and Art of Workmanship* — the one
+  indispensable book here; his distinction between the workmanship of risk
+  and the workmanship of certainty will organize forty years of your
+  thinking. George Sturt, *The Wheelwright's Shop*, the best account ever
+  written of knowledge that was never written down. Richard Sennett, *The
+  Craftsman*. Soetsu Yanagi, *The Unknown Craftsman*, for the argument that
+  anonymity and use are the point. James Krenov, *A Cabinetmaker's Notebook*
+  — precious in places, and nobody writes better about looking at wood. Tage
+  Frid, *Tage Frid Teaches Woodworking*, and Robert Wearing, *The Essential
+  Woodworker*, as the two clearest technical voices. Roubo's *L'Art du
+  Menuisier* in the Lost Art Press translation, for what a pre-industrial
+  shop actually did. Peter Korn, *Why We Make Things and Why It Matters*.
+  Michael Polanyi, *The Tacit Dimension*, for the theory of why none of this
+  transmits by text. Josef Albers, *Interaction of Color*, for anyone
+  working with glaze, dye or pigment. M.C. Richards, *Centering*. Read
+  Ericsson's *Peak* on deliberate practice, critically — the framework is
+  useful and the ten-thousand-hours version of it is folklore.
+- *The project ladder:* the ladder is the domain. Rungs one to four are
+  years one to three; the rest are decades.
+  1. A first finished object in a weekend: a green-wood spoon, a pinch pot,
+     a loaf, a hemmed napkin, a soldered circuit on perfboard. Used, kept,
+     not thrown away.
+  2. The same small thing twenty times — twenty spoons, twenty bowls thrown
+     to the same weight and height within five percent. This rung is where
+     most people quit, and it is where the hands actually change.
+  3. A thing that must fit another thing: a drawer that runs, a lid that
+     seats, a garment fitted to a person, a repair someone is waiting for.
+     Tolerance arrives here, and with it the first real failures.
+  4. Hand-cut dovetails, through then half-blind, straight off the saw. The
+     analogues: a mitred corner that closes, a fitted collar, a jar with a
+     seating gallery, a piece played from memory without a stumble.
+  5. A chair. This is the field's traditional proof piece, and deservedly:
+     compound angles, no square reference, ergonomics you cannot fake, and
+     strangers who will sit in it and judge it with their bodies.
+  6. A piece with a curve you made rather than cut — a bent lamination or a
+     steam-bent component. Forms, glue-up schedules, springback, and a
+     clock running once the glue is open. It teaches planning.
+  7. A commission: someone else's brief, deadline, budget and taste.
+     Delivered on time and at the price you quoted. Quoting it correctly is
+     half the lesson and you will get it wrong twice.
+  8. A tool of your own making — a plane, a knife, a marking gauge, a jig,
+     a kiln, a glaze recipe, a starter kept alive for a decade. The point at
+     which you stop being downstream of a catalogue.
+  9. A body of work: twenty or more pieces with a recognizable hand, shown
+     or sold, made at a speed that would let someone live on it. Quality and
+     speed together is the actual line between amateur and professional.
+  10. The lifetime rung: teach it — an apprentice, or a class run for years
+      — and make one piece built to be repaired and still in use in a
+      hundred years. Both are contributions of a kind books cannot be.
+- *Re-foundation watch:* almost nothing here expires, and that is the reason
+  this domain sits in a seventy-year plan at all. Wood movement, clay body
+  and glaze fit, edge geometry, fermentation biology, and the plain fact
+  that skill is hours under the tool will be identical in 2065. What does
+  churn is the catalogue: finishes and adhesives get reformulated and
+  regulated, abrasives and consumables change, specific timbers become
+  CITES-restricted, glaze materials lose lead and cadmium, and brands rise
+  and die. There is one real shift coming — CNC and printing will absorb
+  more of the shaping, which raises rather than lowers the value of Pye's
+  workmanship of risk, because certainty becomes purchasable and risk does
+  not. Nothing you learn about the material will be obsolete. The
+  suppliers list will be.
+- *A lifetime practice:* a standing shop night, the same evening every week,
+  protected the way an appointment is protected — over thirty years that is
+  five thousand hours, and it is how craft actually accumulates. A build log
+  with photographs, dimensions, timings and failures, kept from the first
+  spoon. Sharpening weekly and a full maintenance day each quarter, treated
+  as practice rather than overhead, per `kit.md`. Buy the durable tools once,
+  early, and maintain them for fifty years; decide in advance who gets them.
+  Teach one beginner a year. Keep every first attempt — the shelf of them is
+  the only honest record of how far you have come.
+- *Safety, once:* fine wood dust and dry clay dust are long-term respiratory
+  hazards rather than nuisances — extraction, a fitted respirator, and wet
+  cleaning rather than sweeping in a ceramics space. Ventilate solder and
+  finishes. The guard stays on the saw. `kit.md` lists the gear; buy it
+  before the tools that need it.
+- *Rabbit holes:* Japanese joinery and the *sashimono* tradition; the
+  regional variants of the Windsor chair and what the local timber dictated;
+  ash glazes made from wood you burned yourself; Shaker proportion; the
+  microbiology of a sourdough culture; pattern-welded steel; kintsugi, and
+  the idea that a repair can be worth more than the unbroken object.

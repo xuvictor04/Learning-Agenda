@@ -1001,9 +1001,10 @@ ones a script doctor asks.
   Rewatching is not nostalgia here; it is the method the medium requires.
 - *A lifetime practice:* keep a viewing and playgoing log — title, date and
   place, plus one paragraph written the same night, before anyone else's
-  opinion reaches you. Write criticism in public somewhere, regularly, under your
-  name. Act in or direct one production every year or two, community theater
-  entirely counts, because the analytic vocabulary goes dead without it.
+  opinion reaches you. Write criticism in public somewhere, regularly, under
+  your own name. Act in or direct one production every year or two — community
+  theater entirely counts, because the analytic vocabulary goes dead without
+  it.
 - *Rabbit holes:* film loss and nitrate decay — the Library of Congress's 2013
   survey found only about fourteen percent of American feature films from
   1912–1929 survive complete in their original format; the Hays Code and what

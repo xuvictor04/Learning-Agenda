@@ -1327,9 +1327,10 @@ into determinism.
   constraints** — Peter Gleick's *The World's Water* volumes; owns the two
   variables that bind hardest and soonest. **Remote sensing** — Lillesand,
   Kiefer & Chipman, *Remote Sensing and Image Interpretation*; owns measuring
-  the surface of the earth without touching it. **Cartography and its politics** — J.B. Harley,
-  "Deconstructing the Map" (1989), with Mark Monmonier's *How to Lie with
-  Maps*; owns the fact that every map is an argument. **Migration and
+  the surface of the earth without touching it. **Cartography and its
+  politics** — J.B. Harley, "Deconstructing the Map" (1989), with Mark
+  Monmonier's *How to Lie with Maps*; owns the fact that every map is an
+  argument. **Migration and
   population geography** — owns who moves, who cannot, and what borders
   actually do. **Military geography and strategy** — the war college and IISS
   literature; owns terrain as a budget constraint on force. **One region,

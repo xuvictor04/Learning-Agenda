@@ -131,28 +131,27 @@ more particles; it is that our two best theories cannot both be right.
   Trouble with Physics* — read the string-theory quarrel from both sides
   rather than picking one. Gleick, *Genius*, for the human cost of the
   Feynman legend.
-- *Re-foundation watch:* the durable core is close to permanent — Lagrangian
-  and Hamiltonian mechanics, Maxwell, thermodynamics, Noether, the
-  renormalization group. What moves is what can be measured. Expect the next
-  two decades to be reshaped by quantum simulators and error-corrected
-  processors doing physics rather than demos, by gravitational-wave catalogues
-  going from hundreds to tens of thousands, by precision tables (atomic
-  clocks, electron EDM, atom interferometry) closing in on new physics from
-  below rather than above, and by lattice QCD plus machine learning settling
-  quantities that were once experimental questions. Dark matter is the live
-  bet: another twenty years of null results would be a genuine re-foundation.
-  The signal you have gone stale is that your list of open problems is the one
-  you learned — if you cannot name a null result or a bound tightened in the
-  last five years, you are reciting.
+- *Re-foundation watch:* the core is close to permanent — Lagrangian and
+  Hamiltonian mechanics, Maxwell, thermodynamics, Noether, the renormalization
+  group. What moves is what can be measured. Expect the next two decades to be
+  reshaped by quantum simulators and error-corrected processors doing physics
+  rather than demos, by gravitational-wave catalogues growing by two orders of
+  magnitude, by precision tabletop work (atomic clocks, electron EDM, atom
+  interferometry) hunting new physics from below rather than above, and by
+  lattice QCD settling quantities that used to be experimental questions. Dark
+  matter is the live bet: another twenty years of nulls would be a genuine
+  re-foundation. You have gone stale when your list of open problems is the one
+  you learned — if you cannot name a bound tightened in the last five years,
+  you are reciting.
 - *A lifetime practice:* keep a physics notebook and a bench. The notebook is
   for derivations from scratch, one a week, no references open — the hydrogen
   atom, the harmonic oscillator, the Lorentz transformation, a Fermi estimate
-  of something you saw that day. Doing this for thirty years is the difference
-  between having studied physics and knowing it. The bench is for measurement:
-  measure *g* to three figures, the speed of light with a microwave and
-  cheese, Planck's constant with LEDs, and build the MIT CosmicWatch muon
-  detector — then keep its count rate logged against barometric pressure for
-  years and watch the atmosphere breathe.
+  of something you saw that day. Thirty years of that is the difference between
+  having studied physics and knowing it. The bench is for measurement: *g* to
+  three figures, the speed of light with a microwave and cheese, Planck's
+  constant from LEDs, and the MIT CosmicWatch muon detector — whose count rate
+  you then log against barometric pressure for years, watching the atmosphere
+  breathe.
 - *Rabbit holes:* Maxwell's demon and Landauer's principle, where
   thermodynamics turns out to be about information. The Casimir effect and
   what it does and does not prove about vacuum energy. The Berry phase — a
