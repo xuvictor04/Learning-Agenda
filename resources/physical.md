@@ -260,7 +260,7 @@ or repeat, from arriving light alone.
   next generation of stars is decided. High-energy astrophysics — Longair,
   *High Energy Astrophysics*: accretion, jets, and everything that ends
   badly. Gravitational-wave astronomy — Maggiore, *Gravitational Waves*, two
-  volumes: a channel opened in 2015 that is still mostly unexploited.
+  volumes: a channel opened in 2015 and still mostly unexploited.
   Astrostatistics — Ivezić, Connolly, VanderPlas & Gray, *Statistics, Data
   Mining, and Machine Learning in Astronomy*: the survival skill for the
   survey era.
@@ -268,34 +268,30 @@ or repeat, from arriving light alone.
   the person who built much of it. Overbye, *Lonely Hearts of the Cosmos*, the
   same story as human comedy, and still the best book about how cosmology is
   actually done. Harwit, *Cosmic Discovery*, whose thesis is that discoveries
-  follow instruments, not theories — read it and then test it against
-  everything since. Koestler, *The Sleepwalkers*, brilliant and unreliable on
-  Kepler; correct it with Gingerich, *The Book Nobody Read*, and Kuhn, *The
-  Copernican Revolution*. Chandrasekhar, *Truth and Beauty*, on aesthetics as
-  a working method. Levin, *Black Hole Blues and Other Songs from Outer
-  Space*, on forty years of building LIGO before it worked. Levesque, *The
-  Last Stargazers*, on observing as a craft that is disappearing. Ferris,
-  *Coming of Age in the Milky Way*, for the whole arc. Hirshfeld, *Parallax*,
-  on the two-century fight to measure one stellar distance. Burnham's
-  *Celestial Handbook*, three volumes of obsessive object-by-object
-  description, the strangest and most loved book in amateur astronomy — its
-  data are dated, its eye is not. Bartusiak, *The Day We Found the Universe*.
-  Hoyle's *Home Is Where the Wind Blows*, for the losing side argued by its
-  most formidable holder.
-- *Re-foundation watch:* this is the most instrument-driven field on the page,
-  and the instruments are all arriving at once. Rubin Observatory's LSST turns
-  the sky into a decade-long movie with millions of alerts a night; Euclid,
-  DESI, Roman and SKA reshape cosmology's error bars; JWST has already forced
-  a rethink of early galaxy assembly; pulsar timing arrays opened the
-  nanohertz band in 2023; gravitational-wave catalogues will grow by two
-  orders of magnitude. Assume that in twenty years the Hubble tension has
-  either resolved or become a new physics result, that the exoplanet census
-  includes atmospheric chemistry for rocky worlds, and that dark matter is
-  either detected or effectively abandoned as a WIMP. Durable: stellar
-  structure, radiative transfer, orbital dynamics, spectroscopy, and the logic
-  of the distance ladder. The stale signal is numerical — if the values you
-  quote for H₀, the exoplanet count, or the number of merger detections are
-  the ones you first learned, you are out of date by construction.
+  follow instruments rather than theories — test it against everything since.
+  Koestler, *The Sleepwalkers*, brilliant and unreliable on Kepler; correct it
+  with Gingerich, *The Book Nobody Read*, and Kuhn, *The Copernican
+  Revolution*. Chandrasekhar, *Truth and Beauty*, on aesthetics as method.
+  Levin, *Black Hole Blues and Other Songs from Outer Space*, on forty years
+  of building LIGO before it worked. Levesque, *The Last Stargazers*, on
+  observing as a craft that is disappearing. Ferris, *Coming of Age in the
+  Milky Way*, for the whole arc. Hirshfeld, *Parallax*, on the two-century
+  fight to measure one stellar distance. Burnham's *Celestial Handbook*, three
+  volumes of obsessive object-by-object description — the data are dated, the
+  eye is not. Hoyle's *Home Is Where the Wind Blows*, the losing side argued
+  by its most formidable holder.
+- *Re-foundation watch:* the most instrument-driven field here, and the
+  instruments are all arriving at once. Rubin Observatory's LSST turns the sky
+  into a decade-long movie with millions of alerts a night; Euclid, DESI, Roman
+  and SKA reshape cosmology's error bars; JWST has already forced a rethink of
+  early galaxy assembly; pulsar timing arrays opened the nanohertz band in
+  2023. Assume that in twenty years the Hubble tension has either resolved or
+  become new physics, that the exoplanet census includes atmospheric chemistry
+  for rocky worlds, and that dark matter is detected or effectively abandoned
+  as a WIMP. Durable: stellar structure, radiative transfer, orbital dynamics,
+  spectroscopy, the logic of the distance ladder. The stale signal is
+  numerical — if the values you quote for H₀, the exoplanet count or the merger
+  tally are the ones you first learned, you are out of date by construction.
 - *A lifetime practice:* keep an observing log, on paper, for decades. Not
   pretty pictures — measurements. Estimate variable star magnitudes and submit
   them to the AAVSO, where a fifty-year light curve assembled by amateurs is
