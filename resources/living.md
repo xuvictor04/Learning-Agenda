@@ -124,27 +124,27 @@ deep time to a chemistry of self-copying polymers acting in milliseconds.
   found and resisted. Laland, Uller et al., **Evolution Evolving** (2024), the
   extended-synthesis case stated carefully — read the objections too.
 - *Re-foundation watch:* the algorithm is safe. Selection, drift, population
-  genetics, thermodynamics of macromolecules and the comparative method will
-  read the same in forty years. Everything about *access* has already been
-  rebuilt once and will be again. Protein structure prediction stopped being a
+  genetics, macromolecular thermodynamics and the comparative method will read
+  the same in forty years. Everything about *access* has been rebuilt once
+  already and will be again. Protein structure prediction stopped being a
   research problem between 2020 and 2024; single-cell and spatial omics turned
   tissues into catalogues; long reads produced the first complete human genome
   and then replaced the single reference with a pangenome; protein design now
-  generates functional sequences that never existed. Assume that by the time
-  you return, sequencing is effectively free, structure is a lookup, and the
-  hard part has moved entirely to causality and to whole-organism physiology,
-  which nobody has automated. Concrete stale signals: you say "junk DNA"
-  without qualification, you talk about *the* human reference genome, or your
-  mental model of protein work is crystallography.
+  generates functional sequences that never existed. Assume that on your return
+  sequencing is effectively free, structure is a lookup, and the hard part has
+  moved to causality and to whole-organism physiology, which nobody has
+  automated. Stale signals: you say "junk DNA" without qualification, you talk
+  about *the* human reference genome, or your mental model of protein work is
+  crystallography.
 - *A lifetime practice:* keep something alive and keep records on it. A
   microscope and a weekly pond sample is the cheapest entry — thirty years of
-  drawn and dated observations from one pond is a real natural history. Better,
+  drawn and dated observations from one pond is real natural history. Better,
   run your own long-term experiment: serial-transfer a yeast or bacterial line
-  under a selective regime and freeze samples along the way, Lenski in
-  miniature, with a frozen fossil record you can go back to. Maintain a species
-  list with dates and locations, and barcode things — nanopore sequencing is
-  now within a serious amateur budget, and unsequenced species are everywhere.
-  Deposit what you get; a sequence in a public database outlives you.
+  under a selective regime and freeze samples as you go — Lenski in miniature,
+  with a fossil record you can return to. Keep a species list with dates and
+  locations, and barcode things; nanopore sequencing is within a serious
+  amateur budget and unsequenced species are everywhere. Deposit what you get —
+  a sequence in a public database outlives you.
 - *Rabbit holes:* the citrate mutant in Lenski's long-term *E. coli* experiment
   and the argument about contingency it settled. Endogenous retroviruses, and
   the fact that syncytin — the protein that builds your placenta — is viral.
@@ -280,24 +280,23 @@ gene for X" is almost always the wrong sentence shape.
 - *Re-foundation watch:* Mendelian logic, recombination mapping,
   Hardy–Weinberg, the coalescent and the point that heritability is a
   population statistic are permanent. The empirical surface is not. Biobanks
-  went from thousands to millions of genomes in a decade and will keep going;
-  the reference genome has already been replaced by a pangenome; long reads
-  made structural variation visible; the first CRISPR therapy was approved in
-  late 2023 and in-vivo editing is arriving behind it; polygenic embryo
-  screening moved from thought experiment to a purchasable service, which is
-  the ethical problem of the next twenty years. Expect the portability problem
-  across ancestries to be either solved or entrenched. The stale signal is
-  price and scale: if your figure for the cost of a genome, or your sense of
-  how many variants a trait has, is the one you learned, refresh everything.
-- *A lifetime practice:* become your own longitudinal genomic subject — and
-  the interesting part is not the sequence, it is the interpretation. Keep your
-  raw data, re-annotate it every few years with current tools and databases,
-  and log how the reading of the same unchanged variants shifts. Thirty years
-  of that is a personal history of the field's confidence. Alongside it, build
-  a documented family pedigree with real phenotypes, and breed something with
-  records — a selected line of dry beans, tomatoes or fancy pigeons kept for
-  decades teaches segregation, linkage and inbreeding depression in a way no
-  problem set does.
+  went from thousands to millions of genomes in a decade; the reference genome
+  has been replaced by a pangenome; long reads made structural variation
+  visible; the first CRISPR therapy was approved in late 2023 with in-vivo
+  editing behind it; polygenic embryo screening moved from thought experiment
+  to purchasable service, which is the ethical problem of the next twenty
+  years. Expect the portability problem across ancestries to be either solved
+  or entrenched. The stale signal is price and scale: if your figure for the
+  cost of a genome, or your sense of how many variants a trait has, is the one
+  you learned, refresh everything.
+- *A lifetime practice:* become your own longitudinal genomic subject — the
+  interesting part is not the sequence but the interpretation. Keep your raw
+  data, re-annotate it every few years with current tools and databases, and
+  log how the reading of the same unchanged variants shifts. Thirty years of
+  that is a personal history of the field's confidence. Alongside it, build a
+  documented family pedigree with real phenotypes, and breed something with
+  records — a selected line of dry beans, tomatoes or fancy pigeons teaches
+  segregation, linkage and inbreeding depression as no problem set does.
 - *Rabbit holes:* genomic imprinting and the parental-conflict theory, one of
   the few genuinely beautiful arguments in biology. Denisovan introgression at
   EPAS1 and how Tibetans got their altitude adaptation from another species.
@@ -439,26 +438,26 @@ from systems that refuse to hold still.
   **Silent Earth**, on insect decline, with the methodological debate attached.
 - *Re-foundation watch:* natural history skill, sampling theory, energetics,
   coexistence theory and the species–area relationship are permanent. The
-  evidence base is being replaced underneath them. eDNA and metabarcoding are
+  evidence base underneath them is being replaced. eDNA and metabarcoding are
   redefining what a survey is; passive acoustic monitoring and camera traps
   with machine identification have made continuous census possible where it
   never was; daily few-metre satellite imagery and biologging small enough for
-  insects close the gap between the plot and the planet; GBIF, eBird and
-  iNaturalist have created an observational record larger than everything
-  professional ecology assembled in a century. Expect that in twenty years a
-  species inventory is a water sample, and that the hard problems have moved to
-  inference and to attribution of change. The stale signal is personal and
-  worth naming: your baseline for a place is your own memory of it. Read
-  Pauly's 1995 note on shifting baselines once a decade as a corrective.
-- *A lifetime practice:* this is the domain where a thirty-year record is
-  worth more than a thirty-year career elsewhere. Pick one patch and record it
-  forever, with a method you can repeat when bored, ill, or eighty: first
-  flowering and leaf-out dates, first arrivals and last departures, ice-on and
+  insects close the gap between plot and planet; GBIF, eBird and iNaturalist
+  have created an observational record larger than everything professional
+  ecology assembled in a century. Expect that in twenty years a species
+  inventory is a water sample, and the hard problems have moved to inference
+  and to attributing change. The stale signal is personal: your baseline for a
+  place is your own memory of it. Reread Pauly's 1995 note on shifting
+  baselines once a decade as the corrective.
+- *A lifetime practice:* this is the domain where a thirty-year record is worth
+  more than a thirty-year career elsewhere. Pick one patch and record it
+  forever, with a method you can repeat when bored, ill or eighty: first
+  flowering and leaf-out, first arrivals and last departures, ice-on and
   ice-off, a permanent vegetation plot with a fixed photo point, a moth trap on
-  a set schedule, a monthly pond dip, an annual breeding-bird transect on the
-  same route. Consistency beats intensity absolutely. Submit it to a scheme —
-  eBird, iNaturalist, Nature's Notebook, a butterfly monitoring scheme, the
-  Christmas Bird Count — so the data survives you, which is the whole point.
+  a set schedule, a monthly pond dip, an annual breeding-bird transect on one
+  route. Consistency beats intensity absolutely. Submit it to a scheme — eBird,
+  iNaturalist, Nature's Notebook, a butterfly monitoring scheme, the Christmas
+  Bird Count — so the data survives you, which is the whole point.
 - *Rabbit holes:* the Isle Royale wolf–moose study, over sixty years of
   predator–prey data and a conclusion that keeps changing. The Yellowstone wolf
   reintroduction and the honest state of the trophic-cascade evidence, which is
@@ -611,29 +610,29 @@ different standards of proof, and confusing them is the characteristic error.
   Sick**, for the evolutionary frame. Oliver Sacks, anything, for what it
   looks like to take a patient seriously as a person.
 - *Re-foundation watch:* physiology is durable — the coupled loops, oxygen
-  delivery, pharmacokinetics, anatomy, and the statistics of trials will not
-  move. Therapeutics move constantly and this is the domain where staying stale
-  causes actual harm. In the last five years alone, GLP-1 receptor agonists
-  reorganised metabolic medicine, the first CRISPR therapy was approved,
-  cell therapies moved past haematological cancer, and mRNA became a platform.
+  delivery, pharmacokinetics, anatomy and the statistics of trials will not
+  move. Therapeutics move constantly, and this is the domain where staying
+  stale causes actual harm. In five years alone, GLP-1 receptor agonists
+  reorganised metabolic medicine, the first CRISPR therapy was approved, cell
+  therapies moved past haematological cancer, and mRNA became a platform.
   Expect the next twenty years to bring in-vivo editing, multi-cancer early
   detection blood tests with a serious overdiagnosis problem attached,
-  continuous phenotyping from wearables, and machine diagnosis whose
-  validation problem is unsolved. The check when you return is concrete: take
-  one common condition, pull the current guideline, and compare it line by line
-  against what you wrote in your artifact. Count the reversals. If there are
-  none, you have the wrong guideline.
-- *A lifetime practice:* two, and they run in parallel for decades. Be your own
+  continuous phenotyping from wearables, and machine diagnosis whose validation
+  problem is unsolved. The check on return is concrete: take one common
+  condition, pull the current guideline, and compare it line by line against
+  what you wrote in your artifact. Count the reversals. If there are none, you
+  have the wrong guideline.
+- *A lifetime practice:* two, running in parallel for decades. Be your own
   cohort — a personal record with real measurements taken the same way every
   time: blood pressure by manual cuff, resting heart rate, weight, an annual
   fixed-route time trial as a fitness proxy, sleep, periodic labs. Do not
-  over-test; the value is the trend and the first-hand education in measurement
-  error, biological variation and regression to the mean, which no textbook
-  delivers. Second, run a journal club of one: read a single clinical trial a
-  week, all the way to a judgment about whether it should change anything, for
-  thirty years. Keep a list of things you believed that were later reversed —
-  that list is the real credential. And keep current first aid and CPR
-  certification; it is the one clinical skill anyone may use.
+  over-test; the value is the trend, and the first-hand education in
+  measurement error, biological variation and regression to the mean that no
+  textbook delivers. Second, run a journal club of one: a single clinical trial
+  a week, read all the way to a judgment about whether it should change
+  anything, for thirty years. Keep a list of things you believed that were
+  later reversed — that list is the real credential. And keep first aid and CPR
+  certification current; it is the one clinical skill anyone may use.
 - *Rabbit holes:* Semmelweis, and why correct evidence failed to persuade —
   the best case study in medicine's epistemics. Barry Marshall drinking *H.
   pylori*, and what it took to overturn a settled cause. Scurvy, whose cure was
@@ -784,24 +783,23 @@ decades, with a political economy on top deciding who eats.
   crossed the Atlantic with enslaved people. Marion Nestle, **Food Politics**.
   Smil, **Feeding the World** and **How the World Really Works**, for the
   quantities. Eliot Coleman, **The New Organic Grower**, and Carol Deppe, **The
-  Resilient Gardener**, the two most useful practical books written by people
-  who keep records. Gabe Brown, **Dirt to Soil**, read against the published
-  critiques of regenerative soil-carbon claims — a live and unresolved argument
-  you should be able to state fairly from both sides.
+  Resilient Gardener**, the two most useful practical books, both by people who
+  keep records. Gabe Brown, **Dirt to Soil**, read against the published
+  critiques of regenerative soil-carbon claims — a live argument you should be
+  able to state fairly from both sides.
 - *Re-foundation watch:* soil physics and chemistry, the water balance, plant
   physiology, the nitrogen and phosphorus cycles, breeding statistics and Sen's
   entitlement framework are permanent. Cultivars, prices, policy and
   measurement are not, and this field turns over faster than its textbooks
   suggest. Watch gene-edited crops and the regulatory divergence between
   jurisdictions, which will decide what is grown where; photosynthesis
-  engineering, which has moved from theory to field trials; biological
-  nitrification inhibition and nitrogen-use efficiency; soil carbon measurement
-  and verification, currently the field's most contested accounting problem;
-  autonomous machinery and machine-vision weeding, which change the labour
-  economics that everything else rests on; and shifting crop zones under
-  warming. The stale signal is arithmetic: your yield figures, fertiliser
+  engineering, now in field trials; biological nitrification inhibition;
+  soil carbon measurement and verification, the field's most contested
+  accounting problem; autonomous machinery and machine-vision weeding, which
+  change the labour economics everything else rests on; and crop zones shifting
+  under warming. The stale signal is arithmetic: your yield figures, fertiliser
   prices and per-kilogram footprints are the ones you learned, and you are
-  arguing organic versus conventional with a decade-old meta-analysis.
+  arguing organic versus conventional from a decade-old meta-analysis.
 - *A lifetime practice:* keep one piece of ground and an unbroken record of it.
   A soil history is the single most valuable thing here — the same sample
   points, the same depth, the same laboratory, every three to five years for

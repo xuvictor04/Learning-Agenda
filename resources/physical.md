@@ -764,49 +764,47 @@ structure → properties → performance.
   Computational materials — LeSar, *Introduction to Computational Materials
   Science*, the branch open to you without a lab.
 - *The long canon:* Robert Cahn, *The Coming of Materials Science* — the
-  field's own history, by an insider, explaining how metallurgy, ceramics and
-  polymer science became one subject. More Cyril Stanley Smith: *A History of
-  Metallography* and *From Art to Science*, which argue that materials
-  knowledge came out of ornament and craft long before use. Alan Williams,
-  *The Knight and the Blast Furnace*, a metallurgical study of hundreds of
-  pieces of medieval armour — extraordinary, obsessive, and unlike anything
-  else. Verhoeven, *Steel Metallurgy for the Non-Metallurgist*, and his free
-  *Metallurgy of Steel for Bladesmiths*, which is where the wootz-steel
-  literature actually lives. Wertime & Muhly, *The Coming of the Age of Iron*.
-  D'Arcy Thompson, *On Growth and Form*, the ancestor of all thinking about
-  structural hierarchy. Petroski, *To Engineer Is Human*, on failure as the
-  engine of design knowledge. Ashby, *Materials and the Environment*, and
-  Allwood & Cullen, *Sustainable Materials: With Both Eyes Open* (free
-  online), for the material-flow half of the century's problem. Smil, *Making
-  the Modern World* and *Still the Iron Age*, for the tonnages. Feynman's 1959
-  "There's Plenty of Room at the Bottom," free, and worth reading against what
-  nanotechnology actually became. Philip Ball, *Made to Measure*.
+  field's own history, explaining how metallurgy, ceramics and polymer science
+  became one subject. More Cyril Stanley Smith: *A History of Metallography*
+  and *From Art to Science*, arguing that materials knowledge came out of
+  ornament and craft long before use. Alan Williams, *The Knight and the Blast
+  Furnace*, a metallurgical study of hundreds of pieces of medieval armour —
+  obsessive and unlike anything else. Verhoeven, *Steel Metallurgy for the
+  Non-Metallurgist*, and his free *Metallurgy of Steel for Bladesmiths*, where
+  the wootz literature actually lives. Wertime & Muhly, *The Coming of the Age
+  of Iron*. D'Arcy Thompson, *On Growth and Form*, ancestor of all thinking
+  about structural hierarchy. Petroski, *To Engineer Is Human*, on failure as
+  the engine of design knowledge. Ashby, *Materials and the Environment*, with
+  Allwood & Cullen, *Sustainable Materials: With Both Eyes Open* (free), for
+  the material-flow half of the century's problem. Smil, *Making the Modern
+  World* and *Still the Iron Age*, for the tonnages. Feynman's 1959 "There's
+  Plenty of Room at the Bottom," free, read against what nanotechnology
+  actually became. Philip Ball, *Made to Measure*.
 - *Re-foundation watch:* the fundamentals are unusually safe — phase
-  equilibria, diffusion, dislocation theory, fracture mechanics, crystallography
-  and Ashby selection logic are not going to be overturned. Discovery is what
-  is being rebuilt. Machine-learned interatomic potentials went from research
-  topic to standard tool in about five years and now do molecular dynamics at
-  near-DFT accuracy on systems DFT cannot touch; generative structure
-  prediction has proposed candidate compounds by the hundreds of thousands;
+  equilibria, diffusion, dislocation theory, fracture mechanics,
+  crystallography and Ashby selection logic will not be overturned. Discovery
+  is what is being rebuilt. Machine-learned interatomic potentials went from
+  research topic to standard tool in about five years and now run molecular
+  dynamics at near-DFT accuracy on systems DFT cannot touch; generative
+  structure prediction has proposed candidates by the hundred thousand;
   autonomous laboratories that synthesise and characterise without a human in
-  the loop are being built, and the arguments about whether their outputs are
-  genuinely new are themselves worth following. On the measurement side, 4D-STEM
-  and ptychography, atom probe tomography and in-situ TEM keep converting
+  the loop are being built, and the arguments over whether their outputs are
+  genuinely new are worth following in themselves. On the measurement side,
+  4D-STEM and ptychography, atom probe tomography and in-situ TEM keep turning
   inference into direct observation. When you return, the question is not what
-  new materials exist but who and what proposed them. The stale signal: you
-  still think structure determination needs a good crystal, or you evaluate a
-  new material by reading a paper rather than by asking what the screening
-  pipeline searched.
+  new materials exist but what proposed them. The stale signal: you still think
+  structure determination needs a good crystal, or you judge a new material by
+  reading a paper rather than by asking what the screening pipeline searched.
 - *A lifetime practice:* build a metallography archive. Mount, polish, etch,
   photograph and label a sample every month or two, with its full thermal and
-  mechanical history written down; after thirty years you own a reference
-  collection with provenance that no book can give you and that you can
-  actually query. Alongside it, keep a failure cabinet — broken tools, snapped
-  fasteners, fatigued springs, corroded fittings — each with a fractography
-  note on what the surface says about how it died. And take up one craft that
-  is materials science with your hands: bladesmithing, pottery with glazes you
-  formulate yourself, casting, or glasswork. Glaze chemistry in particular is
-  real phase-diagram work with a fired answer at the end of every week.
+  mechanical history written down; after thirty years you own a queryable
+  reference collection with provenance that no book can give you. Alongside it,
+  keep a failure cabinet — broken tools, snapped fasteners, fatigued springs,
+  corroded fittings — each with a fractography note on what the surface says
+  about how it died. And take up one craft that is materials science with your
+  hands: bladesmithing, casting, glasswork, or pottery with glazes you
+  formulate yourself. Glaze chemistry is real phase-diagram work with a fired
+  answer every week.
 - *Rabbit holes:* wootz and pattern-welded Damascus steel — the reconstruction
   is contested and the literature is a pleasure. Roman concrete and the
   hot-mixing hypothesis for its self-healing. Prince Rupert's drops, which
