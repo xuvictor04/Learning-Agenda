@@ -33,6 +33,24 @@ concurrency caps mean two or three fields hold T1/T2 budgets at any moment.
 But the ladder is written out for every domain so that promotion is a decision
 you make, not a wall you hit.
 
+**Then a fourth block: "Beyond T1 — the long shelf."** The three tiers cover
+about ten years of a domain. This plan runs seventy (`03-spine.md`), and the
+ledger completes near year 30 — so a domain you promote in your fifties has
+decades of runway and would otherwise run out of material. The long shelf is
+what absorbs it:
+
+| | |
+|---|---|
+| *Branch into* | The domain's subfields, each with its own entry point. This is the real multiplier — "physics" is not one territory but eight |
+| *The long canon* | The further works: monographs, histories, biographies, heterodox arguments, the great expository books |
+| *Re-foundation watch* | What will be obsolete in twenty years, what's durable, and the signal that you've gone stale |
+| *A lifetime practice* | What sustained engagement looks like at the thirty-year scale — the thing you keep doing |
+| *Rabbit holes* | Narrower topics worth a month each, for the curiosity budget |
+
+`bridges.md` handles the other axis. After the ledger is covered, the highest-
+value work is usually at the intersections — over 900 domain pairs, most never
+thought about carefully by one mind. That file is the material for them.
+
 ## Selection rules
 
 - **Durable over current.** Nearly everything here has survived a decade or
@@ -58,8 +76,9 @@ you make, not a wall you hit.
 | `made-applied.md` | Engineering, computing, public health, business, strategy, design, craft |
 | `languages.md` | Language acquisition — resourced by method, since method transfers |
 | `fundamentals.md` | The universal capacities the whole map runs on |
+| `bridges.md` | Where domains meet — the material for synthesis work in the later decades |
 | `modes.md` | The full range of sources beyond books — courses, data, places, people, doing |
-| `kit.md` | Equipment and materials worth buying, with prices and honest skip advice |
+| `kit.md` | Equipment, access, and instruction — what to buy, and what to buy instead |
 
 ## Books are the default, not the whole of it
 
