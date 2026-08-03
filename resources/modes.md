@@ -172,8 +172,8 @@ over a thousand episodes, three academics per topic, across history, science,
 philosophy, and literature at a level nothing else broadcasts. Dan Carlin's
 *Hardcore History* and Mike Duncan's *Revolutions* for narrative depth.
 Stephen West's *Philosophize This* and Peter Adamson's *History of Philosophy
-Without Any Gaps*. The *Nature Podcast* and
-*Science*'s podcast for weekly research. EconTalk for economics as argument.
+Without Any Gaps*. The *Nature Podcast* and *Science*'s podcast for weekly
+research. EconTalk for economics as argument.
 The *London Review of Books* podcast, and the New Books Network — academic
 authors interviewed across essentially every field, the fastest way to hear
 what a new scholarly book claims.
