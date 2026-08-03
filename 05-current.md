@@ -103,18 +103,15 @@ your spike — energy, AI, biotech, whatever's yours — and stop.
 Where arguments live rather than events. Pick three or four, across
 different traditions:
 
-- **Foreign Affairs** for international relations as practitioners argue it.
-- **The Atlantic**, **Harper's**, and **The New Yorker** for reported long
-  form.
-- **The New York Review of Books** and the **London Review of Books** for
-  ideas, history, and the review-essay form, which is often better than the
-  book.
-- **Quanta Magazine** and **Scientific American** for science written for
-  adults.
-- **Works in Progress** and **The New Atlantis** for technology, progress,
+- **Foreign Affairs** — international relations as practitioners argue it.
+- **The Atlantic**, **Harper's**, **The New Yorker** — reported long form.
+- **The New York Review of Books** and the **London Review of Books** — the
+  review-essay, often better than the book.
+- **Quanta Magazine** and **Scientific American** — science for adults.
+- **Works in Progress** and **The New Atlantis** — technology and progress,
   and their discontents.
-- **Journal of Economic Perspectives** — free, written by economists for
-  non-specialist economists, and the best value in the entire tier.
+- **Journal of Economic Perspectives** — free, by economists for
+  non-specialists, and the best value in the tier.
 
 ### Annual — the highest-value tier, and the most underused
 
@@ -122,25 +119,22 @@ Almost nobody reads annually, and it is where the actual information is. An
 annual review is written by people who know how the year came out, with the
 numbers attached and the false alarms removed.
 
-- **Energy and climate:** the IEA's *World Energy Outlook*, the Energy
-  Institute's *Statistical Review of World Energy*, the IPCC assessment
-  cycle (read the chapters, not the summary for policymakers), Carbon
-  Brief's annual reviews.
+- **Energy and climate:** the IEA's *World Energy Outlook*; the Energy
+  Institute's *Statistical Review of World Energy*; the IPCC assessment
+  cycle (chapters, not the summary for policymakers); Carbon Brief.
 - **Development and demography:** the World Bank's *World Development
-  Report*, the UNDP *Human Development Report*, the UN's *World Population
-  Prospects*, the IMF's *World Economic Outlook*.
-- **Health:** the WHO's *World Health Statistics*, the Global Burden of
-  Disease releases.
-- **Technology:** the Stanford HAI **AI Index**, an annual census of a field
-  that otherwise generates pure noise.
-- **Security and governance:** the **SIPRI Yearbook**, Freedom House's
-  *Freedom in the World*, the V-Dem democracy report.
-- **Science:** *Science*'s Breakthrough of the Year, *Nature*'s year-end
-  features and its preview of the year ahead, *The Economist*'s *The World
-  Ahead*.
+  Report*; the UNDP *Human Development Report*; the UN's *World Population
+  Prospects*; the IMF's *World Economic Outlook*.
+- **Health:** the WHO's *World Health Statistics*; Global Burden of Disease.
+- **Technology:** the Stanford HAI **AI Index** — an annual census of a
+  field that otherwise generates pure noise.
+- **Security and governance:** the **SIPRI Yearbook**; Freedom House's
+  *Freedom in the World*; the V-Dem democracy report.
+- **Science:** *Science*'s Breakthrough of the Year; *Nature*'s year-end
+  features and year-ahead preview; *The Economist*'s *The World Ahead*.
 - **Everything numeric:** **Our World in Data**, a standing annual review of
-  the human condition, plus your own country's statistical yearbook — the
-  ONS, Eurostat, the Census Bureau, or the national equivalent.
+  the human condition, plus your country's statistical yearbook — the ONS,
+  Eurostat, the Census Bureau, or the national equivalent.
 
 The argument for this tier, plainly:
 
@@ -215,14 +209,14 @@ not completeness.
 |---|---|
 | **Formal** | Quanta Magazine (unmatched for maths and TCS); arXiv listings in one subfield; the AMS *Notices*; working mathematicians' blogs — Terence Tao's is the model |
 | **Physical** | Quanta; *Physics Today*; APS *Physics*; Carbon Brief and Berkeley Earth for climate; agency mission pages for space; *Sky & Telescope* for observing |
-| **Living** | *Nature* and *Science* news; **STAT** for medicine, biotech, and health policy; Derek Lowe's *In the Pipeline* for drug discovery, which is also very funny; *NEJM* and *The Lancet* tables of contents |
+| **Living** | *Nature* and *Science* news; **STAT** for medicine, biotech, and health policy; Derek Lowe's *In the Pipeline* for drug discovery, also very funny; *NEJM* and *The Lancet* TOCs |
 | **Mind** | *Nature Neuroscience* and *Trends in Cognitive Sciences* TOCs; **Import AI** and **The Batch** for AI without hype; Stanford HAI; **Language Log** for linguistics |
-| **Human & social** | **Marginal Revolution** for economics and everything adjacent; **Chartbook** (Adam Tooze) for economic history in real time; **Lawfare** for national security law and **SCOTUSblog** for the US courts; **War on the Rocks** for defence; *Foreign Affairs*; the *Financial Times* |
+| **Human & social** | **Marginal Revolution** for economics and everything adjacent; **Chartbook** (Adam Tooze) for economic history in real time; **Lawfare** and **SCOTUSblog** for law and the courts; **War on the Rocks** for defence; *Foreign Affairs*; the *Financial Times* |
 | **Meaning & expression** | **Aeon** for essays; the **LRB** and **NYRB**; the *TLS*; **Daily Nous** for academic philosophy; the Stanford Encyclopedia's revision feed; *The Art Newspaper* and Smarthistory |
-| **Made & applied** | **IEEE Spectrum** and **Ars Technica**; *Communications of the ACM*; **Construction Physics** for how building actually works; **Practical Engineering** for infrastructure; the CDC's *MMWR* and WHO Disease Outbreak News for public health; **Our World in Data** across all of it |
+| **Made & applied** | **IEEE Spectrum** and **Ars Technica**; *Communications of the ACM*; **Construction Physics** for how building really works; **Practical Engineering** for infrastructure; the CDC's *MMWR* and WHO Disease Outbreak News for public health; **Our World in Data** throughout |
 
-Two notes. Individual writers age better than institutions here — you learn
-a practitioner's priors and can correct for them. And several of these are
+Individual writers age better than institutions here — you learn a
+practitioner's priors and can correct for them. Several of these are
 opinionated by design: a feature while you remember it, a trap once you
 forget.
 
@@ -235,18 +229,18 @@ good list.
 
 **RSS is the correct base technology.** Thirty years old, open, and with no
 algorithm — you get what you subscribed to, in order, and nothing else,
-which is precisely the property no modern platform will sell you. Free
-readers exist on every platform (Feedly, Inoreader, NetNewsWire, Miniflux,
-FreshRSS); the choice barely matters, and local or self-hosted options mean
-nobody can discontinue your reading list.
+which is exactly the property no modern platform will sell you. Free readers
+exist on every platform (Feedly, Inoreader, NetNewsWire, Miniflux, FreshRSS);
+the choice barely matters, and local or self-hosted options mean nobody can
+discontinue your reading list.
 
 **Email newsletters** are the second pipe. They arrive whether or not you
 open a site — their strength and their danger. Route them to a folder that
-is not your inbox and read the folder on a schedule.
+is not your inbox and read it on a schedule.
 
 **Journal TOC alerts.** Nearly every journal emails its table of contents
 free. Three or four in your spike's fields keep you current with the real
-literature at about ten minutes a month.
+literature at ten minutes a month.
 
 **Google Scholar alerts** for a search term, a paper's citations, or an
 author. Following four or five researchers you already respect is among the
@@ -278,20 +272,19 @@ Everything above optimises for accuracy of *sources*. This section optimises
 against the error inside you, which is larger.
 
 **Read at least one serious source that disagrees with you** — not a weak
-version, the strongest one you can find, edited by people who think you are
-wrong for reasons. If you lean left, hold a subscription to something like
-*National Review*, *The Dispatch*, or the *Wall Street Journal* editorial
-page. If you lean right, read *The Atlantic*, *The American Prospect*, or
-*The Nation*. *Reason* argues a libertarian frame that annoys both sides
-usefully. This is not balance as a pose. It is that you cannot tell a strong
-argument from a weak one in a field where you've only ever heard one side,
-and you will be blindsided by outcomes that were obvious to people you never
-read.
+version, the strongest you can find, edited by people who think you are
+wrong for reasons. If you lean left, hold a subscription to *National
+Review*, *The Dispatch*, or the *Wall Street Journal* editorial page. If you
+lean right, read *The Atlantic*, *The American Prospect*, or *The Nation*.
+*Reason* argues a libertarian frame that annoys both sides usefully. This
+isn't balance as a pose. It is that you cannot tell a strong argument from a
+weak one where you've only ever heard one side, and you will be blindsided
+by outcomes that were obvious to people you never read.
 
 **Read foreign press for the outside view of your own country.** Your
 national press shares assumptions so deep it never states them, and the
-fastest way to see them is to watch a competent foreign desk describe your
-politics as an area-studies problem. The BBC World Service, *Le Monde*, *Der
+fastest way to see them is a competent foreign desk describing your politics
+as an area-studies problem. The BBC World Service, *Le Monde*, *Der
 Spiegel*, Nikkei Asia, *The Hindu*, Al Jazeera, Deutsche Welle, Caixin, and
 the *South China Morning Post* each carry a different set. Two of them read
 regularly beat five more domestic outlets.
@@ -311,36 +304,36 @@ habits.
 
 ## 7. Feeding current awareness back into the map
 
-Here is what separates this from ordinary news consumption. Everything above
-is an input; the map is where it has to land.
+This is what separates the file from ordinary news consumption: everything
+above is input, and the map is where it has to land.
 
 **Placement is the test.** When a story touches a domain you've brought to
 T3, you should be able to *place* it — name the sub-field, the standing
-questions, and roughly why this is or isn't surprising. If you can't, that
-literacy has decayed and you've found a re-foundation signal. Log it; see
+questions, why this is or isn't surprising. If you can't, that literacy has
+decayed and you've found a re-foundation signal. Log it; see
 `04-frontier.md` for what to do with it.
 
 **Recurrence is triage.** A story that appears once is an event. A story
-that keeps recurring across months, in sources with different incentives, is
-a *development*, and becomes a candidate for the frontier slot's triage. That
+recurring across months, in sources with different incentives, is a
+*development*, and becomes a candidate for the frontier slot's triage. That
 is the main mechanism by which the map learns it needs a new row — and it
 only works if you notice recurrence, which requires the annual tier, because
 recurrence is invisible at daily frequency.
 
-**Anki, carefully.** Cards from news are legitimate for *durable* facts: what
-an institution does and who runs it, where a place is and what borders it,
-which agency regulates what, what a term of art means, the order of a
-historical sequence. That is the connective tissue that makes all future news
-cheap to process, and most people never learn it. Cards about the story of
-the week are worse than useless — you'll be reviewing a dead controversy in
-2031. **The test: will this still be true in five years?** If no, no card.
+**Anki, carefully.** Cards from news are legitimate for *durable* facts:
+what an institution does and who runs it, where a place is and what borders
+it, which agency regulates what, a term of art, the order of a historical
+sequence. That is the connective tissue that makes all future news cheap to
+process, and most people never learn it. Cards about the story of the week
+are worse than useless — you'll be reviewing a dead controversy in 2031.
+**The test: will this still be true in five years?** If no, no card.
 
 **The annual review is where it cashes out.** `templates/annual-review.md`
 asks what you believe now that you didn't believe in January. Much of that
 answer comes from here — not from individual stories but from a year of them
-pressing against your existing model. Answer it with specifics: what
-changed, what evidence changed it, what you were wrong about. If a year of
-news produced no changed beliefs, you weren't paying honest attention.
+pressing against your model. Answer with specifics: what changed, what
+changed it, what you were wrong about. If a year of news produced no changed
+beliefs, you weren't paying honest attention.
 
 ---
 
