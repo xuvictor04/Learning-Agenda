@@ -431,27 +431,25 @@ one's domain of validity *is* the expertise.
   Table: Its Story and Its Significance*, the scholarly account, which will
   unsettle what you think the table is. Bensaude-Vincent & Stengers, *A
   History of Chemistry*, and Ihde, *The Development of Modern Chemistry*, for
-  the long arc. Lavoisier, *Elements of Chemistry* (1789), free, and the
-  moment quantitative chemistry begins. Philip Ball, *H2O: A Biography of
-  Water*, on the substance everyone assumes is simple. John D. Clark,
-  *Ignition!*, a history of liquid rocket propellants, free online, funny and
-  genuinely alarming — the best account of what it is like to work with
-  chemicals that hate you. Nicolaou & Montagnon, *Molecules That Changed the
-  World*. Djerassi, *The Pill, Pygmy Chimps, and Degas' Horse*. Derek Lowe's
-  *In the Pipeline* (free, running since 2002) is the field's honest daily
-  commentary and the closest thing to a working chemist's newsroom.
+  the long arc. Lavoisier, *Elements of Chemistry* (1789), free, where
+  quantitative chemistry begins. Philip Ball, *H2O: A Biography of Water*, on
+  the substance everyone assumes is simple. John D. Clark, *Ignition!*, a free
+  history of liquid rocket propellants — funny, alarming, and the best account
+  of working with chemicals that hate you. Nicolaou & Montagnon, *Molecules
+  That Changed the World*. Djerassi, *The Pill, Pygmy Chimps, and Degas'
+  Horse*. Derek Lowe's *In the Pipeline* (free, running since 2002) is the
+  field's honest daily commentary.
 - *Re-foundation watch:* the mechanistic core is durable — thermodynamics,
   kinetics, pKa, arrow-pushing, stereochemistry and separations will read the
-  same in forty years. What will not is everything about how you *find* and
-  *check* a molecule. Machine-learned interatomic potentials and retrosynthesis
-  planners have moved from curiosity to default in a few years; automated and
-  flow synthesis platforms are changing what one person can execute;
-  microcrystal electron diffraction now solves structures from powder where a
-  crystal was once mandatory; benchtop NMR has put characterisation on ordinary
-  desks. Assume that in twenty years route planning is machine-first and the
-  chemist's job is judgment about what to trust. When you return, the check is
-  concrete: take a target you once planned by hand and run it through the
-  current tools. If their output surprises you, you have gone stale.
+  same in forty years. What will not is how you *find* and *check* a molecule.
+  Machine-learned potentials and retrosynthesis planners went from curiosity to
+  default in a few years; automated and flow synthesis are changing what one
+  person can execute; microcrystal electron diffraction solves structures from
+  powder where a crystal was once mandatory; benchtop NMR has put
+  characterisation on ordinary desks. Assume that in twenty years route
+  planning is machine-first and the chemist's job is judging what to trust. The
+  check on return: take a target you once planned by hand, run it through the
+  current tools, and see whether their output surprises you.
 - *A lifetime practice:* two things, weekly. First, a bound lab notebook kept
   properly for decades — dated, numbered, never torn out — even for kitchen
   chemistry. Second, one unknown a week: take a published ¹H and ¹³C NMR, IR
@@ -606,25 +604,23 @@ how would you know, given one planet and no control group?
   *The Map That Changed the World*, on William Smith and the invention of
   stratigraphy. Bjornerud, *Reading the Rocks*. Ruddiman, *Plows, Plagues, and
   Petroleum*, whose early-Anthropocene hypothesis is contested and worth
-  arguing with. Mike Hulme, *Why We Disagree About Climate Change*, which
-  takes the disagreement seriously as something other than ignorance. For the
-  contrarian case at its most competent, Koonin's *Unsettled* and Pielke's
-  work on disaster trends — read them alongside the published responses, not
-  instead of them; the exercise is in learning to grade an argument.
+  arguing with. Mike Hulme, *Why We Disagree About Climate Change*, which takes
+  the disagreement seriously as something other than ignorance. For the
+  contrarian case at its most competent, Koonin's *Unsettled* and Pielke's work
+  on disaster trends — read them alongside the published responses, not instead
+  of them; the exercise is learning to grade an argument.
 - *Re-foundation watch:* the physics is durable — radiative transfer,
-  geostrophy, isostasy, stratigraphic superposition, radiometric decay. Almost
-  everything about *prediction* is in motion. Machine-learned weather models
-  went from novelty to operational parity in about three years; kilometre-scale
-  storm-resolving global climate models are arriving and will settle or
-  reframe the cloud feedback question that dominates sensitivity; methane and
-  CO₂ observing satellites are making emissions independently verifiable for
-  the first time; InSAR and continuous GNSS have turned deformation into a
-  monitored quantity; ice-core and sediment records keep extending. Expect
-  climate sensitivity, sea-level projections and attribution methods all to
-  have moved when you return, and expect the emissions scenarios you learned
-  to have been retired. The stale signal is citing a scenario as
-  business-as-usual, or quoting a sensitivity range without knowing which
-  assessment it came from.
+  geostrophy, isostasy, superposition, radiometric decay. Almost everything
+  about *prediction* is in motion. Machine-learned weather models went from
+  novelty to operational parity in about three years; kilometre-scale
+  storm-resolving climate models are arriving and will settle or reframe the
+  cloud feedback question that dominates sensitivity; methane and CO₂
+  satellites are making emissions independently verifiable for the first time;
+  InSAR and continuous GNSS turned deformation into a monitored quantity.
+  Expect sensitivity, sea-level projections and attribution methods all to have
+  moved when you return, and the emissions scenarios you learned to have been
+  retired. The stale signal is citing a scenario as business-as-usual, or
+  quoting a sensitivity range without knowing which assessment produced it.
 - *A lifetime practice:* become an observer of record. Run a weather station
   and report daily precipitation to CoCoRaHS or your national network — a
   thirty-year single-site series is a real dataset and almost nobody has one.

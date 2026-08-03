@@ -1573,37 +1573,32 @@ not substitute for a single hour at the bench.
   *Chairmaker's Notebook*), which owns compound angles and has no square
   reference anywhere; timber framing (Jack Sobon, *Build a Classic
   Timber-Framed House*); instrument making (Cumpiano & Natelson,
-  *Guitarmaking: Tradition and Technology*); boatbuilding (Greg Rössel,
-  *Building Small Boats*), which owns curves that must also be watertight.
-  In metal — blacksmithing (Mark Aspery's *Mastering the Fundamentals of
-  Blacksmithing*), which owns forming hot, and jewellery (Oppi Untracht,
-  *Jewelry Concepts and Technology*), which owns everything small. In clay —
-  glaze chemistry (John Britt, *The Complete Guide to High-Fire Glazes*) and
-  kiln building (Frederick Olsen, *The Kiln Book*), the two places potters
-  stop being decorators. In textiles — tailoring (Cabrera & Meyers, *Classic
-  Tailoring Techniques*), which owns fitting a moving body. In food —
-  bread (Hamelman, *Bread*), fermentation (Sandor Katz, *The Art of
-  Fermentation*), charcuterie (Ruhlman & Polcyn, *Charcuterie*). Adjacent
-  and cheap to start: bookbinding (Arthur Johnson, *The Thames & Hudson
-  Manual of Bookbinding*) and electronics at the bench (Hayes & Horowitz,
-  *Learning the Art of Electronics*).
+  *Guitarmaking*); boatbuilding (Greg Rössel, *Building Small Boats*), which
+  owns curves that must also be watertight. In metal — blacksmithing (Mark
+  Aspery, *Mastering the Fundamentals of Blacksmithing*) and jewellery (Oppi
+  Untracht, *Jewelry Concepts and Technology*), which owns everything small.
+  In clay — glaze chemistry (John Britt, *The Complete Guide to High-Fire
+  Glazes*) and kiln building (Frederick Olsen, *The Kiln Book*), the two
+  places potters stop being decorators. In textiles — tailoring (Cabrera &
+  Meyers, *Classic Tailoring Techniques*), which owns fitting a moving body.
+  In food — bread (Hamelman, *Bread*), fermentation (Katz, *The Art of
+  Fermentation*), charcuterie (Ruhlman & Polcyn). Cheap to start:
+  bookbinding (Arthur Johnson, *The Thames & Hudson Manual of Bookbinding*).
 - *The long canon:* David Pye, *The Nature and Art of Workmanship* — the one
-  indispensable book here; his distinction between the workmanship of risk
-  and the workmanship of certainty will organize forty years of your
-  thinking. George Sturt, *The Wheelwright's Shop*, the best account ever
-  written of knowledge that was never written down. Richard Sennett, *The
-  Craftsman*. Soetsu Yanagi, *The Unknown Craftsman*, for the argument that
-  anonymity and use are the point. James Krenov, *A Cabinetmaker's Notebook*
-  — precious in places, and nobody writes better about looking at wood. Tage
-  Frid, *Tage Frid Teaches Woodworking*, and Robert Wearing, *The Essential
-  Woodworker*, as the two clearest technical voices. Roubo's *L'Art du
-  Menuisier* in the Lost Art Press translation, for what a pre-industrial
-  shop actually did. Peter Korn, *Why We Make Things and Why It Matters*.
-  Michael Polanyi, *The Tacit Dimension*, for the theory of why none of this
-  transmits by text. Josef Albers, *Interaction of Color*, for anyone
-  working with glaze, dye or pigment. M.C. Richards, *Centering*. Read
-  Ericsson's *Peak* on deliberate practice, critically — the framework is
-  useful and the ten-thousand-hours version of it is folklore.
+  indispensable book here; the distinction between the workmanship of risk
+  and of certainty will organize forty years of your thinking. George Sturt,
+  *The Wheelwright's Shop*, the best account ever written of knowledge that
+  was never written down. Richard Sennett, *The Craftsman*. Soetsu Yanagi,
+  *The Unknown Craftsman*, for anonymity and use as the point. James Krenov,
+  *A Cabinetmaker's Notebook* — precious in places, and nobody writes better
+  about looking at wood. Tage Frid, *Tage Frid Teaches Woodworking*, and
+  Robert Wearing, *The Essential Woodworker*, the two clearest technical
+  voices. Roubo's *L'Art du Menuisier* in the Lost Art Press translation.
+  Peter Korn, *Why We Make Things and Why It Matters*. Michael Polanyi, *The
+  Tacit Dimension*, for why none of this transmits by text. Josef Albers,
+  *Interaction of Color*, for anyone working with glaze, dye or pigment.
+  Ericsson's *Peak* read critically — the framework is useful and the
+  ten-thousand-hours version is folklore.
 - *The project ladder:* the ladder is the domain. Rungs one to four are
   years one to three; the rest are decades.
   1. A first finished object in a weekend: a green-wood spoon, a pinch pot,
@@ -1636,27 +1631,24 @@ not substitute for a single hour at the bench.
   10. The lifetime rung: teach it — an apprentice, or a class run for years
       — and make one piece built to be repaired and still in use in a
       hundred years. Both are contributions of a kind books cannot be.
-- *Re-foundation watch:* almost nothing here expires, and that is the reason
-  this domain sits in a seventy-year plan at all. Wood movement, clay body
-  and glaze fit, edge geometry, fermentation biology, and the plain fact
-  that skill is hours under the tool will be identical in 2065. What does
-  churn is the catalogue: finishes and adhesives get reformulated and
-  regulated, abrasives and consumables change, specific timbers become
-  CITES-restricted, glaze materials lose lead and cadmium, and brands rise
-  and die. There is one real shift coming — CNC and printing will absorb
-  more of the shaping, which raises rather than lowers the value of Pye's
-  workmanship of risk, because certainty becomes purchasable and risk does
-  not. Nothing you learn about the material will be obsolete. The
-  suppliers list will be.
-- *A lifetime practice:* a standing shop night, the same evening every week,
-  protected the way an appointment is protected — over thirty years that is
-  five thousand hours, and it is how craft actually accumulates. A build log
-  with photographs, dimensions, timings and failures, kept from the first
-  spoon. Sharpening weekly and a full maintenance day each quarter, treated
-  as practice rather than overhead, per `kit.md`. Buy the durable tools once,
-  early, and maintain them for fifty years; decide in advance who gets them.
-  Teach one beginner a year. Keep every first attempt — the shelf of them is
-  the only honest record of how far you have come.
+- *Re-foundation watch:* almost nothing here expires, which is why this
+  domain belongs in a seventy-year plan. Wood movement, glaze fit, edge
+  geometry, fermentation biology and the fact that skill is hours under the
+  tool will be identical in 2065. What churns is the catalogue: finishes and
+  adhesives get reformulated, timbers become CITES-restricted, glaze
+  materials lose lead and cadmium, brands die. One real shift is coming —
+  CNC and printing absorbing more of the shaping, which raises rather than
+  lowers the value of Pye's workmanship of risk, because certainty becomes
+  purchasable and risk does not. Nothing you learn about the material will
+  be obsolete. The suppliers list will be.
+- *A lifetime practice:* a standing shop night, the same evening weekly,
+  protected the way an appointment is protected — thirty years of that is
+  five thousand hours, and it is how craft accumulates. A build log with
+  photographs, dimensions, timings and failures, kept from the first spoon.
+  Sharpening weekly and a maintenance day each quarter, treated as practice
+  rather than overhead, per `kit.md`. Buy the durable tools once and early,
+  maintain them fifty years, and decide in advance who gets them. Teach one
+  beginner a year. Keep every first attempt.
 - *Safety, once:* fine wood dust and dry clay dust are long-term respiratory
   hazards rather than nuisances — extraction, a fitted respirator, and wet
   cleaning rather than sweeping in a ceramics space. Ventilate solder and
