@@ -133,19 +133,19 @@ that failure, and what survived it, is the field.
 - *Start here:* Nagel & Newman, **Gödel's Proof**. Roughly 100 pages, and the
   door because it actually walks the argument rather than gesturing at it.
 - *Survey:* Graham Priest, **Logic: A Very Short Introduction** for the map,
-  then Peter Smith's free **An Introduction to Formal Logic** (logicmatters
-  .net) to acquire the machinery — truth tables, natural deduction,
-  quantifiers. You cannot skip the machinery and understand anything after.
-- *Canon:* Gödel's 1931 paper is genuinely brutal; read it through Smith's
-  **An Introduction to Gödel's Theorems** instead. Do read Turing's 1936
-  **On Computable Numbers**, sections 1–4, with Petzold's **The Annotated
-  Turing** open beside it. Then Frege's preface to the **Begriffsschrift**
-  and Russell's 1902 letter to Frege — both in van Heijenoort's **From Frege
-  to Gödel**, and together they take an evening.
+  then Peter Smith's free **An Introduction to Formal Logic**
+  (logicmatters.net) for the machinery — truth tables, natural deduction,
+  quantifiers. Skip the machinery and nothing after it will land.
+- *Canon:* Gödel's 1931 paper is brutal; take it through Smith's **An
+  Introduction to Gödel's Theorems** instead. Do read Turing's 1936 **On
+  Computable Numbers**, sections 1–4, with Petzold's **The Annotated Turing**
+  beside it. Then Frege's preface to the **Begriffsschrift** and Russell's
+  1902 letter to Frege — both in van Heijenoort's **From Frege to Gödel**,
+  and together an evening's work.
 - *Course:* Stanford Online's **Introduction to Logic** (Michael Genesereth)
-  is decent. But be plain about it: no MOOC in this field beats reading, and
-  Peter Smith's free **Beginning Mathematical Logic: A Study Guide** is a
-  better roadmap than any course on offer.
+  is decent, but plainly: no MOOC here beats reading, and Peter Smith's free
+  **Beginning Mathematical Logic: A Study Guide** is a better roadmap than
+  any course on offer.
 - *Artifact:* State both incompleteness theorems precisely, with every
   hypothesis, then explain in 1,500 words what each hypothesis is doing and
   what the theorems do *not* imply about minds, machines, or mathematics.
