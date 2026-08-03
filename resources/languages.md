@@ -195,7 +195,9 @@ it doesn't) but because *method* does: you already know how to build cards,
 what comprehensible input feels like, how to survive the A2–B1 plateau, and
 that the plateau ends. The second language typically costs 60–70% of the
 first at equal distance. Add one per decade if the pull persists; never run
-two below B1 at once.
+two below B1 at once. For how far that actually goes over seven decades, and
+for the maintenance bill that decides it, see **The seventy-year language
+plan** at the end of this file.
 
 ## The classical languages
 
@@ -221,3 +223,135 @@ the primary sources.
   Augustine, and the whole medieval and early-modern scholarly conversation
   that ran in Latin until roughly Newton — read directly, without a
   translator standing between you and the argument.
+
+## The seventy-year language plan
+
+Everything above is the method for one language. This section is what
+changes when the horizon is seven decades rather than one or two — which
+turns out to be mostly a question about maintenance, not acquisition.
+
+**How many languages is honestly realistic.** Do the arithmetic with the
+numbers already in this file. A Category I language to C1 costs roughly
+700–1,000 hours all in; at an hour a day that is two and a half to three
+years. A Category III language — Russian, Turkish, Hindi, Finnish — runs
+closer to 1,500–2,000 hours, so five or six years. Category IV — Arabic,
+Mandarin, Japanese, Korean — starts around 2,500 hours, call it seven to ten
+years at an hour a day, and be honest that most people who begin one at that
+pace stop at B1.
+
+Seventy years at an hour a day is an enormous number of hours, and it is the
+wrong number to reason from, because most of it is already spoken for. Every
+language you have reached takes hours off the top *forever*, and this agenda
+budgets ten focused hours a week across the whole of it, not ten hours of
+language.
+
+Against that: **four to six languages to genuine use — B2 or better — is
+realistic** across seventy years for someone who learned the method properly
+on the first one and rarely lets a decade pass without one running. **Eight
+to ten is possible**, but only for someone whose primary commitment is
+languages, who lives in more than one of them, and who accepts that the
+forty-domain ledger runs thinner for it. That is a different life, not a
+more ambitious version of this one. Choose it deliberately or don't drift
+into it. And the rule from the section above only hardens with more time:
+**depth in two beats tourist-level in eight.** Eight at A2 is a dinner-party
+fact. Two at C1 is two literatures, two countries where you are not a
+visitor, and two ways of cutting the world up.
+
+**A staged sequence across the decades.** One concrete shape, to be adapted:
+
+- **Decade 1 — one language to C1.** Chosen on pull, not prestige. This is
+  where you buy the method, and the method is the asset.
+- **Decades 2–3 — the expensive one.** A language from a different family,
+  deliberately: a Category III or IV if you want one at all. Take the
+  distance early. Working memory, travel freedom, and the appetite for a
+  five-year project are all cheaper at 35 than at 65, and a distant language
+  taken late will be the last big one you start.
+- **Decades 3–4 — the classical languages, when the canon work pays.**
+  Reading-only Latin or Greek slots naturally beside the philosophy,
+  literature and religion work in `meaning-expression.md`; the payoff is
+  concrete, so take them when you actually have primary sources you want.
+- **Decades 4–6 — cheap neighbours and circumstance.** Fourth and fifth
+  chosen on pull or on life: where you moved, whom you married, the archive
+  you need, the fieldwork you're doing, the community on your street.
+
+The logic underneath: **the second language in a family is cheap, the first
+in a new family is not.** Spanish after French, Dutch after German,
+Ukrainian after Russian, Portuguese after either Romance — shared
+vocabulary, shared morphology, shared word order, sometimes half the cost.
+So spend distance early and collect neighbours late, which is exactly
+backwards from how most people do it.
+
+**Maintenance is the real problem.** At seventy years this section matters
+more than all the acquisition advice combined. A language reached and
+abandoned decays, and it decays fastest in production: you will still read
+it long after you can no longer say anything in it.
+
+A working protocol per maintained language, at B2 or above:
+
+- **SRS, 5–10 minutes a day** on that language's deck. Never delete a deck.
+  A mature deck is a decade of your own encounters and cannot be rebought.
+- **One hour of input a week, minimum.** Make it something you'd want
+  anyway, or it won't survive a busy month.
+- **One book and one show a month.** The book is the load-bearing half —
+  extensive reading is what holds a lexicon in place.
+- **One hour of conversation a month.** Below that, output degrades first
+  and fastest, and you get the humiliating experience of understanding
+  everything and producing nothing.
+- **An annual conversation check.** One recorded hour, same month every
+  year, with a tutor briefed to rate you against CEFR and say so plainly.
+  Compare to last year's recording. It is the only honest instrument you
+  have, and it costs one hour in twelve months.
+
+Now budget it. Two hours a week per maintained language, three or four if
+you're holding C1 output — **five maintained languages is ten hours a week,
+which is this agenda's entire weekly budget.** That arithmetic, not
+enthusiasm, sets your ceiling. The practical resolution is to triage: two or
+three **active** languages (spoken, maintained), some **reading-only** ones
+(an hour a week or less, a book every month or two — far cheaper, because
+reading survives on recognition), and the rest **dormant** by decision
+rather than by neglect.
+
+Dormancy is survivable, and this is the genuinely encouraging finding.
+Relearning is far faster than first learning — the savings effect Ebbinghaus
+identified — and Harold Bahrick's fifty-year study of school Spanish found
+that attrition is steep for the first few years and then largely flattens,
+leaving a substantial residue stable for decades, with more surviving the
+higher the original level reached. The planning consequence is sharp: **get
+a language to B2 before you let it lapse.** Above that line there is a
+residue to come back to and a few months of work to reactivate it. Below it
+there is nothing to preserve.
+
+**What each language actually opens.** Primary sources, first: historians,
+philosophers and scientists read in their own words, with no translator's
+choices standing between you and the argument. A literature in the original
+— the Russian novel, German philosophy and Lieder, the French essay,
+classical Chinese and Japanese poetry, Arabic or Hebrew or Sanskrit
+scripture — which is the direct tie to the canon work in
+`meaning-expression.md`, and the reason a language belongs in a map of
+knowledge at all. Then travel that isn't tourism, and fieldwork you can
+actually do: anthropology, archaeology, ecology and history all have a
+language prerequisite nobody advertises. And family or community — a
+grandparent's language, or the one spoken on your street. That one pays in a
+currency none of the others do, and it is the one people regret leaving too
+late.
+
+**Learning a language late.** Be honest and don't overclaim in either
+direction. Crystallized abilities — vocabulary, reading, accumulated
+knowledge — hold up well into late life, and adults go on acquiring them;
+what declines is speed of retrieval, working-memory capacity under time
+pressure, and any hope of improving pronunciation. So expect reading and
+vocabulary to go roughly as they always did, conversation to feel slower
+than the page suggests it should, and a longer runway to B2 than the same
+work would have taken at thirty. Adapt accordingly: lean on reading and
+graded input, pick a language close to one you already have, keep sessions
+short and daily rather than long and occasional, and lengthen the timeline
+instead of raising the intensity.
+
+Starting a new language in your sixties or seventies is a legitimate
+project, and reviving a dormant one is a better-value one. It is also among
+the better-supported cognitively demanding activities available — sustained,
+effortful, novel, and social, which is the combination that anything worth
+doing here has. Note that the stronger claim, that bilingualism delays
+dementia, is genuinely contested in the literature and you should not build
+a plan on it. Learn the language because it opens a literature and a
+country. Any cognitive dividend is a bonus you didn't pay for.

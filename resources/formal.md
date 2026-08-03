@@ -93,6 +93,60 @@ to reality keep predicting reality with absurd precision?
   the ICM every four years; workshops at SLMath (formerly MSRI) and
   Oberwolfach.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* number theory — Ireland & Rosen, **A Classical Introduction
+  to Modern Number Theory**; owns the multiplicative structure of the
+  integers. Combinatorics — van Lint & Wilson, **A Course in Combinatorics**,
+  then Stanley, **Enumerative Combinatorics**; owns counting and finite
+  structure. Differential geometry — do Carmo, **Differential Geometry of
+  Curves and Surfaces**, then Lee, **Introduction to Smooth Manifolds**; owns
+  what curvature means intrinsically. Probability theory — Durrett,
+  **Probability: Theory and Examples** (free); owns the limiting behaviour of
+  randomness. Category theory — Riehl, **Category Theory in Context** (free),
+  then Mac Lane; owns what "structure-preserving" means. Numerical analysis —
+  Trefethen & Bau, **Numerical Linear Algebra**; owns what survives finite
+  precision. Dynamical systems — Strogatz, **Nonlinear Dynamics and Chaos**,
+  then Katok & Hasselblatt; owns the long-run behaviour of iteration. Partial
+  differential equations — Evans, **Partial Differential Equations**; owns how
+  continuous quantities propagate. One branch a year, taken seriously, is
+  itself thirty years of work.
+- *The long canon:* Stillwell, **Mathematics and Its History** — the best
+  single volume for seeing the subject whole. Kline, **Mathematical Thought
+  from Ancient to Modern Times** (3 vols) — the standard history, a chapter at
+  a time. Lakatos, **Proofs and Refutations** — how definitions get made,
+  written as dialogue; nothing else does this job. Pólya, **How to Solve It**
+  and **Mathematics and Plausible Reasoning** — the psychology of discovery
+  from someone who had it. Aigner & Ziegler, **Proofs from THE BOOK** — a
+  lifetime of five-page pleasures. Hardy & Wright, **An Introduction to the
+  Theory of Numbers** — the classic to dip into forever. Constance Reid,
+  **Hilbert** — the best mathematical biography. Villani, **Birth of a
+  Theorem** — what research actually feels like day to day. Halmos, **I Want
+  to Be a Mathematician** and Littlewood's **A Mathematician's Miscellany** —
+  the trade's own voice. Rota, **Indiscrete Thoughts** — heterodox, funny,
+  rude about things the field prefers not to say. Davis & Hersh, **The
+  Mathematical Experience** — philosophy by practitioners. Skip E. T. Bell's
+  **Men of Mathematics**: beautifully written, unreliable about facts.
+- *Re-foundation watch:* theorems do not rot, which makes this the most
+  durable domain on the map — what you prove at 25 is still proved at 90. What
+  moves is the practice around them: what counts as a checked proof (machine
+  formalization is transforming this now), which subfields are central, which
+  famous problems have fallen, and what computation makes tractable. Signal you
+  have gone stale: you assume a problem is open that was settled; you cannot
+  read the abstracts in your own subfield's arXiv listing; you still treat Lean
+  and mathlib as a curiosity rather than infrastructure. On return, read a
+  year of *Notices of the AMS* and one *Bulletin* survey per branch.
+- *A lifetime practice:* one hard problem a week, pen and paper, worked until
+  it is finished or until you can say precisely why it isn't — recorded in a
+  notebook you keep for decades. Add one survey article a month from outside
+  whatever you are currently working on. The notebooks are the evidence that
+  you did mathematics rather than read about it.
+- *Rabbit holes:* Banach–Tarski, and what the axiom of choice actually costs;
+  the classification of finite simple groups and the sociology of a
+  10,000-page proof; the seventeen wallpaper groups, then Penrose tilings and
+  quasicrystals; continued fractions and the Stern–Brocot tree; Ramanujan's
+  notebooks and the century spent verifying them.
+
 ## Logic & foundations
 
 **The question it asks.** What makes an argument valid regardless of its
@@ -185,6 +239,61 @@ that failure, and what survived it, is the field.
 - *Community:* the Association for Symbolic Logic (its Logic Colloquium and
   ASL meetings); the FOM mailing list; the nLab; the Lean Zulip, which is
   where a surprising amount of current foundational work happens.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* proof theory — Troelstra & Schwichtenberg, **Basic Proof
+  Theory**, then Takeuti; owns how much strength a theory actually has,
+  measured in ordinals. Model theory — Tent & Ziegler, **A Course in Model
+  Theory**; owns what a theory cannot distinguish. Computability theory —
+  Odifreddi, **Classical Recursion Theory**; owns the internal structure of
+  the undecidable. Set theory — Kunen and Jech, already named; owns
+  independence. Type theory and constructive mathematics — the **HoTT Book**
+  (free), with Nederpelt & Geuvers, **Type Theory and Formal Proof**; owns
+  proofs treated as mathematical objects. Modal logic — Blackburn, de Rijke &
+  Venema, **Modal Logic**; owns necessity, knowledge, time and obligation as
+  operators. Non-classical logic — Priest, **An Introduction to Non-Classical
+  Logic**; owns what survives when you drop a classical rule. Categorical
+  logic — Goldblatt, **Topoi**, then Mac Lane & Moerdijk, **Sheaves in
+  Geometry and Logic**; owns logic done geometrically. Automated reasoning —
+  Harrison, **Handbook of Practical Logic and Automated Reasoning**; owns
+  mechanising the search for proofs.
+- *The long canon:* Kleene, **Introduction to Metamathematics** — the book the
+  subject was taught from for forty years. Gödel's **Collected Works** (ed.
+  Feferman), vols. I–II — the papers with editorial introductions that make
+  them readable. Whitehead & Russell, **Principia Mathematica** — read the
+  Introduction and put it down; it is a monument, not a text. Dawson,
+  **Logical Dilemmas** — the serious Gödel biography; Hao Wang, **A Logical
+  Journey**, for Gödel's philosophy in his own words. Boolos, **Logic, Logic,
+  and Logic** — collected papers, some of the finest exposition in
+  philosophy. Ferreirós, **Labyrinth of Thought** — how set theory actually
+  came to be. Smullyan's puzzle books, **What Is the Name of This Book?**
+  onward — genuinely load-bearing, not light relief. Wittgenstein, **Remarks
+  on the Foundations of Mathematics** — the great heterodox attack; you will
+  disagree, usefully. Feferman, **In the Light of Logic** — the predicativist
+  case against needing all that set theory. Chaitin, **Meta Math!** and
+  Girard, **The Blind Spot** — two more heterodoxies, one
+  information-theoretic, one proof-theoretic.
+- *Re-foundation watch:* the theorems are permanent — completeness,
+  incompleteness, Löwenheim–Skolem, the independence results. What is volatile
+  is which foundation people actually work in, and this is moving now: a large
+  and growing share of new formalized mathematics lives in dependent type
+  theory rather than ZFC. Also volatile: the large-cardinal programme and the
+  status of the continuum problem; what proof assistants can do, which changes
+  on roughly a three-year cycle; and whether machine proof search becomes
+  ordinary. Signal you have gone stale: you cannot say what mathlib now
+  covers; you describe ZFC as *the* foundation without qualification; you have
+  not revisited the continuum question in twenty years.
+- *A lifetime practice:* keep a proof assistant alive. Formalize something
+  small every month — an exercise, a lemma from something you are reading, a
+  definition you want to be sure of — in Lean or Rocq (formerly Coq). Thirty
+  years of that is both a permanent skill and a running instrument for
+  measuring how the tools have changed.
+- *Rabbit holes:* Gentzen's consistency proof of arithmetic by induction to
+  ε₀; Goodstein's theorem and the hydra game — concrete, true, unprovable in
+  PA; Löb's theorem and provability logic; the busy beaver function and the
+  2024 collaborative proof that BB(5) = 47,176,870; Skolem's paradox and what
+  "countable" means from inside a model.
 
 ## Statistics & probability
 
