@@ -1,7 +1,12 @@
 # Your Knowledge Map — The Polymath Edition
 
 **Declared ambition:** everything — all of it that one mind can hold.
-**Current stage:** graduate studies (agenda year 1 ≈ 2026).
+**Current stage:** PharmD candidate (agenda year 1 ≈ 2026).
+**Strategy:** the PharmD is the professional anchor, and it already buys the
+entire life-sciences stack. Breadth investments therefore point *away* from
+pharmacy on purpose — this agenda builds around the degree, not on top of it.
+(Residencies, board certifications, and pharmacy specialties are career
+decisions; they live outside this map.)
 
 Taken seriously, "everything" is a *portfolio problem*, not a single spike.
 Nobody masters all fields; but over 40 years a disciplined learner genuinely
@@ -23,15 +28,20 @@ reviews, deliberately — never by drift.
 
 ## Tier 1 — Mastery spikes
 
-1. **Your graduate field** *(write in the actual program/specialization here)*.
-   It's already claiming your best hours; the agenda's job is to make it a
-   true spike — canon read, artifacts shipped, taste developed — per
-   `phases/decade-1-foundations.md`.
+1. **Pharmacy (PharmD → practice).** Already claiming your best hours; the
+   agenda's job is to make it a true spike — canon read, artifacts shipped,
+   clinical judgment developed — per `phases/decade-1-foundations.md`. It
+   also grants deep coverage of pharmacology, physiology, biochemistry, and
+   medicine-as-practice, which is why those areas appear as *credits* below
+   rather than investments.
 2. **Mathematics & computation** (statistics, modeling, programming, AI).
    Chosen as spike 2 *because it's the universal solvent*: it deepens every
-   other domain on this map and is the polymath's best force multiplier.
+   other domain on this map, it's maximally distant from bench/clinical
+   science, and it's the polymath's best force multiplier.
 3. **Third spike — reserved.** Choose in Decade 2 from whichever T2 field has
-   pulled hardest. Leave unfilled until then.
+   pulled hardest. Leave unfilled until then. (If a pharmacy-adjacent field
+   is ever the pick, it must win on pull, not convenience — the default bias
+   is away from the anchor.)
 
 ## Tier 2 — Professional competence (target: by end of Decade 2)
 
@@ -45,8 +55,12 @@ Chosen for maximum coverage of the map with minimum overlap:
   discipline of thinking about the other disciplines.
 - **Economics** — the grammar of incentives, markets, and institutions.
 - **Physics** — the deepest layer of the physical-world stack.
-- **Biology** — the deepest layer of the living-world stack.
+- **Literature & the arts** — the expression cluster's depth field; otherwise
+  the map's humanities are all analysis and no art.
 - *(open slot — promote from T3 when one earns it)*
+
+> *Biology's T2 slot is granted on credit: the PharmD covers it. Maintain
+> through practice; invest breadth hours elsewhere.*
 
 ## Tier 3 — Universal literacy (the "everything" ledger)
 
@@ -62,12 +76,15 @@ a written summary you publish). Sequence follows the decade guidance in
 - [ ] Earth science & climate
 - [ ] Astronomy
 
-**Living & mind**
-- [ ] Evolutionary & molecular biology
+**Living & mind** *(mostly on PharmD credit — verify against the literacy
+bar and check off; invest new hours only where the degree genuinely didn't go)*
+- [x] Medicine & physiology *(credit: PharmD)*
+- [x] Neuroscience *(credit: PharmD pharmacology — confirm systems/cognitive
+      side, not just neuropharm)*
+- [ ] Evolutionary biology & deep-time life history *(the one life-science
+      area PharmD skips — worth real hours)*
 - [ ] Ecology
-- [ ] Medicine & physiology
-- [ ] Neuroscience
-- [ ] Psychology (cognitive, social, clinical)
+- [ ] Psychology (cognitive, social — the non-clinical side)
 
 **Human & social**
 - [ ] World history (deep-time to modern)
@@ -89,7 +106,7 @@ a written summary you publish). Sequence follows the decade guidance in
 - [ ] Engineering (how the built world works: energy, structures, machines)
 - [ ] Computing & information (beyond your working knowledge: theory, history)
 - [ ] Agriculture & food systems
-- [ ] Medicine as practice (public health, how care systems work)
+- [x] Medicine as practice *(credit: PharmD — you'll live this one)*
 - [ ] Business, management & entrepreneurship
 - [ ] Military history & strategy
 - [ ] A craft done with the hands *(pick one: woodworking, cooking at a
@@ -130,5 +147,9 @@ keeps the tier system from turning joy into bookkeeping.
   tier — literacy requires the artifact.
 - **Not** learning tools/frameworks speculatively (principle 5) — the map is
   fields, never products.
-- **Not** letting breadth excuse the graduate field: spike 1 slips for
-  nothing. A polymath with no spike is an audience member.
+- **Not** letting breadth excuse the PharmD: spike 1 slips for nothing. A
+  polymath with no spike is an audience member.
+- **Not** spending breadth hours on pharmacy-adjacent fields (med chem
+  electives, clinical subspecialties, pharma industry topics). Those are
+  career moves the degree track already funnels you toward; this map exists
+  to fund everything it doesn't.
