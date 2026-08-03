@@ -391,6 +391,70 @@ that reversal, because many processes produce the same data.
   Society, ISBA for Bayesians; NeurIPS and AISTATS on the machine-learning
   boundary.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* stochastic processes — Karatzas & Shreve, **Brownian Motion
+  and Stochastic Calculus**; owns randomness in continuous time. Causal
+  inference — Hernán & Robins, **Causal Inference: What If** (free); owns what
+  would have happened otherwise. Experimental design — Box, Hunter & Hunter,
+  **Statistics for Experimenters**, with Gerber & Green, **Field
+  Experiments**; owns how to make data answer a question rather than a
+  neighbouring one. Survey sampling — Lohr, **Sampling: Design and Analysis**;
+  owns who is missing from your data, which is usually the whole story. Time
+  series and forecasting — Hyndman & Athanasopoulos, **Forecasting: Principles
+  and Practice** (free); owns dependence through time. Spatial statistics —
+  Banerjee, Carlin & Gelfand, **Hierarchical Modeling and Analysis for Spatial
+  Data**; owns dependence through space. Survival analysis — Klein &
+  Moeschberger, **Survival Analysis**; owns time-to-event under censoring, and
+  it is the backbone of medical statistics. High-dimensional statistics —
+  Wainwright, **High-Dimensional Statistics**; owns what happens when you have
+  more variables than observations. Extreme value theory — Coles, **An
+  Introduction to Statistical Modeling of Extreme Values**; owns the tail,
+  where the expensive things live.
+- *The long canon:* Stigler, **The History of Statistics** — how the subject
+  was assembled, and the best cure for treating its methods as inevitable.
+  Hacking, **The Emergence of Probability** and **The Taming of Chance** —
+  philosophy and history together. Porter, **Trust in Numbers** —
+  quantification as a political technology. Kolmogorov, **Foundations of the
+  Theory of Probability** — seventy pages that axiomatised the field. Fisher,
+  **Statistical Methods for Research Workers** — the founding manual, still
+  startling. Savage, **The Foundations of Statistics** and de Finetti,
+  **Theory of Probability** — the subjectivist case at full strength. Jaynes,
+  **Probability Theory: The Logic of Science** — brilliant, dogmatic, and best
+  read with resistance. Cox, **Principles of Statistical Inference** — the
+  clearest short statement of what inference is for. Mayo, **Statistical
+  Inference as Severe Testing** — the strongest modern defence of error
+  statistics against the Bayesians; read it against Jaynes. Meehl,
+  "Theory-Testing in Psychology and Physics" (1967) — twenty pages that
+  diagnosed the replication crisis three decades early. Gigerenzer, "Mindless
+  Statistics" (2004) — short and merciless. Taleb, **The Black Swan** —
+  overstated and worth arguing with; the point about tails is correct.
+  Ziliak & McCloskey, **The Cult of Statistical Significance** — polemic, but
+  the history in it is real.
+- *Re-foundation watch:* the mathematics is permanent — axioms, the limit
+  theorems, sampling distributions, the logic of randomisation. Almost
+  everything else moves. The computational stack has a five-to-ten year
+  half-life (BUGS, then JAGS, then Stan, then whatever follows); the
+  significance-testing reform argument is unresolved and will look different;
+  the boundary with machine learning keeps being redrawn (conformal
+  prediction, double descent, causal machine learning); and privacy methods
+  now shape what data exists at all. Signal you have gone stale: you are still
+  fitting the models you learned first; your reflex output is a p-value; you
+  cannot say what conformal prediction gives you; your software has not
+  changed in a decade.
+- *A lifetime practice:* keep a forecast log. Write down dated, probabilistic
+  predictions — about your work, the world, anything resolvable — and score
+  them (Brier or log score) when they resolve. Nothing else teaches calibration,
+  and it compounds: thirty years of scored forecasts makes you a better
+  statistician than thirty more textbooks. Pair it with a monthly ritual of
+  taking one published claim back to its raw data and reanalysing it.
+- *Rabbit holes:* Benford's law and its real use in fraud detection; the
+  German tank problem and estimation from serial numbers; Simpson's paradox in
+  the wild, starting with the Berkeley admissions case; Wald, sequential
+  analysis, and the wartime memo that became "survivorship bias"; random
+  matrix theory and the Tracy–Widom distribution turning up where nobody
+  expected it.
+
 ## Theoretical computer science & information theory
 
 **The question it asks.** What can be computed at all, what can be computed
@@ -490,3 +554,63 @@ theories of resources: time, space, randomness, bits.
 - *Community:* ACM SIGACT and the IEEE Information Theory Society;
   STOC/FOCS/CCC/ITCS/SODA and ISIT; CRYPTO and EUROCRYPT; QIP for quantum.
   The Gödel Prize and Knuth Prize mark what the field itself values.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* cryptography — Katz & Lindell, **Introduction to Modern
+  Cryptography**; owns turning computational hardness into a security
+  guarantee. Quantum computation — Nielsen & Chuang, already named, with
+  Watrous's free lecture notes; owns what changes when amplitudes replace
+  probabilities. Coding theory — Richardson & Urbanke, **Modern Coding
+  Theory**, with MacWilliams & Sloane as reference; owns reaching capacity in
+  practice. Approximation and online algorithms — Williamson & Shmoys, **The
+  Design of Approximation Algorithms** (free); owns what you can still
+  guarantee without optimality or without the future. Distributed computing —
+  Lynch, **Distributed Algorithms**; owns what is computable when parts fail
+  and clocks disagree, and it is the deepest branch outsiders never hear
+  about. Programming languages and type theory — Pierce, **Types and
+  Programming Languages**; owns what a program means, provably. Algorithmic
+  game theory — Nisan, Roughgarden, Tardos & Vazirani, **Algorithmic Game
+  Theory** (free); owns computation among agents who have their own goals.
+  Combinatorial optimization — Korte & Vygen; owns the large tractable island
+  inside NP-hard territory. Sublinear and streaming algorithms — start from
+  Muthukrishnan's free survey **Data Streams**; owns what you can know without
+  reading the input.
+- *The long canon:* Knuth, **The Art of Computer Programming**, vols. 1–4 — a
+  lifetime of dipping, never a straight read. Wigderson, **Mathematics and
+  Computation** (free) — the best statement anywhere of what computation has
+  done to mathematics. Papadimitriou, **Computational Complexity** — still the
+  most elegant treatment. Hopcroft & Ullman, **Introduction to Automata
+  Theory** — the classic that shaped how the subject is taught. Aaronson,
+  **Quantum Computing Since Democritus** — heterodox, very funny, deeper than
+  it looks. Feynman, **Lectures on Computation** — a physicist's angle on the
+  same limits. Hofstadter, **Gödel, Escher, Bach** — read it once, argue with
+  it forever. Martin Davis, **The Universal Computer** — Leibniz to Turing, the
+  intellectual line. Soni & Goodman, **A Mind at Play** — the Shannon
+  biography; Gleick, **The Information**, for the wider history. Fortnow, **The
+  Golden Ticket** — P versus NP explained without dilution. Hamming, **The Art
+  of Doing Science and Engineering** — his Bell Labs lectures, containing "You
+  and Your Research", which is about how to choose problems and applies well
+  beyond this field.
+- *Re-foundation watch:* the core is theorems and therefore permanent —
+  undecidability, the class hierarchy, reductions, Shannon's source and
+  channel theorems. Volatile: which conjectures still stand (circuit lower
+  bounds, Unique Games), quantum hardware claims, and cryptographic practice,
+  which genuinely breaks — SIDH, a leading post-quantum candidate, was
+  destroyed in 2022 by an attack that ran in hours on a laptop. Also volatile:
+  what "efficient" means as hardware changes, and how much algorithm discovery
+  is machine-assisted. Signal you have gone stale: you cite RSA as the default
+  primitive; your picture of quantum hardware is a headline qubit count from
+  years ago; you cannot state the current best approximation ratio for a
+  problem you claim to care about.
+- *A lifetime practice:* reduce things. Every time a genuinely new problem
+  turns up — at work, in a hobby, in another domain on this map — classify it
+  (polynomial, NP-hard, undecidable, or ill-posed) and write the reduction
+  down, even roughly. Keep the file. It is the single habit that converts this
+  domain from knowledge into a way of seeing, and it stays sharp for decades.
+  Add one Simons Institute workshop series a year; the videos are free.
+- *Rabbit holes:* Kolmogorov complexity and the incompressibility method as a
+  proof technique; the PCP theorem, worked through properly once; Reed–Solomon
+  codes from CDs to the Voyager probes to DNA storage; Rule 110 and the
+  universality of almost nothing; the archive of failed P-versus-NP proofs,
+  read as a study in how smart people go wrong.

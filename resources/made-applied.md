@@ -113,6 +113,73 @@ consequence of that constraint.
   matters here: the FE exam, then the PE with the NCEES Power depth exam.
   If you sign drawings that energize things, you need it.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Protection and relaying — Blackburn & Domin, *Protective
+  Relaying* — owns the few cycles after a fault, where the field is least
+  forgiving. High-voltage engineering — Kuffel, Zaengl & Kuffel, *High
+  Voltage Engineering: Fundamentals* — owns insulation coordination and why
+  clearances are the sizes they are. Power electronics — Erickson &
+  Maksimović, *Fundamentals of Power Electronics* — owns the converter, now
+  sitting between nearly every source and every load. Nuclear — Lamarsh &
+  Baratta, *Introduction to Nuclear Engineering* — owns decay heat and the
+  fuel cycle. Market design — Steven Stoft, *Power System Economics* — owns
+  why the price is what it is. The demand side — Incropera & DeWitt,
+  *Fundamentals of Heat and Mass Transfer* with the ASHRAE Handbook — owns
+  the half of the problem generation people ignore. Combustion — Stephen
+  Turns, *An Introduction to Combustion*.
+- *The long canon:* Thomas P. Hughes, *Networks of Power*, the best history
+  of how grids became grids and still the sharpest account of technological
+  momentum. Jill Jonnes, *Empires of Light*, for the AC/DC fight told
+  straight. Vaclav Smil, *Energy Transitions* for the pace argument and
+  *Prime Movers of Globalization* for the machines that carry it. Richard
+  Rhodes, *The Making of the Atomic Bomb*, then his *Energy: A Human
+  History*. Daniel Yergin, *The Prize*, for oil as statecraft. Charles
+  Perrow, *Normal Accidents* beside the Kemeny Commission report on Three
+  Mile Island. IAEA's INSAG-7 on Chernobyl, then Serhii Plokhy's *Chernobyl*
+  — one event as engineering and as a state. Meredith Angwin, *Shorting the
+  Grid*: partisan, sometimes wrong, and the clearest thing written on who
+  actually governs a grid. Gretchen Bakke's *The Grid* is readable and thin;
+  keep the anecdotes, not the analysis. Then make event reports a standing
+  habit — AEMO on the 2016 South Australia black system, Ofgem and NGESO on
+  9 August 2019, and whatever comes next.
+- *The project ladder:*
+  1. A weekend: clamp meter and plug loggers on your own house, a real load
+     profile, and a prediction of next month's bill to within 5%.
+  2. A standalone PV-battery system — panel, controller, battery, load —
+     sized by hand, then metered for a season until you can account for
+     every missing kilowatt-hour.
+  3. A logging power monitor you built, publishing a year of one-second data
+     with the calibration documented.
+  4. A replication: rebuild a published dispatch or capacity-expansion study
+     in PyPSA or MATPOWER from public data, and find where you disagree.
+  5. A bench DC-AC converter under closed-loop control, into a resistive
+     load only. Grid-tying is licensed work and the mistake is lethal.
+  6. A Stirling or small heat engine you machined and instrumented, whose
+     measured efficiency you can place honestly against Carnot.
+  7. A building retrofit — envelope, heat pump sizing, controls — with
+     metered consumption across two heating seasons either side.
+  8. A year of maintained contribution to an open model or dataset others
+     plan with: PyPSA, the Open Energy Modelling Initiative.
+  9. The decade project: a real asset — community solar, a microgrid, a
+     small hydro rebuild — permitted, interconnected, commissioned, and
+     metered for a year against what you promised.
+- *Re-foundation watch:* thermodynamics, power flow, electromagnetics and
+  energy density will be exactly as true in 2065, and so will the fact that
+  demand is a human behaviour rather than a curve. What moves: storage
+  chemistry and its cost curve, inverter-dominated stability (an open
+  problem now, probably a solved one then), market rules, interconnection
+  law, and every software tool you learn. Rebuy the cost data every five
+  years and the toolchain every ten. Do not rebuy Carnot.
+- *A lifetime practice:* keep MacKay's household ledger and re-run it each
+  decade — it becomes a fifty-year dataset nobody else has. Maintain
+  something that generates or stores. Sit on a rural co-op board, a
+  municipal utility commission or a planning body, where the decisions are
+  actually made by people who mostly cannot read a load-duration curve.
+- *Rabbit holes:* the 1965 Northeast blackout and the founding of NERC; grid
+  frequency used as a clock, and time-error correction; ferroresonance;
+  Danish district heating; the TVA as an institution.
+
 ---
 
 ## Engineering: structures & the built environment
@@ -221,6 +288,74 @@ designers, their uses, and often their assumptions.
 - *Community:* ASCE/SEI, IABSE, AISC, ACI, EERI. Licensure is not optional
   in this field: FE, then PE, then the SE in jurisdictions that require it;
   CEng through the Institution of Structural Engineers in the UK.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Geotechnical engineering — Terzaghi, Peck & Mesri, *Soil
+  Mechanics in Engineering Practice* — owns the half of the load path below
+  grade, which is the half that surprises people. Wind engineering — Simiu &
+  Scanlan, *Wind Effects on Structures* — owns everything tall. Masonry and
+  limit analysis — Jacques Heyman, *The Stone Skeleton* — owns why Gothic
+  vaults stand and why elastic analysis lies about them. Structural fire —
+  Buchanan & Abu, *Structural Design for Fire Safety* — owns the load case
+  that actually destroys buildings. Timber — the USDA Forest Products
+  Laboratory's *Wood Handbook* (free) — owns the material now displacing
+  concrete at mid-rise. Bridges — Chen & Duan, *Bridge Engineering Handbook*
+  — owns long spans and fatigue under traffic. Building science — Straube &
+  Burnett, *Building Science for Building Enclosures*, plus Ching's *Building
+  Construction Illustrated* for assembly literacy.
+- *The long canon:* Bill Addis, *Building: 3000 Years of Design Engineering
+  and Construction* — the single best long history. Robert Mark, *Light,
+  Wind, and Structure*, for medieval builders reverse-engineered with modern
+  analysis. Eduardo Torroja, *Philosophy of Structures*, and Pier Luigi
+  Nervi, *Aesthetics and Technology in Building* — two masters arguing that
+  form is a structural act. Billington, *Robert Maillart's Bridges*, as the
+  case study for the argument. David McCullough, *The Great Bridge* and *The
+  Path Between the Seas*, for what building costs in lives and politics.
+  Petroski, *Design Paradigms* and *To Forgive Design*, for error as a
+  discipline. Heyman, *The Science of Structural Engineering*, for the
+  intellectual history. Then the failure literature, forever: the NIST NCSTAR
+  reports; Ronan Point (1968) and the invention of progressive-collapse
+  design; Billah & Scanlan's 1991 paper correcting what physics textbooks
+  say about Tacoma Narrows; the Citicorp Center retrofit. Stewart Brand and
+  Jane Jacobs belong here too — buildings are used by people, and the codes
+  are silent on that.
+- *The project ladder:*
+  1. A weekend: build a model truss or beam, write down the predicted
+     failure load, then break it. The gap is the lesson.
+  2. Something real and small, designed by you to code with a calculation
+     package behind it — a deck, a shed, a retaining wall.
+  3. A traditional timber frame, cut and raised, at a workshop. Joinery
+     that resists by geometry teaches what fasteners hide.
+  4. Instrument a real footbridge with accelerometers, extract the modal
+     frequencies, and compare them to your hand model.
+  5. The full package for a small building: gravity, wind, seismic,
+     foundations, connections, drawings — then pay a licensed engineer to
+     review it and take the correction.
+  6. A form-found structure: a gridshell, a cable net, a thin concrete
+     shell, or a Guastavino-style tile vault. You cannot compute your way
+     there; you find the shape and then verify it.
+  7. A forensic investigation of a real local failure or distress case,
+     worked from evidence rather than from the news account.
+  8. The decade project: take a building from sketch through permitting,
+     construction and a year of monitored performance — or lead the repair
+     of a historic structure, which is harder.
+- *Re-foundation watch:* statics, mechanics of materials, buckling, soil
+  behaviour and load paths are permanent, and so is the fact that people
+  occupy buildings badly. What churns: the codes themselves, which revise on
+  roughly six-year cycles and which you re-buy rather than re-learn;
+  analysis software; low-carbon cement chemistries; mass timber's tall-
+  building provisions; and the climate hazard maps, which are being
+  recalibrated because the historical record the codes assumed no longer
+  holds. That last one is a genuine re-foundation, not a tool update.
+- *A lifetime practice:* draw the load path of every building you enter,
+  for decades, in a notebook. Own and maintain a building. Serve on a code
+  committee or a local board of building appeals — dull, and where the
+  memorials get written. Mentor engineers through licensure.
+- *Rabbit holes:* Guastavino tile vaulting; hanging-chain form-finding from
+  Gaudí to Heinz Isler; the Citicorp Center quiet retrofit of 1978; Roman
+  concrete and the pozzolan literature; post-tensioning failures and what
+  Champlain Towers South taught about inspection.
 
 ---
 
@@ -334,6 +469,76 @@ determines the process.
   anything safety-critical. Note that the machining apprenticeship-to-
   journeyman route is a parallel and fully legitimate ladder to mastery
   here, and the two ladders respect each other more than outsiders assume.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Tribology — Stachowiak & Batchelor, *Engineering Tribology*
+  — owns friction, lubrication and wear, which is how machines actually die.
+  Precision engineering — Alexander Slocum, *Precision Machine Design*, and
+  Wayne Moore, *Foundations of Mechanical Accuracy* — owns the question of
+  how you make anything accurate using only things less accurate than it.
+  Control and mechatronics — Franklin, Powell & Emami-Naeini, *Feedback
+  Control of Dynamic Systems* — owns everything that has to hold a value.
+  Welding metallurgy — Sindo Kou, *Welding Metallurgy* — owns the joint,
+  where fatigue starts. Vehicle dynamics — Gillespie, *Fundamentals of
+  Vehicle Dynamics*, then Milliken & Milliken, *Race Car Vehicle Dynamics*.
+  Flight — Anderson, *Introduction to Flight*, then Raymer, *Aircraft
+  Design*. Reliability — O'Connor & Kleyner, *Practical Reliability
+  Engineering* — owns the arithmetic of "how long will it last", which
+  almost no designer can actually do.
+- *The long canon:* David Hounshell, *From the American System to Mass
+  Production, 1800–1932* — how interchangeable parts were really achieved,
+  and how long it took. L.T.C. Rolt, *Tools for the Job*, for the machine
+  tools underneath. Robert Kanigel, *The One Best Way*, on Taylor, read
+  against Ohno. Sloan, *My Years with General Motors*, and Ford, *My Life
+  and Work*, as primary sources by people who were wrong in instructive
+  ways. Shigeo Shingo, *A Revolution in Manufacturing: The SMED System* —
+  changeover time as the hinge of everything. Ben Rich, *Skunk Works*, and
+  Kelly Johnson's *Kelly*, for small-team engineering done at speed. Then
+  the failure library, which is this field's real literature: Diane Vaughan,
+  *The Challenger Launch Decision* — the best book on how competent
+  organizations normalize deviance; Nancy Leveson, *Engineering a Safer
+  World*; Sidney Dekker, *The Field Guide to Understanding 'Human Error'*;
+  Perrow, *Normal Accidents*; and the 737 MAX documents — the JATR report
+  and the Indonesian KNKT final report on Lion Air 610 — read as an
+  engineering-management failure rather than a software one.
+- *The project ladder:*
+  1. A weekend: a mechanism from scratch — a Geneva drive, a Peaucellier
+     linkage — printed or cut, then measured against its intended motion.
+  2. Restore a machine to working spec: a hand plane, a small engine, a
+     bicycle. You find out what "spec" means by having to meet one.
+  3. An assembly of a dozen parts with a real tolerance stack-up, made and
+     fitted first-article. Getting this right once feels like magic.
+  4. Hold a tenth on a manual lathe and mill — then make five identical,
+     which is a different and much harder problem.
+  5. A gearbox designed with bearing life and fatigue calculations, built,
+     run to failure, and compared against the prediction.
+  6. A machine that makes something: a small CNC, a wire bender, a filament
+     extruder. Then use it on a real job until it annoys you.
+  7. A vehicle to a stated spec — an electric bike, a kart, a boat — where
+     range, mass and drag were predicted before they were measured.
+  8. A production run of 200–500 units with SPC, yield tracking and a
+     customer who complains. This is where manufacturing becomes real.
+  9. The decade project: scrape a machine tool in against a surface plate,
+     or build a lathe from castings. Making a precise machine with
+     imperfect tools is the field's oldest and deepest trick.
+- *Re-foundation watch:* kinematics, fatigue, tribology, tolerance theory,
+  Wright's law and factory physics are permanent — they were true for
+  Whitworth and will be true for whatever replaces the factory. What churns:
+  the CAD/CAM stack, which you will relearn perhaps five times; additive
+  processes and their qualification regimes; battery and drive-unit
+  manufacturing, currently the largest applied problem on earth; automation
+  economics; and supply-chain geography, which is politics wearing an
+  engineering hat. Relearn the toolchain. Do not relearn stress
+  concentration factors.
+- *A lifetime practice:* a shop with a running logbook — every job, every
+  setup, every scrap part and why. Maintain your own vehicles and machines.
+  Make one tool a year. Teach a machining or CAD class at a community
+  college, which is where this knowledge is actually transmitted.
+- *Rabbit holes:* Whitworth and the origin of standard threads; the
+  three-plate method for generating a flat surface from nothing; Watt's
+  parallel motion; containerization (Marc Levinson, *The Box*); the Wankel
+  apex seal; the Bessemer process and why it was abandoned.
 
 ---
 

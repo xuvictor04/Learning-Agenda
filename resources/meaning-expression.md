@@ -107,6 +107,64 @@ its questions with it; the conceptual and normative residue is not shrinking.
   Pacific), the Aristotelian Society, PhilPapers/PhilArchive, and the
   subfield societies where the real conversation happens.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Islamic philosophy — Peter Adamson, *Philosophy in the
+  Islamic World*; owns the rebuilding of Greek metaphysics and the
+  essence/existence distinction. Indian darśanas — Jonardon Ganeri (ed.),
+  *The Oxford Handbook of Indian Philosophy*; owns *pramāṇa* theory and the
+  long debates on testimony and universals. Chinese philosophy — Bryan Van
+  Norden, *Introduction to Classical Chinese Philosophy*; owns ethics built
+  from roles and cultivation rather than law. Africana philosophy — Lewis
+  Gordon, *An Introduction to Africana Philosophy*; owns race and colonization
+  as philosophical problems. Phenomenology — Merleau-Ponty, *Phenomenology of
+  Perception* (Donald Landes); owns embodiment and the structure of
+  first-person experience. Analytic metaphysics — Ted Sider, *Writing the Book
+  of the World*; owns modality, time, composition, grounding. Aesthetics —
+  Noël Carroll, *Philosophy of Art*; owns what makes an object art at all.
+- *The long canon:* Sextus Empiricus, *Outlines of Scepticism* (Annas &
+  Barnes) — the skeptical toolkit entire; Augustine, *Confessions* (Henry
+  Chadwick); al-Ghazālī, *The Incoherence of the Philosophers* (Michael
+  Marmura), read against Ibn Rushd's reply; Maimonides, *The Guide of the
+  Perplexed* (Shlomo Pines); the *Upaniṣads* (Patrick Olivelle); the
+  *Zhuangzi* (Brook Ziporyn's *Complete Writings*); Spinoza, *Ethics* (Edwin
+  Curley); Kant, *Groundwork of the Metaphysics of Morals* (Mary Gregor);
+  Kierkegaard, *Fear and Trembling* (Hong & Hong); Wittgenstein,
+  *Philosophical Investigations* (Anscombe/Hacker/Schulte, 4th ed.);
+  Anscombe, *Intention* — eighty pages that restarted action theory;
+  Beauvoir, *The Second Sex* (Borde & Malovany-Chevallier, the first complete
+  English); Murdoch, *The Sovereignty of Good*; Bernard Williams, *Ethics and
+  the Limits of Philosophy*; Fanon, *Black Skin, White Masks* (Philcox).
+- *The multi-decade reading and listening plan:* give each decade a spine.
+  Decade one is Plato entire — one dialogue a month out of Cooper's Hackett
+  *Complete Works* takes about three years — then Aristotle's *Ethics*,
+  *Physics* and *Metaphysics* at the same pace. Decade two goes to what the
+  survey compressed: five years on the Islamic and Jewish traditions, five on
+  the Indian and Buddhist, Adamson's series read alongside the primary texts.
+  Decade three is the moderns from Descartes to Kant, with one full *Critique
+  of Pure Reason* at the centre. Decade four is contemporary work in the one
+  subfield you refuse to leave. Underneath all forty years: reread the
+  *Critique* once a decade with a different commentary — Guyer, then Allison,
+  then Longuenesse — and read one journal issue cover to cover each month,
+  including the articles you have no stake in.
+- *Re-reading:* the arguments do not change; what changes is which premise you
+  find it costly to deny. Aristotle on friendship and the good life reads as a
+  checklist at 20 and as an account of your actual losses at 60. Hume on the
+  self, Parfit on personal identity, and Epicurus and Lucretius on death turn
+  concrete rather than clever somewhere past 70. Plato's *Apology* repays a
+  reading every ten years — Socrates is a young person's hero, then an
+  awkward one, then something else again.
+- *A lifetime practice:* keep one notebook, indefinitely, of arguments in
+  numbered form — yours and other people's — with the date you last changed
+  your mind and what changed it. Write one serious paper a year on the problem
+  you cannot drop. Teach: a reading group you convene, a class at a library,
+  someone who argues back weekly. Philosophy decays fastest in private.
+- *Rabbit holes:* the sorites paradox and the vagueness literature; Newcomb's
+  problem and the causal/evidential decision theory split; the Buddhist
+  *apoha* theory of meaning against Nyāya realism about universals; the Kyoto
+  School (Nishida Kitarō, *An Inquiry into the Good*); medieval theories of
+  supposition and the *insolubilia*.
+
 ## World religions & mythology
 
 **The question it asks.** What are these systems, as human phenomena — how do
@@ -210,6 +268,65 @@ about stories that a culture treats as foundational rather than optional.
 - *Community:* the American Academy of Religion and Society of Biblical
   Literature annual meetings (co-located, the field's center of gravity), the
   European Association for the Study of Religions, and the IAHR.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Hebrew Bible and Second Temple studies — John J. Collins,
+  *Introduction to the Hebrew Bible*; owns source criticism and the history of
+  ancient Israel. Islamic studies — Marshall Hodgson, *The Venture of Islam*
+  (three volumes); owns law, hadith criticism and Sufism as a single system.
+  Buddhist studies — Donald Lopez, *The Story of Buddhism*; owns Abhidharma,
+  monastic codes and the Mahāyāna expansion. South Asian religions — Diana
+  Eck, *Banaras: City of Light*; owns pilgrimage, temple and the logic of
+  *darśan*. East Asian religions — Livia Kohn (ed.), *Daoism Handbook*, with
+  Ian Reader's *Religion in Contemporary Japan*; owns syncretism and
+  household ritual. African and diasporic traditions — Jacob Olupona,
+  *African Religions: A Very Short Introduction*; owns oral transmission and
+  possession practice. Comparative mythology and folklore — Bruce Lincoln,
+  *Theorizing Myth*, plus the Aarne–Thompson–Uther tale-type index. Cognitive
+  science of religion — Pascal Boyer, *Religion Explained*.
+- *The long canon:* Robert Alter's complete *The Hebrew Bible: A Translation
+  with Commentary* (three volumes); the Mishnah (Jacob Neusner) and one full
+  Talmud tractate via the free William Davidson edition on Sefaria; *The New
+  Oxford Annotated Bible* (NRSVue) for the apparatus; *The Study Quran*
+  (Seyyed Hossein Nasr, ed.) for the commentary tradition Abdel Haleem's plain
+  text leaves out; al-Ghazālī, *Deliverance from Error*; the *Majjhima
+  Nikāya* (Ñāṇamoli & Bodhi); the *Lotus Sutra* (Burton Watson) and the
+  *Platform Sutra* (Philip Yampolsky); *The Tibetan Book of the Dead* (Gyurme
+  Dorje's translation — Evans-Wentz's famous 1927 version is a period
+  document, not a reliable one); the *Rāmāyaṇa* (Robert Goldman's Princeton
+  translation) and the *Mahābhārata* (van Buitenen's Chicago volumes, or
+  Carole Satyamurti's verse abridgment); the *Kojiki* (Donald Philippi); the
+  *Poetic Edda* (Carolyne Larrington) with Snorri's *Prose Edda* (Anthony
+  Faulkes); *Sunjata* (David C. Conrad) for the Mande oral epic; hymns from
+  the *Guru Granth Sahib* (Nikky-Guninder Kaur Singh); *The Nag Hammadi
+  Scriptures* (Marvin Meyer, ed.).
+- *The multi-decade reading and listening plan:* five years per tradition,
+  eight traditions, forty years. Each block: its primary texts in order, one
+  scholarly monograph a year, one modern ethnography, and attendance at its
+  major annual observance wherever you are welcome as a visitor. Independently
+  of that, read the Hebrew Bible and New Testament straight through once a
+  decade in a different translation each time — Alter, then the NRSVue with
+  its apparatus, then the JPS Tanakh, then a source language if you have one.
+  For daily rhythm, borrow the *daf yomi* pattern: one page of a primary text
+  every morning on a fixed cycle. The original covers the Babylonian Talmud in
+  about seven and a half years and has run without a break since 1923; the
+  structure works for any corpus large enough to outlast your patience.
+- *Re-reading:* Job at 20 is a puzzle about theodicy; at 60 it is about the
+  friends. Ecclesiastes reverses polarity somewhere in middle age. The second
+  chapter of the *Bhagavad Gita*, Augustine's *Confessions*, and the Buddhist
+  texts on impermanence all read as argument first and as description later.
+  Return to the tradition you were raised in, or deliberately not raised in,
+  every fifteen years — it is a different object each time because you are.
+- *A lifetime practice:* keep the source language alive with a chapter a week,
+  which is enough to hold ground even in decades when you do nothing else.
+  Keep dated fieldnotes on every service, festival and site you attend, with
+  what you saw separated from what you were told it meant. Make one site
+  visit a year that requires travel. Teach an introduction somewhere public.
+- *Rabbit holes:* the Dead Sea Scrolls and the Qumran community's identity;
+  the Nag Hammadi library and what "Gnosticism" turned out not to be; *isnād*
+  criticism and how hadith authenticity was adjudicated; the Ise Shrine's
+  twenty-year *shikinen sengū* rebuilding cycle; the closing of the canons.
 
 ## Literature (the world canon)
 
@@ -319,6 +436,64 @@ and who gets to decide what counts as literature at all?
 - *Community:* MLA, ACLA, ALSCW, and the period societies. For the creative
   channel: literary magazines, small presses, and residencies or workshops
   (Iowa, Bread Loaf, Clarion, Cave Canem) where the criticism is unsparing.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* poetry and prosody — *The Norton Anthology of Poetry* read
+  cover to cover over years; owns the line as a unit of thought. Greek and
+  Latin literature — the Loeb Classical Library with facing pages; owns the
+  forms everything European later argues with. Chinese and Japanese
+  literature — Victor Mair (ed.), *The Columbia Anthology of Traditional
+  Chinese Literature*, and Donald Keene's multi-volume history of Japanese
+  literature; owns a thousand-year continuous lyric tradition. Arabic and
+  Persian literature — Roger Allen, *The Arabic Literary Heritage*, and Dick
+  Davis's translations from Persian; owns the *qaṣīda*, the ghazal, and epic
+  outside the Homeric line. South Asian literature — A.K. Ramanujan's
+  translations (*Poems of Love and War*, *Speaking of Śiva*); owns *bhakti*
+  poetry and classical Tamil. African and diasporic literature — *The Norton
+  Anthology of African American Literature*, with Ngũgĩ wa Thiong'o's
+  *Decolonising the Mind*; owns the language-of-writing question. Latin
+  American literature — Borges, Rulfo, Lispector as the three doors.
+  Translation studies — Lawrence Venuti, *The Translator's Invisibility*.
+- *The long canon:* Virgil, *Aeneid* (Sarah Ruden, spare and line-for-line;
+  Fagles for sweep); Ovid, *Metamorphoses* (Stephanie McCarter); *Beowulf*
+  (Heaney, then Maria Dahvana Headley for the argument); Ferdowsi,
+  *Shahnameh* (Dick Davis); Chaucer, *The Canterbury Tales*, in Middle
+  English with the *Riverside*; *The Tale of the Heike* (Royall Tyler);
+  Milton, *Paradise Lost*; Sterne, *Tristram Shandy*; Melville, *Moby-Dick*;
+  Eliot, *Middlemarch*; Dickinson in Franklin's reading edition; Joyce,
+  *Ulysses*, with Gifford's *Ulysses Annotated*; Mann, *The Magic Mountain*
+  (John E. Woods); Naguib Mahfouz, *The Cairo Trilogy*; Clarice Lispector,
+  *The Passion According to G.H.* (Idra Novey); Sebald, *Austerlitz* (Anthea
+  Bell). And Proust entire, in the Moncrieff–Kilmartin–Enright revision or the
+  multi-translator Penguin.
+- *The multi-decade reading and listening plan:* one Shakespeare play a year.
+  There are roughly thirty-eight, so the sequence runs from now until you are
+  sixty — read it in January, see or watch a production by June, reread it in
+  December, and keep the three sets of notes. Add a long novel each winter,
+  one that needs the season: *War and Peace*, *The Tale of Genji*, *The Story
+  of the Stone*, *The Magic Mountain*, *Ulysses*, *Middlemarch*, *Moby-Dick*.
+  Add a poem memorized every month, which is four hundred and eighty poems by
+  ninety. Give one decade to a single national tradition read in publication
+  order — the Russian nineteenth century from Pushkin's *Eugene Onegin*
+  (Falen's verse, Nabokov's literal version beside it) to Chekhov is the
+  cleanest example, because you watch the arguments land in real time. Read
+  Proust once a volume a year, twice in a life, at 30 and again at 70.
+- *Re-reading:* *Middlemarch* is the standard proof — Dorothea is admirable at
+  25, exasperating at 45, and heartbreaking at 65, and Eliot wrote all three
+  readings. The *Odyssey* changes once you have a home to return to. *The
+  Death of Ivan Ilyich* is theoretical until it isn't. *Hamlet* shifts as you
+  age past the prince and toward Polonius, then past him. Bashō and the
+  classical Chinese lyric poets get better as the reader gets quieter.
+- *A lifetime practice:* keep a reading journal with one page per book, dated,
+  including the books you abandoned and why — at forty years it becomes the
+  most interesting thing you own. Translate one poem a month from whatever
+  language you have, however badly; nothing else forces the same attention.
+  Write, in whichever channel you chose, and finish things.
+- *Rabbit holes:* the Homeric Question and oral-formulaic composition (Parry
+  and Lord, *The Singer of Tales*); the Icelandic family sagas; the ghazal's
+  route from Arabic through Persian into Urdu; Oulipo and constrained writing;
+  the tonal patterning of Chinese regulated verse.
 
 ## Music (theory + history)
 
@@ -430,6 +605,68 @@ in the comparison.
   Society, the Society for Ethnomusicology, ICMPC for cognition. For the
   creative channel: commissions, competitions, residencies, and the ensembles
   who will actually play your score.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* historically informed performance — Bruce Haynes, *The End of
+  Early Music*; owns the argument that period instruments changed what the
+  repertoire means. Opera — Abbate & Parker, *A History of Opera*; owns music
+  as drama and the economics that shaped both. Jazz — Ted Gioia, *The History
+  of Jazz*, with Mark Levine's *The Jazz Theory Book*; owns improvisation as
+  composition at speed. Hindustani and Carnatic classical — Bonnie Wade,
+  *Music in India: The Classical Traditions*; owns rāga and tāla as generative
+  systems and oral transmission as pedagogy. West African and Afro-diasporic
+  percussion — John Miller Chernoff, *African Rhythm and African Sensibility*;
+  owns polyrhythm and participation. Arab maqām and Turkish makam — Habib
+  Hassan Touma, *The Music of the Arabs*; owns modal melody with microtonal
+  intervals. Gamelan — Michael Tenzer, *Gamelan Gong Kebyar*; owns cyclic form
+  and interlocking parts. Electronic and electroacoustic — Curtis Roads, *The
+  Computer Music Tutorial*; owns timbre as the composed parameter.
+- *The long canon:* Bach's roughly two hundred surviving sacred cantatas, with
+  Alfred Dürr's *The Cantatas of J.S. Bach* as companion, plus the *St Matthew
+  Passion* and *The Art of Fugue*; Monteverdi's *Vespers of 1610*; Josquin's
+  masses; Haydn's quartets Opp. 20, 33 and 76; Mozart's *Le nozze di Figaro*,
+  *Don Giovanni* and *Così fan tutte*; Beethoven's thirty-two piano sonatas
+  and sixteen quartets; Schubert's late sonatas; Wagner's *Ring*; Verdi's
+  *Otello*; Mahler's nine symphonies; Bartók's six quartets; Shostakovich's
+  fifteen; Messiaen's *Quatuor pour la fin du temps*; Ligeti's piano *Études*.
+  Beside them, with equal weight: Ellington's Blanton–Webster band; Parker's
+  Savoy and Dial sessions; Mingus, *The Black Saint and the Sinner Lady*;
+  Ornette Coleman, *The Shape of Jazz to Come*; the Dagar brothers' dhrupad;
+  Kishori Amonkar; M.S. Subbulakshmi; Umm Kulthūm's *Enta Omri*; Nusrat Fateh
+  Ali Khan's qawwali; Toumani Diabaté, *New Ancient Strings*; Fela Kuti;
+  Terry Riley's *In C* and Reich's *Music for 18 Musicians*.
+- *The multi-decade reading and listening plan:* the Bach cantatas are the
+  spine, and they come with their own calendar. Each was written for a
+  specific Sunday or feast of the Lutheran church year, so follow them
+  liturgically — this week's cantata, this week. Sixty occasions a year
+  against two hundred surviving works means three or four complete annual
+  cycles before anything repeats: a decade of Sundays. John Eliot Gardiner's
+  *Bach Cantata Pilgrimage* recorded them on their proper days across 2000 and
+  is the obvious set; the free Bach Cantatas Website indexes by date and gives
+  you texts and translations. Around that spine: one Beethoven sonata a month
+  for thirty-two months, then the sixteen quartets at one a season, then begin
+  again. One Mahler symphony a year for nine years, live where you can. A
+  *Ring* cycle once a decade. And one new rāga a year for forty years — learn
+  its scale, its time of day and its characteristic phrases, then spend the
+  twelve months hearing ten different performances of that one rāga.
+- *Re-reading:* Glenn Gould recorded the *Goldberg Variations* in 1955 and
+  again in 1981, and the two are the cleanest available proof of what
+  returning does — same notes, a different person. Late Beethoven, especially
+  Op. 131 and the Op. 111 sonata, is impressive at 20 and legible at 60.
+  *Winterreise* is a young man's cycle sung best by old singers; compare one
+  singer's earliest and latest recordings of it. Anything you loved at 20 and
+  find thin at 50 is worth a third hearing at 80.
+- *A lifetime practice:* play, daily, on one instrument, for the rest of your
+  life — an hour is plenty and twenty minutes is not nothing. Sing in an
+  ensemble weekly, because reading in real time next to other people is a
+  skill that only decays. Keep a listening log with the piece, performance,
+  date and one sentence. Transcribe something by ear every month. Write one
+  piece a year, however small, and get it played.
+- *Rabbit holes:* the temperament wars — what "well-tempered" actually meant,
+  and Werckmeister against Vallotti; the Solesmes restoration of Gregorian
+  chant; the Hornbostel–Sachs classification of instruments; the electric bass
+  and what it did to arranging; the Shepard tone and auditory illusion.
 
 ## Visual art & architecture
 

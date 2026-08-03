@@ -120,6 +120,65 @@ a cause, and how you argue from sources that were never made for you.
   Social Science History Association; the university presses (Cambridge,
   Princeton, Chicago, Harvard) are the venue that counts.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* **Economic history** — Robert Allen, *Global Economic
+  History: A Very Short Introduction*, then the Cambridge economic histories;
+  owns "why did living standards move when they did." **Intellectual
+  history** — Quentin Skinner, *Visions of Politics* vol. 1 for the Cambridge
+  School's contextualist method; owns "what did this text mean to do, in its
+  own vocabulary." **Environmental history** — Alfred Crosby, *Ecological
+  Imperialism*, and J.R. McNeill, *Something New Under the Sun*; owns nature
+  as an agent rather than a stage. **Military history** — Michael Howard,
+  *War in European History*, and John Keegan, *The Face of Battle*; owns what
+  organized violence does to societies and they to it. **Social history from
+  below** — E.P. Thompson and the *Past & Present* back catalogue; owns the
+  lives of people who left no archive of their own. **History of science and
+  technology** — Shapin & Schaffer, *Leviathan and the Air-Pump*; owns how
+  knowledge acquired its authority. **Connected and global history** — Sanjay
+  Subrahmanyam's "Connected Histories" (1997); owns the spaces between the
+  national containers. **One region or period, properly** — pick it and read
+  its Cambridge history as your floor.
+- *The long canon:* Braudel, *Civilization and Capitalism, 15th–18th Century*
+  (3 vols) — the great synthesis, read a volume a year; Gibbon, *Decline and
+  Fall* — argument and prose both; Marc Bloch, *Feudal Society*; Marshall
+  Hodgson, *The Venture of Islam* (3 vols) — still the most ambitious history
+  of a civilization by an outsider who took it on its own terms; Eric Wolf,
+  *Europe and the People Without History*; C.A. Bayly, *The Birth of the
+  Modern World, 1780–1914*; Jonathan Spence, *The Search for Modern China*;
+  Sheldon Pollock, *The Language of the Gods in the World of Men*; Michel-Rolph
+  Trouillot, *Silencing the Past* — on how the Haitian Revolution became
+  unthinkable; Dipesh Chakrabarty, *Provincializing Europe*; Columbia's
+  *Sources of Chinese / Indian / Japanese Tradition* readers as your
+  primary-source shelf; Robert Caro's *Years of Lyndon Johnson* for what
+  biography can do. For the imperial argument, read Niall Ferguson's *Empire*
+  against Caroline Elkins' *Legacy of Violence* — both are contested by
+  specialists, and the disagreement is the education.
+- *Re-foundation watch:* prehistory and premodern demography are being rewritten
+  from outside the archive — ancient DNA, isotopes, ice cores, tree rings,
+  pollen cores. The Justinianic plague's severity, the Black Death's reach, and
+  every Bronze Age migration story have all moved since 2015 and will move
+  again. Mass digitization plus text mining is opening corpora no one could read
+  by hand; archives open and close politically (Soviet ones opened in the 1990s,
+  Chinese ones have been closing since roughly 2013). Durable: Braudel's speeds,
+  the lateness of the Great Divergence, the archive-as-selection-effect.
+  Fashion: whichever single-cause grand narrative is currently selling. You have
+  gone stale when your account of the Neolithic, of plague, or of who moved
+  where predates the genomics, or when your reflex citation is a trade
+  bestseller rather than a monograph.
+- *A lifetime practice:* adopt one place — a town, a parish, a river valley,
+  a city block — and work its records for the rest of your life. Land
+  registers, censuses, newspapers, wills, photographs. Nobody else will do it,
+  the sources are local and free, and after thirty years you will know
+  something genuinely new. Transcription projects and a county archive will
+  take you as a volunteer. Alongside it, read one journal cover to cover for
+  decades; *Past & Present* is the best candidate.
+- *Rabbit holes:* the Late Bronze Age collapse around 1200 BCE and whether it
+  was one event; the Sogdian merchant network and its private letters; the
+  Taiping Rebellion, the deadliest civil war in history and barely known
+  outside China; 1816, the year without a summer, and Tambora; the Indian
+  Ocean world before the Portuguese arrived in it.
+
 ---
 
 ## Anthropology & archaeology
@@ -225,6 +284,63 @@ interview — how do you reconstruct behavior from broken objects and dirt?
 - *Community:* American Anthropological Association, Society for American
   Archaeology, Royal Anthropological Institute, EASA; the AAA and SAA annual
   meetings.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* **Linguistic anthropology** — Alessandro Duranti, *Linguistic
+  Anthropology*; owns how talk builds social worlds moment by moment.
+  **Biological anthropology** — Boyd & Silk, *How Humans Evolved*; owns which
+  of our behaviour is deep and which is local. **Economic anthropology** —
+  Marshall Sahlins, *Stone Age Economics*, then Hann & Hart, *Economic
+  Anthropology*; owns what an economy is when the market is not the default.
+  **Medical anthropology** — Arthur Kleinman, *The Illness Narratives*, and
+  Paul Farmer, *Infections and Inequalities*; owns how suffering is produced,
+  named, and treated. **Legal and political anthropology** — Sally Engle Merry
+  on rights translation, James Scott on evasion of the state; owns order
+  without a court. **Archaeological science** — isotopes, residues, proteomics,
+  zooarchaeology; owns "what did this person actually eat and where were they
+  born." **Heritage, museums, and repatriation** — owns who the past belongs
+  to, and it is now a legal question as much as a scholarly one. **Digital and
+  computational archaeology** — LiDAR, photogrammetry, agent-based models.
+- *The long canon:* Mary Douglas, *Purity and Danger*; Victor Turner, *The
+  Ritual Process*; Evans-Pritchard, *Witchcraft, Oracles and Magic among the
+  Azande* — still the best demonstration that a system can be rational
+  internally and false; Lévi-Strauss, *The Elementary Structures of Kinship*
+  (hard, skim with a guide); Talal Asad (ed.), *Anthropology and the Colonial
+  Encounter*; Jomo Kenyatta, *Facing Mount Kenya* — Malinowski's student
+  writing his own people, and later Kenya's president; Zora Neale Hurston,
+  *Mules and Men*; Marilyn Strathern, *The Gender of the Gift*; Nancy
+  Scheper-Hughes, *Death Without Weeping*; Philippe Bourgois, *In Search of
+  Respect*; Li Liu & Xingcan Chen, *The Archaeology of China* — the standard
+  in English and a corrective to a very Near-East-centric field; Steven
+  Mithen, *After the Ice*, for the whole postglacial world in one book. The
+  Chagnon–Tierney affair over the Yanomamö is worth reading in full from all
+  sides, including the AAA task force and its later rescission — it is the
+  discipline's hardest case on evidence, ethics, and reputation.
+- *Re-foundation watch:* the archaeological sciences are moving faster than any
+  other field in this file. Ancient DNA, sedimentary DNA, palaeoproteomics,
+  and Bayesian chronological modelling have already overturned Clovis-first,
+  reopened Indo-European origins, and put dates on things that had none.
+  Radiocarbon calibration curves get revised; check which one your source used.
+  Meanwhile the legal and ethical frame around sampling human remains and
+  holding collections is tightening fast — repatriation law is the live
+  constraint on what research is even possible. Durable: thick description,
+  the emic/etic distinction, context over object, the gift. Fashion:
+  whichever theoretical turn is current. Stale when you cite a peopling date,
+  a migration, or a domestication event without knowing whether genomics has
+  touched it in the last decade.
+- *A lifetime practice:* go back. Longitudinal fieldwork — the same site,
+  the same families, every few years for forty years — is the rarest and most
+  valuable thing anthropology produces, and almost nobody manages it. Failing
+  that, join one local excavation every summer for decades and become the
+  person who remembers the regional sequence. Keep field notes on your own
+  society continuously; it is free, and you are the only researcher with
+  access.
+- *Rabbit holes:* the Sahlins–Obeyesekere argument over whether Hawaiians took
+  Captain Cook for a god; Göbekli Tepe and Karahan Tepe, monumental building
+  before farming; the settlement of the Pacific and what the sailing
+  reconstructions proved; the Indus script and why sixty years of decipherment
+  attempts have failed; the potlatch and its criminalization.
 
 ---
 
@@ -332,6 +448,67 @@ inferring causation from a world it cannot randomize.
 - *Community:* American Sociological Association (the sections are where the
   actual subfields live), European Sociological Association; SocArXiv for
   preprints.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* **Economic sociology** — Viviana Zelizer, *The Social Meaning
+  of Money*, and the Smelser & Swedberg *Handbook*; owns how markets are
+  built, not assumed. **Demography** — Preston, Heuveline & Guillot,
+  *Demography: Measuring and Modeling Population Processes*; owns the
+  arithmetic of birth, death, and migration, and it is the most predictive
+  social science there is. **Urban sociology** — Robert Sampson, *Great
+  American City*; owns whether place itself causes anything. **Social
+  movements** — Doug McAdam, *Political Process and the Development of Black
+  Insurgency*, and Charles Tilly on contention; owns why people act together
+  at some moments and not others. **Sociology of religion** — José Casanova,
+  *Public Religions in the Modern World*; owns secularization, which turned
+  out not to be a law. **Science and technology studies** — Latour & Woolgar,
+  *Laboratory Life*, against Merton's earlier norms; owns how facts get made.
+  **Comparative-historical sociology** — Michael Mann, *The Sources of Social
+  Power*; owns the very long run. **Punishment and social control** — David
+  Garland, *The Culture of Control*.
+- *The long canon:* Weber, *Economy and Society* — a reference monument, not a
+  read-through; Norbert Elias, *The Civilizing Process*; Robert Merton,
+  *Social Theory and Social Structure* (manifest and latent functions,
+  middle-range theory); Goffman, *Asylums* and *Stigma*; Bourdieu & Passeron,
+  *Reproduction in Education, Society and Culture*; Immanuel Wallerstein, *The
+  Modern World-System* (4 vols); Ulrich Beck, *Risk Society*; Du Bois, *The
+  Philadelphia Negro* in full; Mitchell Duneier, *Sidewalk*, and Elijah
+  Anderson, *Code of the Street*; Nancy Fraser & Axel Honneth, *Redistribution
+  or Recognition?*; Fei Xiaotong, *From the Soil* — the founding text of
+  Chinese sociology and the best short account of a non-Western social
+  structure on its own terms; Raewyn Connell, *Southern Theory*, on why the
+  canon is shaped the way it is; Syed Farid Alatas on Ibn Khaldun as a
+  sociologist. Where books are contested, read the pair: Putnam's *Bowling
+  Alone* with Claude Fischer's *Still Connected*, which finds far less
+  decline; Herrnstein & Murray's *The Bell Curve* with Fischer et al.'s
+  *Inequality by Design* and the ASA's statement.
+- *Re-foundation watch:* two method revolutions are still running. First,
+  survey data is in trouble — response rates have collapsed, probability
+  samples are expensive, and mode changes break time series (the GSS's 2021
+  redesign is the concrete example; check comparability before you plot a
+  trend across it). Second, linked administrative data is replacing surveys
+  for anything about income, mobility, or health — Nordic registers,
+  Opportunity Insights, tax-and-employer records. Expect the causal
+  identification bar to keep rising and preregistration to become normal.
+  Durable: weak ties, institutional isomorphism, neighborhood effects,
+  social facts as rates. Fashion: whatever the current single-variable
+  explanation of inequality is. Stale when you quote a famous social-psych
+  finding without checking whether it replicated, or treat a pre-2020 survey
+  series as continuous.
+- *A lifetime practice:* sit on something. A school board, a housing
+  association, a union local, a co-op, a parish council — for years, taking
+  notes. You get the internal view of an organization that no survey reaches,
+  and organizational life is the discipline's real subject. Alongside it, read
+  the *Annual Review of Sociology* front to back every year; it is the cheapest
+  way to stay current across a field far too big to follow directly.
+- *Rabbit holes:* the Stanford Prison Experiment and Milgram revisionism (Gina
+  Perry, *Behind the Shock Machine*; Le Texier on the SPE archives) — a
+  masterclass in how a finding becomes furniture; the Project on Human
+  Development in Chicago Neighborhoods and what collective efficacy actually
+  measured; the demography of religious groups that don't fertility-transition;
+  Durkheim's suicide data re-examined with modern statistics; the sociology of
+  queueing, tipping, and other small orders nobody legislated.
 
 ---
 
@@ -441,6 +618,70 @@ political behavior and outcomes.
   question is.
 - *Community:* APSA, MPSA, EPSA, International Studies Association; EGAP for
   experimental design standards.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* **Authoritarian politics** — Milan Svolik, *The Politics of
+  Authoritarian Rule*; owns the fact that most dictators are removed by their
+  own elite, not by the people. **Political economy of development** — Atul
+  Kohli, *State-Directed Development*; owns why some states can build and
+  others cannot. **Bureaucracy and public administration** — James Q. Wilson,
+  *Bureaucracy*; owns why agencies behave as they do once the statute is
+  passed. **Public opinion and political behavior** — Achen & Bartels,
+  *Democracy for Realists*, and Converse's 1964 "Nature of Belief Systems";
+  owns how little most voters resemble the model. **Security studies** —
+  Thomas Schelling, *Arms and Influence*, still the best book on coercion.
+  **International political economy** — Jeffry Frieden, *Global Capitalism*,
+  and Dani Rodrik's globalization trilemma; owns the politics behind trade and
+  capital flows. **Republican political theory** — Philip Pettit, *On the
+  People's Terms*; owns freedom as non-domination rather than non-interference.
+  **Subnational and local politics** — the level where most governing happens
+  and least research goes.
+- *The long canon:* Aristotle, *Politics* Books 3–6 — the original comparative
+  politics, and still sharp on regime decay; Karl Polanyi, *The Great
+  Transformation*; Barrington Moore, *Social Origins of Dictatorship and
+  Democracy*; Charles Tilly, *Coercion, Capital, and European States*; Juan
+  Linz & Alfred Stepan, *Problems of Democratic Transition and
+  Consolidation*; Robert Dahl, *Who Governs?*; Adam Przeworski et al.,
+  *Democracy and Development*; James C. Scott, *Weapons of the Weak* and *The
+  Art of Not Being Governed*; Guillermo O'Donnell on bureaucratic
+  authoritarianism and delegative democracy — the best theorist Latin
+  America's own experience produced; Partha Chatterjee, *The Politics of the
+  Governed*, on how most of the world is actually governed; Kenneth Waltz,
+  *Theory of International Politics*, read against Alexander Wendt's *Social
+  Theory of International Politics*. Huntington is a required argument on both
+  ends: *Political Order in Changing Societies* is a genuine classic, while
+  *The Clash of Civilizations* is far weaker and has been picked apart by area
+  specialists — read Edward Said's and Amartya Sen's replies. On democracy's
+  worth, read Bryan Caplan's *The Myth of the Rational Voter* and Jason
+  Brennan's *Against Democracy* against Hélène Landemore's *Democratic
+  Reason*; the disagreement is honest and unresolved.
+- *Re-foundation watch:* the credibility revolution is still arriving in
+  comparative politics and IR, and preregistration plus data sharing became
+  norms only after a fraud scandal (the LaCour retraction) forced the issue.
+  Text-as-data and now language models are opening legislative records, court
+  opinions, and party manifestos to analysis at a scale nobody had; conflict
+  event data (ACLED, UCDP) keeps improving and keeps revising past estimates.
+  Watch the measurement debates over expert-coded indices like V-Dem, because
+  the entire backsliding literature rests on them. Durable: Duverger, veto
+  players, selectorate logic, the democratic peace, collective action. Fashion:
+  each decade's confident story about where regimes are heading — the third
+  wave, the end of history, the backsliding wave. Stale when your model of
+  party competition predates the last realignment, or you cannot name a serious
+  scholar who disagrees with your read of your own country.
+- *A lifetime practice:* adopt a country that is not yours and follow it for
+  life — its elections, budgets, constitutional court, and press, in its own
+  language if you can. Record a written forecast before each election and grade
+  yourself afterwards; thirty years of scored predictions will teach you more
+  about political science than thirty years of reading it. Do local party or
+  council work at least once, so you know what the incentives feel like from
+  inside.
+- *Rabbit holes:* the single transferable vote and its known pathologies;
+  Ostrom's Nepali irrigation fieldwork and why farmer-built canals outperformed
+  engineered ones; the drafting of the Indian constitution (Granville Austin,
+  *The Indian Constitution*); Michels' iron law of oligarchy tested on real
+  organizations; Portugal's 1974–76 transition, the messiest and most
+  instructive of the third wave.
 
 ---
 
@@ -552,6 +793,66 @@ similar answers?
 - *Community:* American Law Institute, American Society of Comparative Law,
   Conference on Empirical Legal Studies, Society of Legal Scholars (UK), your
   own bar association.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* **Comparative law** — Mathias Siems, *Comparative Law*, on
+  top of Zweigert & Kötz; owns whether different systems converge on the same
+  answers by different routes. **Public international law** — Malcolm Shaw,
+  *International Law*; owns what makes a rule binding with no sovereign above
+  it. **Islamic law** — Wael Hallaq, *An Introduction to Islamic Law*, then
+  *Sharī'a: Theory, Practice, Transformations*; owns what law looks like when
+  jurists rather than states are its authors, which is most of legal history.
+  **Chinese law** — Jianfu Chen, *Chinese Law: Context and Transformation*;
+  owns the largest legal system that fits neither tradition you were taught.
+  **Legal history** — J.H. Baker, *An Introduction to English Legal History*,
+  and Lawrence Friedman, *A History of American Law*; owns where the doctrines
+  came from and how contingent they are. **Constitutional design** — Ginsburg
+  & Huq, and the Comparative Constitutions Project data; owns what actually
+  makes a constitution last. **Criminal justice and punishment** — owns why
+  incarceration rates differ by an order of magnitude between rich democracies.
+  **Customary and indigenous law** — owns law without writing or a state.
+- *The long canon:* Justinian's *Institutes* and selections from the *Digest*
+  — the root of the tradition most of the world uses; Henry Maine, *Ancient
+  Law*; Hans Kelsen, *Pure Theory of Law*; A.V. Dicey on the rule of law, and
+  Carl Schmitt's *Political Theology* as the strongest attack on it, read with
+  its critics; Benjamin Cardozo, *The Nature of the Judicial Process* — a
+  sitting judge explaining what he actually does; Karl Llewellyn, *The Bramble
+  Bush*; E.P. Thompson, *Whigs and Hunters*, whose closing pages are a Marxist
+  historian conceding the rule of law is "an unqualified human good" — the
+  most interesting concession in the literature; Marc Galanter, "Why the
+  'Haves' Come Out Ahead" (1974); Catharine MacKinnon, *Toward a Feminist
+  Theory of the State*, and Kimberlé Crenshaw's intersectionality articles;
+  H. Patrick Glenn, *Legal Traditions of the World*, the only genuinely global
+  survey. On mass incarceration read the argument as a set: Michelle
+  Alexander's *The New Jim Crow*, then John Pfaff's *Locked In*, which shows
+  the drug-war account cannot explain the growth and points at prosecutors,
+  then James Forman Jr.'s *Locking Up Our Own*.
+- *Re-foundation watch:* case law has become machine-readable at scale
+  (CourtListener, the Caselaw Access Project), which is turning doctrinal
+  claims into testable ones for the first time. Language models are entering
+  practice, and the resulting rules on evidence, competence, and
+  privilege will be written in the next decade. Watch the EU's AI Act and data
+  regimes as the world's default regulatory template, climate litigation after
+  Urgenda and KlimaSeniorinnen, and the long swing of interpretive method in
+  whatever apex court governs you. Durable: the positivism/natural-law
+  problem, procedure as substance, the law-in-action gap. Fashion: the
+  jurisprudential school of the moment. Stale when you cannot name the last
+  five years' leading cases in an area you have opinions about, or when your
+  picture of your own constitution is a decade old.
+- *A lifetime practice:* pick one legal question and follow it for forty years
+  — water rights, land title, free expression, corporate personhood, the
+  status of a minority language. Read every significant judgment as it lands
+  and keep a running annotated file. Almost nobody tracks a doctrine across
+  decades, and the person who does can see the shape of a change while it is
+  happening. Serve where you are allowed to: a jury, a tribunal panel, a
+  planning or licensing board, a charity's legal committee.
+- *Rabbit holes:* the reception of Roman law in medieval Europe and how a dead
+  code conquered a continent; the drafting of the German BGB against the
+  French Code civil; Nuremberg's improvised legality and the charge of victor's
+  justice; the *Lochner* era and the ongoing fight over whether it was wrong;
+  India's public interest litigation experiment, where a court invited the
+  poor to write it letters.
 
 ---
 
@@ -666,6 +967,72 @@ from correlation in a world you cannot run twice.
   Econometric Society, NBER, CEPR; NBER and CEPR working papers are the real
   publication timeline.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* **Development economics** — Banerjee & Duflo, *Poor
+  Economics*, read against Angus Deaton's critique of what randomization can
+  and cannot tell you; owns why poverty persists at the household level.
+  **Public economics** — Jonathan Gruber, *Public Finance and Public Policy*;
+  owns who really bears a tax and what governments should provide. **Labour
+  economics** — Cahuc, Carcillo & Zylberberg, *Labor Economics*; owns wages,
+  matching, and the most policy-relevant empirical literature in the field.
+  **Industrial organization** — Jean Tirole, *The Theory of Industrial
+  Organization*; owns market power and what to do about it. **Economic
+  history and cliometrics** — Joel Mokyr, *A Culture of Growth*, and Robert
+  Allen; owns the growth question at the century scale. **History of economic
+  thought** — Mark Blaug, *Economic Theory in Retrospect*; owns why the field
+  asks what it asks. **Environmental and climate economics** — the
+  Nordhaus–Stern discount-rate argument and Weitzman on fat tails; owns
+  valuing the far future. **Heterodox traditions** — Minsky for
+  post-Keynesian, Mises and Hayek for Austrian, Folbre and Marilyn Waring's
+  *If Women Counted* for feminist economics; each owns something the mainstream
+  measures badly.
+- *The long canon:* Alfred Marshall, *Principles of Economics*; Schumpeter,
+  *Capitalism, Socialism and Democracy* Part II, then *History of Economic
+  Analysis* as reference; Albert Hirschman, *Exit, Voice, and Loyalty* and
+  *The Passions and the Interests* — the most reliably surprising economist
+  to read; Friedman & Schwartz, *A Monetary History of the United States*;
+  Hyman Minsky, *Stabilizing an Unstable Economy*; Amartya Sen, *Collective
+  Choice and Social Welfare* and *Development as Freedom*; W. Arthur Lewis on
+  dual-sector development; Cardoso & Faletto, *Dependency and Development in
+  Latin America*, with Prebisch behind it — the tradition that shaped policy
+  across the global South and is barely taught in Anglophone programmes;
+  Ha-Joon Chang, *Kicking Away the Ladder*, heterodox and contested but a real
+  argument; Robert Gordon, *The Rise and Fall of American Growth*; Deirdre
+  McCloskey's *Bourgeois* trilogy as the culture-first counter to
+  institutionalism; Piketty's *Capital in the Twenty-First Century* read with
+  the measurement critiques (Rognlie on housing, Auten & Splinter on US top
+  shares) — the debate is about data construction, and that is worth learning
+  in itself.
+- *Re-foundation watch:* macro is the likeliest part of this field to be
+  unrecognizable in twenty years. It has been rebuilt twice already — once
+  after 2008 around finance and heterogeneous agents, again after 2020 around
+  fiscal-monetary interaction and the return of inflation. Meanwhile the
+  credibility revolution is having its own reckoning: external validity,
+  publication bias, and specification searching are now measured (Brodeur and
+  co-authors), the AEA mandates data deposits, and administrative and
+  firm-level microdata are replacing surveys. Durable: incidence, comparative
+  advantage, the market-failure taxonomy, the Lucas critique. Fashion: the
+  current consensus on the Phillips curve, on optimal debt, and on trade's
+  labour-market effects — the last was rewritten by the China shock papers
+  (Autor, Dorn & Hanson). Stale when you repeat a result that has failed
+  replication; Reinhart & Rogoff's 90 percent debt threshold and the Herndon,
+  Ash & Pollin correction is the standing example.
+- *A lifetime practice:* maintain one long series of your own. Prices at your
+  local shops, rents on one street, your household's complete accounts,
+  wages in one trade — collected the same way, the same month, for decades.
+  Nothing else teaches you what a statistic is made of, and after twenty years
+  you own data nobody else has. Pair it with reading the *Journal of Economic
+  Perspectives* cover to cover every quarter; it is free, deliberately
+  readable, and over fifty years it is an education by itself.
+- *Rabbit holes:* the socialist calculation debate — Mises and Hayek against
+  Lange and Lerner, and whether computation changes the answer; the Cambridge
+  capital controversy, which one side won and everyone kept teaching anyway;
+  the great hyperinflations, especially Hungary 1946; the ultimatum game run
+  across fifteen small-scale societies (Henrich et al.) and what it did to
+  "economic man"; Japan's lost decades as the rich world's most studied
+  natural experiment.
+
 ---
 
 ## Finance & markets
@@ -774,6 +1141,68 @@ that persist for decades.
 - *Community:* American Finance Association (AFA meetings), Western Finance
   Association, NBER Asset Pricing; SSRN's financial economics network for
   working papers; CFA Institute on the practitioner track.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* **Fixed income and rates** — Bruce Tuckman & Angel Serrat,
+  *Fixed Income Securities*; owns how the term structure prices time, and it
+  is a much larger market than equities. **Money and banking** — Perry
+  Mehrling's *The New Lombard Street* and his free Coursera course on the
+  economics of money and banking; owns who backstops the payment system, which
+  is the question every crisis turns out to be about. **Corporate governance**
+  — owns who controls the firm and for whom; the Bebchuk–Hirst work on index
+  funds' voting power is where it now bites. **Financial regulation and
+  stability** — Admati & Hellwig, *The Bankers' New Clothes*; owns capital
+  requirements and why the industry's objections to them are mostly wrong.
+  **Financial history** — Homer & Sylla, *A History of Interest Rates*, a
+  four-thousand-year dataset in one volume. **Household finance** — John
+  Bogle, *Common Sense on Mutual Funds*, and William Bernstein; owns what an
+  ordinary person should actually do, which is the only part of this field
+  most people need. **Quantitative investing** — Marcos López de Prado,
+  *Advances in Financial Machine Learning*, opinionated and unusually honest
+  about backtest overfitting. **Insurance and catastrophe risk** — owns
+  pricing tails you cannot diversify away.
+- *The long canon:* Peter Bernstein, *Against the Gods* and *Capital Ideas* —
+  risk and modern finance as intellectual history; Edward Chancellor, *Devil
+  Take the Hindmost*; Fred Schwed, *Where Are the Customers' Yachts?*, still
+  the funniest true book about the industry; Warren Buffett's shareholder
+  letters, free on the Berkshire site and a primary-source collection in
+  themselves (Cunningham's *The Essays of Warren Buffett* organizes them);
+  Robert Shiller, *Irrational Exuberance*; Andrew Lo, *Adaptive Markets*;
+  Emanuel Derman, *My Life as a Quant*; Perry Mehrling, *Fischer Black and the
+  Revolutionary Idea of Finance*; Reinhart & Rogoff, *This Time Is Different*
+  — the sovereign-debt dataset is a genuine achievement even though their
+  separate debt-threshold paper did not survive; Timur Kuran, *The Long
+  Divergence*, on how Islamic commercial and inheritance law shaped the Middle
+  East's financial development; Ronald Dore, *Stock Market Capitalism: Welfare
+  Capitalism*, on Japan and Germany as live alternatives to the Anglo-American
+  model. Taleb's *Fooled by Randomness* and *The Black Swan* are worth reading
+  and overclaim; pair them with actual extreme value theory (Embrechts,
+  Klüppelberg & Mikosch). Mackay's *Extraordinary Popular Delusions* is
+  charming and its tulip chapter is largely wrong — Anne Goldgar's
+  *Tulipmania* is the corrective.
+- *Re-foundation watch:* market plumbing changes faster than theory.
+  Decimalization, then high-frequency trading, then shortened settlement, and
+  next some form of tokenized settlement and central bank digital currency —
+  each rewrote who holds inventory and where liquidity comes from.
+  Intermediation keeps migrating out of banks into private credit and funds,
+  which means the next crisis will happen somewhere the last regulations do
+  not reach. Asset pricing is working through its own replication crisis:
+  most published factors do not survive out of sample. Durable: no-arbitrage,
+  discounting, diversification, maturity transformation, Bagehot's rule.
+  Fashion: whichever factor or asset class is currently being sold as
+  uncorrelated. Stale when you cannot describe how a trade in your own market
+  is actually executed and settled today, or say where leverage currently sits.
+- *A lifetime practice:* keep a decision journal. Every investment or
+  forecast: the thesis, the price, the time horizon, and what would prove you
+  wrong — written before the outcome. Audit it every January for forty years.
+  This single habit is worth more than any book here, and it is the only
+  reliable defence against hindsight. Alongside it, read one company's annual
+  report every year for decades and watch a business actually change.
+- *Rabbit holes:* Long-Term Capital Management in 1998, a Nobel-decorated
+  model meeting liquidity; the 1907 panic and how it produced a central bank;
+  the accidental birth of the Eurodollar market; the 2010 flash crash minute by
+  minute; Japan's 1989 peak and the arithmetic of a thirty-year drawdown.
 
 ---
 
@@ -887,6 +1316,65 @@ into determinism.
 - *Community:* American Association of Geographers (the AAG annual meeting),
   Royal Geographical Society, International Geographical Union; for the
   geopolitics side, IISS, CSIS, and the war college journals.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* **Urban geography and planning** — Peter Hall, *Cities of
+  Tomorrow*; owns why cities take the shapes they do and who decided. **Political
+  ecology** — Blaikie & Brookfield, *Land Degradation and Society*, and Michael
+  Watts, *Silent Violence*; owns who bears environmental harm and why it is
+  never evenly distributed. **Water and climate as constraints** — Peter
+  Gleick's *The World's Water* volumes; owns the two variables that bind
+  hardest and soonest. **Remote sensing** — Lillesand, Kiefer & Chipman,
+  *Remote Sensing and Image Interpretation*; owns measuring the surface of the
+  earth without touching it. **Cartography and its politics** — J.B. Harley,
+  "Deconstructing the Map" (1989), with Mark Monmonier's *How to Lie with
+  Maps*; owns the fact that every map is an argument. **Migration and
+  population geography** — owns who moves, who cannot, and what borders
+  actually do. **Military geography and strategy** — the war college and IISS
+  literature; owns terrain as a budget constraint on force. **One region,
+  cold** — physical, political, and economic geography of a single area until
+  people ask you about it.
+- *The long canon:* Alexander von Humboldt — start with Andrea Wulf's *The
+  Invention of Nature*, then his own *Personal Narrative*; William Cronon,
+  *Nature's Metropolis*, arguably the finest work of economic geography in
+  English; Jane Jacobs, *The Death and Life of Great American Cities*; Yi-Fu
+  Tuan, *Space and Place* and *Topophilia*, the humanist tradition and the
+  most quietly original geographer of the century; Jean Gottmann,
+  *Megalopolis*; David Harvey, *Social Justice and the City*; Saskia Sassen,
+  *The Global City*; Mike Davis, *City of Quartz* and *Late Victorian
+  Holocausts* — the latter a fierce and contested account of famine as policy
+  plus climate; Pomeranz & Topik, *The World That Trade Created*, for
+  geography as commerce; a serious world atlas (the Times comprehensive, or
+  your national atlas) treated as a book you read rather than consult. Read
+  Ellen Churchill Semple and Ellsworth Huntington once, deliberately, as the
+  cautionary case of where determinism leads. Robert Kaplan's *The Revenge of
+  Geography* is readable journalism that overclaims in the same direction —
+  useful only if you already have the critiques.
+- *Re-foundation watch:* the data revolution here is not finished. Free
+  near-daily satellite imagery plus machine learning now measures poverty,
+  crop yields, emissions, deforestation, and shipping in places that publish no
+  statistics — expect a decade in which arguments that were rhetorical become
+  empirical. Climate attribution science is maturing to the point of settling
+  causal claims about individual events; downscaled projections and sea-level
+  ranges will be revised more than once. Watch the Arctic and seabed
+  jurisdictional regimes, satellite navigation jamming as a routine tool, and
+  supply chain remapping. Durable: distance costs, site versus situation,
+  agglomeration, MAUP, the institutional reading of the resource curse.
+  Fashion: whichever chokepoint is currently in the headlines. Stale when your
+  mental map of energy flows, shipping routes, or a region's borders is a
+  decade old.
+- *A lifetime practice:* adopt one basin, strait, or borderland for life — its
+  hydrology, treaties, traffic, disputes, and settlements — and keep a file.
+  Thirty years of watching one river negotiate its way through three states
+  teaches more than any comparative survey. In parallel, map your own locality
+  repeatedly across decades: walk it, survey land use, contribute to
+  OpenStreetMap, and redraw one map a year from primary data.
+- *Rabbit holes:* the Radcliffe Line — a boundary drawn in five weeks by a man
+  who had never been to India; the Aral Sea's disappearance as a planned
+  outcome; the Nile Basin negotiations and the Grand Ethiopian Renaissance
+  Dam; the Darién Gap, the one place the Pan-American Highway does not go; the
+  Hanseatic League's geography of trust and warehouses.
 
 ---
 

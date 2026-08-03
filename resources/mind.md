@@ -100,6 +100,72 @@ The field is the sustained attempt to make those bridges load-bearing.
   Woods Hole (MBL) and Cold Spring Harbor — Methods in Computational
   Neuroscience, Neural Systems & Behavior — are the field's real initiation.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* cellular and molecular neuroscience — Hille, **Ion Channels
+  of Excitable Membranes**; owns how a membrane computes. Sensory systems —
+  Wandell, **Foundations of Vision** (free online); owns how a stimulus
+  becomes a code. Computational neuroscience — Gerstner et al., **Neuronal
+  Dynamics** (free), after Dayan & Abbott; owns what the circuit is actually
+  computing. Cognitive neuroscience — Gazzaniga, Ivry & Mangun, **Cognitive
+  Neuroscience: The Biology of the Mind**; owns the mapping from mental
+  function onto tissue, and the methods argument that comes with it.
+  Developmental neurobiology — Sanes, Reh & Harris, **Development of the
+  Nervous System**; owns how the wiring gets built. Neuroanatomy — Nolte,
+  **The Human Brain**; owns where things are, which quietly constrains every
+  story anyone tells. Behavioural endocrinology — Nelson & Kriegsfeld, **An
+  Introduction to Behavioral Endocrinology**; owns how hormones set the state
+  the circuits run in. Clinical neurology and neuropsychology — **Adams and
+  Victor's Principles of Neurology**, with Lezak, **Neuropsychological
+  Assessment**; owns what breaks and what breaking reveals. Comparative and
+  evolutionary neuroscience — Striedter, **Principles of Brain Evolution**;
+  owns which features are general and which are ours.
+- *The long canon:* Cajal, **Recollections of My Life** and **Advice for a
+  Young Investigator** — the founder, and still the best advice on research
+  temperament ever written. Marr, **Vision** — a monument; read the whole
+  thing eventually, not just chapter 1. Hubel, **Eye, Brain, and Vision** —
+  the discoverer explaining his own discovery. Luria, **The Mind of a
+  Mnemonist** and **The Man with a Shattered World** — the founding case
+  studies, and models of how to write about a person. Kandel, **In Search of
+  Memory** — memoir and field history at once. Finger, **Origins of
+  Neuroscience** — the long view. Buzsáki, **Rhythms of the Brain** and **The
+  Brain from Inside Out** — heterodox, arguing that the standard
+  stimulus-response framing has the causality backwards. Sterling & Laughlin,
+  **Principles of Neural Design** — design constraints as explanation.
+  Sapolsky, **Behave** — sprawling, and the best bridge from cells to social
+  behaviour. Damasio, **Descartes' Error** — contested, generative. Crick,
+  **The Astonishing Hypothesis** — the moment consciousness became a
+  respectable research target. Jonas & Kording, "Could a Neuroscientist
+  Understand a Microprocessor?" (2017) — a joke that is not a joke, and the
+  sharpest methodological critique the field has produced. Eve Marder's
+  essays on circuit degeneracy — the permanent corrective to naive
+  mechanism-hunting.
+- *Re-foundation watch:* durable — the neuron doctrine, Hodgkin–Huxley
+  biophysics, synaptic transmission, gross anatomy, the classical lesion
+  literature, Hubel and Wiesel. Volatile — nearly everything methodological.
+  The small-sample human imaging literature is largely unreliable, and
+  brain-wide association studies now appear to need thousands of subjects, not
+  dozens; the cell-type taxonomy is being rewritten by single-cell
+  transcriptomics and will be rewritten again; connectomics is scaling by
+  orders of magnitude; the amyloid hypothesis in Alzheimer's has been through
+  both clinical disappointment and a fraud scandal in its supporting
+  literature. Signal you have gone stale: you cite a 2005 imaging result with
+  n = 12 as established; you still say dopamine is the reward chemical; you
+  cannot name the current cell-type nomenclature.
+- *A lifetime practice:* a standing weekly journal club, alone or with others
+  — one paper, read from the figures first, with a written note on what the
+  controls did not rule out. Thirty years of that is fifteen hundred papers
+  and a nose you cannot get any other way. If you have the tooling, keep your
+  own analysis pipeline alive and run it against each major open dataset as it
+  is released.
+- *Rabbit holes:* the crab stomatogastric ganglion — thirty neurons, decades
+  of work, still not solved, and the best argument that "understanding a
+  circuit" is harder than it sounds; place cells, grid cells, and what a
+  cognitive map is; blindsight and what it means to see without seeing;
+  *C. elegans*, which has had a complete connectome since 1986 and still
+  cannot have its behaviour predicted from it; the rise and deflation of
+  mirror neurons, as a case study in how a field overclaims.
+
 ## Psychology (cognitive, social, developmental, clinical)
 
 **The question it asks.** What are the mechanisms that produce perception,
@@ -205,6 +271,71 @@ and because its constructs (attention, self-esteem, intelligence) have to be
 - *Community:* Association for Psychological Science, APA, Psychonomic
   Society, Cognitive Science Society, SPSP (social), SRCD (developmental),
   ABCT (clinical), and SIPS for the reform wing.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* psychophysics and perception — Goldstein, **Sensation and
+  Perception**, with Gescheider, **Psychophysics**; owns the mapping from
+  physical stimulus to experience, and it is the most durable part of the
+  whole discipline. Memory — Baddeley, Eysenck & Anderson, **Memory**; owns
+  encoding, retrieval, and distortion. Judgment and decision making — Hastie &
+  Dawes, **Rational Choice in an Uncertain World**; owns departures from the
+  normative model. Psychometrics and individual differences — Furr &
+  Bacharach, **Psychometrics**; owns whether your construct exists at all.
+  Behaviour genetics — Plomin et al., **Behavioral Genetics**; owns where
+  variance comes from, and it is a minefield worth entering carefully.
+  Personality — Funder, **The Personality Puzzle**; owns what is stable in a
+  person across situations. Cultural and evolutionary psychology — Henrich,
+  **The WEIRDest People in the World**; owns which of your findings are about
+  humans. Clinical science — Barlow, **Clinical Handbook of Psychological
+  Disorders**; owns what actually helps, and how you would know.
+- *The long canon:* James, **The Principles of Psychology**, this time whole —
+  it takes a year and repays it. Skinner, **Science and Human Behavior**
+  (free from the B. F. Skinner Foundation) — the position everyone caricatures
+  without reading. Neisser, **Cognitive Psychology** (1967) — the book that
+  named the field. Simon, **Models of Bounded Rationality** — the alternative
+  to the rational agent, from the person who built it. Gibson, **The
+  Ecological Approach to Visual Perception** — heterodox, still generating
+  research fifty years on. Bowlby, **Attachment and Loss** — the origin of a
+  framework now everywhere and often mangled. Meehl, **Clinical versus
+  Statistical Prediction** (1954) — a hundred pages that were right and were
+  ignored for sixty years. Cronbach & Meehl, "Construct Validity in
+  Psychological Tests" (1955) — the paper the whole measurement argument
+  descends from. Ellenberger, **The Discovery of the Unconscious** — the
+  definitive history of dynamic psychiatry. Gould, **The Mismeasure of Man** —
+  famous polemic, itself substantially contested; read it with the critiques
+  beside it, as an exercise in evaluating a beloved book. Gina Perry, **Behind
+  the Shock Machine**, and Le Texier's 2019 reassessment of the Stanford
+  Prison Experiment — what happens when the archives of famous studies are
+  finally opened. Chambers, **The Seven Deadly Sins of Psychology**, and
+  Ritchie, **Science Fictions** — the reform case, from inside. Kahneman &
+  Klein (2009), "Conditions for Intuitive Expertise" — adversarial
+  collaboration done properly, and a model for how to disagree.
+- *Re-foundation watch:* durable — psychophysics, signal detection, the basic
+  memory phenomena (serial position, spacing, retrieval practice), conditioning,
+  capacity limits, the Big Five's factor structure, developmental milestones.
+  Volatile — the social psychology effect catalogue, where much of the
+  pre-2013 literature has already gone and more will follow; treatment
+  guidelines; the diagnostic system itself, with DSM categories now contested
+  by RDoC and HiTOP; anything about technology and wellbeing; and the
+  measurement-reform argument, which is unfinished. Signal you have gone
+  stale: you quote an effect without checking for a post-2015 replication;
+  your evidence for a treatment is more than ten years old; you cannot say
+  what a registered report or a multiverse analysis is.
+- *A lifetime practice:* keep a provenance log. Every week, take one
+  psychological claim you met in the wild, spend twenty minutes tracing it to
+  its original study, and write two paragraphs on where it honestly stands.
+  Ten years of that produces a calibration almost nobody has, including many
+  professionals. Add one small properly-powered study of your own a year,
+  however trivial the question — running them keeps you honest about how hard
+  it is.
+- *Rabbit holes:* the Flynn effect and its apparent reversal in some
+  countries; the spacing effect and desirable difficulties, which is the one
+  finding that should change how you study everything else on this map;
+  Tetlock's forecasting tournaments and what distinguished the accurate
+  minority; the open-label placebo literature, which should not work and
+  apparently does; feral children, critical periods, and the case of Genie —
+  and the ethics of studying her.
 
 ## Linguistics
 
@@ -318,6 +449,71 @@ primary.
   Institute (the field's central training event); NELS and WCCFL for syntax;
   SALT for semantics; ACL if you go computational; SSILA for the Americas;
   and the Endangered Languages Documentation Programme for fieldwork funding.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* phonetics and speech science — Keith Johnson, **Acoustic and
+  Auditory Phonetics**; owns the physical signal and how ears carve it.
+  Phonology — Kenstowicz, **Phonology in Generative Grammar**; owns sound
+  patterns as mental computation. Syntax beyond one framework — Sag, Wasow &
+  Bender, **Syntactic Theory** (HPSG), read against Adger; owns the
+  combinatorics of sentences, and reading two frameworks is the only cure for
+  mistaking a notation for a fact. Formal semantics — Heim & Kratzer, already
+  named, then Portner; owns how form fixes truth conditions. Historical and
+  comparative linguistics — Fortson, **Indo-European Language and Culture**;
+  owns descent and change. Sociolinguistics — Labov, **Principles of
+  Linguistic Change** (3 vols); owns structured variation in a community.
+  Psycholinguistics and acquisition — Traxler, **Introduction to
+  Psycholinguistics**, with Tomasello, **Constructing a Language**; owns
+  real-time processing and how children get there. Sign language linguistics —
+  Sandler & Lillo-Martin, **Sign Language and Linguistic Universals**; owns
+  what modality does and does not change, and it will overturn assumptions you
+  did not know you had. Computational linguistics — Jurafsky & Martin,
+  **Speech and Language Processing** (free draft); owns language as something
+  a machine must model.
+- *The long canon:* Jespersen, **The Philosophy of Grammar** — a century old
+  and still argued with. Whorf, **Language, Thought, and Reality** — read the
+  primary source, since he is almost always cited through caricature.
+  Hockett, "The Origin of Speech" (1960) — the design features, still the
+  cleanest statement of what makes language language. Chomsky & Halle, **The
+  Sound Pattern of English** — the monument phonology has spent fifty years
+  responding to. Randy Allen Harris, **The Linguistics Wars** — how the field
+  actually behaved during its central schism. Evans & Levinson (2009), "The
+  Myth of Language Universals", with the twenty published responses — the best
+  single heterodox attack and the field arguing in public. Everett, **Don't
+  Sleep, There Are Snakes**, read with the published rebuttals — a contested
+  challenge, and a lesson in evaluating fieldwork claims. Deutscher, **Through
+  the Language Glass** — the moderate relativity case, honestly made. Labov,
+  **The Social Stratification of English in New York City** — the founding
+  quantitative study. Ostler, **Empires of the Word** — world history told
+  through languages. Nettle & Romaine, **Vanishing Voices** — the case for
+  documentation, made before it was fashionable. Crystal, **The Cambridge
+  Encyclopedia of Language** — a browsing reference good for decades.
+  Berlin & Kay, **Basic Color Terms** — contested for fifty years and still
+  the reference point for the whole relativity debate.
+- *Re-foundation watch:* durable — the descriptive levels, articulatory
+  phonetics and the IPA, the comparative method, fieldwork technique, Grice,
+  Labov's findings, the basic typological facts. Volatile — syntactic theory
+  above all: the framework you learn at 25 may be unrecognisable at 55, and
+  Minimalism has already been revised repeatedly without settling. Also
+  volatile: the learnability argument, genuinely reopened by language models
+  trained on child-scale input; documentation technology; and the typological
+  databases, which keep growing. Signal you have gone stale: you talk about
+  "the" generative framework as if it were fixed; your position on poverty of
+  the stimulus has not moved since before large language models; you cannot
+  name a paper from the last five years in a subfield you claim.
+- *A lifetime practice:* one grammar a year. Take a reference grammar of a
+  language you do not speak, work through it, and write your own ten-page
+  structural sketch — inventory, morphology, alignment, word order, whatever
+  is strange. Thirty of those, deliberately spread across families and areas,
+  gives you an internal typology no textbook can hand you. Keep a few minutes
+  of narrow IPA transcription a month alongside it, or the ear goes.
+- *Rabbit holes:* the laryngeal theory — sounds predicted from
+  reconstruction alone, then found in Hittite decades later, one of the
+  humanities' great predictive successes; Nicaraguan Sign Language emerging
+  with full grammar in a single generation of children; Ventris and the
+  decipherment of Linear B, then the scripts still unread; whistled and
+  drummed languages; creole genesis and the bioprogram hypothesis.
 
 ## Artificial intelligence (as a field of study, not a toolset)
 
@@ -443,3 +639,76 @@ what intelligence *is*, and every failure is evidence about what it isn't.
   language, CVPR for vision, CoRL for robotics; FAccT and AIES for ethics and
   governance. Open review and public reproduction are the norm — joining them
   is the cheapest way in.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* learning theory — Mohri, Rostamizadeh & Talwalkar,
+  **Foundations of Machine Learning**; owns when generalisation is guaranteed
+  rather than observed. Robotics — Thrun, Burgard & Fox, **Probabilistic
+  Robotics**, with LaValle, **Planning Algorithms** (free); owns intelligence
+  that has a body and cannot ignore physics. Computer vision — Szeliski,
+  **Computer Vision: Algorithms and Applications** (free), with Hartley &
+  Zisserman, **Multiple View Geometry**; owns recovering a world from images.
+  Natural language processing — Jurafsky & Martin (free); owns meaning from
+  strings. Knowledge representation — Brachman & Levesque, **Knowledge
+  Representation and Reasoning**; owns what a system can be said to believe,
+  and it is the branch the current era neglects most. Automated planning —
+  Ghallab, Nau & Traverso, **Automated Planning and Acting**; owns getting
+  from a state to a goal. Multi-agent systems — Shoham & Leyton-Brown,
+  **Multiagent Systems** (free); owns intelligence among other agents.
+  Cognitive architectures — Anderson, **How Can the Human Mind Occur in the
+  Physical Universe?**; owns what a whole mind's control structure would look
+  like. Alignment and safety — Russell, **Human Compatible**, plus the
+  technical literature; owns getting what you meant rather than what you said.
+  Fairness and social impact — Barocas, Hardt & Narayanan, **Fairness and
+  Machine Learning** (free); owns who is affected.
+- *The long canon:* Wiener, **Cybernetics** and **The Human Use of Human
+  Beings** — the ancestor field, and startlingly current. Ashby, **An
+  Introduction to Cybernetics** (free) — still the clearest book on
+  regulation and variety. Simon, **The Sciences of the Artificial** — what a
+  science of made things even is. Minsky, **The Society of Mind**, and
+  Minsky & Papert, **Perceptrons** — the second for the historical fight it
+  caused. Rumelhart & McClelland, **Parallel Distributed Processing** (1986) —
+  where the current paradigm actually starts. Newell, **Unified Theories of
+  Cognition** — the most serious attempt to build a whole mind. Dreyfus,
+  **What Computers Still Can't Do** — the great critic; wrong about much,
+  right about embodiment, and worth more than most supporters. Weizenbaum,
+  **Computer Power and Human Reason** — moral critique from someone inside.
+  Winograd & Flores, **Understanding Computers and Cognition** — a founder
+  changing his mind in public. McCorduck, **Machines Who Think** — the field's
+  history by someone who was in the room. Hofstadter, **Fluid Concepts and
+  Creative Analogies** — analogy as the core of cognition, a road not taken.
+  Brooks, "Intelligence Without Representation" (1991), and Chollet, "On the
+  Measure of Intelligence" (2019) — two short heterodox papers, thirty years
+  apart, both still unanswered. Bostrom, **Superintelligence**, and Christian,
+  **The Alignment Problem** — dated in places, but the debate descends from
+  them. Marcus & Davis, **Rebooting AI**, and O'Neil, **Weapons of Math
+  Destruction** — the contrarian and critical wings, read for their strongest
+  points rather than their weakest.
+- *Re-foundation watch:* this is the most volatile domain in the file, and you
+  should plan for that rather than resent it. Durable — search, knowledge
+  representation, probability and decision theory, learning theory, the RL
+  formalism, the cybernetic framing, the philosophical arguments, and the
+  history. Volatile — essentially everything about whatever paradigm is
+  current: architectures, training methods, capabilities, costs, benchmarks,
+  the interpretability toolkit, every library. Volatile too, and less
+  noticed: what the field believes its central problem is. That has flipped
+  roughly every fifteen years, and it will flip more than once inside seventy.
+  Whatever dominates when you are 25 is a history chapter at 55. Signal you
+  have gone stale: your model of what systems can do is a demo you saw three
+  years ago; you confidently describe a limitation that has been fixed; you
+  cannot name what replaced the technique you learned.
+- *A lifetime practice:* keep a dated capability logbook. Fix a personal
+  battery of tasks you actually care about, write down beforehand how you
+  expect the best available system to do, run it, record the result — every
+  six months, forever. Thirty years of that is a private, uncontaminated
+  evaluation record and a calibration training set for your own judgment, and
+  it is worth more than any quantity of commentary. Alongside it, implement
+  one classic pre-2010 algorithm a year, so the field's memory stays in your
+  hands and not only in its citations.
+- *Rabbit holes:* the Lighthill report and how a field talks itself into a
+  winter; SHRDLU's blocks world and the precise reason it did not scale; Cyc
+  and a thirty-year bet on hand-built knowledge; the multiple independent
+  discoveries of backpropagation, and what priority disputes reveal about how
+  fields remember; reward hacking in the wild, starting with the boat-racing
+  agent that learned to spin in circles collecting points forever.

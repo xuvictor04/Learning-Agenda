@@ -97,6 +97,69 @@ more particles; it is that our two best theories cannot both be right.
   April for particles and astrophysics); KITP, Perimeter, Aspen Center for
   Physics.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* condensed matter — Chaikin & Lubensky, *Principles of
+  Condensed Matter Physics*: how rigidity and order appear in systems whose
+  parts have neither. Particle physics — Halzen & Martin, *Quarks and
+  Leptons*: why the Standard Model has the exact shape it has. General
+  relativity — Schutz, *A First Course in General Relativity*, then Carroll,
+  *Spacetime and Geometry*: what geometry does once it carries energy.
+  Statistical mechanics — Kardar, *Statistical Physics of Particles* and *…of
+  Fields* (MIT OCW 8.333/8.334, free with problem sets): how many becomes
+  different. Optics and photonics — Hecht, *Optics*, then Boyd, *Nonlinear
+  Optics*: light as instrument rather than subject. Fluid dynamics — Acheson,
+  *Elementary Fluid Dynamics*, then Batchelor: the great unfinished classical
+  problem. Biophysics — Philip Nelson, *Biological Physics*: what physics
+  forbids a cell. Quantum information — Nielsen & Chuang, *Quantum Computation
+  and Quantum Information*, with Preskill's free Caltech notes: entanglement
+  as a resource with an exchange rate. If you take only one, Strogatz's
+  *Nonlinear Dynamics and Chaos* pays back fastest.
+- *The long canon:* Thorne & Blandford, *Modern Classical Physics* — a
+  thousand pages of the physics that never gets its own course. Zee, *Quantum
+  Field Theory in a Nutshell*, for the physicist's-eye view Peskin withholds.
+  Anderson, *Basic Notions of Condensed Matter Physics*. Bell, *Speakable and
+  Unspeakable in Quantum Mechanics* — the collected papers, funnier and
+  sharper than the folklore. Peierls, *Surprises in Theoretical Physics*.
+  Jaynes, *Probability Theory: The Logic of Science*, heterodox and
+  clarifying about entropy. Pais, *Subtle Is the Lord* and *Inward Bound* —
+  the best scientific biography and the best history of particle physics, both
+  demanding. Jammer, *The Conceptual Development of Quantum Mechanics*. Kuhn,
+  *Black-Body Theory and the Quantum Discontinuity*, which argues Planck did
+  not mean what everyone says he meant. Galison, *Image and Logic*, on how
+  experiment actually works. Hossenfelder, *Lost in Math*, and Smolin, *The
+  Trouble with Physics* — read the string-theory quarrel from both sides
+  rather than picking one. Gleick, *Genius*, for the human cost of the
+  Feynman legend.
+- *Re-foundation watch:* the durable core is close to permanent — Lagrangian
+  and Hamiltonian mechanics, Maxwell, thermodynamics, Noether, the
+  renormalization group. What moves is what can be measured. Expect the next
+  two decades to be reshaped by quantum simulators and error-corrected
+  processors doing physics rather than demos, by gravitational-wave catalogues
+  going from hundreds to tens of thousands, by precision tables (atomic
+  clocks, electron EDM, atom interferometry) closing in on new physics from
+  below rather than above, and by lattice QCD plus machine learning settling
+  quantities that were once experimental questions. Dark matter is the live
+  bet: another twenty years of null results would be a genuine re-foundation.
+  The signal you have gone stale is that your list of open problems is the one
+  you learned — if you cannot name a null result or a bound tightened in the
+  last five years, you are reciting.
+- *A lifetime practice:* keep a physics notebook and a bench. The notebook is
+  for derivations from scratch, one a week, no references open — the hydrogen
+  atom, the harmonic oscillator, the Lorentz transformation, a Fermi estimate
+  of something you saw that day. Doing this for thirty years is the difference
+  between having studied physics and knowing it. The bench is for measurement:
+  measure *g* to three figures, the speed of light with a microwave and
+  cheese, Planck's constant with LEDs, and build the MIT CosmicWatch muon
+  detector — then keep its count rate logged against barometric pressure for
+  years and watch the atmosphere breathe.
+- *Rabbit holes:* Maxwell's demon and Landauer's principle, where
+  thermodynamics turns out to be about information. The Casimir effect and
+  what it does and does not prove about vacuum energy. The Berry phase — a
+  geometric fact hiding in every quantum system. The physics of musical
+  instruments, which is real acoustics with an audible answer key.
+  Sonoluminescence: a bubble that emits light and nobody fully agrees why.
+
 ---
 
 ## Cosmology & astronomy
@@ -184,6 +247,70 @@ or repeat, from arriving light alone.
   predicting something observable.
 - *Community:* American Astronomical Society, the IAU, the AAVSO, the Royal
   Astronomical Society. Zooniverse is a legitimate front door.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* stellar astrophysics — Prialnik, *An Introduction to the
+  Theory of Stellar Structure and Evolution*: why a ball of gas has a life
+  story at all. Galaxy formation — Mo, van den Bosch & White, *Galaxy
+  Formation and Evolution*: how baryons behave inside a dark matter skeleton.
+  Planetary science — de Pater & Lissauer, *Planetary Sciences*: the one
+  branch where you get samples. Exoplanets — Perryman, *The Exoplanet
+  Handbook*, with Seager, *Exoplanet Atmospheres*: what you can learn from a
+  0.01% dip in brightness. The interstellar medium and star formation —
+  Draine, *Physics of the Interstellar and Intergalactic Medium*: where the
+  next generation of stars is decided. High-energy astrophysics — Longair,
+  *High Energy Astrophysics*: accretion, jets, and everything that ends
+  badly. Gravitational-wave astronomy — Maggiore, *Gravitational Waves*, two
+  volumes: a channel opened in 2015 that is still mostly unexploited.
+  Astrostatistics — Ivezić, Connolly, VanderPlas & Gray, *Statistics, Data
+  Mining, and Machine Learning in Astronomy*: the survival skill for the
+  survey era.
+- *The long canon:* Peebles, *Cosmology's Century* — the field's history by
+  the person who built much of it. Overbye, *Lonely Hearts of the Cosmos*, the
+  same story as human comedy, and still the best book about how cosmology is
+  actually done. Harwit, *Cosmic Discovery*, whose thesis is that discoveries
+  follow instruments, not theories — read it and then test it against
+  everything since. Koestler, *The Sleepwalkers*, brilliant and unreliable on
+  Kepler; correct it with Gingerich, *The Book Nobody Read*, and Kuhn, *The
+  Copernican Revolution*. Chandrasekhar, *Truth and Beauty*, on aesthetics as
+  a working method. Levin, *Black Hole Blues and Other Songs from Outer
+  Space*, on forty years of building LIGO before it worked. Levesque, *The
+  Last Stargazers*, on observing as a craft that is disappearing. Ferris,
+  *Coming of Age in the Milky Way*, for the whole arc. Hirshfeld, *Parallax*,
+  on the two-century fight to measure one stellar distance. Burnham's
+  *Celestial Handbook*, three volumes of obsessive object-by-object
+  description, the strangest and most loved book in amateur astronomy — its
+  data are dated, its eye is not. Bartusiak, *The Day We Found the Universe*.
+  Hoyle's *Home Is Where the Wind Blows*, for the losing side argued by its
+  most formidable holder.
+- *Re-foundation watch:* this is the most instrument-driven field on the page,
+  and the instruments are all arriving at once. Rubin Observatory's LSST turns
+  the sky into a decade-long movie with millions of alerts a night; Euclid,
+  DESI, Roman and SKA reshape cosmology's error bars; JWST has already forced
+  a rethink of early galaxy assembly; pulsar timing arrays opened the
+  nanohertz band in 2023; gravitational-wave catalogues will grow by two
+  orders of magnitude. Assume that in twenty years the Hubble tension has
+  either resolved or become a new physics result, that the exoplanet census
+  includes atmospheric chemistry for rocky worlds, and that dark matter is
+  either detected or effectively abandoned as a WIMP. Durable: stellar
+  structure, radiative transfer, orbital dynamics, spectroscopy, and the logic
+  of the distance ladder. The stale signal is numerical — if the values you
+  quote for H₀, the exoplanet count, or the number of merger detections are
+  the ones you first learned, you are out of date by construction.
+- *A lifetime practice:* keep an observing log, on paper, for decades. Not
+  pretty pictures — measurements. Estimate variable star magnitudes and submit
+  them to the AAVSO, where a fifty-year light curve assembled by amateurs is
+  the normal unit of contribution. Image the same field annually and watch
+  Barnard's Star walk across it. Track sunset azimuth from one fixed spot
+  until you have built your own horizon calendar, the observation that founded
+  the science. Sketch what you see at the eyepiece even in the era of
+  cameras; drawing forces attention that photography lets you skip.
+- *Rabbit holes:* the transits of Venus and the eighteenth-century campaign to
+  measure the astronomical unit — the first global scientific collaboration.
+  The Antikythera mechanism. The 1967 discovery of pulsars and how nearly it
+  was mistaken for signals. SN 1987A, whose neutrinos arrived three hours
+  before the light. The Maunder minimum and what a quiet Sun did to Europe.
 
 ---
 
@@ -282,6 +409,71 @@ one's domain of validity *is* the expertise.
 - *Community:* American Chemical Society national meetings, the Royal Society
   of Chemistry, and Gordon Research Conferences, where unpublished work is
   actually discussed.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* total synthesis — Nicolaou & Sorensen, *Classics in Total
+  Synthesis*, with Corey & Cheng, *The Logic of Chemical Synthesis*: how you
+  plan a twenty-step route backwards. Organometallic chemistry and catalysis —
+  Crabtree, *The Organometallic Chemistry of the Transition Metals*: how metals
+  make impossible bonds routine. Electrochemistry — Bard & Faulkner,
+  *Electrochemical Methods*: the discipline behind batteries, corrosion and
+  most of decarbonisation. Polymer chemistry — Odian, *Principles of
+  Polymerization*, then Rubinstein & Colby, *Polymer Physics*: why a chain
+  behaves unlike anything else. Biochemistry and chemical biology — Berg,
+  Tymoczko & Stryer, *Biochemistry*: catalysis a hundred million times better
+  than yours. Spectroscopy as its own craft — Silverstein, Webster & Kiemle,
+  *Spectrometric Identification of Organic Compounds*: reading structure off
+  signals. Supramolecular chemistry — Steed & Atwood, *Supramolecular
+  Chemistry*: bonding that isn't bonding. Computational chemistry — Jensen,
+  *Introduction to Computational Chemistry*: the branch you can genuinely
+  master alone with a laptop, and the only escape from the lab problem.
+- *The long canon:* Roald Hoffmann, *The Same and Not the Same* — a Nobel
+  laureate on the dualities the field lives inside; the best writing about what
+  chemistry *is*. Oliver Sacks, *Uncle Tungsten*, chemistry as a childhood.
+  Atkins, *The Second Law*, still the clearest exposition of entropy in print.
+  Pauling & Wilson, *Introduction to Quantum Mechanics with Applications to
+  Chemistry* (Dover, cheap), the bridge book. Eric Scerri, *The Periodic
+  Table: Its Story and Its Significance*, the scholarly account, which will
+  unsettle what you think the table is. Bensaude-Vincent & Stengers, *A
+  History of Chemistry*, and Ihde, *The Development of Modern Chemistry*, for
+  the long arc. Lavoisier, *Elements of Chemistry* (1789), free, and the
+  moment quantitative chemistry begins. Philip Ball, *H2O: A Biography of
+  Water*, on the substance everyone assumes is simple. John D. Clark,
+  *Ignition!*, a history of liquid rocket propellants, free online, funny and
+  genuinely alarming — the best account of what it is like to work with
+  chemicals that hate you. Nicolaou & Montagnon, *Molecules That Changed the
+  World*. Djerassi, *The Pill, Pygmy Chimps, and Degas' Horse*. Derek Lowe's
+  *In the Pipeline* (free, running since 2002) is the field's honest daily
+  commentary and the closest thing to a working chemist's newsroom.
+- *Re-foundation watch:* the mechanistic core is durable — thermodynamics,
+  kinetics, pKa, arrow-pushing, stereochemistry and separations will read the
+  same in forty years. What will not is everything about how you *find* and
+  *check* a molecule. Machine-learned interatomic potentials and retrosynthesis
+  planners have moved from curiosity to default in a few years; automated and
+  flow synthesis platforms are changing what one person can execute;
+  microcrystal electron diffraction now solves structures from powder where a
+  crystal was once mandatory; benchtop NMR has put characterisation on ordinary
+  desks. Assume that in twenty years route planning is machine-first and the
+  chemist's job is judgment about what to trust. When you return, the check is
+  concrete: take a target you once planned by hand and run it through the
+  current tools. If their output surprises you, you have gone stale.
+- *A lifetime practice:* two things, weekly. First, a bound lab notebook kept
+  properly for decades — dated, numbered, never torn out — even for kitchen
+  chemistry. Second, one unknown a week: take a published ¹H and ¹³C NMR, IR
+  and mass spectrum for a compound you have not seen, assign the structure
+  cold, and check. Do that for thirty years and structure elucidation becomes
+  reflex. For hands, pick a craft that is real chemistry with a legal home
+  supply chain — natural dyeing and mordanting, pigment grinding, soap and
+  saponification, cyanotype and silver-gelatin photography, fermentation,
+  electroplating. Cook seriously; it is the only daily chemistry lab most
+  people will ever run.
+- *Rabbit holes:* the history of pigments — Prussian blue, discovered by
+  accident, and mauveine, which created the chemical industry. The Maillard
+  reaction, which nobody has fully mapped. The ferrocene structure story, where
+  the answer was a sandwich and no one saw it. Thalidomide and what chirality
+  cost. The Oklo natural fission reactor in Gabon, which ran for a few hundred
+  thousand years without anyone's help.
 
 ---
 
@@ -386,6 +578,73 @@ how would you know, given one planet and no control group?
 - *Community:* AGU Fall Meeting (the largest earth-science gathering in the
   world), EGU, the American Meteorological Society, the Geological Society of
   America. RealClimate for commentary by working scientists.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* structural geology — Fossen, *Structural Geology*: how rock
+  deforms, and how to read the deformation backwards. Petrology and mineralogy
+  — Winter, *Principles of Igneous and Metamorphic Petrology*, with Klein &
+  Dutrow, *Manual of Mineral Science*: a rock is a thermodynamic record of its
+  own history. Sedimentology and stratigraphy — Nichols, *Sedimentology and
+  Stratigraphy*: reconstructing environments from grains. Geomorphology —
+  Anderson & Anderson, *Geomorphology: The Mechanics and Chemistry of
+  Landscapes*: why landscapes have the shapes they have. Seismology — Stein &
+  Wysession, *An Introduction to Seismology, Earthquakes, and Earth
+  Structure*: the only direct look inside the planet. Physical oceanography —
+  Talley, Pickard, Emery & Swift, *Descriptive Physical Oceanography*: the
+  slow half of the climate system. Glaciology — Cuffey & Paterson, *The
+  Physics of Glaciers*: the fastest-moving uncertainty in sea level.
+  Geochemistry — Albarède, *Geochemistry: An Introduction*: isotopes as clocks
+  and tracers. Paleobiology — Benton & Harper, *Introduction to Paleobiology
+  and the Fossil Record*: reading biology out of a fragmentary archive.
+- *The long canon:* Spencer Weart, *The Discovery of Global Warming* — free
+  online from the American Institute of Physics, continuously updated, and the
+  best history of any science on this page. Naomi Oreskes, *The Rejection of
+  Continental Drift*, on how a correct theory was resisted for fifty years for
+  reasons that were not stupid; then Oreskes & Conway, *Merchants of Doubt*.
+  Wegener, *The Origin of Continents and Oceans*, in the man's own words.
+  Richard Fortey, *Earth: An Intimate History*, and *Trilobite!* — geology
+  written by someone who loves it. Andrew Knoll, *Life on a Young Planet*, on
+  the first three billion years. Peter Brannen, *The Ends of the World*, the
+  mass extinctions as climate experiments already run. Imbrie & Imbrie, *Ice
+  Ages: Solving the Mystery*, a model of how a hypothesis gets confirmed by
+  data nobody expected. Broecker, *The Great Ocean Conveyor*. Simon Winchester,
+  *The Map That Changed the World*, on William Smith and the invention of
+  stratigraphy. Bjornerud, *Reading the Rocks*. Ruddiman, *Plows, Plagues, and
+  Petroleum*, whose early-Anthropocene hypothesis is contested and worth
+  arguing with. Mike Hulme, *Why We Disagree About Climate Change*, which
+  takes the disagreement seriously as something other than ignorance. For the
+  contrarian case at its most competent, Koonin's *Unsettled* and Pielke's
+  work on disaster trends — read them alongside the published responses, not
+  instead of them; the exercise is in learning to grade an argument.
+- *Re-foundation watch:* the physics is durable — radiative transfer,
+  geostrophy, isostasy, stratigraphic superposition, radiometric decay. Almost
+  everything about *prediction* is in motion. Machine-learned weather models
+  went from novelty to operational parity in about three years; kilometre-scale
+  storm-resolving global climate models are arriving and will settle or
+  reframe the cloud feedback question that dominates sensitivity; methane and
+  CO₂ observing satellites are making emissions independently verifiable for
+  the first time; InSAR and continuous GNSS have turned deformation into a
+  monitored quantity; ice-core and sediment records keep extending. Expect
+  climate sensitivity, sea-level projections and attribution methods all to
+  have moved when you return, and expect the emissions scenarios you learned
+  to have been retired. The stale signal is citing a scenario as
+  business-as-usual, or quoting a sensitivity range without knowing which
+  assessment it came from.
+- *A lifetime practice:* become an observer of record. Run a weather station
+  and report daily precipitation to CoCoRaHS or your national network — a
+  thirty-year single-site series is a real dataset and almost nobody has one.
+  Keep a repeat-photography station: one fixed spot, one bearing, one photo a
+  year, of a glacier terminus, a shoreline, a gully, a treeline. Run a Raspberry
+  Shake or similar seismometer and maintain your own earthquake catalogue.
+  Keep a field notebook with sketched sections and measured strikes and dips
+  from every trip; geologists are made by accumulated outcrops, not by books.
+- *Rabbit holes:* J Harlen Bretz and the Missoula floods — thirty years of
+  being called a catastrophist and then being right. The Messinian salinity
+  crisis, when the Mediterranean dried out. Snowball Earth and the argument
+  about how the planet got out. The Carrington event of 1859 and what a repeat
+  would do to a wired civilisation. Tambora, 1815, and the year without a
+  summer.
 
 ---
 
@@ -493,3 +752,75 @@ structure → properties → performance.
 - *Community:* TMS (The Minerals, Metals & Materials Society), MRS (Materials
   Research Society, spring and fall meetings), ASM International, and Gordon
   Research Conferences.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* physical metallurgy — Bhadeshia & Honeycombe, *Steels:
+  Microstructure and Properties*: the alloy system that carries civilisation.
+  Ceramics and glass — Kingery, Bowen & Uhlmann, *Introduction to Ceramics*,
+  with Shelby, *Introduction to Glass Science and Technology*: strength without
+  plasticity, and what that costs. Polymers and soft matter — Rubinstein &
+  Colby, *Polymer Physics*, with Jones, *Soft Condensed Matter*: entropy as the
+  dominant elastic force. Composites — Hull & Clyne, *An Introduction to
+  Composite Materials*: getting property combinations no single phase offers.
+  Electronic materials — Sze & Ng, *Physics of Semiconductor Devices*: the
+  branch that pays for the field. Biomaterials and biological materials —
+  Vincent, *Structural Biomaterials*, with Ratner et al., *Biomaterials
+  Science*: how nature reaches toughness with weak ingredients. Corrosion —
+  Jones, *Principles and Prevention of Corrosion*: the failure mode that
+  destroys a few percent of GDP annually and is taught almost nowhere.
+  Characterisation as its own discipline — Cullity & Stock, *Elements of X-Ray
+  Diffraction*, then Williams & Carter, *Transmission Electron Microscopy*.
+  Computational materials — LeSar, *Introduction to Computational Materials
+  Science*, the branch open to you without a lab.
+- *The long canon:* Robert Cahn, *The Coming of Materials Science* — the
+  field's own history, by an insider, explaining how metallurgy, ceramics and
+  polymer science became one subject. More Cyril Stanley Smith: *A History of
+  Metallography* and *From Art to Science*, which argue that materials
+  knowledge came out of ornament and craft long before use. Alan Williams,
+  *The Knight and the Blast Furnace*, a metallurgical study of hundreds of
+  pieces of medieval armour — extraordinary, obsessive, and unlike anything
+  else. Verhoeven, *Steel Metallurgy for the Non-Metallurgist*, and his free
+  *Metallurgy of Steel for Bladesmiths*, which is where the wootz-steel
+  literature actually lives. Wertime & Muhly, *The Coming of the Age of Iron*.
+  D'Arcy Thompson, *On Growth and Form*, the ancestor of all thinking about
+  structural hierarchy. Petroski, *To Engineer Is Human*, on failure as the
+  engine of design knowledge. Ashby, *Materials and the Environment*, and
+  Allwood & Cullen, *Sustainable Materials: With Both Eyes Open* (free
+  online), for the material-flow half of the century's problem. Smil, *Making
+  the Modern World* and *Still the Iron Age*, for the tonnages. Feynman's 1959
+  "There's Plenty of Room at the Bottom," free, and worth reading against what
+  nanotechnology actually became. Philip Ball, *Made to Measure*.
+- *Re-foundation watch:* the fundamentals are unusually safe — phase
+  equilibria, diffusion, dislocation theory, fracture mechanics, crystallography
+  and Ashby selection logic are not going to be overturned. Discovery is what
+  is being rebuilt. Machine-learned interatomic potentials went from research
+  topic to standard tool in about five years and now do molecular dynamics at
+  near-DFT accuracy on systems DFT cannot touch; generative structure
+  prediction has proposed candidate compounds by the hundreds of thousands;
+  autonomous laboratories that synthesise and characterise without a human in
+  the loop are being built, and the arguments about whether their outputs are
+  genuinely new are themselves worth following. On the measurement side, 4D-STEM
+  and ptychography, atom probe tomography and in-situ TEM keep converting
+  inference into direct observation. When you return, the question is not what
+  new materials exist but who and what proposed them. The stale signal: you
+  still think structure determination needs a good crystal, or you evaluate a
+  new material by reading a paper rather than by asking what the screening
+  pipeline searched.
+- *A lifetime practice:* build a metallography archive. Mount, polish, etch,
+  photograph and label a sample every month or two, with its full thermal and
+  mechanical history written down; after thirty years you own a reference
+  collection with provenance that no book can give you and that you can
+  actually query. Alongside it, keep a failure cabinet — broken tools, snapped
+  fasteners, fatigued springs, corroded fittings — each with a fractography
+  note on what the surface says about how it died. And take up one craft that
+  is materials science with your hands: bladesmithing, pottery with glazes you
+  formulate yourself, casting, or glasswork. Glaze chemistry in particular is
+  real phase-diagram work with a fired answer at the end of every week.
+- *Rabbit holes:* wootz and pattern-welded Damascus steel — the reconstruction
+  is contested and the literature is a pleasure. Roman concrete and the
+  hot-mixing hypothesis for its self-healing. Prince Rupert's drops, which
+  survive a hammer and explode from a scratch. Tin whiskers, a spontaneous
+  crystal growth that has destroyed satellites and nuclear plant controls.
+  Nacre, and how a brittle mineral plus a little protein becomes three
+  thousand times tougher than the mineral alone.

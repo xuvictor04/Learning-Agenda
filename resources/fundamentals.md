@@ -11,6 +11,11 @@ the capability statements below — they're written to be testable rather than
 flattering — and schedule the weak rows first. None of these is a book you
 finish. Each is a practice you keep.
 
+The statements below are written for *reaching* competence, which is a
+decade's work at most. For what these become over the full seventy years,
+which of them decay and need rebuilding, and which two are worth pushing
+without limit, see **The fundamentals across seventy years** at the end.
+
 ## Writing clearly
 
 **Why it's load-bearing.** Writing is the output channel for every literacy
@@ -352,8 +357,9 @@ doesn't slow the plan down; it ends it.
 - You hold several months of expenses in cash and can say why that number.
 - You're investing automatically, monthly, in low-cost broad-market index
   funds, and you know your all-in expense ratio.
-- You can explain compounding, expense-ratio drag over 30 years, and why
-  most active management underperforms after fees.
+- You can explain compounding, expense-ratio drag over 30 years — and over
+  60, where it is brutal — and why most active management underperforms
+  after fees.
 - You did not change your allocation the last time markets dropped 20%.
 
 **Learn from**
@@ -384,3 +390,163 @@ comparing brokers, optimizing an allocation you never fund. Ten years of
 mediocre automated investing beats an unstarted perfect plan by a margin no
 subsequent cleverness recovers — compounding needs decades and you have them
 only if you start now.
+
+## The fundamentals across seventy years
+
+The capability statements above describe **arrival** — what it looks like to
+stop being weak in a row. None of them describes a ceiling, and across seven
+decades the distance between arrival and ceiling is where most of the value
+is.
+
+### What "strong" becomes
+
+- **Writing.** At ten years: clarity — anyone can follow you. At thirty:
+  *voice*, plus range — you can write the same argument in four registers
+  and choose. At sixty: the book-length work, where the sentences stopped
+  being the problem and structure is the entire problem.
+- **Reading.** At ten: syntopical on a question. At thirty: a whole field's
+  literature held in view — you know what has been tried, what was abandoned
+  and why, and roughly where a new book sits before you open it. At sixty:
+  reading the same book at 20, 50 and 85 and finding three different books,
+  which is a kind of understanding you cannot hurry or substitute.
+- **Speaking.** At ten: a talk that lands one idea. At thirty: teaching a
+  whole subject, where sequencing is the skill. At sixty: the lecture that
+  changes how a room sees something they already thought they knew.
+- **Math & statistics.** At ten: read a study honestly. At thirty: design
+  one, or build the model yourself. At sixty: judge a methodological era —
+  you watched three of them make confident claims and you know how each aged.
+- **Programming.** At ten: the script. At thirty: the system that runs
+  without your attention. At sixty: knowing which layer a problem belongs
+  at, which is the only part that survived four toolchain generations.
+- **Finance.** At ten: automated accumulation. At sixty: decumulation,
+  giving and estate — a different technical problem, and one most people
+  meet unprepared.
+
+### Deeper material, once you are already strong
+
+**Writing** — Francis-Noël Thomas & Mark Turner, *Clear and Simple as the
+Truth*, for style as a stance rather than a rulebook; John McPhee, *Draft No.
+4*, the best thing written on structure; Verlyn Klinkenborg, *Several Short
+Sentences About Writing*, which will annoy you usefully; Ursula K. Le Guin,
+*Steering the Craft*, when you move toward narrative.
+
+**Reading** — Maryanne Wolf, *Proust and the Squid* and *Reader, Come Home*,
+on what reading does in the brain and what deep attention costs to keep;
+Umberto Eco, *How to Write a Thesis*, far better than its title on working
+systematically through a literature; Pierre Bayard, *How to Talk About Books
+You Haven't Read*, half a joke and half the most honest account of what a
+library actually is.
+
+**Math & statistics** — Richard McElreath, *Statistical Rethinking* (lecture
+series free), the best modern applied course; Judea Pearl & Dana Mackenzie,
+*The Book of Why*, then Pearl's *Causality* if it takes; Andrew Gelman,
+Jennifer Hill & Aki Vehtari, *Regression and Other Stories*; David
+Spiegelhalter, *The Art of Statistics*.
+
+**Speaking** — Patrick Winston's "How to Speak" (MIT, free, one hour, famous
+for good reason); Aristotle's *Rhetoric* and Quintilian's *Institutio
+Oratoria*, which connect to the rhetoric entry in `meaning-expression.md`;
+Edward Tufte, *The Cognitive Style of PowerPoint*, short and correct about
+what slides do to an argument.
+
+**Programming / data literacy** — Abelson & Sussman, *Structure and
+Interpretation of Computer Programs* (free); Brian Kernighan & Rob Pike,
+*The Practice of Programming*; Martin Kleppmann, *Designing Data-Intensive
+Applications*; Fred Brooks, *The Mythical Man-Month*, fifty years old and
+still describing your project.
+
+**AI tools** — Stuart Russell & Peter Norvig, *Artificial Intelligence: A
+Modern Approach*, the field's textbook and decades older than the current
+wave; Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking
+Humans*; Brian Christian, *The Alignment Problem*; Stuart Russell, *Human
+Compatible*. Current tool behaviour still comes from documentation, not
+books — that hasn't changed.
+
+**Memory** — Frances Yates, *The Art of Memory*, where the techniques came
+from; Joshua Foer, *Moonwalking with Einstein*; Robert and Elizabeth Bjork
+on desirable difficulties ("Making Things Hard on Yourself, But in a Good
+Way"); Yana Weinstein & Megan Sumeracki, *Understanding How We Learn*.
+
+**Personal finance** — William Bernstein, *The Four Pillars of Investing*;
+Burton Malkiel, *A Random Walk Down Wall Street*; Jason Zweig, *Your Money
+and Your Brain*; Wade Pfau, *Retirement Planning Guidebook* for the
+decumulation problem that arrives in decade 5 — US-centric, so find the
+equivalent for wherever you are taxed.
+
+### What needs re-founding, and what never does
+
+**Writing, reading and speaking never obsolete.** Aristotle is 2,300 years
+old and still correct about audiences; Adler's four levels have not moved
+since 1940; Williams still diagnoses the sentence you wrote this morning.
+Nothing here needs re-founding — only deepening, indefinitely.
+
+**Programming and data literacy need a deliberate re-foundation roughly
+every ten years**, and it has to be a build, not a read. The refresh: take a
+tool you actually depend on and rebuild it in whatever is currently
+mainstream, on the current toolchain — language, environment, version
+control, deployment, and whatever assistance layer exists. Anyone doing this
+since 1990 would have rebuilt around the web, then proper version control,
+then cloud, then notebooks and containers, then model-assisted coding.
+Expect four or five more shifts of that size before year 70, each making
+some hard-won knowledge worthless and some of it suddenly more valuable.
+
+**AI tooling moves faster** — the tool layer every two or three years, the
+mental model roughly every ten. Re-benchmark annually: one afternoon
+retesting what you delegate against what the systems now do, in *both*
+directions. The tasks you stopped delegating because they failed two years
+ago are the highest-value thing to retest.
+
+**Statistics sits between.** The mathematics is durable — Kolmogorov's
+axioms don't rot and Bayes' theorem will not be revised. The practice has
+changed enormously inside one working lifetime: the credibility revolution
+in causal inference, cheap computation turning Bayesian methods from theory
+into default, the replication crisis and what it did to p-values and
+preregistration, machine learning arriving inside inference. Refresh every
+fifteen years or so and assume two or three more upheavals of that scale.
+
+**Finance and memory are quiet.** Finance's behavioural core does not
+change; its mechanics — account types, tax law, products — do, and the
+annual review already handles them. The memory science is stable, the
+software is not: Anki's scheduler has been replaced once already and will be
+again. Your cards are the asset; the algorithm under them isn't.
+
+### Maintenance versus growth
+
+After competence, most of these want only maintenance, and maintenance is
+cheap — the weekly statistics drill, the monthly speaking venue, one small
+automation a month, the annual finance hour, twenty minutes of review a day.
+Held at that level they stay useful for fifty years.
+
+Two are worth pushing indefinitely: **writing and reading.** Three reasons.
+Their ceiling is absurdly high — unlike anything speed-bound, the best
+writers and readers at eighty are better than they were at forty, and the
+gains are still visible in the final decade. They multiply everything else:
+every fundamental's *output* leaves through writing and every domain's
+*input* arrives through reading, so a 20% gain in either applies to the
+entire map, at compound interest. And they are what the late decades are
+made of — the work of distillation and handing on is reading and writing and
+nothing else.
+
+### The late decades
+
+Reading adapts to the eye: e-ink at whatever type size you need is a better
+instrument at 75 than paper is, and audio is a genuine substitute for
+narrative and argument rather than a lesser one. Keep print or a large
+screen for equations, diagrams and tables, where the eye has to jump.
+Writing adapts to dictation — dictate the draft, edit on screen; that
+workflow is much older than the software. Speaking adapts to the
+microphone: take the room's PA instead of pushing your voice.
+
+Sessions shorten. Two forty-minute blocks beat one two-hour block, which is
+principle 8 becoming non-optional rather than merely correct, and the
+hardest work goes wherever you are sharpest — for most people that moves
+earlier in the day with age.
+
+And the SRS vault finally does what it was built for. Twenty minutes a day
+for fifty years leaves tens of thousands of your own cards, and the daily
+review is now the mechanism holding a lifetime of reading within reach,
+which is precisely why the habit was worth defending in decade one. Expect
+retrieval to slow before knowledge goes: names and words arrive late while
+the structure of a field you learned at 30 stays entirely intact. Those are
+different problems, and confusing them is how people talk themselves out of
+work they could still do easily.
