@@ -1014,6 +1014,76 @@ working before the cash runs out?
   The MBA is optional and expensive — the CPA and CFA are the credentialed
   sub-paths that actually gate work.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* Accounting proper — Kieso, Weygandt & Warfield,
+  *Intermediate Accounting* — owns the language, and skipping it is why most
+  self-taught business people stall permanently. Valuation — Koller,
+  Goedhart & Wessels, *Valuation* — owns what a stream of cash is worth.
+  Supply chain — Chopra & Meindl, *Supply Chain Management* — owns the
+  physical business under the financial one. Pricing — Nagle & Müller, *The
+  Strategy and Tactics of Pricing* — owns the most under-managed variable in
+  any company. Negotiation — Howard Raiffa, *The Art and Science of
+  Negotiation*, for the rigorous version, with Fisher & Ury for the field
+  guide. Organizational design and culture — Edgar Schein, *Organizational
+  Culture and Leadership*. Sales — Neil Rackham, *SPIN Selling*, which is
+  unusual in being based on observed data. Venture and private capital —
+  Gompers & Lerner, *The Venture Capital Cycle*, with Feld & Mendelson's
+  *Venture Deals* for the mechanics of a term sheet.
+- *The long canon:* Alfred Chandler, *Strategy and Structure* and *The
+  Visible Hand* — the deep history of why firms look the way they do.
+  William Thorndike, *The Outsiders*, on capital allocation as the actual
+  job. Ron Chernow, *Titan* and *The House of Morgan*. Kindleberger & Aliber,
+  *Manias, Panics, and Crashes*, which will explain every bubble you live
+  through. Then the failure library, which is where the real education is:
+  Roger Lowenstein, *When Genius Failed*; McLean & Elkind, *The Smartest
+  Guys in the Room*; Carreyrou, *Bad Blood*; Burrough & Helyar, *Barbarians
+  at the Gate*; Finkelstein, *Why Smart Executives Fail*. Marc Levinson,
+  *The Box*, for how a container reorganized the world economy. Cialdini,
+  *Influence*, read as defence. Drucker's *Managing Oneself*, twenty pages,
+  reread every five years. Founder memoirs are the weakest genre here —
+  Knight's *Shoe Dog* is honest, most of the rest are retrofitted.
+- *The project ladder:*
+  1. A weekend: sell ten things to strangers and record the unit economics
+     honestly, including your own time at a real rate.
+  2. A side business to its first $1,000 of revenue — priced, delivered,
+     invoiced, collected. Collection is the part nobody warns you about.
+  3. A three-statement model of a public company, forecast a year out, then
+     scored against what happened. The error analysis is the course.
+  4. Own a P&L that is not yours: treasurer of a nonprofit, a team budget,
+     a project with a real number attached.
+  5. Hire someone, manage them, and if it comes to it, fire them. Write the
+     spec, run the interviews, own the outcome. This is the step people
+     avoid for a decade and it is the one that changes them.
+  6. A business to $100k revenue with a repeatable acquisition channel and
+     a written process another person can run without you.
+  7. Put outside money at risk, or take it — a private deal, a loan, a
+     round — and live with the governance that follows.
+  8. A board seat with fiduciary duty. Nonprofit boards are real, available,
+     and teach the same thing.
+  9. The decade project: build an enterprise that survives ten years and one
+     downturn, then hand it to a successor — or run a portfolio through a
+     full cycle with a dated written thesis on every position, scored.
+- *Re-foundation watch:* double-entry accounting, cash conversion, Coase's
+  transaction-cost logic, incentives, distribution as the binding
+  constraint, and the primacy of survival are permanent — they were true
+  for the Medici. What churns: acquisition channels, which have a five-year
+  half-life and swallow whole careers; tax and securities regimes; valuation
+  multiples; the funding environment; and every piece of software you run
+  the business on. The one likely re-foundation is AI moving the boundary
+  between what a firm does inside itself and what it buys — which is a huge
+  practical change and leaves Coase's question exactly as posed.
+- *A lifetime practice:* a decision journal with dated predictions and the
+  reasoning, reviewed annually — it is the only defence against remembering
+  yourself as having been right. Read one annual report a month for
+  decades. Close your own books monthly. Mentor founders, and sit on one
+  board at a time.
+- *Rabbit holes:* Pacioli and the invention of double-entry; the East India
+  Company as a corporate form; the Lincoln Electric incentive system, which
+  should not work and does; the conglomerate era and its unwinding; the
+  Japanese *shinise* — firms that have lasted three hundred years, and what
+  they did instead of growing.
+
 ---
 
 ## Military history & strategy

@@ -1655,3 +1655,69 @@ medium that carries it, and the market that pays for it.
 - *Community:* International Communication Association (ICA), National
   Communication Association, AEJMC, Association of Internet Researchers
   (AoIR); ICA's annual conference is the center of gravity.
+
+**Beyond T1 — the long shelf**
+
+- *Branch into:* **Comparative media systems** — Hallin & Mancini, *Comparing
+  Media Systems*, then *Comparing Media Systems Beyond the Western World*;
+  owns the fact that press-state relations differ structurally by country and
+  most theory was built on two of them. **Media economics** — owns who pays,
+  and therefore what gets made; the collapse of classified advertising
+  explains more about journalism than any editorial argument. **Journalism
+  studies and practice** — Kovach & Rosenstiel, *The Elements of Journalism*;
+  owns what makes a claim publishable and who verifies it. **Media history** —
+  Elizabeth Eisenstein, *The Printing Press as an Agent of Change*, with
+  Adrian Johns' *The Nature of the Book* as the standing corrective; owns
+  whether technologies cause social change or are recruited by it. **Platform
+  governance** — Tarleton Gillespie, *Custodians of the Internet*; owns who
+  decides what speech exists. **Diffusion and networks** — Duncan Watts and
+  Sinan Aral, *The Hype Machine*; owns how information actually travels, which
+  is rarely how people assume. **Advertising and public relations** — Edward
+  Bernays' *Propaganda* as a primary source, Stuart Ewen's *PR!* as the
+  history. **Audience and reception research** — Janice Radway, *Reading the
+  Romance*, and Henry Jenkins on participatory culture.
+- *The long canon:* Harold Innis, *Empire and Communications* and *The Bias of
+  Communication* — McLuhan's teacher, harder and deeper; Raymond Williams,
+  *Television: Technology and Cultural Form*, the direct rebuttal to
+  technological determinism; Walter Lippmann, *The Phantom Public*, bleaker
+  than *Public Opinion* and worth it; Jacques Ellul, *Propaganda*; James
+  Carey, *Communication as Culture*; Benedict Anderson, *Imagined
+  Communities*, on print capitalism inventing the nation; Todd Gitlin, *The
+  Whole World Is Watching*; Tim Wu, *The Master Switch*, on the cycle every
+  information industry runs; Yochai Benkler, *The Wealth of Networks*, and
+  Benkler, Faris & Roberts, *Network Propaganda*, whose asymmetry finding is
+  the most important empirical result of the last decade here; Zeynep Tufekci,
+  *Twitter and Tear Gas* (free online), on protest movements outside the West;
+  Daya Thussu, *International Communication*, for the global flows literature;
+  the Reuters Institute *Digital News Report*, free and annual, read as a
+  long series rather than a snapshot. Shoshana Zuboff's *The Age of
+  Surveillance Capitalism* is influential and criticized by scholars for
+  overclaiming its mechanism — read Benkler's and Morozov's responses with it.
+- *Re-foundation watch:* the binding constraint on this field is data access.
+  Platforms closed the APIs the discipline was built on, and the replacement
+  is regulatory — the EU Digital Services Act's researcher-access provisions
+  are the thing to watch, because whether they work determines what the field
+  can know. The 2023 Facebook–Instagram election studies in *Science* and
+  *Nature* are the template for platform-researcher collaboration and the
+  argument about its independence is instructive. Misinformation research has
+  had its own correction: exposure turns out to be small and heavily
+  concentrated in a few heavy users, and the echo-chamber story is much weaker
+  than the popular version (Bail, *Breaking the Social Media Prism*; the
+  Guess, Nyhan and Reifler line of work). Durable: agenda setting, framing,
+  two-step flow, small conditional effects. Fashion: each new medium's moral
+  panic. Stale when you argue from filter bubbles as established, or when your
+  model of how people encounter news is more than five years old.
+- *A lifetime practice:* keep a media diary. The same week each year, log
+  everything you read, watch, and hear, with sources and durations, and
+  archive a sample of the actual content. Do it for forty years and you own a
+  longitudinal record of one information environment that nobody else has.
+  Alternatively, read one newspaper cover to cover every day for life,
+  preferably in a language and country not your own — it is the cheapest
+  possible immersion in another public sphere.
+- *Rabbit holes:* the *War of the Worlds* panic that mostly did not happen
+  (Pooley & Socolow's debunking, and why the myth persists); the Payne Fund
+  studies, the first mass-media effects research and still surprisingly good;
+  Radio Rwanda and the incitement literature, including Yanagizawa-Drott's
+  estimate of radio's causal contribution to the genocide; Brazilian telenovelas
+  and fertility decline (La Ferrara and co-authors); the Associated Press wire
+  and how objectivity started as a business decision.

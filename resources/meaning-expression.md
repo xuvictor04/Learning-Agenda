@@ -952,6 +952,65 @@ ones a script doctor asks.
   archives; Cannes, Berlinale, Sundance and Rotterdam for the creative track,
   plus new-play development programs for the stage.
 
+**Beyond T1 — the long shelf**
+
+- *Branch into:* silent cinema — Kevin Brownlow, *The Parade's Gone By*; owns
+  everything film could do before it could talk. Documentary — Bill Nichols,
+  *Introduction to Documentary*; owns the ethics of pointing a camera at real
+  people. Animation — Giannalberto Bendazzi, *Animation: A World History*;
+  owns the frame as a made object and a genuinely global industry. Asian
+  theater traditions — *The Cambridge Guide to Asian Theatre* (James Brandon,
+  ed.); owns Noh, kabuki, kathakali, *jingju* and wayang on their own terms
+  rather than as exotica. Television and serial narrative — Jason Mittell,
+  *Complex TV*; owns duration measured in years. World cinemas — Iranian,
+  Senegalese, Taiwanese and Romanian waves; owns what happens when film is
+  made outside an industrial system. Videogames as narrative media — Jesper
+  Juul, *Half-Real*; owns story under player agency. Directing and dramaturgy
+  — Anne Bogart, *A Director Prepares*; owns the room where it gets made.
+- *The long canon:* Dreyer, *The Passion of Joan of Arc* and *Ordet*; Murnau,
+  *Sunrise*; Vigo, *L'Atalante*; Mizoguchi, *Ugetsu*; Bresson, *Au hasard
+  Balthazar*; Antonioni, *L'Avventura*; Fellini, *8½*; Cassavetes, *A Woman
+  Under the Influence*; Tarkovsky, *Mirror*; Ghatak, *Meghe Dhaka Tara*;
+  Mambéty, *Touki Bouki* and Cissé, *Yeelen*; Hou Hsiao-hsien, *A City of
+  Sadness* and Edward Yang, *Yi Yi*; and the long ones that need a cleared
+  weekend — Lanzmann's *Shoah*, Tarr's *Sátántangó*, Fassbinder's *Berlin
+  Alexanderplatz*. For the stage: Aeschylus' *Oresteia* (Fagles, or Anne
+  Carson's *An Oresteia* for the shock); Zeami's *Atsumori*; Racine's
+  *Phèdre*; Molière in Richard Wilbur's rhymed translations; Büchner's
+  *Woyzeck*; O'Neill, *Long Day's Journey into Night*; Williams, *A Streetcar
+  Named Desire*; Beckett, *Endgame*; Soyinka, *Death and the King's Horseman*;
+  Caryl Churchill, *Top Girls*.
+- *The multi-decade reading and listening plan:* one film a week, fixed night,
+  no negotiation — that is about two thousand films by ninety, which is a real
+  education. Structure it in three passes. First, the *Sight and Sound*
+  critics' poll, which has been published every ten years since 1952: work
+  through the current list, then take up the next one when it appears, and
+  notice what got added and dropped in the decade you just lived through.
+  Second, the director year — one filmmaker annually, complete filmography in
+  release order, which gives you forty directors and lets you watch someone
+  learn their craft at the speed they learned it. Third, Michael Apted's *Up*
+  series, filmed every seven years from *Seven Up!* in 1964 to *63 Up* in
+  2019: watch each installment when you are roughly the age of its subjects.
+  Alongside the films, see something live monthly, and give one decade to
+  August Wilson's ten-play Century Cycle at one play a year.
+- *Re-reading:* *Tokyo Story* is the standing example — you watch it as the
+  child at 25, as the parent at 55, and as the grandparent at 80, and it is
+  three films. *Ikiru* is abstract before you have watched anyone die.
+  Bergman's *Wild Strawberries* follows a man of 78 and cannot be fully read
+  at 20. *8½* lands differently once you are Fellini's age when he made it.
+  Rewatching is not nostalgia here; it is the method the medium requires.
+- *A lifetime practice:* keep a viewing and playgoing log — title, date, where,
+  and one paragraph written the same night, before anyone else's opinion
+  reaches you. Write criticism in public somewhere, regularly, under your
+  name. Act in or direct one production every year or two, community theater
+  entirely counts, because the analytic vocabulary goes dead without it.
+- *Rabbit holes:* film loss and nitrate decay — the Library of Congress's 2013
+  survey found only about fourteen percent of American feature films from
+  1912–1929 survive complete in their original format; the Hays Code and what
+  censorship taught directors to imply; Foley and the constructed soundtrack;
+  Noh masks and how one carved face reads as several emotions; the history of
+  aspect ratios and what widescreen did to the close-up.
+
 ## Rhetoric & writing (as an art)
 
 **The question it asks.** How does language move people — and can persuasion

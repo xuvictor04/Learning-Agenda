@@ -1,30 +1,29 @@
 # Bridges — Where the Domains Meet
 
-Every other file in `resources/` is organised by single domain, which is the
-right way to build literacy and the wrong way to use it. This file is the
-other half. It is about the joins.
+Every other file in `resources/` is organised by single domain — the right
+way to build literacy and the wrong way to use it. This file is the other
+half. It is about the joins.
 
 ## Why the intersections are where the work is
 
-Almost all original work happens at intersections, and the reason is
-unglamorous: the interior of a field is crowded and the edges are not. A
-thousand people work on the central problems of condensed matter physics, and
-all of them are better at it than you will ever be. But the number of people
-who hold physics *and* archaeology *and* enough statistics to be dangerous is
-small, and the number who have thought carefully about what that combination
-could ask is smaller still.
+Almost all original work happens at intersections, for an unglamorous
+reason: the interior of a field is crowded and the edges are not. A thousand
+people work on the central problems of condensed matter physics and all of
+them are better at it than you will ever be. But the number who hold physics
+*and* archaeology *and* enough statistics to be dangerous is small, and the
+number who have thought carefully about what that combination could ask is
+smaller still.
 
 The map in `02-map.md` has 44 domains. That is 946 unordered pairs, and
-triples run to the tens of thousands. Most of those pairs have never been
-held in one head with any seriousness. A specialist has depth you can never
-buy; you have combinatorics they can never fake. That is the whole
-comparative advantage of a broad education, and it does not exist until the
-breadth exists.
+triples run to the tens of thousands. Most have never been held in one head
+with any seriousness. A specialist has depth you can never buy; you have
+combinatorics they can never fake. That is the comparative advantage of a
+broad education, and it does not exist until the breadth does.
 
 It is also why the second half of `03-spine.md` isn't empty. The ledger
 completing at year 30 is not the end of acquisition; it is the moment the
 bridges become visible. You cannot notice that two fields are asking one
-question in two vocabularies until you have sat with both vocabularies.
+question in two vocabularies until you have sat with both.
 
 **The practical rule: a bridge is worth pursuing when you can name a specific
 question that neither field alone can answer.** Not a theme, not a resonance,
@@ -124,9 +123,9 @@ you publish.** If both wince, you learned something cheaply.
   Churchland, *Neurophilosophy* (1986); Daniel Dennett, *Consciousness
   Explained* (1991); David Chalmers, *The Conscious Mind* (1996).
 - **A project.** Read Libet's original experiments and the thirty years of
-  methodological objections to them, then write the strongest possible case
-  against whatever you currently believe about free will. If you can't, you
-  don't hold the position — it holds you.
+  methodological objections to them, then write the strongest case against
+  whatever you currently believe about free will. If you can't, you don't
+  hold the position — it holds you.
 
 ### Computational linguistics
 *Theoretical computer science & information theory × Linguistics*
@@ -163,8 +162,7 @@ you publish.** If both wince, you learned something cheaply.
 - **Read.** Philip Ball, *Bright Earth: Art and the Invention of Color*
   (2001); Cennino Cennini, *Il Libro dell'Arte* (as *The Craftsman's
   Handbook*); Gettens & Stout, *Painting Materials: A Short Encyclopaedia*;
-  the National Gallery of Art's *Artists' Pigments* handbook series; Victoria
-  Finlay, *Colour*.
+  the National Gallery of Art's *Artists' Pigments* handbook series.
 - **A project.** Grind an earth pigment, bind it in egg tempera, paint out a
   panel, and expose half of it to a window for six months. You will learn why
   certain colours vanish from the record.
@@ -179,9 +177,8 @@ you publish.** If both wince, you learned something cheaply.
   *Who We Are and How We Got Here* (2018); Patrick Geary, *The Myth of
   Nations* (2002) as the corrective on what ancestry does *not* license.
 - **A project.** The Reich Lab's Allen Ancient DNA Resource is public.
-  Reproduce a principal-components plot from it, then write 1,500 words on
-  what an admixture proportion can and cannot say about the existence of "a
-  people."
+  Reproduce a principal-components plot from it, then write on what an
+  admixture proportion can and cannot say about the existence of "a people."
 
 ### Geopolitics
 *Geography & geopolitics × Political science*
@@ -259,9 +256,9 @@ you publish.** If both wince, you learned something cheaply.
   Putnam (eds.), *Philosophy of Mathematics: Selected Readings* — especially
   Benacerraf's "Mathematical Truth" (1973); Mary Tiles, *The Philosophy of
   Set Theory*; Penelope Maddy, "Believing the Axioms" (1988).
-- **A project.** Write the case for adopting a large cardinal axiom as a
-  working set theorist would argue it, then attack the same case as a
-  nominalist philosopher would. Both halves in your own voice, 3,000 words.
+- **A project.** Argue for adopting a large cardinal axiom as a working set
+  theorist would, then attack the same case as a nominalist would. Both
+  halves in your own voice.
 
 ### Archaeoastronomy and historical eclipses
 *Cosmology & astronomy × World history*
@@ -273,8 +270,8 @@ you publish.** If both wince, you learned something cheaply.
   (1997); Anthony Aveni, *Skywatchers*; Clive Ruggles, *Astronomy in
   Prehistoric Britain and Ireland*; E. G. Richards, *Mapping Time: The
   Calendar and Its History*.
-- **A project.** Take one dated eclipse from a chronicle, retro-calculate it,
-  and see whether it constrains the chronology. Alternatively, survey a local
+- **A project.** Take one dated eclipse from a chronicle, retro-calculate
+  it, and see whether it constrains the chronology. Or survey a local
   alignment with a compass and real error bars — the error bars are what
   separate this field from its lunatic fringe.
 
@@ -329,8 +326,8 @@ you publish.** If both wince, you learned something cheaply.
   Brodie, *From Crossbow to H-Bomb*; David Edgerton, *The Shock of the Old*
   (2006).
 - **A project.** Pick a campaign and work its supply arithmetic from primary
-  figures — rations, fodder, wagon capacity, march rates — then state whether
-  the plan was ever achievable. Van Creveld's method is fully reusable.
+  figures — rations, fodder, wagon capacity, march rates — and state whether
+  the plan was ever achievable. Van Creveld's method is reusable.
 
 ### Information in living systems
 *Theoretical computer science & information theory × Genetics*
@@ -385,8 +382,8 @@ your own reading, and there is a method for noticing them.
 **Watch for the same phenomenon in two literacy artifacts.** If you wrote
 about feedback loops in the ecology artifact and again in the control-systems
 artifact, that is a signal. Read the two passages side by side and ask
-whether they are the same claim or two claims that merely rhyme. Both answers
-are useful.
+whether they are one claim or two that merely rhyme. Both answers are
+useful.
 
 **Keep a running "these two should talk" list.** One line per observation, no
 justification required, written the moment it occurs. Most entries are
@@ -403,8 +400,8 @@ is exactly what a generalist can adopt. Collect punts; they are free and they
 are specific.
 
 **Then apply the rule and the countermeasure.** Name the question in one
-sentence — if you can't, it isn't ready — and get one specialist on each side
-to tell you what you assumed, while correction is still cheap.
+sentence; if you can't, it isn't ready. Then get a specialist on each side to
+tell you what you assumed, while correction is still cheap.
 
 ## The bridge as the third act's work
 
@@ -417,9 +414,9 @@ could do, they are asking for a bridge — a specific one, named, with a
 question at its centre.
 
 That reframes the whole first half. The 44 literacy passes are not a
-collection to be completed and admired; they are the purchase price of the
-right to stand between two fields and be taken seriously by both. Nobody
-builds a bridge from one side. The ledger is what buys the far bank.
+collection to be completed and admired; they are the price of the right to
+stand between two fields and be taken seriously by both. Nobody builds a
+bridge from one side. The ledger is what buys the far bank.
 
 It also changes what "falling behind" means. A year spent on one bridge
 instead of two ledger domains is not a lapse — after year 30 it is the
