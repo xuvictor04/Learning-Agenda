@@ -96,6 +96,25 @@ for f in md:
         if tgt in heads and anc.lower() not in heads[tgt]:
             fails.append(f"dead anchor: {f} -> {link}#{anc}")
 
+# 4c. the timeline must stay interleaved, not blocked
+if os.path.exists('TIMELINE.md'):
+    import itertools
+    tl = open('TIMELINE.md').read()
+    # consolidation/audit rows are legitimately grouped
+    EXEMPT = {'audit', 'reread', 'rereads', 'all', 'consolidation', 'bridges'}
+    for ym in re.finditer(r'^## Year (\d+)[^\n]*\n(.*?)(?=\n## |\n# |\Z)', tl, re.S | re.M):
+        yr, body = ym.group(1), ym.group(2)
+        doms = [d.strip().lower() for d in
+                re.findall(r'^\|\s*\d+\s*\|[^|]*\|[^|]*\|\s*([^|]+?)\s*\|', body, re.M)]
+        doms = [d for d in doms if d not in EXEMPT]
+        if len(doms) < 6:
+            continue
+        run = max(len(list(g)) for _, g in itertools.groupby(doms))
+        if run > 2:
+            fails.append(f"timeline year {yr} reads as blocked: {run} consecutive rows in one domain")
+        if len(set(doms)) < 4:
+            warns.append(f"timeline year {yr} spans only {len(set(doms))} domains")
+
 # 5. leftover placeholders
 for f in md:
     s = open(f).read()

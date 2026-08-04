@@ -25,6 +25,10 @@ that shapes everything else here. Covering it is the first fifth of the plan,
 not the whole of it. The remaining fifty-five years are for depth, mastery,
 and the work only a covered map makes possible.
 
+And you are **never studying one subject.** Six run live at any moment, each
+spanning two years — because blocked study feels efficient and measurably
+isn't. The mix is the method, not a compromise.
+
 The arithmetic has never been the hard part. The hard part is knowing what to
 open in year 7, having material that doesn't run out in year 40, and building
 a system that survives the years when life wins. That's what this repo is.
@@ -94,28 +98,30 @@ Three steps, in order. The whole repo is downstream of these.
 </details>
 
 <details>
-<summary><b>What year 1 actually looks like</b> — the first ten items</summary>
+<summary><b>What a year actually looks like</b> — the mix, in order</summary>
 
 <br/>
 
-Not "year 1: statistics, philosophy, mathematics." The timeline is a queue of
-specific material, in order, with the reason each item sits where it does:
+Not "year 1: statistics, philosophy, mathematics" and not three subjects done
+one after another. The table is sorted by **when in the year**, so the domains
+interleave — that ordering *is* the schedule:
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Adler & Van Doren, *How to Read a Book* | method | ~12 | month one, as a manual not an essay — it is the instrument the other sixty-nine years run on |
-| 2 | Anki, day one, with Woźniak's twenty rules | method | ~4 + daily | rules 1–4 before your first card, or you'll write a year of bad ones |
-| 3 | Williams, *Style: Lessons in Clarity and Grace* | method | ~10 | worked with its exercises; writing is the output channel for every artifact below |
-| 4 | Spiegelhalter, *The Art of Statistics* | survey | ~20 | teaches the reasoning through real cases, postpones formulas until you want them |
-| 5 | Huff, *How to Lie with Statistics* | survey | ~2 | ninety minutes, written in 1954, inoculates permanently |
-| 6 | Plato, *Euthyphro / Apology / Crito*, Grube | canon | ~10 | sixty pages, and it shows philosophy as an activity before any doctrine |
-| 7 | Gowers, *Mathematics: A Very Short Introduction* | survey | ~6 | 150 pages on the abstract method, which is the actual barrier |
-| 8 | 3Blue1Brown, *Essence of Linear Algebra* / *Calculus* | video | ~10 | geometric meaning first — intuition pumps, not substitutes |
-| 9 | 500–1,500 words published weekly, with your name on it | practice | ~40 | the habit starts in week one or it never starts |
-| 10 | Harvard **Stat 110** + Blitzstein & Hwang, ch. 1–6 | course | ~55 | the load-bearing half of the domain; the problem sets *are* the course |
+| When | Material | Domain | Role | Hrs |
+|------|----------|--------|------|-----|
+| wks 1–3 | Adler & Van Doren, *How to Read a Book* | Fundamentals | method | ~12 |
+| wks 1–2 | Anki, with Woźniak's twenty rules | Fundamentals | method | ~4 + daily |
+| wks 2–6 | Spiegelhalter, *The Art of Statistics* | Statistics | survey | ~20 |
+| wks 3–5 | Plato, *Euthyphro / Apology / Crito*, Grube | Philosophy | canon door | ~10 |
+| wks 4–6 | Gowers, *Mathematics: A Very Short Introduction* | Mathematics | survey | ~6 |
+| wks 5–8 | Huff, *How to Lie with Statistics* | Statistics | survey | ~2 |
+| wks 6–12 | 3Blue1Brown, *Essence of Linear Algebra* | Mathematics | video | ~10 |
+| wks 8–20 | Harvard **Stat 110**, begun | Statistics | course | ~30 |
+| wks 10–18 | Millican, *General Philosophy* (Oxford, free) | Philosophy | course | ~15 |
+| all year | 500–1,500 words published weekly | Fundamentals | practice | ~40 |
 
-Thirty items in year 1 at ~520 hours, and **694 across seventy years** — see
-[`TIMELINE.md`](TIMELINE.md).
+Year 1 runs three domains because only the first cohort has started. **From
+year 2 onward, six are live** — last year's finishing, this year's starting.
+Roughly 700 items across seventy years; see [`TIMELINE.md`](TIMELINE.md).
 
 </details>
 
@@ -124,8 +130,9 @@ Thirty items in year 1 at ~520 hours, and **694 across seventy years** — see
 ## The map — 44 domains
 
 Everything enters at **literacy** and is promoted only at an annual review.
-Concurrency caps hold at all times: 2 fields at mastery, 3–5 at working
-depth, ~3 new literacies a year.
+**Six domains run live at once** — three finishing, three starting — each
+spanning two years. Concurrency caps hold at all times: 2 fields at mastery,
+3–5 at working depth, three literacies completing a year.
 
 ```mermaid
 mindmap

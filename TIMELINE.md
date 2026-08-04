@@ -14,22 +14,54 @@ points](#branch-points) mark where the plan legitimately splits, and the
 here is already in `resources/` — nothing new is introduced, so every item has
 a full treatment waiting behind it.
 
-## How to use this
+## Six subjects at once, not one
 
-**Work down the numbered list.** Within a year, the order is the argument.
-Three rules generated it, and they're worth knowing so you can re-derive the
-sequence when you inevitably reorder:
+The single most important thing about this timeline: **you are never studying
+one subject.** Six run live at any moment.
+
+Every domain spans **two years at ~90 hours a year** rather than one year at
+~180. Three start each year, three finish:
+
+| | |
+|---|---|
+| **First year** | Orientation — the door, the survey, the accessible entry, the course begun, the equipment bought |
+| **Second year** | Completion — the canon, the course finished, the practice, and the artifact that earns the checkmark |
+
+The year of distance between them does for a subject what spacing does for a
+flashcard. And because three cohorts overlap, every year's table mixes six
+domains from several clusters — mathematics against literature, neuroscience
+against world religions, materials against structural engineering.
+
+**This is deliberate and it will feel worse than the alternative.** Studying
+one subject to completion before starting the next produces better performance
+*during* the session and worse retention afterwards. Mixing feels messy and
+inefficient while you're doing it. That gap between how learning feels and how
+it works is the whole finding — see `01-principles.md`, principle 2.
+
+**Each year names its own collisions.** The *mix* note at the top of every
+year says which live domains illuminate each other, because those pairings are
+scheduled rather than accidental: logic finishing while theoretical computer
+science starts is the same subject in two hats.
+
+## How to read a year
+
+Each year gives you **finishing** domains, **starting** domains, the clusters
+live, the weekly rotation, and then the table.
+
+**The table is sorted by `When`, not by domain.** Scanning down it you'll see
+statistics, then philosophy, then mathematics, then statistics again — that
+ordering *is* the schedule. Work down it; don't regroup it by subject, because
+regrouping it undoes the point.
+
+Three rules govern order *within* a domain, and they're worth knowing so you
+can re-derive the sequence when you reorder:
 
 1. **Method before material.** Adler before anything he teaches you to read.
-   The reading and note-taking method pays off across every item that follows,
-   so it goes first even though it feels like a detour.
 2. **Intuition before rigour.** 3Blue1Brown before Strang. Spiegelhalter
-   before Blitzstein. The accessible door first, always — a hard text read
-   after an easy one is a different and much faster experience than the same
-   text read cold.
+   before Blitzstein. The accessible door first, always.
 3. **Canon after survey, never instead.** The survey tells you what the field
    asks; the canon shows you the field asking it. Reversed, the canon is just
-   difficult prose. Where a resource file says *start here*, that item is #1.
+   difficult prose.
 
 **Three things run underneath every year** and aren't repeated in the tables:
 daily spaced repetition, the weekly log, and the curiosity budget. Current
@@ -38,34 +70,31 @@ year too. When those stop, the plan has stopped.
 
 ### The pace, and the hours
 
-The default is **25 hours a week, about 1,300 a year**, of which roughly 540
-go to ledger material. That funds **three literacy domains a year**, and it
-means **the ledger completes at year 15** — not year 30, and not never.
+The default is **25 hours a week, about 1,300 a year**, of which roughly 500
+go to ledger material. That funds three domains completing a year, and it
+means **the ledger completes at year 15**.
 
 | Block | Ledger hrs/yr | What's happening |
 |-------|---------------|------------------|
-| Years 1–10 | ~500–580, plus fundamentals | Thirty domains. The heaviest stretch of the plan, deliberately |
-| Years 11–15 | ~505–650 | The last fourteen domains. Years 12–14 run highest — the applied cluster, where doing is the material and shop hours are hours |
+| Year 1 | ~310 | Ramp-up. Only three domains live, and the heaviest fundamentals load of the plan |
+| Years 2–10 | ~500–560 | Six live. Twenty-seven more domains complete |
+| Years 11–15 | ~500–620 | The applied cluster, where doing is the material and shop hours are hours |
 | Years 16–70 | — | No new literacy passes. Depth, re-foundation, bridges, the long shelves |
 
 The whole plan **rescales cleanly** — the *order* never changes, only how fast
 you move through it. At 10 hrs/week the ledger closes near year 25; at 15,
 near year 17; at 35, near year 9. Pick the row in `03-spine.md`'s pace table
-that you'll still be running in year 12, not the one that flatters you now.
+you'll still be running in year 12, not the one that flatters you now.
 
-**Hours per item are approximate** and a domain's need not be evenly spread —
-six weeks of intensity beats ten months of half-hour sessions for most
-literacy passes.
-
-**When a year won't fit, cut from the bottom.** The queue is *ordered*, which
-makes it a triage list: item 14 earns its place after item 13, not as
-optional filler. A year with ten items finished and four deferred is a good
-year. A year with fourteen started is a wasted one.
+**When a year won't fit, cut from the bottom.** The queue is ordered, which
+makes it a triage list. A year with three artifacts finished and some reading
+deferred is a good year; a year with six domains started and none closed is a
+wasted one.
 
 ```mermaid
 timeline
     title The material, by block
-    Years 1-10 : Method and fundamentals : 30 domains : First promotions from yr 6
+    Years 1-10 : Method and fundamentals : 30 domains, six live at a time : First promotions from yr 6
     Years 11-15 : The last 14 domains : Applied cluster and project ladders : LEDGER COMPLETE
     Years 16-20 : First real depth : Long shelves open : Second spike funded
     Years 21-30 : Mastery : Original contribution : The bridges open
@@ -78,176 +107,200 @@ timeline
 
 # Years 1–10 — Foundations
 
-Thirty of the forty-four domains, plus the fundamentals, plus a spike you are
-pushing to professional strength at the same time. This is the heaviest
-stretch of the plan and deliberately so: these are the domains everything
-downstream waits on, and at 25 hours a week there is no reason to spread them
-across three decades.
+Thirty of the forty-four domains. Six live at any moment from year 2 onward:
+last year's cohort finishing on canon and artifact, this year's starting on
+doors and surveys. Every year's mix deliberately spans several clusters, so
+you are always holding a proof and a novel at the same time.
 
-Three domains a year, and the alternation rule matters more here than
-anywhere — three hard prerequisite-chained domains in one year is how a good
-year becomes an abandoned one. Every year below carries at least one that
-asks nothing of you but attention.
+Promotions begin at year 6, once enough literacy passes have shown which
+domains you kept reading after the artifact was done.
 
-Promotions begin at year 6, once fifteen literacy passes have told you which
-domains you kept reading after the artifact was finished.
+## Year 1 — the ramp-up: three domains, and the instrument you read them with
 
-## Year 1 — Statistics & probability · Philosophy · Mathematics
+**Finishing** *(second year — canon, course, artifact)*: nothing yet — the
+first cohort only starts this year
+**Starting** *(first year — doors and surveys)*: Statistics & probability ·
+Philosophy · Mathematics
+**Clusters live this year:** Formal · Meaning & expression
 
-**The order, and why.** Adler comes before everything because he is the
-instrument for everything: the four levels — inspectional, analytical,
-syntopical — are how you will read the next sixty-nine years, and reading him
-in month one makes every item below cheaper. Then the three doors open close
-together, because they teach three different instruments: Spiegelhalter
-teaches you to interrogate evidence, Plato to interrogate argument, and Gowers
-to see the abstract method that locks outsiders out of mathematics. Intuition
-before rigour is the rule that sets the middle of the year — 3Blue1Brown
-before Strang, Spiegelhalter before Blitzstein — and the two courses are
-scheduled like enrolled classes, because the problem sets are the only part
-that is really the course. Proof-writing comes last, after Euclid has shown
-you what a proof looks like from the outside.
+**The mix, and why.** This is the one narrow year, and it is narrow on
+purpose — you cannot interleave six domains before you can read any of them
+well, so year 1 buys the instrument instead: Adler, Anki, Williams, and the
+weekly published piece, all front-loaded, all taxing every year after this
+one. The three ledger domains that do run are chosen because they are
+instruments too. Spiegelhalter teaches you to interrogate evidence, Plato to
+interrogate an argument, Gowers to see the abstract method that locks
+outsiders out — and the genuine resonance is between statistics and
+philosophy, which are the same discipline pointed at different objects:
+Spiegelhalter's chapter on what a confidence interval does *not* say is an
+exercise in exactly the premise-hunting Plato does to Euthyphro. Mathematics
+sits underneath both and gets paid back with interest in year 2, when
+Strang's linear algebra turns out to be Susskind's notation.
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Adler & Van Doren, *How to Read a Book* | method | ~12 | month one, as a manual not an essay — it is the instrument the other sixty-nine years run on |
-| 2 | Anki, set up day one, with Woźniak's "Twenty rules of formulating knowledge" | method / practice | ~4 + daily | rules 1–4 before your first card, or you will write a year of bad ones |
-| 3 | Williams, *Style: Lessons in Clarity and Grace* | method | ~10 | worked slowly with its exercises and answers; writing is the output channel for every artifact below |
-| 4 | Spiegelhalter, *The Art of Statistics* | survey (door) | ~20 | teaches the reasoning through real cases and postpones formulas until you want them |
-| 5 | Huff, *How to Lie with Statistics* | survey | ~2 | ninety minutes, written in 1954, and it inoculates permanently |
-| 6 | Plato, *Euthyphro / Apology / Crito*, Grube (Hackett) | canon (door) | ~10 | sixty pages, and it shows philosophy as an activity before it shows any doctrine |
-| 7 | Gowers, *Mathematics: A Very Short Introduction* | survey (door) | ~6 | 150 small pages on the abstract method, which is the actual barrier |
-| 8 | 3Blue1Brown, *Essence of Linear Algebra* and *Essence of Calculus* | video | ~10 | geometric meaning first — and they are intuition pumps, not substitutes |
-| 9 | 500–1,500 words published weekly, with your name on it | practice | ~40 | the habit starts in week one or it never starts; draft, sleep, cut a quarter, apply Williams to the ten worst sentences |
-| 10 | Harvard **Stat 110** (Blitzstein) with Blitzstein & Hwang, *Introduction to Probability*, ch. 1–6 | course | ~55 | the load-bearing half of the domain; exercises worked with solutions covered, then checked |
-| 11 | Millican, *General Philosophy* (Oxford, free) | course | ~15 | the core problems, structured, before you meet them scattered through the canon |
-| 12 | MIT OCW **18.06 Linear Algebra** (Strang) | course | ~50 | the real thing, with the problem sets done; reading math is not learning math |
-| 13 | Freedman, Pisani & Purves, *Statistics* | survey | ~25 | the calculus-free classic, still unmatched on what inference actually *means* |
-| 14 | Kenny, *A New History of Western Philosophy* | survey | ~25 | the map, after you have walked one small piece of the territory yourself |
-| 15 | Courant & Robbins, *What Is Mathematics?* (or Aleksandrov, Kolmogorov & Lavrent'ev, *Mathematics: Its Content, Methods and Meaning*) | survey | ~25 | the panorama; take the Dover three-in-one if Courant feels thin |
-| 16 | Euclid, *Elements* Book I — definitions, postulates, common notions, then Props. 1–47; plus Book IX Prop. 20 | canon | ~12 | the first axiomatic system, ending at Pythagoras; two paragraphs for the infinitude of primes |
-| 17 | Pólya, *How to Solve It*, with Aigner & Ziegler, *Proofs from THE BOOK* (browsed) | method | ~10 | the psychology of discovery from someone who had it, plus five-page pleasures to browse forever |
-| 18 | Philosophy canon: *Republic* I–II, VI–VII; *Nicomachean Ethics* I–II, X; Descartes, *Meditations*; Hume, *Enquiry*; Mill, *On Liberty*; Nietzsche, *Genealogy* | canon | ~40 | read for argument structure, not conclusions — the summaries lose the interesting move |
-| 19 | The *Analects* (Slingerland), *Tao Te Ching* (D.C. Lau), Nāgārjuna via Garfield's *Fundamental Wisdom of the Middle Way* | canon | ~20 | alongside the Western canon, not after it, or the survey's silences become yours |
-| 20 | Sandel, *Justice* (justiceharvard.org) | course | ~15 | ethics and political philosophy with the arguments run live against a room |
-| 21 | Fisher, *The Design of Experiments* ch. 2; Tukey, *Exploratory Data Analysis* (browse); Tufte, *The Visual Display of Quantitative Information* | canon | ~12 | the lady tasting tea is fifteen pages and is where the modern experiment starts |
-| 22 | Ioannidis (2005), "Why Most Published Research Findings Are False"; Gigerenzer (2004), "Mindless Statistics" | canon | ~4 | short and merciless, and they arm you for every study you will read after this year |
-| 23 | Salsburg, *The Lady Tasting Tea* | history | ~8 | the century of statistics as a story, once the vocabulary is in place |
-| 24 | Hammack, *Book of Proof* (free) — or Velleman, *How to Prove It* | practice | ~25 | proof-writing, after Euclid; every exercise in the early chapters, written in full sentences with no solutions consulted |
-| 25 | Lakatos, *Proofs and Refutations* | canon | ~10 | how definitions actually get made, written as dialogue; nothing else does this job |
-| 26 | Gettier (1963), "Is Justified True Belief Knowledge?"; Nagel (1974), "What Is It Like to Be a Bat?" | canon | ~4 | two short papers that wreck two comfortable positions, read once the canon has built them |
-| 27 | McElreath, *Statistical Rethinking* lectures (free) | course | ~20 | the Bayesian and causal side — after Stat 110, never instead of it |
-| 28 | Hardy, *A Mathematician's Apology*, with Wigner, "The Unreasonable Effectiveness of Mathematics" | canon | ~6 | what a mathematician thinks they are doing, at the end of a year of doing it |
-| 29 | A reading group, or one reader who owes you honesty | people | ~15 | feedback is the bottleneck in all three domains and you must go get it deliberately |
-| 30 | The forecast log, started — dated probabilistic predictions, scored when they resolve | practice | ~10 | begins now and never stops; nothing else teaches calibration, and it compounds |
+**The rotation.** ~25 hours a week. One domain leads at a time, rotating every
+three weeks — Statistics, then Philosophy, then Mathematics — while the other
+two stay warm at an hour apiece. That is only about five ledger hours a week,
+which is correct: the ledger is deliberately underfunded this year so the
+fundamentals can be overfunded.
 
-**Also running.** **The fundamentals are deliberately front-loaded into this
-year**, which is why the table above carries method items that later years
-will not: the instrument is built once and taxes every domain afterward.
+| Slot | Hrs/wk | What sits here |
+|------|--------|----------------|
+| Lead domain | 3 | one unbroken block — Stat 110's problem sets, 18.06's, the Plato read cold |
+| The other two | 2 | an hour each, reading or video only, enough to keep the thread |
+| Fundamentals | 4 | Adler worked as a manual, Williams' exercises, the weekly 500–1,500 words |
+| Programming, and the finance weekend | 2 | one capacity being built, one being closed permanently |
+| The spike | 8 | your working specialty, which comes first in any conflict |
+| SRS, weekly log, curiosity budget | 3 | daily and non-negotiable |
+| Unbooked | 3 | year 1 is the only year with slack in it — spend it on Adler |
+
+Several weeks run fallow by design. One four-week intensive mid-year, on Stat
+110's harder half, is worth more than four months of even spread.
+
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–2 | Anki, set up day one, with Woźniak's "Twenty rules of formulating knowledge" | Fundamentals | method / practice | ~4 |
+| 2 | wks 1–4 | Adler & Van Doren, *How to Read a Book* | Fundamentals | method | ~12 |
+| 3 | wks 2–3 | Huff, *How to Lie with Statistics* | Statistics | survey | ~2 |
+| 4 | wks 2–52 (ongoing) | 500–1,500 words published weekly, with your name on it | Fundamentals | practice | ~40 |
+| 5 | wks 3–6 | Plato, *Euthyphro / Apology / Crito*, Grube (Hackett) | Philosophy | canon (door) | ~10 |
+| 6 | wks 4–10 | Spiegelhalter, *The Art of Statistics* | Statistics | survey (door) | ~20 |
+| 7 | wks 5–7 | Gowers, *Mathematics: A Very Short Introduction* | Mathematics | survey (door) | ~6 |
+| 8 | wks 6–12 | Williams, *Style: Lessons in Clarity and Grace* | Fundamentals | method | ~10 |
+| 9 | wks 7–10 | 3Blue1Brown, *Essence of Linear Algebra* and *Essence of Calculus* | Mathematics | video | ~10 |
+| 10 | wks 9–20 | Millican, *General Philosophy* (Oxford, free) | Philosophy | course | ~15 |
+| 11 | wks 10–30 | Harvard **Stat 110** (Blitzstein), begun — lectures with Blitzstein & Hwang ch. 1–3 | Statistics | course | ~28 |
+| 12 | wks 12–52 (ongoing) | A reading group, or one reader who owes you honesty | Fundamentals | people | ~15 |
+| 13 | wks 14–34 | MIT OCW **18.06 Linear Algebra** (Strang), begun — through the four subspaces | Mathematics | course | ~25 |
+| 14 | wks 18–28 | Freedman, Pisani & Purves, *Statistics* | Statistics | survey | ~25 |
+| 15 | wks 22–34 | Kenny, *A New History of Western Philosophy* | Philosophy | survey | ~25 |
+| 16 | wks 26–38 | Courant & Robbins, *What Is Mathematics?* (or Aleksandrov, Kolmogorov & Lavrent'ev) | Mathematics | survey | ~25 |
+| 17 | wks 30–52 (ongoing) | The forecast log, started — dated probabilistic predictions, scored when they resolve | Statistics | practice | ~10 |
+| 18 | wks 36–46 | Sandel, *Justice* (justiceharvard.org) | Philosophy | course | ~15 |
+| 19 | wks 40–48 | Euclid, *Elements* Book I — definitions, postulates, common notions, Props. 1–47; plus Book IX Prop. 20 | Mathematics | canon | ~12 |
+
+**Also running.** The fundamentals are deliberately front-loaded into this
+year, which is why the table above carries method items no later year will.
 Around the Williams work, Zinsser's *On Writing Well* first for the argument,
 then Pinker's *The Sense of Style* for why the advice works. Brown, Roediger &
 McDaniel's *Make It Stick* explains what the daily Anki habit is doing;
 Ahrens' *How to Take Smart Notes* is the retrieval half. Peter Adamson's
 *History of Philosophy Without Any Gaps* and *In Our Time* fill commute hours
 that were otherwise unusable. Personal finance gets exactly one weekend,
-early, and then stops: Housel's *The Psychology of Money* for the behavioural
-half, the *Bogleheads' Guide* for the allocation, Sethi's checklists for the
-account order — automate it and do not touch it again until the annual hour.
-Underneath all of it: daily spaced repetition, the weekly log, the curiosity
-budget, and whatever your working specialty already takes, which comes first
-in any conflict.
+early, and then stops: Housel's *The Psychology of Money*, the *Bogleheads'
+Guide*, Sethi's checklists for account order — automate it and do not touch it
+again until the annual hour. The language and the craft do **not** start yet;
+they start next year, when the reading instrument is built. Underneath all of
+it: daily spaced repetition, the weekly log, the curiosity budget, and
+whatever your working specialty already takes.
 
 **Buy this year.** Almost nothing, deliberately — well under $150. A library
-card first, which is the highest-leverage item in `kit.md` by an enormous
-margin and often carries remote JSTOR and newspaper archives. A notebook
-system ($20–40/yr): a carry notebook for capture, a bound one for working
-problems, one place they get processed. Index cards ($10). A whiteboard
-($25–80), A2 or larger, because thinking with your arm instead of your wrist
-changes what you can hold in view. A hardbound proof notebook ($10), kept
-separate — the record of your own failed attempts is the most useful document
-you will own in this cluster. Skip the graphing calculator. Anki, LaTeX,
-SageMath and SymPy are free.
+card first, the highest-leverage item in `kit.md` by an enormous margin, and
+often carrying remote JSTOR and newspaper archives. A notebook system
+($20–40/yr): a carry notebook for capture, a bound one for working problems,
+one place they get processed. Index cards ($10). A whiteboard ($25–80), A2 or
+larger, because thinking with your arm instead of your wrist changes what you
+can hold in view. A hardbound proof notebook ($10), kept separate. Skip the
+graphing calculator. Anki, LaTeX, SageMath and SymPy are free.
 
-**The artifacts.** A statistical claim from the news taken back to its paper —
-2,000 words on what it does and does not support, naming sample, interval,
-assumptions, and how many comparisons were really made. Free will
-reconstructed three ways — hard determinism, libertarianism, compatibilism —
-as numbered premise–conclusion arguments, then the single premise you deny and
-your defence of denying it, 2,000 words. Cantor's diagonal argument and
-Galois' insight explained in full to a bright sixteen-year-old, then used to
-argue whether mathematics is discovered or invented, 2,000 words. Plus
+**The artifacts.** None from the ledger — nothing finishes this year, and that
+is the honest price of the ramp-up. What must exist by the annual review:
 forty-plus weeks of public writing, an unbroken SRS streak, a first scored
-page in the forecast log, and an honest self-rating against the fundamentals
-table in `02-map.md`.
+page in the forecast log, and a self-rating against the fundamentals table in
+`02-map.md` that you would be willing to show someone.
 
 ---
 
-## Year 2 — World history · Physics · Literature
+## Year 2 — the first full year: three close out, three open, six live
 
-**The order, and why.** Three doors again, and each is the cheapest thing in
-its domain: McNeill organises history around connection and exchange before
-any survey can organise it around civilisations, Feynman teaches what a
-physical law *is* before you meet any particular law, and Wilson's *Odyssey*
-is the work nearly everything after it is arguing with. Then the method book,
-early and non-optionally — Bloch changes how you read every narrative that
-follows him, including the ones in the other two domains. History gets the
-largest share of the year because it is doing in one pass what the old plan
-split across two: the deep-time frame, the global spine, the decentring
-anchors, and the modern quartet, so that politics, law, sociology and
-geography are all cheaper later. Physics runs on year 1's calculus, which is
-what lets Susskind and the named Feynman chapters land in the same year as
-Carroll rather than two years after him.
+**Finishing** *(second year — canon, course, artifact)*: Statistics &
+probability · Philosophy · Mathematics
+**Starting** *(first year — doors and surveys)*: World history · Physics ·
+Literature
+**Clusters live this year:** Formal · Physical · Human & social · Meaning &
+expression
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | McNeill & McNeill, *The Human Web* | survey (door) | ~12 | organises everything around connection and exchange, which is the frame you want before any survey |
-| 2 | Feynman, *The Character of Physical Law* (Messenger Lectures; book and video free) | canon (door) | ~8 | what a law is, before any particular law |
-| 3 | Homer, *The Odyssey*, Emily Wilson | canon (door) | ~20 | plain, fast, line-for-line with the Greek; her introduction is a short education in what a translator decides |
-| 4 | Bloch, *The Historian's Craft* (or Carr, *What Is History?*) | method | ~10 | non-optional, and early — Bloch is warmer, Carr sharper on causation |
-| 5 | The **Big History Project** (free) | course | ~25 | the deep-time frame, so the last 5,000 years stop looking like the whole story |
-| 6 | Carroll, *The Biggest Ideas in the Universe*, vols. 1–2 | survey | ~25 | real equations, no prerequisites — go lighter here because year 1's calculus took |
-| 7 | Norton Anthology of World Literature (Puchner, gen. ed.) | survey | ~30 | a survey that consists of actually reading the works |
-| 8 | Susskind, *The Theoretical Minimum* — Classical Mechanics, then Quantum Mechanics, then Special Relativity | course | ~40 | furthest for least pain, and in that order specifically |
-| 9 | Roberts & Westad, *The Penguin History of the World* | survey | ~45 | the best single reference narrative, ~1,200 pages, read as a spine to hang anchors on |
-| 10 | Open Yale **ENGL 300**, *Introduction to Theory of Literature* (Paul Fry) | course | ~25 | the schools taught fairly, so you can tell which lens you are using |
-| 11 | *The Feynman Lectures*, Vol. I ch. 1–7, 26–27, 37–38, 44–46 (free online) | canon | ~35 | least time, quantum, and the thermodynamic ratchet — the named chapters, not the book |
-| 12 | Herodotus, *Histories* Bks 1 and 7; Thucydides, *Peloponnesian War* Bk 1, the Melian Dialogue, Bks 6–7 | canon | ~20 | the invention of the genre, then the hardest political history ever written |
-| 13 | Literature canon, first pass: Sophocles, *Oedipus Tyrannus*; Dante, *Inferno* (Hollander for notes, Pinsky for verse); Austen, *Pride and Prejudice*; Flaubert, *Madame Bovary* (Davis); Woolf, *To the Lighthouse* | canon | ~45 | ask of each: how does it manage time, and where does its narrator stand |
-| 14 | Lewin, MIT 8.01/8.02 lectures (YouTube) | course | ~20 | still the best filmed introduction to E&M |
-| 15 | Open Yale: Merriman, *European Civilization, 1648–1945*; Freedman, *The Early Middle Ages* | course | ~30 | two complete free lecture courses, and the period depth the global spine cannot give |
-| 16 | Shakespeare, *Hamlet* and *King Lear*, read aloud | canon | ~15 | aloud is not a flourish — the verse does not work silently |
-| 17 | Ibn Khaldun, *The Muqaddimah* (abridged) on *asabiyyah* and the dynastic cycle; Sima Qian, selected biographies | canon | ~15 | two historians outside the Greek line, read while Herodotus and Thucydides are still fresh |
-| 18 | Einstein (1905), "On the Electrodynamics of Moving Bodies," §1–5 | primary | ~4 | free, and astonishingly readable once Susskind's SR is done |
-| 19 | Frankopan, *The Silk Roads* | survey anchor | ~15 | the decentring anchor — read it against the Penguin spine, not instead of it |
-| 20 | Hobsbawm, *Age of Revolution / Capital / Empire / Extremes* | survey anchor | ~30 | 1789–1991 by one arguing mind, which is what makes the quartet worth four books of your time |
-| 21 | Literature canon, second pass: Murasaki, *The Tale of Genji* (Tyler); Cervantes, *Don Quixote* (Grossman); *The Arabian Nights* (Haddawy) | canon | ~20 | the works the Western survey compresses into a sentence each, taken at their own length |
-| 22 | One non-Western regional history read properly: Keay's *India*, Iliffe's *Africans*, or Brook's *The Troubled Empire* | survey anchor | ~20 | one region at full depth beats three at skim depth, and it is the corrective to the spine |
-| 23 | Bell (1964), "On the Einstein Podolsky Rosen Paradox," with EPR (1935); Anderson, "More Is Different" (1972) | primary | ~6 | six pages that changed the field, then five that explain why a theory of everything predicts nothing |
-| 24 | Auerbach, *Mimesis* | survey / argument | ~20 | a survey and an argument at once, and it needs canon under it to land |
-| 25 | Blaut's *Eight Eurocentric Historians* and Pomeranz, read against *Guns, Germs, and Steel* and *Sapiens* | method | ~12 | the two bestsellers everyone has read, and the specialist literature that answers them |
-| 26 | The bench: *g* to three figures, the speed of light with a microwave and cheese, Planck's constant from LEDs | practice | ~15 | measurement with your own hands, which is the half of physics that reading cannot supply |
-| 27 | ModPo (Filreis, free) | course / community | ~15 | real communal close reading, which is the rarest thing online |
-| 28 | A natural history museum, with a specific written question in hand | place | ~6 | deep time as physical scale; go repeatedly and briefly, never once and exhaustively |
+**The mix, and why.** The three domains you have been holding all year now
+get their canon and their artifacts, and three new doors open beside them,
+which is the shape every year takes from here. The pairing that carries the
+year is mathematics and physics: you finish 18.06 in the same months you start
+Susskind, and the change of basis you drilled in Strang is the thing Susskind
+assumes you already own — a domain closing and a domain opening turn out to
+be the same afternoon's work. Statistics and world history run a quieter
+version of the same trade, because Bloch's *Historian's Craft* and Ioannidis
+are two statements of one problem: what a source is evidence *of*. And
+philosophy finishing beside literature starting is the year's cheapest
+gift — you spend six months reading the Western canon for argument structure,
+then meet Fry's course, which is entirely about the fact that a text has more
+than an argument in it. What the year is really building is the habit of
+carrying six threads at once without dropping any.
 
-**Also running.** **The language starts now** and runs to B2. Order matters
-here too: Wyner's *Fluent Forever* first for the sound system, with
-minimal-pair drills and shadowing daily for two months, because sounds you
-cannot distinguish you cannot store; Krashen's *Principles and Practice* (free
-at sdkrashen.com) for why comprehensible input is the engine; a paid tutor
-from month one via italki or a local equivalent, which is the non-negotiable
-item; graded readers as the input backbone; the first 1,000–2,000 words by
-frequency, taken deliberately rather than waited for; Anki cards built from
-sentences you actually met. The daily loop is SRS 15–20 min, input 30–45 min,
-output two or three sessions a week. **The craft starts now and never ends.**
-Pick one from `made-applied.md` and learn the tool before the technique:
-sharpening, tuning, calibration and the safety rules cold, from a person. Then
-the one book for your craft — Schwarz, Nosrat, Leach, Platt, Smith or
-Klickstein — read once and kept beside the bench. Then an in-person class,
-because this is the tier where money buys the most. `04-frontier.md` and
-`05-current.md` both start drawing their capped hours this year and never
-stop. Mathematics' lifetime practice continues — one hard problem a week in
-the notebook — and physics adds its own: one derivation a week from scratch,
-no references open. Weekly publication continues, with Williams' exercises
-still being worked.
+**The rotation.** ~25 hours a week, and from here the ledger takes ten of
+them. Two domains lead each three-week block — one finishing, one starting —
+and the other four idle at an hour apiece. Three pairings cycle: **Mathematics
++ Physics**, **Statistics + World history**, **Philosophy + Literature**. Each
+domain leads roughly a third of the year at three hours a week, holds at one
+hour the rest of it, and ends near ninety.
+
+| Slot | Hrs/wk | What sits here |
+|------|--------|----------------|
+| Lead pair | 6 | two unbroken 3-hr blocks — the course with its problem set, or the hard text |
+| The other four | 4 | an hour each; reading or listening, never the problem sets |
+| The spike | 5 | your working specialty |
+| Language | 4 | starts this year — SRS 15–20 min daily, input 30–45, output 2–3× a week |
+| Craft | 2 | starts this year — tool before technique |
+| Fundamentals | 2 | the weekly piece, Williams' exercises still being worked |
+| SRS, weekly log, frontier slot, current awareness, curiosity budget | 2 | all running, all capped |
+
+One four-week intensive, on Hobsbawm, closes the year's largest single block
+of reading in one push rather than ten months of half-hours.
+
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–3 | McNeill & McNeill, *The Human Web* | World history | survey (door) | ~12 |
+| 2 | wks 1–4 | Feynman, *The Character of Physical Law* (Messenger Lectures; book and video free) | Physics | canon (door) | ~8 |
+| 3 | wks 2–8 | Homer, *The Odyssey*, Emily Wilson | Literature | canon (door) | ~20 |
+| 4 | wks 3–14 | MIT OCW **18.06**, completed — the remaining problem sets, eigenvalues through SVD | Mathematics | course | ~25 |
+| 5 | wks 4–7 | Bloch, *The Historian's Craft* (or Carr, *What Is History?*) | World history | method | ~10 |
+| 6 | wks 5–16 | Harvard **Stat 110**, completed — Blitzstein & Hwang ch. 4–6, exercises worked then checked | Statistics | course | ~27 |
+| 7 | wks 6–20 | Philosophy canon: *Republic* I–II, VI–VII; *Nicomachean Ethics* I–II, X; Descartes, *Meditations*; Hume, *Enquiry*; Mill, *On Liberty*; Nietzsche, *Genealogy* | Philosophy | canon | ~40 |
+| 8 | wks 8–18 | The **Big History Project** (free) | World history | course | ~25 |
+| 9 | wks 9–20 | Carroll, *The Biggest Ideas in the Universe*, vols. 1–2 | Physics | survey | ~25 |
+| 10 | wks 10–24 | Norton Anthology of World Literature (Puchner, gen. ed.) | Literature | survey | ~30 |
+| 11 | wks 12–18 | Pólya, *How to Solve It*, with Aigner & Ziegler, *Proofs from THE BOOK* (browsed) | Mathematics | method | ~10 |
+| 12 | wks 16–20 | Fisher, *The Design of Experiments* ch. 2; Tukey, *Exploratory Data Analysis* (browse); Tufte, *The Visual Display of Quantitative Information* | Statistics | canon | ~12 |
+| 13 | wks 18–30 | Hammack, *Book of Proof* (free) — or Velleman, *How to Prove It* | Mathematics | practice | ~25 |
+| 14 | wks 20–30 | Lewin, MIT 8.01/8.02 lectures (YouTube) | Physics | course | ~20 |
+| 15 | wks 21–24 | The *Analects* (Slingerland), *Tao Te Ching* (D.C. Lau), Nāgārjuna via Garfield's *Fundamental Wisdom of the Middle Way* | Philosophy | canon | ~20 |
+| 16 | wks 22–34 | Roberts & Westad, *The Penguin History of the World*, begun — deep time to 1500 | World history | survey | ~25 |
+| 17 | wks 24–36 | Open Yale **ENGL 300**, *Introduction to Theory of Literature* (Paul Fry) | Literature | course | ~25 |
+| 18 | wks 26–30 | Ioannidis (2005), "Why Most Published Research Findings Are False"; Gigerenzer (2004), "Mindless Statistics" | Statistics | canon | ~4 |
+| 19 | wks 28–40 | Susskind, *The Theoretical Minimum* — Classical Mechanics, then Quantum Mechanics | Physics | course | ~25 |
+| 20 | wks 30–36 | Gettier (1963), "Is Justified True Belief Knowledge?"; Nagel (1974), "What Is It Like to Be a Bat?" | Philosophy | canon | ~4 |
+| 21 | wks 32–40 | Salsburg, *The Lady Tasting Tea* | Statistics | history | ~8 |
+| 22 | wks 34–42 | Frankopan, *The Silk Roads* | World history | survey anchor | ~15 |
+| 23 | wks 36–48 | ModPo (Filreis, free) | Literature | course / community | ~15 |
+| 24 | wks 38–44 | Lakatos, *Proofs and Refutations* | Mathematics | canon | ~10 |
+| 25 | wks 40–50 | McElreath, *Statistical Rethinking* lectures (free) | Statistics | course | ~20 |
+| 26 | wks 42–52 | Hobsbawm, *Age of Revolution / Capital / Empire / Extremes* | World history | survey anchor | ~30 |
+| 27 | wks 46–50 | Hardy, *A Mathematician's Apology*, with Wigner, "The Unreasonable Effectiveness of Mathematics" | Mathematics | canon | ~6 |
+
+**Also running.** The language starts now and runs to B2 over three years.
+Order matters here too: Wyner's *Fluent Forever* first for the sound system,
+with minimal-pair drills and shadowing daily for two months, because sounds
+you cannot distinguish you cannot store; Krashen's *Principles and Practice*
+(free at sdkrashen.com) for why comprehensible input is the engine; a paid
+tutor from month one via italki or a local equivalent, which is the
+non-negotiable item; graded readers as the input backbone; the first
+1,000–2,000 words by frequency; Anki cards built from sentences you actually
+met. The craft starts now and never ends — pick one from `made-applied.md` and
+learn the tool before the technique: sharpening, tuning, calibration and the
+safety rules cold, from a person. Then the one book for your craft — Schwarz,
+Nosrat, Leach, Platt, Smith or Klickstein — read once and kept beside the
+bench, then an in-person class, because this is the tier where money buys the
+most. `04-frontier.md` and `05-current.md` both start drawing their capped
+hours this year and never stop. Two lifetime practices open: mathematics' one
+hard problem a week in the notebook, and physics' one derivation a week from
+scratch with no references open. Weekly publication continues.
 
 **Buy this year.** Under $250. 10×50 binoculars, $90–180 — the most useful
 advice in `kit.md`, and they serve birding forever and the astronomy year
@@ -255,82 +308,109 @@ later. A planisphere, $12, which teaches the sky's rotation because you turn
 it yourself; Stellarium is free. The craft's starting tools: the cheap
 version, used until its limits genuinely annoy you — except the sharpening
 setup, which is bought good alongside the first edged tools. A cheap
-multimeter and a handful of LEDs for the bench work, under $40.
+multimeter and a handful of LEDs, under $40, for next year's bench work.
 
-**The artifacts.** 2,000 words on the Great Divergence: state Pomeranz's case,
-state the strongest institutionalist counter, and say precisely what evidence
-would settle it — if you cannot name the evidence, you have not understood the
-argument. 2,000 words on why least action, not Newton's second law, is the
-real formulation of classical mechanics, and what it means that the same
-principle reappears in quantum mechanics. A 2,000-word close reading of one
-poem or one three-page passage, defending a claim that collapses if the
-details don't support it — no biography, no context, the words only. Plus CEFR
-A2 and one working month of the physics notebook.
+**The artifacts.** *Statistics:* a statistical claim from the news taken back
+to its paper — 2,000 words on what it does and does not support, naming
+sample, interval, assumptions, and how many comparisons were really made.
+*Philosophy:* free will reconstructed three ways — hard determinism,
+libertarianism, compatibilism — as numbered premise–conclusion arguments, then
+the single premise you deny and your defence of denying it, 2,000 words.
+*Mathematics:* Cantor's diagonal argument and Galois' insight explained in
+full to a bright sixteen-year-old, then used to argue whether mathematics is
+discovered or invented, 2,000 words. Three boxes checked; twelve to go.
 
 ---
 
-## Year 3 — Evolutionary & molecular biology · Chemistry · Music
+## Year 3 — the heaviest year, and the one where the sciences arrive
 
-**The order, and why.** The chemistry lab course is booked before anything is
-read, because it is a calendar constraint rather than a reading choice —
-chemistry is the least autodidact-friendly domain on the map, you cannot fake
-a lab, and community-college enrolment happens months before the term starts.
-Dawkins and Copland are the two cheap doors and they do the same job in
-different materials: after Dawkins you can predict what selection will and
-won't build, and after Copland you hear form rather than mood, so Stearns and
-Wright both land on prepared attention instead of building it from zero. Levi
-then makes chemistry a way of seeing before Drennan makes it a syllabus. The
-microscope goes early, not late — pond water on day one is the point — and the
-organic course goes last, when arrow-pushing has something to attach to.
+**Finishing** *(second year — canon, course, artifact)*: World history ·
+Physics · Literature
+**Starting** *(first year — doors and surveys)*: Evolutionary & molecular
+biology · Chemistry · Music
+**Clusters live this year:** Physical · Living · Human & social · Meaning &
+expression
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Dawkins, *The Selfish Gene*, ch. 1–6 and 11 | canon (door) | ~12 | selection as an algorithm; those chapters carry it |
-| 2 | Copland, *What to Listen For in Music* | survey (door) | ~10 | you finish it hearing form rather than mood |
-| 3 | The community college chemistry lab course | course / lab | ~50 | enrol first; it sets the year's calendar and it is the honest route |
-| 4 | Pond water, yeast, your own cheek cells, under the scope | practice | ~15 | day one, before the textbook — the cell stops being a diagram |
-| 5 | Levi, *The Periodic Table* | canon (door) | ~10 | chemistry as a way of seeing, by a working chemist; if only two chapters, "Iron" and "Carbon" |
-| 6 | Open Yale **MUSI 112**, *Listening to Music* (Craig Wright) | course | ~30 | the best structural-listening course available anywhere |
-| 7 | Atkins, *Chemistry: A Very Short Introduction*, then *Atkins' Molecules* | survey | ~15 | he wrote the standard physical chemistry text and compresses without lying |
-| 8 | Zimmer & Emlen, *Evolution: Making Sense of Life* | survey | ~35 | a textbook that reads like journalism; the best complete first pass |
-| 9 | MIT OCW **5.111**, *Principles of Chemical Science* (Drennan) | course | ~40 | full video, among the best-taught on OCW, and it pairs with the lab hours |
-| 10 | Open Yale **EEB 122**, *Principles of Evolution, Ecology and Behavior* (Stearns) | course | ~35 | 36 free lectures, still the best online treatment |
-| 11 | Coursera (Edinburgh), *Fundamentals of Music Theory*, with musictheory.net and teoria.com drills | course | ~20 | the mechanics, once Copland and Wright have given you something to name |
-| 12 | Darwin, *On the Origin of Species*, ch. 1, 4, 6, 14 | canon | ~15 | ch. 6 is where Darwin is his own best critic; skip the pigeon-fancier detail |
-| 13 | Music canon, listened to structurally with a score where you can: Hildegard; Josquin; Monteverdi, *L'Orfeo*; Bach's C-major prelude and fugue then the *B Minor Mass*; Mozart 40; Beethoven 5 and Op. 131; *Winterreise*; the *Tristan* prelude; Debussy; *The Rite of Spring*; Ligeti | canon | ~35 | ask of each: where is the tension, and what resolves it |
-| 14 | Pauling, *The Nature of the Chemical Bond*, ch. 1–3 and the resonance chapters | canon | ~15 | it built modern chemistry and is still readable; skip the crystal-radii tables |
-| 15 | Lane, *The Vital Question* | survey | ~12 | the energetic origin story the standard textbook underplays |
-| 16 | Bernstein, *The Unanswered Question* (Norton Lectures, free) | video | ~6 | six hours, and it is a composer arguing rather than a teacher explaining |
-| 17 | MIT OCW **7.01SC**, *Fundamentals of Biology* | course | ~25 | the molecular half Stearns doesn't cover |
-| 18 | Beyond the West: a full Ravi Shankar rāga (ālāp into jor into jhālā); Umm Kulthūm; Javanese gamelan; Ali Farka Touré. And Ellington; *Kind of Blue* (modal, not functional); *A Love Supreme*; Robert Johnson; Aretha Franklin | canon | ~25 | Taruskin's line is one tradition; Titon's *Worlds of Music* is the corrective |
-| 19 | MIT OCW **5.12**, *Organic Chemistry I* | course | ~30 | after 5.111 and the lab, when the arrow-pushing has something to attach to |
-| 20 | Taruskin & Gibbs, *The Oxford History of Western Music: College Edition* | survey | ~25 | the Western line laid out properly, after a year of hearing pieces from it |
-| 21 | Weiner, *The Beak of the Finch* | survey | ~10 | selection measured in real time, still the best demonstration in print |
-| 22 | Kimura (1968) on neutral theory; Margulis (1967), "On the origin of mitosing cells"; Gould & Lewontin (1979), "The Spandrels of San Marco" | canon | ~5 | three short papers: most change is not adaptive, cells are communities, and not everything is an adaptation |
-| 23 | One unknown a week — a published ¹H and ¹³C NMR, IR and mass spectrum, assigned cold and checked | practice | ~10 | starts now and runs for decades; structure elucidation becomes reflex or it never becomes anything |
-| 24 | Hoffmann, *The Same and Not the Same* | canon | ~8 | a Nobel laureate on what chemistry *is* — the best writing about the field's own dualities |
-| 25 | Monod, *Chance and Necessity* | canon | ~8 | chance and necessity stated by someone who did the molecular work |
-| 26 | Ross, *The Rest Is Noise* | survey | ~15 | the twentieth century as narrative, after you can hear it |
-| 27 | Kean, *The Disappearing Spoon* | supplement | ~8 | the fun supplement, and explicitly not the substitute |
-| 28 | A local natural history society | people | ~10 | amateur societies hand a newcomer real equipment within a month |
+**The mix, and why.** The chemistry lab course is booked before anything on
+this page is read — it is a calendar constraint, not a reading choice, and
+community-college enrolment happens months before the term starts. Everything
+else arranges itself around it. The pairing that does the most work is physics
+finishing beside chemistry starting: you read the named Feynman chapters in
+the same months Drennan builds the atom, and the chemical bond stops being a
+stick between two letters and becomes the quantum mechanics you have just
+spent a year on. The second real resonance is world history and biology, which
+are both arguments about the past made from surviving traces — Darwin's
+chapter 6, where he is his own best critic, reads very differently in the same
+term as Herodotus, and both are exercises in inference under missing evidence.
+Literature finishing and music starting is the year's quiet pleasure: you ask
+of Dante and of Bach the identical question — where is the tension, and what
+resolves it. This is the heaviest year on the whole page and it is heaviest
+because chemistry is the least autodidact-friendly domain on the map.
+
+**The rotation.** ~25 hours a week, ten to the ledger. Three pairings cycle
+every three weeks: **Physics + Chemistry**, **World history + Biology**,
+**Literature + Music**. The lab term is the exception that proves the shape —
+for the twenty weeks it runs, chemistry takes a fixed evening whether or not
+it is leading, and the other five domains absorb the loss.
+
+| Slot | Hrs/wk | What sits here |
+|------|--------|----------------|
+| Lead pair | 6 | two unbroken 3-hr blocks; the lab bench counts as one of them |
+| The other four | 4 | an hour each — the Norton anthology, the listening, the survey chapters |
+| The spike | 4 | your working specialty; it gives up an hour to the lab this year |
+| Language | 4 | to B1 — tutor sessions now doing real work, native shows with target subtitles |
+| Instrument and craft | 3 | the weekly teacher, plus the craft's first finished object |
+| Speaking | 1.5 | starts this year — a real venue monthly, recorded every time |
+| SRS, weekly log, frontier, current awareness, curiosity budget | 2.5 | unchanged, uncapped only in that they never stop |
+
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–3 | Dawkins, *The Selfish Gene*, ch. 1–6 and 11 | Biology | canon (door) | ~12 |
+| 2 | wks 1–4 | Copland, *What to Listen For in Music* | Music | survey (door) | ~10 |
+| 3 | wks 1–20 | The community college chemistry lab course, first term | Chemistry | course / lab | ~25 |
+| 4 | wks 2–5 | Pond water, yeast, your own cheek cells, under the scope | Biology | practice | ~15 |
+| 5 | wks 3–8 | Susskind, *The Theoretical Minimum* — Special Relativity, completed | Physics | course | ~15 |
+| 6 | wks 4–7 | Levi, *The Periodic Table* | Chemistry | canon (door) | ~10 |
+| 7 | wks 5–14 | Literature canon, first pass: Sophocles, *Oedipus Tyrannus*; Dante, *Inferno* (Hollander for notes, Pinsky for verse); Austen, *Pride and Prejudice*; Flaubert, *Madame Bovary* (Davis); Woolf, *To the Lighthouse* | Literature | canon | ~45 |
+| 8 | wks 6–14 | Roberts & Westad, *The Penguin History of the World*, completed — 1500 to the present | World history | survey | ~20 |
+| 9 | wks 8–20 | Open Yale **MUSI 112**, *Listening to Music* (Craig Wright) | Music | course | ~30 |
+| 10 | wks 9–12 | Einstein (1905), "On the Electrodynamics of Moving Bodies," §1–5 | Physics | primary | ~4 |
+| 11 | wks 10–24 | MIT OCW **5.111**, *Principles of Chemical Science* (Drennan) | Chemistry | course | ~40 |
+| 12 | wks 12–18 | Herodotus, *Histories* Bks 1 and 7; Thucydides, *Peloponnesian War* Bk 1, the Melian Dialogue, Bks 6–7 | World history | canon | ~20 |
+| 13 | wks 14–26 | Zimmer & Emlen, *Evolution: Making Sense of Life* | Biology | survey | ~35 |
+| 14 | wks 16–28 | *The Feynman Lectures*, Vol. I ch. 1–7, 26–27, 37–38, 44–46 (free online) | Physics | canon | ~35 |
+| 15 | wks 18–22 | Shakespeare, *Hamlet* and *King Lear*, read aloud | Literature | canon | ~15 |
+| 16 | wks 20–32 | Open Yale: Merriman, *European Civilization, 1648–1945*; Freedman, *The Early Middle Ages* | World history | course | ~30 |
+| 17 | wks 21–26 | Atkins, *Chemistry: A Very Short Introduction*, then *Atkins' Molecules* | Chemistry | survey | ~15 |
+| 18 | wks 22–34 | Coursera (Edinburgh), *Fundamentals of Music Theory*, with musictheory.net and teoria.com drills | Music | course | ~20 |
+| 19 | wks 24–34 | Open Yale **EEB 122** (Stearns), begun — lectures 1–18 | Biology | course | ~18 |
+| 20 | wks 26–30 | Ibn Khaldun, *The Muqaddimah* (abridged) on *asabiyyah* and the dynastic cycle; Sima Qian, selected biographies | World history | canon | ~15 |
+| 21 | wks 28–34 | Bell (1964), "On the Einstein Podolsky Rosen Paradox," with EPR (1935); Anderson, "More Is Different" (1972) | Physics | primary | ~6 |
+| 22 | wks 30–38 | Literature canon, second pass: Murasaki, *The Tale of Genji* (Tyler); Cervantes, *Don Quixote* (Grossman); *The Arabian Nights* (Haddawy) | Literature | canon | ~20 |
+| 23 | wks 32–40 | Music canon, first pass, with a score where you can: Hildegard; Josquin; Monteverdi, *L'Orfeo*; Bach's C-major prelude and fugue, then the *B Minor Mass* | Music | canon | ~18 |
+| 24 | wks 34–44 | One non-Western regional history read properly: Keay's *India*, Iliffe's *Africans*, or Brook's *The Troubled Empire* | World history | survey anchor | ~20 |
+| 25 | wks 36–44 | The bench: *g* to three figures, the speed of light with a microwave and cheese, Planck's constant from LEDs | Physics | practice | ~15 |
+| 26 | wks 38–48 | Auerbach, *Mimesis* | Literature | survey / argument | ~20 |
+| 27 | wks 40–48 | Bernstein, *The Unanswered Question* (Norton Lectures, free) | Music | video | ~6 |
+| 28 | wks 42–52 (ongoing) | A local natural history society | Biology | people | ~10 |
+| 29 | wks 44–50 | Blaut's *Eight Eurocentric Historians* and Pomeranz, read against *Guns, Germs, and Steel* and *Sapiens* | World history | method | ~12 |
 
 **Also running.** An instrument in your hands, not a book about music — a
 weekly teacher, and Klickstein's *The Musician's Way* for how to practise
-rather than merely repeat. If the instrument *is* your craft, this and the
-year-2 craft track are the same track; otherwise the craft continues toward
+rather than merely repeat. If the instrument *is* your craft, this and last
+year's craft track are the same track; otherwise the craft continues toward
 its first finished object. Language to B1: the daily loop unchanged, tutor
-sessions now doing real work, graded readers giving way to native shows with
-target-language subtitles. **Speaking starts this year**, because all three
+sessions doing real work, graded readers giving way to native shows with
+target-language subtitles. Speaking starts this year, because all six live
 domains produce things worth explaining — a real venue monthly is the primary
 source and not a supplement, with Berkun's *Confessions of a Public Speaker*
 for fear and rooms that go wrong, Anderson's *TED Talks* for structuring
 around one idea, and Winston's "How to Speak" (MIT, free, one hour). Record
-every time; the recording is the feedback source and it is non-negotiable. R
-is free and is the environment both biology and psychology reason in — learn
-it here rather than later. Chemistry's bound lab notebook is kept properly
-from the first session, dated and numbered, even for kitchen chemistry.
-Sapolsky's *Human Behavioral Biology* lectures are held back for the
-anthropology year, where they do double duty.
+every time; the recording is the feedback source. R is free and is the
+environment biology and, next year, psychology both reason in — learn it here.
+Chemistry's bound lab notebook is kept properly from the first session, dated
+and numbered, even for kitchen chemistry. Sapolsky's *Human Behavioral
+Biology* is held back for the anthropology year, where it does double duty.
 
 **Buy this year.** A real compound microscope — achromatic objectives,
 mechanical stage with coaxial controls, Abbe condenser with iris, glass
@@ -338,87 +418,111 @@ throughout. New, the usable entry point is $200–400; better, buy used from
 university surplus or a lab liquidation at $150–400, where a thirty-year-old
 professional instrument beats anything new at that price. Prepared slides
 ($30–60) to calibrate your eye, then blanks and coverslips ($20/hundred) and
-methylene blue and iodine ($15), because making your own is the skill. A
-dissection kit ($20–40). An instrument bought used — a solid-top acoustic
-guitar at $150–400, or a weighted-key 88 digital piano at $300–500 — plus
-$50–100 for a setup or tuning, and a mechanical metronome ($20–30), which gets
-used because it is sitting there. IMSLP is free and holds the repertoire. For
-chemistry, lab course fees rather than home equipment: be clear-eyed that
+methylene blue and iodine ($15). A dissection kit ($20–40). An instrument
+bought used — a solid-top acoustic guitar at $150–400, or a weighted-key 88
+digital piano at $300–500 — plus $50–100 for a setup or tuning, and a
+mechanical metronome ($20–30), which gets used because it is sitting there.
+IMSLP is free. For chemistry, lab course fees rather than home equipment:
 reagents, glassware and apparatus carry real safety and legal constraints, and
 `kit.md` names the legitimate hobby routes.
 
-**The artifacts.** One adaptation traced end to end — lactase persistence, the
-sickle-cell heterozygote advantage, the vertebrate eye — through the mutation,
-the selective regime, the population dynamics of its spread, and the evidence
-the story is true rather than merely plausible, 2,000 words. Haber–Bosch
-traced end to end, 2,000 words — the thermodynamics that makes it hard, the
-catalysis that makes it possible, the real temperatures and pressures, and the
-fact that roughly half the nitrogen atoms in your body passed through it.
-1,500 words on a single four-minute piece: what happens, in order, section by
-section, plus the moment the music makes a promise and the moment it keeps or
-breaks it. Plus language at B1 and the craft's first finished object, however
-bad.
+**The artifacts.** *World history:* 2,000 words on the Great Divergence —
+state Pomeranz's case, state the strongest institutionalist counter, and say
+precisely what evidence would settle it; if you cannot name the evidence, you
+have not understood the argument. *Physics:* 2,000 words on why least action,
+not Newton's second law, is the real formulation of classical mechanics, and
+what it means that the same principle reappears in quantum mechanics.
+*Literature:* a 2,000-word close reading of one poem or one three-page
+passage, defending a claim that collapses if the details don't support it — no
+biography, no context, the words only. Plus CEFR A2 and one working month of
+the physics notebook.
 
 ---
 
-## Year 4 — Psychology · Economics · Visual art & architecture
+## Year 4 — the year the sciences hand off to the studies of people
 
-**The order, and why.** Kahneman opens the year because he shows, repeatedly,
-how a vague claim about the mind becomes a cheap decisive experiment — and he
-is read *with the replication crisis in hand*, which is why he comes before
-Bloom's course rather than after it. Economics is the one domain where
-`human-social.md` says explicitly: start with a course, not a book, so CORE
-leads with inequality, institutions, power and real data instead of chapter-one
-supply-and-demand, and Heilbroner afterwards supplies the lineage CORE assumes
-rather than teaches. The dataset comes early on purpose — `modes.md` is right
-that in quantitative fields an afternoon with real series should precede the
-survey book. For art, Berger before any names, then the museum before Gombrich,
-because scale does not survive reproduction; year 1's statistics is what makes
-the psychology readable and the incidence arguments checkable.
+**Finishing** *(second year — canon, course, artifact)*: Evolutionary &
+molecular biology · Chemistry · Music
+**Starting** *(first year — doors and surveys)*: Psychology · Economics ·
+Visual art & architecture
+**Clusters live this year:** Physical · Living · Mind · Human & social ·
+Meaning & expression
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Kahneman, *Thinking, Fast and Slow* | survey (door) | ~20 | how a vague claim about the mind becomes a cheap decisive experiment — and the priming chapter has not held up |
-| 2 | Berger, *Ways of Seeing* — the book and the four free BBC episodes | survey (door) | ~8 | makes visible the ideology in how you already look, before you have learned any names |
-| 3 | **CORE Econ, *The Economy*** (core-econ.org) | course (door) | ~50 | the modern introduction, free, and the single best free resource named in `human-social.md` |
-| 4 | FRED and Our World in Data — one question, one afternoon, one chart you made | data | ~10 | before the survey book, not after; an afternoon of messy series teaches what ten chapters don't |
-| 5 | Open Yale **PSYC 110**, *Introduction to Psychology* (Paul Bloom) | course | ~30 | take it whole; among the best introductory courses in any subject |
-| 6 | The museum, repeatedly and briefly, membership in hand | place | ~30 | twenty short visits to look at four things, not one exhausting march |
-| 7 | Heilbroner, *The Worldly Philosophers* | survey | ~12 | the great economists as a story, readable in a weekend, and it is the lineage CORE assumes |
-| 8 | Gray & Bjorklund, *Psychology* (or Bloom, *Psych: The Story of the Human Mind*) | survey | ~30 | a real textbook, evolutionary in framing — which year 3 has now earned |
-| 9 | Gombrich, *The Story of Art* | survey | ~30 | one great voice through the Western tradition, and honest about being that |
-| 10 | Hayek, "The Use of Knowledge in Society" (1945) | canon | ~3 | fifteen pages, free, and the best argument for prices ever written |
-| 11 | MIT OCW **14.01** *Principles of Microeconomics* and **14.02** *Principles of Macroeconomics* | course | ~40 | do the problem sets; they are posted with solutions |
-| 12 | Smarthistory (free, with Khan Academy) | course | ~20 | two experts talking in front of each work — the best free art-history resource that exists |
-| 13 | PsychoPy or jsPsych: run a classic experiment on yourself | practice | ~15 | watching your own data come out noisy teaches the methods problem faster than any chapter about it |
-| 14 | Smith, *Wealth of Nations* I.1–3 and IV.2; Ricardo, *Principles* ch. 7 | canon | ~10 | the invisible hand is one sentence and is almost always misquoted |
-| 15 | Kostof, *A History of Architecture: Settings and Rituals*, with Ching's *Architecture: Form, Space and Order* | survey | ~30 | Ching teaches spatial thinking by drawing, which is the only way it goes in |
-| 16 | Simmons, Nelson & Simonsohn (2011), "False-Positive Psychology"; Miller (1956); Tversky & Kahneman (1974) | canon | ~6 | the paper that named the disease, plus the two findings the field was built on |
-| 17 | James, *The Principles of Psychology* — "Habit," "The Stream of Thought," "The Consciousness of Self," "Attention," "Will" | canon | ~15 | five chapters and stop; still quoted, and still right about more than it should be |
-| 18 | Stokstad, *Art History* (or Gardner's *Art Through the Ages*); MIT OpenCourseWare's global history of architecture | survey | ~25 | the global coverage Gombrich doesn't attempt and most surveys skip |
-| 19 | Akerlof (1970), "The Market for Lemons"; Card & Krueger (1994); Solow (1956) | canon | ~6 | one market failure, one design that overturned a consensus, one growth model — the field in three papers |
-| 20 | Henrich, *The WEIRDest People in the World* | survey | ~15 | which of psychology's findings are about humans and which are about undergraduates |
-| 21 | Keynes, *The General Theory* ch. 12 and 24 only; Friedman, *Capitalism and Freedom* ch. 1–2 | canon | ~10 | read *about* the rest of Keynes first — the file is right that it is genuinely hard |
-| 22 | Edwards, *Drawing on the Right Side of the Brain*, with a dated sketchbook | practice | ~20 | drawing breaks symbol-drawing, and copying teaches what looking alone cannot |
-| 23 | MoMA's free Coursera courses | course | ~10 | the modern and contemporary half, taught by the institution that assembled the argument |
-| 24 | Festinger, Riecken & Schachter, *When Prophecy Fails* | canon | ~10 | what social psychology looked like when it was brave |
-| 25 | Marginal Revolution University's video library, with the IGM Forum polls | course | ~10 | the concepts once more in plain language, plus a free reality check on where economists actually agree |
-| 26 | Hirschman, *Exit, Voice, and Loyalty* | canon | ~8 | the most reliably surprising economist to read, and it applies to every institution you belong to |
-| 27 | The canon, looked at in person wherever possible — the Pantheon's oculus, Hagia Sophia, Chartres, Giotto's Arena Chapel, Masaccio's *Trinity*, *Las Meninas*, Rembrandt's late self-portraits, Hokusai, Manet's *Olympia*, Rothko; and the buildings — Brunelleschi's dome, the Villa Rotonda, Fallingwater, the Salk Institute, Kéré's school at Gando | canon | ~25 | look for what the work does with your eye's path and your body's position |
-| 28 | Ritchie, *Science Fictions* | survey | ~8 | the reform case from inside, once you have seen the literature it is about |
-| 29 | *Journal of Economic Perspectives*, cover to cover, quarterly | primary | ~8 | free, deliberately readable, and over decades it is an education by itself |
-| 30 | The provenance log — one claim a week traced to its original study | practice | ~10 | twenty minutes weekly produces a calibration almost nobody has, including many professionals |
+**The mix, and why.** Five clusters are live at once, which is the widest the
+plan ever gets, and the hand-off is the point: biology closes in the same
+months psychology opens, and that ordering is load-bearing rather than
+decorative. You read Gray & Bjorklund's evolutionary framing having spent a
+year with Stearns and Darwin, so "adaptation" is a claim you know how to check
+rather than a word you nod at — and Henrich's question next year, about which
+of psychology's findings are about humans and which about undergraduates, is
+already sitting in your mouth. The stranger and better pairing is chemistry
+with economics: equilibrium is the same idea in both, a system settling where
+opposing rates balance, and reading CORE's units on markets in the same term
+as Le Châtelier is the cheapest way to learn that neither field owns the
+concept. Music finishing beside art starting closes the year — form in time,
+then form in space, asked the same questions.
+
+**The rotation.** ~25 hours a week, ten to the ledger. Three pairings cycle:
+**Biology + Psychology**, **Chemistry + Economics**, **Music + Art &
+architecture**. The museum is the exception to the block structure — twenty
+short visits scattered across the year beat one exhausting march, so it sits
+outside the rotation entirely and takes a standing Saturday hour.
+
+| Slot | Hrs/wk | What sits here |
+|------|--------|----------------|
+| Lead pair | 6 | two unbroken 3-hr blocks — 5.12's arrow-pushing, 14.01's problem sets, PSYC 110 whole |
+| The other four | 4 | an hour each; the museum hour lives here permanently |
+| The spike | 5 | your working specialty, restored to full after the lab year |
+| Language | 3 | to B2 — the level that changes your life |
+| Craft | 3 | toward its second object, visibly better than the first |
+| Speaking, and the weekly AI drill | 2 | the monthly venue, still recorded; one AI explanation a week, errors found |
+| SRS, weekly log, frontier, current awareness, curiosity budget | 2 | as always |
+
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–4 | Kahneman, *Thinking, Fast and Slow* | Psychology | survey (door) | ~20 |
+| 2 | wks 1–5 | Berger, *Ways of Seeing* — the book and the four free BBC episodes | Art & arch. | survey (door) | ~8 |
+| 3 | wks 1–20 | The community college chemistry lab course, second term | Chemistry | course / lab | ~25 |
+| 4 | wks 2–4 | FRED and Our World in Data — one question, one afternoon, one chart you made | Economics | data | ~10 |
+| 5 | wks 3–8 | Darwin, *On the Origin of Species*, ch. 1, 4, 6, 14 | Biology | canon | ~15 |
+| 6 | wks 4–18 | **CORE Econ, *The Economy*** (core-econ.org), begun — units 1–11 | Economics | course (door) | ~30 |
+| 7 | wks 5–12 | Music canon, second pass: Mozart 40; Beethoven 5 and Op. 131; *Winterreise*; the *Tristan* prelude; Debussy; *The Rite of Spring*; Ligeti | Music | canon | ~17 |
+| 8 | wks 6–52 (ongoing) | The museum, repeatedly and briefly, membership in hand | Art & arch. | place | ~30 |
+| 9 | wks 8–16 | Open Yale **PSYC 110**, *Introduction to Psychology* (Paul Bloom) | Psychology | course | ~30 |
+| 10 | wks 10–16 | Pauling, *The Nature of the Chemical Bond*, ch. 1–3 and the resonance chapters | Chemistry | canon | ~15 |
+| 11 | wks 12–20 | Open Yale **EEB 122** (Stearns), completed — lectures 19–36 | Biology | course | ~17 |
+| 12 | wks 14–22 | Heilbroner, *The Worldly Philosophers* | Economics | survey | ~12 |
+| 13 | wks 16–30 | Gombrich, *The Story of Art* | Art & arch. | survey | ~30 |
+| 14 | wks 18–26 | Taruskin & Gibbs, *The Oxford History of Western Music: College Edition* | Music | survey | ~25 |
+| 15 | wks 20–34 | MIT OCW **5.12**, *Organic Chemistry I* | Chemistry | course | ~30 |
+| 16 | wks 22–34 | Gray & Bjorklund, *Psychology* (or Bloom, *Psych: The Story of the Human Mind*) | Psychology | survey | ~30 |
+| 17 | wks 24–32 | MIT OCW **7.01SC**, *Fundamentals of Biology* | Biology | course | ~25 |
+| 18 | wks 24–52 (quarterly) | *Journal of Economic Perspectives*, cover to cover | Economics | primary | ~8 |
+| 19 | wks 26–36 | Smarthistory (free, with Khan Academy) | Art & arch. | course | ~20 |
+| 20 | wks 26–52 (ongoing) | One unknown a week — a published ¹H and ¹³C NMR, IR and mass spectrum, assigned cold and checked | Chemistry | practice | ~10 |
+| 21 | wks 28–40 | MIT OCW **14.01**, *Principles of Microeconomics* — problem sets done | Economics | course | ~20 |
+| 22 | wks 30–38 | Beyond the West: a full Ravi Shankar rāga (ālāp into jor into jhālā); Umm Kulthūm; Javanese gamelan; Ali Farka Touré. And Ellington; *Kind of Blue*; *A Love Supreme*; Robert Johnson; Aretha Franklin | Music | canon | ~25 |
+| 23 | wks 32–38 | Lane, *The Vital Question* | Biology | survey | ~12 |
+| 24 | wks 34–40 | Kean, *The Disappearing Spoon* | Chemistry | supplement | ~8 |
+| 25 | wks 36–42 | Ross, *The Rest Is Noise* | Music | survey | ~15 |
+| 26 | wks 38–44 | Weiner, *The Beak of the Finch* | Biology | survey | ~10 |
+| 27 | wks 40–46 | Hoffmann, *The Same and Not the Same* | Chemistry | canon | ~8 |
+| 28 | wks 40–52 | Marginal Revolution University's video library, with the IGM Forum polls | Economics | course | ~10 |
+| 29 | wks 42–48 | Kimura (1968) on neutral theory; Margulis (1967), "On the origin of mitosing cells"; Gould & Lewontin (1979), "The Spandrels of San Marco" | Biology | canon | ~5 |
+| 30 | wks 44–50 | MoMA's free Coursera courses | Art & arch. | course | ~10 |
+| 31 | wks 46–52 | Monod, *Chance and Necessity* | Biology | canon | ~8 |
 
 **Also running.** Language reaches B2 this year, which is the level that
 changes your life — real conversations without strain on both sides, a novel
 read with effort, work done in the language. Mollick's *Co-Intelligence* is
 the right year for the AI-tools row, because you now have twelve domains'
-literacy to check a model against, and the weekly drill — take one
+worth of literacy to check a model against, and the weekly drill — take one
 AI-generated explanation in a field you know well and find its errors — is
 only possible once you know several fields well. The craft moves toward its
-second object; the monthly speaking venue continues, still recorded.
-Economics adds its own lifetime practice: one long series of your own —
-prices at your local shops, rents on one street, your household's complete
+second object; the monthly speaking venue continues, still recorded. Economics
+adds its own lifetime practice, and it starts in its first year rather than
+its second because it needs the runway: one long series of your own — prices
+at your local shops, rents on one street, your household's complete
 accounts — collected the same way, the same month, for decades. Weekly
 publication, daily SRS, the forecast log, the frontier slot and current
 awareness all run as always.
@@ -426,77 +530,108 @@ awareness all run as always.
 **Buy this year.** A museum membership, $50–150/yr, which pays for itself in
 two visits and changes how you use a museum. A drawing kit at $40–70 —
 graphite HB through 6B, vine and compressed charcoal, kneaded eraser, blending
-stump — and a 90–150 gsm sketchbook at $15–25, because cheap paper buckles and
-makes competent work look bad at exactly the wrong moment. For psychology the
-equipment that isn't free is mostly disappointing: a hobbyist EEG will show
-you alpha rhythm appearing when you close your eyes, which is a legitimate
-thrill and is not neuroscience. The real equipment in both empirical domains
-is access to participants, R, and free public data — FRED, World Bank WDI,
-Our World in Data, and your national statistics office.
+stump — and a 90–150 gsm sketchbook at $15–25, bought now even though Edwards
+lands next year, because cheap paper buckles and makes competent work look bad
+at exactly the wrong moment. The chemistry lab's second-term fee. For
+psychology the equipment that isn't free is mostly disappointing: a hobbyist
+EEG will show you alpha rhythm appearing when you close your eyes, which is a
+legitimate thrill and is not neuroscience. The real equipment in both
+empirical domains is access to participants, R, and free public data — FRED,
+World Bank WDI, Our World in Data, and your national statistics office.
 
-**The artifacts.** A famous psychological finding you believed before you
-started, traced through its full evidential history — the original N and
-effect size, what the press said, what replication found, where it honestly
-stands — then what you would need to see to change your mind again, 2,000
-words. 2,000 words on a real policy with real data — a minimum wage change, a
-carbon tax, a zoning reform — with a supply/demand analysis, an explicit
-incidence claim, the strongest counterargument stated fairly, and at least one
-chart you made yourself. 1,500 words on one object you saw in person: five
-hundred words of pure description with no interpretation, then what it was
-for, then what you claim it does to a viewer — with the description as your
-evidence. Plus language at B2 and the craft's second object, visibly better
-than the first.
+**The artifacts.** *Biology:* one adaptation traced end to end — lactase
+persistence, the sickle-cell heterozygote advantage, the vertebrate eye —
+through the mutation, the selective regime, the population dynamics of its
+spread, and the evidence the story is true rather than merely plausible, 2,000
+words. *Chemistry:* Haber–Bosch traced end to end, 2,000 words — the
+thermodynamics that makes it hard, the catalysis that makes it possible, the
+real temperatures and pressures, and the fact that roughly half the nitrogen
+atoms in your body passed through it. *Music:* 1,500 words on a single
+four-minute piece — what happens, in order, section by section, plus the
+moment the music makes a promise and the moment it keeps or breaks it. Plus
+language at B1 holding toward B2 and the craft's first finished object,
+however bad.
 
 ---
 
-## Year 5 — Neuroscience · Genetics · World religions & mythology
+## Year 5 — the payoff year: four years of prerequisites all cash out at once
 
-**The order, and why.** Sacks first because each chapter is a mind broken in
-one specific way, which is precisely how the field learned what the parts do —
-and because you finish it wanting the mechanism, which is the right appetite to
-bring to Kanwisher. Prothero goes early on the other side because he
-inoculates against the single commonest error before you read anything else,
-and Mukherjee is the genetics door because he braids mechanism with the
-eugenics history most popular accounts skip. This is a payoff year: heritability
-is unreadable without year 1's statistics, Kandel is unreadable without year 3's
-chemistry, and the genome course assumes the molecular biology you took beside
-it. Kandel is deliberately late and deliberately partial — Part I, the membrane
-and action potentials, synaptic transmission, one systems chapter on vision, and
-you skip the molecular detail entirely.
+**Finishing** *(second year — canon, course, artifact)*: Psychology ·
+Economics · Visual art & architecture
+**Starting** *(first year — doors and surveys)*: Neuroscience · Genetics ·
+World religions & mythology
+**Clusters live this year:** Living · Mind · Human & social · Meaning &
+expression
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Sacks, *The Man Who Mistook His Wife for a Hat* | canon (door) | ~10 | the abstract made concrete, and it leaves you wanting mechanism |
-| 2 | Prothero, *God Is Not One* | survey (door) | ~12 | organises each tradition around the problem that tradition thinks it is solving |
-| 3 | Mukherjee, *The Gene: An Intimate History* | survey (door) | ~18 | then read the criticism of the epigenetics chapter — that argument is part of the door |
-| 4 | Mendel, *Experiments on Plant Hybridization* (1866), whole | canon | ~4 | free, short, startlingly modern, and the rare canon item you read entire |
-| 5 | MIT OCW **9.13**, *The Human Brain* (Kanwisher) | course | ~40 | free video, outstanding, unusually honest about the limits of the methods |
-| 6 | Open Yale **RLST 145**, *Introduction to the Old Testament* (Christine Hayes) | course | ~30 | a model of what rigorous non-devotional teaching about scripture looks like |
-| 7 | Lander, *Introduction to Biology — The Secret of Life* (MITx / OCW 7.00x) | course | ~45 | problem-set driven, taught by someone who led the genome project; the best free course here by a wide margin |
-| 8 | Hebrew Bible in Robert Alter's translation — Genesis, Exodus, Job, Ecclesiastes | canon | ~30 | his notes are the education; read alongside Hayes, not after |
-| 9 | Cobb, *The Idea of the Brain* | survey | ~15 | the whole history of how we've thought about brains, honest about how much is unknown |
-| 10 | Harvard, *Fundamentals of Neuroscience* (three parts, browser simulations) | course | ~25 | the cellular side Kanwisher skips, with simulations to fail against |
-| 11 | Smart, *The World's Religions* | survey | ~18 | the standard secular survey, built on the seven dimensions |
-| 12 | GenBank: pull real sequence data, build a tree, learn what a bootstrap value does and does not mean | data | ~20 | the year-1 statistics finally cashing out on somebody else's evidence |
-| 13 | Kandel et al., *Principles of Neural Science* — Part I, membrane potential, action potential, synaptic transmission, one vision chapter | canon | ~30 | do **not** read it cover to cover at this tier |
-| 14 | Mark and Romans; the Qur'an (Abdel Haleem); the *Bhagavad Gita* (Miller); the *Dhammapada*, then Bhikkhu Bodhi's *In the Buddha's Words* | canon | ~30 | read for genre and audience — who was this addressed to, and what did it ask of them |
-| 15 | Rutherford, *A Brief History of Everyone Who Ever Lived* | survey | ~12 | the numerate correction to genetic just-so stories, especially on ancestry and race |
-| 16 | Open Yale **RLST 152**, *Introduction to New Testament History and Literature* (Dale Martin) | course | ~20 | the second half of the same non-devotional method |
-| 17 | MIT OCW **7.03**, *Genetics* | course | ~25 | follows on from Lander, and this is the order the file gives |
-| 18 | Hodgkin & Huxley (1952); Hubel & Wiesel (1962); Marr, *Vision*, ch. 1 | canon | ~8 | the axon, the receptive field, and the three levels most confused arguments ignore |
-| 19 | Watson, *The Double Helix*, alongside Maddox, *Rosalind Franklin: The Dark Lady of DNA* | canon | ~15 | the pair is the honest version; neither alone is |
-| 20 | Services or ceremonies of two traditions not your own, observed as a scholar would | place / people | ~10 | the material dimension of Smart's seven, which no text delivers |
-| 21 | Sapolsky, *Behave* | survey | ~15 | sprawling, and the best bridge from cells to social behaviour — read after Kanwisher, not before |
-| 22 | *Gilgamesh* (Andrew George); Hesiod, *Theogony*; *Popol Vuh* (Dennis Tedlock) | canon | ~15 | myth as its own genre, not as failed history |
-| 23 | Reich, *Who We Are and How We Got Here* | survey | ~12 | ancient DNA, once population structure means something to you |
-| 24 | Ramachandran, *Phantoms in the Brain*; Cajal's Nobel lecture (short, free) | survey / primary | ~10 | the founder's own voice, once you know what a neuron is |
-| 25 | Durkheim, *The Elementary Forms* (the conclusion); Geertz, "Religion as a Cultural System" | canon | ~6 | the two theoretical frames the survey compresses, in the words that made them |
-| 26 | Watson & Crick (1953), one page; Jinek et al. (2012) on programmable Cas9 | primary | ~3 | the structure and the tool, sixty years apart, both short |
-| 27 | Zimmer, *She Has Her Mother's Laugh* | survey | ~12 | the best general book on heredity written this century, and it is about more than genes |
-| 28 | Kevles, *In the Name of Eugenics* | canon | ~10 | eugenics is not a footnote to this field's history; it is load-bearing |
-| 29 | Jonas & Kording (2017), "Could a Neuroscientist Understand a Microprocessor?" | canon | ~2 | a joke that is not a joke, and the sharpest methodological critique the field has produced |
-| 30 | A brain specimen — a museum or a university open day | place | ~4 | proportion, which is exactly what secondary sources lose |
-| 31 | A standing weekly journal club — one paper, read from the figures first | practice | ~10 | starts now and never stops; a written note on what the controls did not rule out |
+**The mix, and why.** Nothing on this page would have been readable in year 1,
+and that is the argument for the whole structure: heritability is unreadable
+without year 2's statistics, Kandel next year is unreadable without year 4's
+chemistry, and Lander's genome course assumes the molecular biology you
+finished twelve months ago. The pairing that carries the year is psychology
+finishing beside neuroscience starting — Sacks leaves you wanting mechanism at
+exactly the point where James and Festinger have shown you how much of the
+mind was described before any mechanism was available, and running Kanwisher
+against the replication papers in the same term is the single most useful
+juxtaposition in the first five years. The sleeper pairing is economics with
+genetics: both spend the year on the same statistical move — how much of the
+variation in *this* is explained by *that* — and the honest answer to "what
+does 80% heritable mean" is structurally the answer to "what does this
+incidence estimate mean." Art finishing beside religions starting gives the
+third: Chartres and Hagia Sophia are on both reading lists, and you will see
+them twice, differently.
+
+**The rotation.** ~25 hours a week, ten to the ledger. Three pairings cycle:
+**Psychology + Neuroscience**, **Economics + Genetics**, **Art & architecture
++ World religions**. Two items sit outside the rotation on purpose — the
+canon looked at in person, which is travel-shaped rather than week-shaped, and
+the services of two traditions, which happen when they happen.
+
+| Slot | Hrs/wk | What sits here |
+|------|--------|----------------|
+| Lead pair | 6 | two unbroken 3-hr blocks — 9.13, 7.00x's problem sets, Hayes' lectures, 14.02 |
+| The other four | 4 | an hour each; Alter's notes and the Stokstad plates fit here well |
+| The spike | 6 | full weight again — this is the last year before promotions compete for it |
+| Language | 1.5 | maintenance protocol now: SRS 5–10 min daily, one hour of input weekly |
+| Craft | 3 | material fluency, and the second harder book on your medium |
+| Speaking | 1.5 | the monthly venue, still recorded |
+| SRS, weekly log, frontier, current awareness, provenance log, curiosity budget | 3 | five standing tracks, none of them optional |
+
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–3 | Sacks, *The Man Who Mistook His Wife for a Hat* | Neuroscience | canon (door) | ~10 |
+| 2 | wks 1–4 | Prothero, *God Is Not One* | Religions | survey (door) | ~12 |
+| 3 | wks 1–10 | **CORE Econ, *The Economy***, completed — units 12–22 | Economics | course | ~20 |
+| 4 | wks 2–7 | Mukherjee, *The Gene: An Intimate History* | Genetics | survey (door) | ~18 |
+| 5 | wks 4–12 | Kostof, *A History of Architecture: Settings and Rituals*, with Ching's *Architecture: Form, Space and Order* | Art & arch. | survey | ~30 |
+| 6 | wks 5–20 | MIT OCW **9.13**, *The Human Brain* (Kanwisher), begun | Neuroscience | course | ~25 |
+| 7 | wks 6–8 | Mendel, *Experiments on Plant Hybridization* (1866), whole | Genetics | canon | ~4 |
+| 8 | wks 6–18 | Open Yale **RLST 145**, *Introduction to the Old Testament* (Christine Hayes) | Religions | course | ~30 |
+| 9 | wks 8–14 | PsychoPy or jsPsych: run a classic experiment on yourself | Psychology | practice | ~15 |
+| 10 | wks 10–26 | Lander, *Introduction to Biology — The Secret of Life* (MITx / OCW 7.00x), begun | Genetics | course | ~30 |
+| 11 | wks 12–24 | MIT OCW **14.02**, *Principles of Macroeconomics* | Economics | course | ~20 |
+| 12 | wks 14–20 | James, *The Principles of Psychology* — "Habit," "The Stream of Thought," "The Consciousness of Self," "Attention," "Will" | Psychology | canon | ~15 |
+| 13 | wks 16–28 | Stokstad, *Art History* (or Gardner's *Art Through the Ages*); MIT OpenCourseWare's global history of architecture | Art & arch. | survey | ~25 |
+| 14 | wks 18–26 | Cobb, *The Idea of the Brain* | Neuroscience | survey | ~15 |
+| 15 | wks 20–24 | Smith, *Wealth of Nations* I.1–3 and IV.2; Ricardo, *Principles* ch. 7 | Economics | canon | ~10 |
+| 16 | wks 22–28 | Smart, *The World's Religions* | Religions | survey | ~18 |
+| 17 | wks 24–32 | Henrich, *The WEIRDest People in the World* | Psychology | survey | ~15 |
+| 18 | wks 26–38 | Harvard, *Fundamentals of Neuroscience* (three parts, browser simulations) | Neuroscience | course | ~25 |
+| 19 | wks 26–52 (ongoing) | The provenance log — one claim a week traced to its original study | Psychology | practice | ~10 |
+| 20 | wks 28–34 | Rutherford, *A Brief History of Everyone Who Ever Lived* | Genetics | survey | ~12 |
+| 21 | wks 28–44 | Edwards, *Drawing on the Right Side of the Brain*, with a dated sketchbook | Art & arch. | practice | ~20 |
+| 22 | wks 30–34 | Hayek, "The Use of Knowledge in Society" (1945) | Economics | canon | ~3 |
+| 23 | wks 30–38 | *Gilgamesh* (Andrew George); Hesiod, *Theogony*; *Popol Vuh* (Dennis Tedlock) | Religions | canon | ~15 |
+| 24 | wks 32–36 | Simmons, Nelson & Simonsohn (2011), "False-Positive Psychology"; Miller (1956); Tversky & Kahneman (1974) | Psychology | canon | ~6 |
+| 25 | wks 34–40 | Zimmer, *She Has Her Mother's Laugh* | Genetics | survey | ~12 |
+| 26 | wks 36–44 | Keynes, *The General Theory* ch. 12 and 24 only; Friedman, *Capitalism and Freedom* ch. 1–2 | Economics | canon | ~10 |
+| 27 | wks 36–52 | The canon, looked at in person wherever possible — the Pantheon's oculus, Hagia Sophia, Chartres, Giotto's Arena Chapel, Masaccio's *Trinity*, *Las Meninas*, Rembrandt's late self-portraits, Hokusai, Manet's *Olympia*, Rothko; and the buildings — Brunelleschi's dome, the Villa Rotonda, Fallingwater, the Salk Institute, Kéré's school at Gando | Art & arch. | canon | ~25 |
+| 28 | wks 38–42 | Akerlof (1970), "The Market for Lemons"; Card & Krueger (1994); Solow (1956) | Economics | canon | ~6 |
+| 29 | wks 38–44 | Festinger, Riecken & Schachter, *When Prophecy Fails* | Psychology | canon | ~10 |
+| 30 | wks 40–46 | Reich, *Who We Are and How We Got Here* | Genetics | survey | ~12 |
+| 31 | wks 40–52 | Services or ceremonies of two traditions not your own, observed as a scholar would | Religions | place / people | ~10 |
+| 32 | wks 44–48 | Hirschman, *Exit, Voice, and Loyalty* | Economics | canon | ~8 |
+| 33 | wks 46–50 | Ritchie, *Science Fictions* | Psychology | survey | ~8 |
+| 34 | wks 48–52 | A brain specimen — a museum or a university open day | Neuroscience | place | ~4 |
 
 **Also running.** The language shifts from acquisition to maintenance, and the
 protocol is specific: SRS five to ten minutes a day on that deck, never
@@ -505,489 +640,607 @@ the book as the load-bearing half; one hour of conversation a month, because
 output degrades first and fastest; and one recorded hour a year with a tutor
 briefed to rate you against CEFR and say so plainly. The craft moves toward
 material fluency, which is where the second, harder book on your medium
-belongs. The *Analects* and *Tao Te Ching* return this year from year 1's
+belongs. The *Analects* and *Tao Te Ching* return this year from year 2's
 philosophy queue — read now as religious texts rather than as arguments, which
-is a different book. Judson's *The Eighth Day of Creation* is the full
-molecular saga if it grips you, and skipping it is legitimate. The monthly
-speaking venue continues, still recorded; the forecast log, the provenance log
-and the weekly unknown all continue.
+is a different book, and the three-year gap is what makes it one. Judson's
+*The Eighth Day of Creation* is the full molecular saga if it grips you, and
+skipping it is legitimate. The monthly speaking venue continues, still
+recorded; the forecast log, the provenance log and the weekly unknown all
+continue. One thing to prepare for: twelve literacy passes close at the end of
+this year, and the first promotions arrive at the next review but one.
 
 **Buy this year.** Nothing significant, and that is deliberate — bank it for
-the telescope in year 7. The genetics work runs on free public infrastructure:
-GenBank, Ensembl, the 1000 Genomes data and IQ-TREE cost nothing and are the
-real equipment. If an alumni library account is reachable ($50–200/yr) this is
-the year it starts earning, because both neuroscience and genetics move fast
-enough that the live literature matters and PubMed Central covers only part of
-it.
+the telescope in year 7. The genetics work runs on free public
+infrastructure: GenBank, Ensembl, the 1000 Genomes data and IQ-TREE cost
+nothing and are the real equipment. If an alumni library account is reachable
+($50–200/yr) this is the year it starts earning, because both neuroscience and
+genetics move fast enough that the live literature matters and PubMed Central
+covers only part of it.
 
-**The artifacts.** A single act — reaching for a cup you see on a table —
-traced from photons to muscle contraction, naming each structure and the
-transformation it performs, then marking explicitly every step where the
-textbook story is actually a hypothesis. The marks are the real test. 2,000
-words. 2,500 words answering a smart skeptic's question — what does it mean to
-say height is 80% heritable? — handling twin studies, GWAS, missing
-heritability, population stratification, and why the number says nothing about
-any individual person. One ritual described three times — as participants
-explain it, as a Durkheimian functionalist would, as a textual historian would
-— then which description you think is missing the most, 2,000 words.
+**The artifacts.** *Psychology:* a famous finding you believed before you
+started, traced through its full evidential history — the original N and
+effect size, what the press said, what replication found, where it honestly
+stands — then what you would need to see to change your mind again, 2,000
+words. *Economics:* 2,000 words on a real policy with real data — a minimum
+wage change, a carbon tax, a zoning reform — with a supply/demand analysis, an
+explicit incidence claim, the strongest counterargument stated fairly, and at
+least one chart you made yourself. *Visual art & architecture:* 1,500 words on
+one object you saw in person — five hundred words of pure description with no
+interpretation, then what it was for, then what you claim it does to a viewer,
+with the description as your evidence. Plus language at B2 and the craft's
+second object, visibly better than the first.
 
 ---
 
-## Year 6 — Political science · Computing in practice · Anthropology & archaeology
+# Years 11–15 — The Ledger Completes
 
-**The order, and why.** Petzold first, because *Code* builds a computer from
-flashlights and relays and "it's just electricity and logic" stops being a
-slogan; Geertz first on the anthropology side, because everything you read
-afterward is either doing thick description or arguing with it; Fukuyama first
-on the politics side, because after him you will never again treat "state,"
-"rule of law," and "democracy" as one thing. Then *Missing Semester* very
-early — a week of work that removes years of friction, and `made-applied.md`
-calls it the highest-leverage free course in the whole file. After five years
-of programming as a fundamental you arrive with real problems, so building and
-deploying comes before CS50 rather than after it. Anthropology inverts the
-usual shape: there is no open flagship worth your time, one full ethnography
-read cover to cover *is* the training, and the observation hours start early
-because the artifact depends on notes you cannot reconstruct later.
+Fourteen domains left, most of them applied. Years 12–14 are where the queue
+stops being a reading list: the project ladders in `resources/made-applied.md`
+interleave with the reading rather than following it, and a year should end
+with objects, datasets and metered results as well as essays.
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Petzold, *Code: The Hidden Language of Computer Hardware and Software* (2nd ed.) | survey (door) | ~20 | you watch a computer get built out of relays, which no later abstraction replaces |
-| 2 | Geertz, *The Interpretation of Cultures* — "Thick Description" and "Deep Play" | canon (door) | ~8 | everything you read afterward is either doing this or arguing with it |
-| 3 | Fukuyama, *The Origins of Political Order* | survey (door) | ~25 | genuinely comparative — China, India, the Islamic world, Europe — rather than Western |
-| 4 | MIT, *The Missing Semester of Your CS Education* | course | ~12 | shell, git, editors, debugging, profiling — do it before anything bigger |
-| 5 | **Federalist 10 and 51** | canon | ~3 | twenty pages, non-negotiable, the best short statement of institutional design ever written |
-| 6 | Eriksen, *Small Places, Large Issues* | survey | ~15 | short, global, and not US-centric |
-| 7 | Ten hours of observation in a setting you can access, with field notes written the same day | practice | ~20 | start the observation early — the artifact depends on notes you cannot reconstruct later |
-| 8 | Build and deploy something small that strangers actually use | practice | ~50 | the better route by now; a tutorial's problem gives you a tutorial's feedback |
-| 9 | Machiavelli, *The Prince* (whole — 100 pages) and *Discourses on Livy* Book 1 | canon | ~15 | the *Discourses* are more important and far less read |
-| 10 | One full ethnography, cover to cover | canon | ~20 | the lecture format fails this field; this is the substitute and it is not a lesser one |
-| 11 | Open Yale, *Introduction to Political Philosophy* (Steven B. Smith) | course | ~25 | the systematic version of what Sandel did in year 1 |
-| 12 | Malinowski, *Argonauts of the Western Pacific* — the Introduction on method, plus the kula chapters | canon | ~15 | the Introduction alone is the founding document of fieldwork |
-| 13 | Hobbes, *Leviathan* (Introduction, ch. 13–18); Locke, *Second Treatise*; Rousseau, *Social Contract* Bks 1–2 | canon | ~20 | ch. 13–18 is the whole argument; the rest is optional at this tier |
-| 14 | Renfrew & Bahn, *Archaeology: Theories, Methods and Practice* — method chapters read, the rest browsed | survey | ~20 | the genuine standard; the method chapters are the part that transfers |
-| 15 | Mauss, *The Gift*, whole | canon | ~8 | short, and it is the other half of the kula |
-| 16 | Harvard **CS50**, if you want the structure | course | ~35 | optional by now; finish it including the final project, or don't start |
-| 17 | Fukuyama, *Political Order and Political Decay* | survey | ~15 | the second volume brings the triad to the present, which is where you actually live |
-| 18 | Brooks, *The Mythical Man-Month* ch. 1–3, 11 and "No Silver Bullet"; Kernighan & Pike, *The Practice of Programming* | canon | ~15 | Brooks for why your project is late, Kernighan & Pike for taste in the small |
-| 19 | Evans-Pritchard, *The Nuer* (the cattle and time-reckoning chapters); Lévi-Strauss, *Tristes Tropiques* | canon | ~18 | time reckoned by cattle is the cleanest available demolition of the universal category |
-| 20 | Olson, *The Logic of Collective Action*; Ostrom, *Governing the Commons* | canon | ~15 | shared interests do not produce shared action — and the fieldwork showing when they do |
-| 21 | Ladder rung 3 — a service you operate: API, database, deploys, backups, monitoring, and a restore drill you actually perform | project | ~20 | operating something is a different skill from building it, and it is the rarer one |
-| 22 | Dahl, *On Democracy*, with Acemoglu & Robinson, *Why Nations Fail* and its critiques | survey | ~18 | Dahl for the definition of polyarchy; Acemoglu & Robinson read *with* the causal-overreach critiques |
-| 23 | Sapolsky, *Human Behavioral Biology* (Stanford, free) | course | ~25 | the biological-anthropology flank, held back from year 3 so it lands where it does double duty |
-| 24 | Aristotle, *Politics* Books 3–6 | canon | ~10 | the original comparative politics, and still sharp on regime decay |
-| 25 | Abelson & Sussman, *Structure and Interpretation of Computer Programs*, ch. 1–2 (free) | canon | ~25 | if it grips you keep going; if it doesn't, that is a legitimate outcome, not a moral failure |
-| 26 | Tocqueville, *Democracy in America* (Vol. 1 Pt 2; Vol. 2 Pt 2); Mill, *On Liberty*, reread | canon | ~15 | *On Liberty* was a year-1 philosophy text; read now as institutional design it is a different book |
-| 27 | V-Dem, Polity and Correlates of War — one question, one afternoon, one chart | data | ~8 | the measurement debates are the whole backsliding literature; you cannot judge them from prose |
-| 28 | Achen & Bartels, *Democracy for Realists* | survey | ~10 | how little most voters resemble the model, argued with the data |
-| 29 | Naur, "Programming as Theory Building"; Parnas (1972); Hoare's "The Emperor's Old Clothes"; Leveson & Turner on Therac-25 | canon | ~8 | why software rots, how to cut it up, what arrogance costs, and the failure case to reread once a decade |
-| 30 | A local council meeting, then its minutes | place | ~8 | the gap between the two is the domain's actual subject |
-| 31 | An archaeological field school or a dig season | practice / place | ~40 | volunteer archaeology genuinely takes amateurs; pull it forward if a season is offered |
+**Year 15 is the hinge of the whole plan.** Four domains close, the map is
+covered, and fifty-five years remain.
 
-**Also running.** **The first promotions begin this year.** At the annual
-review, take the domain from years 1–3 that pulled hardest and move it to
-working depth on its own long shelf in `resources/` — statistics into Casella &
-Berger and *Bayesian Data Analysis*, mathematics into Velleman, Spivak, Axler
-and Abbott, philosophy into the *Stanford Encyclopedia* with Loux and Audi,
-physics into Kleppner and Purcell, literature into Genette and Booth with the
-scansion drills. That is a real second budget beside the ledger, and it is
-what the ledger was for. Alongside it, this is the natural year for
-programming's deliberate re-foundation — take a tool you actually depend on and
-rebuild it on whatever is currently mainstream, including version control,
-environment and deployment. Craft continuing; language on the maintenance
-protocol; the monthly speaking venue; the frontier slot, which has been running
-since year 2 and is the cluster where it most often pays. Politics adds its own
-lifetime practice: adopt a country that is not yours and follow it for life,
-with a written forecast before each of its elections, graded afterwards.
+## Year 6 — the first year that finishes something and starts something else
 
-**Buy this year.** Under $300, and it opens the whole made-and-applied
-cluster. A temperature-controlled soldering station, $50–120 — the $12
-fixed-temp pencil is the standard false economy, producing cold joints you
-will misdiagnose as circuit bugs for hours; buy a spare tip and a brass
-sponge, and fan the smoke away. A multimeter, $40–80, which turns "it doesn't
+**Finishing** *(second year — canon, course, artifact)*: Neuroscience · Genetics · World religions & mythology
+**Starting** *(first year — doors and surveys)*: Political science · Computing in practice · Anthropology & archaeology
+**Clusters live this year:** Mind · Living · Meaning & expression · Human & social · Made & applied
+
+**The mix, and why.** Three domains arrive at their canon while three open
+their doors, and the join is not decorative — Sapolsky's *Human Behavioral
+Biology* is booked as the anthropology flank in the same months Kandel and
+*Behave* are closing neuroscience, so one course pays twice and you meet the
+same organism at cell scale and at kinship scale inside a fortnight. The
+sharper resonance is Reich against Renfrew & Bahn: ancient DNA and the
+stratigraphic record are two archives of one set of migrations, and reading
+the population-genetics claims in the weeks you are learning what a
+radiocarbon date can and cannot fix is how you learn to see where the two
+archives disagree. Underneath both, Geertz on thick description lands while
+Kandel is still on the desk, which sets the year's real question: what is
+explained by mechanism and what is only ever explained by meaning. The year
+is building the hinge between the natural sciences of years 3–5 and the
+social sciences that dominate the next four.
+
+**The rotation.** Twenty-five hours a week, of which roughly ten are ledger
+material — about 512 hours across the six live domains. Two domains carry the
+week at three hours each and rotate on a four-week cycle, two sit at two
+hours, two at one, and the assignment moves at the end of each block so no
+domain goes dark for more than a month. The spike takes six hours and comes
+first in any conflict. **The first promotion takes three**, and that is a new
+line in the budget, not a borrowed one. The fundamentals — language
+maintenance, the craft, the weekly publication, the monthly speaking venue —
+take four; the frontier slot and current awareness take the last two. Genetics
+and computing are the two block-heavy domains here: 7.03 and CS50 both want
+consecutive weeks, so they are deliberately staggered rather than run
+together.
+
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–3 | Geertz, *The Interpretation of Cultures* — "Thick Description" and "Deep Play" | Anthropology & archaeology | canon (door) | ~8 |
+| 2 | wks 1–4 | Petzold, *Code: The Hidden Language of Computer Hardware and Software* (2nd ed.) | Computing in practice | survey (door) | ~20 |
+| 3 | wks 1–8 | Fukuyama, *The Origins of Political Order* | Political science | survey (door) | ~25 |
+| 4 | wks 1–52 (ongoing) | A standing weekly journal club — one paper, read from the figures first | Neuroscience | practice | ~10 |
+| 5 | wks 2–4 | Federalist 10 and 51 | Political science | canon | ~3 |
+| 6 | wks 3–14 | Kandel et al., *Principles of Neural Science* — Part I, membrane potential, action potential, synaptic transmission, one vision chapter | Neuroscience | canon | ~30 |
+| 7 | wks 5–7 | MIT, *The Missing Semester of Your CS Education* | Computing in practice | course | ~12 |
+| 8 | wks 5–14 | Open Yale **RLST 152**, *New Testament History and Literature* (Dale Martin) | World religions & mythology | course | ~20 |
+| 9 | wks 6–12 | Eriksen, *Small Places, Large Issues* | Anthropology & archaeology | survey | ~15 |
+| 10 | wks 8–22 | MIT OCW **7.03**, *Genetics* | Genetics | course | ~25 |
+| 11 | wks 9–26 | Ten hours of observation in a setting you can access, field notes written the same day | Anthropology & archaeology | practice | ~20 |
+| 12 | wks 10–20 | Open Yale, *Introduction to Political Philosophy* (Steven B. Smith) | Political science | course | ~25 |
+| 13 | wks 12–16 | Hodgkin & Huxley (1952); Hubel & Wiesel (1962); Marr, *Vision*, ch. 1 | Neuroscience | canon | ~8 |
+| 14 | wks 14–30 | Harvard **CS50** — finish it including the final project, or don't start | Computing in practice | course | ~35 |
+| 15 | wks 15–32 | Mark and Romans; the Qur'an (Abdel Haleem); the *Bhagavad Gita* (Miller); the *Dhammapada*, then Bhikkhu Bodhi's *In the Buddha's Words* | World religions & mythology | canon | ~30 |
+| 16 | wks 16–22 | Sapolsky, *Behave* | Neuroscience | survey | ~15 |
+| 17 | wks 18–24 | Watson, *The Double Helix*, alongside Maddox, *Rosalind Franklin: The Dark Lady of DNA* | Genetics | canon | ~15 |
+| 18 | wks 20–34 | Renfrew & Bahn, *Archaeology: Theories, Methods and Practice* — method chapters read, the rest browsed | Anthropology & archaeology | survey | ~20 |
+| 19 | wks 22–30 | Dahl, *On Democracy*, with Acemoglu & Robinson, *Why Nations Fail* and its critiques | Political science | survey | ~18 |
+| 20 | wks 24–30 | GenBank: pull real sequence data, build a tree, learn what a bootstrap value does and does not mean | Genetics | data | ~20 |
+| 21 | wks 26–30 | Ramachandran, *Phantoms in the Brain*; Cajal's Nobel lecture | Neuroscience | survey / primary | ~10 |
+| 22 | wks 28–30 | A brain specimen — a museum or a university open day | Neuroscience | place | ~4 |
+| 23 | wks 30–36 | Reich, *Who We Are and How We Got Here* | Genetics | survey | ~12 |
+| 24 | wks 30–44 | Sapolsky, *Human Behavioral Biology* (Stanford, free) | Anthropology & archaeology | course | ~25 |
+| 25 | wks 32–34 | Watson & Crick (1953), one page; Jinek et al. (2012) on programmable Cas9 | Genetics | primary | ~3 |
+| 26 | wks 33–42 | *Gilgamesh* (Andrew George); Hesiod, *Theogony*; *Popol Vuh* (Dennis Tedlock) | World religions & mythology | canon | ~15 |
+| 27 | wks 34–42 | Brooks, *The Mythical Man-Month* ch. 1–3, 11 and "No Silver Bullet"; Kernighan & Pike, *The Practice of Programming* | Computing in practice | canon | ~15 |
+| 28 | wks 35–44 | Achen & Bartels, *Democracy for Realists* | Political science | survey | ~10 |
+| 29 | wks 36–42 | Kevles, *In the Name of Eugenics* | Genetics | canon | ~10 |
+| 30 | wks 40–46 | Services or ceremonies of two traditions not your own, observed as a scholar would | World religions & mythology | place / people | ~10 |
+| 31 | wks 43–46 | V-Dem, Polity and Correlates of War — one question, one afternoon, one chart | Political science | data | ~8 |
+| 32 | wks 44–48 | A local council meeting, then its minutes | Political science | place | ~8 |
+| 33 | wks 46–50 | Durkheim, *The Elementary Forms* (the conclusion); Geertz, "Religion as a Cultural System" | World religions & mythology | canon | ~6 |
+| 34 | wks 50–51 | Jonas & Kording (2017), "Could a Neuroscientist Understand a Microprocessor?" | Neuroscience | canon | ~2 |
+
+**Also running.** **The first promotion happens at this year's review, and it
+is concrete: statistics goes to working depth on its long shelf in
+`resources/formal.md` — Casella & Berger's *Statistical Inference* worked as a
+problem course, then Gelman et al.'s *Bayesian Data Analysis*, with Hernán &
+Robins' *Causal Inference: What If* held in reserve.** Twelve literacy passes
+are behind you and three more close this year, which is enough evidence to
+answer the only question that matters: which domain did you keep reading after
+the artifact was finished? That is a real second budget beside the ledger, and
+it is what the ledger was for. Alongside it, this is the natural year for
+programming's deliberate re-foundation — take a tool you actually depend on
+and rebuild it on whatever is currently mainstream, including version control,
+environment and deployment. Neuroscience leaves behind the standing journal
+club, which is in the table above because it starts now and never stops. The
+craft is at material fluency; language is on the maintenance protocol; the
+monthly speaking venue continues, still recorded; the frontier slot, current
+awareness, daily SRS, the weekly log, the forecast log and the provenance log
+all run as always.
+
+**Buy this year.** Under $300, and it opens the whole made-and-applied cluster
+early, because computing starts here rather than owning a single year. A
+temperature-controlled soldering station, $50–120 — the $12 fixed-temp pencil
+is the standard false economy. A multimeter, $40–80, which turns "it doesn't
 work" into a location. Breadboards and a components assortment, $50–80. A
-microcontroller starter kit, $30–70 for an Arduino-class board or $50–90 for a
-Raspberry Pi-class board. A cheap USB oscilloscope at $60–150 if the signals
-start mattering. For politics and anthropology the sources are free —
-CourtListener, V-Dem, the field school's own fees are the real spend.
+microcontroller starter kit, $30–70. A cheap USB oscilloscope at $60–150 if
+the signals start mattering. The finishing domains cost nothing — GenBank,
+Ensembl, the 1000 Genomes data and IQ-TREE are the real genetics equipment —
+except an alumni library account ($50–200/yr), which starts earning this year
+because neuroscience and genetics both move faster than PubMed Central covers.
+Politics and anthropology are free until next year's field school fees.
 
-**The artifacts.** 2,000 words explaining one country's specific political
-outcome using two competing frameworks and stating what observable evidence
-would distinguish them; naming the discriminating evidence is the test.
-Something small, built and deployed, that strangers actually use — plus the
-write-up: what broke, what you measured, what you'd change — and separately
-1,500 words tracing everything that happens between typing a URL and pixels
-appearing. An ethnographic sketch of 2,000 words on a setting you can access,
-thick description first, closing with a paragraph on what your own position
-let you see and what it hid.
+**The artifacts.** *Neuroscience*: a single act — reaching for a cup you see on
+a table — traced from photons to muscle contraction, naming each structure and
+the transformation it performs, then marking explicitly every step where the
+textbook story is actually a hypothesis; the marks are the real test, 2,000
+words. *Genetics*: 2,500 words answering a smart skeptic's question — what
+does it mean to say height is 80% heritable? — handling twin studies, GWAS,
+missing heritability, population stratification, and why the number says
+nothing about any individual person. *World religions & mythology*: one ritual
+described three times — as participants explain it, as a Durkheimian
+functionalist would, as a textual historian would — then which description you
+think is missing the most, 2,000 words.
 
 ---
 
-## Year 7 — Cosmology & astronomy · Logic & foundations · Theater, film & narrative media
+## Year 7 — the year the social sciences close and the sky opens
 
-**The order, and why.** Sagan first because *Cosmos* models reasoning rather
-than reporting results, and it is still the best invitation ever made;
-Aristotle first on the narrative side because the *Poetics* is forty pages and
-every story manual sold today is a diluted restatement of it. Nagel & Newman
-opens logic because walking the incompleteness argument in a hundred pages
-means you meet the destination before the machinery, so the machinery has
-somewhere to go — then Priest for the map and Peter Smith's free textbook for
-the truth tables, natural deduction and quantifiers, because skipping the
-machinery means nothing after it lands. Then vocabulary before canon in both
-of the other domains: OpenStax skimmed whole in a month, Bordwell & Thompson
-before the films. Gödel's own 1931 paper is brutal and you take it through
-Smith's book instead; Turing 1936 you read directly, and it pays for itself
-again next year.
+**Finishing** *(second year — canon, course, artifact)*: Political science · Computing in practice · Anthropology & archaeology
+**Starting** *(first year — doors and surveys)*: Cosmology & astronomy · Logic & foundations · Theater, film & narrative media
+**Clusters live this year:** Formal · Physical · Human & social · Meaning & expression · Made & applied
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Sagan, *Cosmos* (book or the 1980 series) | survey (door) | ~15 | it models reasoning rather than reporting results |
-| 2 | Aristotle, *Poetics* (Malcolm Heath, Penguin) | canon (door) | ~5 | forty pages, and every story manual since is a diluted restatement |
-| 3 | Nagel & Newman, *Gödel's Proof* | canon (door) | ~10 | it walks the argument rather than gesturing at it |
-| 4 | OpenStax *Astronomy 2e* (free) | survey | ~30 | skim it whole in a month, for the vocabulary — this is not close reading |
-| 5 | Bordwell & Thompson, *Film Art: An Introduction* | survey | ~25 | it teaches you to see rather than to summarize; the vocabulary must precede the canon |
-| 6 | Priest, *Logic: A Very Short Introduction* | survey | ~8 | the map, before you commit real hours to the terrain |
-| 7 | Peter Smith, *Beginning Mathematical Logic: A Study Guide* (free) | method | ~4 | a better roadmap than any course on offer |
-| 8 | Binoculars and a planisphere, outdoors, twenty nights | practice | ~20 | you learn that the sky moves, that the Moon ruins everything, and that magnitude is a sensation |
-| 9 | Peter Smith, *An Introduction to Formal Logic* (free, logicmatters.net) | survey | ~35 | the machinery — skip it and nothing after it lands |
-| 10 | Open Yale **ASTR 160**, *Frontiers and Controversies in Astrophysics* (Bailyn) | course | ~35 | uses real arithmetic — actually perform it — and is honest about what is unsettled |
-| 11 | Film canon, with the remote in hand and rewatching: Lumière and Méliès; Keaton's *Sherlock Jr.*; the Odessa Steps shot by shot; *La Règle du jeu*; *Citizen Kane*; *Tokyo Story*; *Bicycle Thieves*; *Rashomon*; *Pather Panchali*; *Persona*; *Breathless*; *Vertigo*; *2001*; *Stalker*; *Black Girl*; *Jeanne Dielman*; *Close-Up*; *In the Mood for Love*; *Spirited Away*; *Parasite* | canon | ~45 | with *Film Art*'s vocabulary in hand, which is what makes rewatching productive |
-| 12 | Peter Smith, *An Introduction to Gödel's Theorems* | canon | ~30 | the route to Gödel 1931 that a self-teacher can actually walk |
-| 13 | SDSS SkyServer: pull galaxy spectra, plot a colour–magnitude diagram, find the red sequence yourself | data | ~30 | the hour the textbook figure stops being a figure |
-| 14 | Theatre, live and not filmed: *Oedipus*, *A Doll's House*, *The Cherry Orchard*, *Waiting for Godot*, *Mother Courage*, *A Raisin in the Sun* | canon | ~20 | whatever is actually staged near you; the mode is the point, not the title |
-| 15 | Turing, *On Computable Numbers* (1936), §1–4, with Petzold, *The Annotated Turing* | canon | ~25 | computability and provability are one subject; also next year's canon |
-| 16 | A local astronomy club — six meetings and two star parties | people | ~15 | the most welcoming amateur community in existence; someone stops you buying the wrong eyepiece |
-| 17 | Every Frame a Painting (Tony Zhou); Bordwell, *Observations on Film Art* | video / blog | ~10 | free, and better than most paid courses at teaching you to see a cut |
-| 18 | Weinberg, *The First Three Minutes*; then Hubble (1929) and Penzias & Wilson (1965) | canon / primary | ~12 | two papers of two pages each — the modern picture is born in four pages |
-| 19 | Frege, preface to the *Begriffsschrift*, and Russell's 1902 letter to Frege (van Heijenoort, *From Frege to Gödel*) | canon | ~3 | an evening, and the whole programme's rise and puncture |
-| 20 | Shot-log an entire feature — every cut, timed | practice | ~10 | the analytic act is rewatching, and the log is what makes the second viewing count |
-| 21 | Franzén, *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse* | method | ~10 | inoculation against what you will hear said about Gödel forever |
-| 22 | Thorne, *Black Holes and Time Warps*; MIT OCW **8.282J**, *Introduction to Astronomy* | survey / course | ~25 | the relativistic half, after ASTR 160 has given you the arithmetic |
-| 23 | Bazin, *What Is Cinema?* (selections); Mulvey (1975), "Visual Pleasure and Narrative Cinema"; Gunning, "The Cinema of Attractions" | canon | ~8 | the long take against montage, then the two essays that changed what critics look at |
-| 24 | *Mathematics in Lean*, with mathlib | practice | ~25 | a proof assistant changes what you believe a proof is |
-| 25 | AAVSO variable-star estimates, submitted | practice | ~12 | amateurs assemble fifty-year light curves; this is a domain where your data is genuinely wanted |
-| 26 | Overbye, *Lonely Hearts of the Cosmos* | history | ~10 | the same story as human comedy, and still the best book on how cosmology is actually done |
-| 27 | Bordwell & Thompson, *Film History*; Brockett & Hildy, *History of the Theatre* | survey | ~20 | the timelines, last, once you have things to hang on them |
-| 28 | An observatory or planetarium night | place | ~5 | one public observing session at a real instrument, plus a show on a question you brought |
+**The mix, and why.** The two finishing social domains turn out to be arguing
+about one thing, and the schedule makes the argument visible: Olson's *Logic of
+Collective Action* and Ostrom's *Governing the Commons* land in the same weeks
+as Mauss's *The Gift* and Malinowski's kula chapters, and the kula is precisely
+a solved collective-action problem that nobody in it would describe that way.
+Read together they are the same puzzle in two vocabularies — obligation as
+mechanism, obligation as meaning — and neither field's account survives the
+other intact. On the starting side the three new doors are chosen to be as
+unlike each other as the map allows: a naked-eye sky, a formal system, and a
+projected image, so that no evening's work resembles the last. Computing
+finishes with SICP's metacircular evaluator in the same months logic begins its
+formal machinery, which is the quiet setup for next year. The year is building
+the transition out of the human sciences and into the formal and physical
+block that carries years 8 through 10.
 
-**Also running.** The promotions continue and a second one starts — the depth
-budget now carries two domains from years 1–3 on their long shelves, and the
-first one should be far enough in that its T2 practice (worked problems,
-formalizations, fitted models) is a weekly habit rather than a plan. **A new
-lifetime practice starts here:** keep a proof assistant alive and formalize
-something small every month, an exercise or a lemma, in Lean or Rocq. Two
-more begin alongside it: one film a week on a fixed night, working the *Sight
-and Sound* poll, and an observing log kept on paper for decades — measurements,
-not pretty pictures. The craft has been running five years and should now be
-producing objects a stranger would call good. Language maintenance; the
-monthly speaking venue; the forecast log; the weekly hard problem; the frontier
-slot and current awareness.
+**The rotation.** About 511 ledger hours over 52 weeks — ten a week, split
+unevenly on purpose. Computing and anthropology are lumpy and calendar-bound:
+the deploy pushes hard for a twelve-week stretch and the dig season is whatever
+weeks the dig is offered, so both are scheduled first and the rest of the year
+is fitted around them. Political science runs at a steady two hours a week
+through its canon, logic at two and a half, film at one plus the fixed weekly
+viewing, astronomy at whatever the sky and the Moon allow — twenty nights is
+twenty clear nights, not twenty scheduled ones. The spike still takes six.
+**The promotion budget grows to two domains and about four hours a week**:
+statistics' T2 practice is now a weekly habit rather than a plan, and a second
+domain from years 1–3 joins it. Fundamentals take four, frontier and current
+awareness two.
+
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–3 | Sagan, *Cosmos* (book or the 1980 series) | Cosmology & astronomy | survey (door) | ~15 |
+| 2 | wks 1–3 | Aristotle, *Poetics* (Malcolm Heath, Penguin) | Theater, film & narrative media | canon (door) | ~5 |
+| 3 | wks 1–4 | Nagel & Newman, *Gödel's Proof* | Logic & foundations | canon (door) | ~10 |
+| 4 | wks 1–20 | Build and deploy something small that strangers actually use | Computing in practice | practice | ~50 |
+| 5 | wks 2–4 | Peter Smith, *Beginning Mathematical Logic: A Study Guide* (free) | Logic & foundations | method | ~4 |
+| 6 | wks 3–6 | Machiavelli, *The Prince* (whole) and *Discourses on Livy* Book 1 | Political science | canon | ~15 |
+| 7 | wks 4–8 | Priest, *Logic: A Very Short Introduction* | Logic & foundations | survey | ~8 |
+| 8 | wks 4–10 | OpenStax *Astronomy 2e* (free) — skimmed whole, for the vocabulary | Cosmology & astronomy | survey | ~30 |
+| 9 | wks 5–14 | Bordwell & Thompson, *Film Art: An Introduction* | Theater, film & narrative media | survey | ~25 |
+| 10 | wks 6–14 | One full ethnography, cover to cover | Anthropology & archaeology | canon | ~20 |
+| 11 | wks 8–30 | Binoculars and a planisphere, outdoors, twenty nights | Cosmology & astronomy | practice | ~20 |
+| 12 | wks 10–18 | Hobbes, *Leviathan* (Introduction, ch. 13–18); Locke, *Second Treatise*; Rousseau, *Social Contract* Bks 1–2 | Political science | canon | ~20 |
+| 13 | wks 10–26 | Peter Smith, *An Introduction to Formal Logic* (free, logicmatters.net) | Logic & foundations | survey | ~35 |
+| 14 | wks 12–20 | Malinowski, *Argonauts of the Western Pacific* — the Introduction on method, plus the kula chapters | Anthropology & archaeology | canon | ~15 |
+| 15 | wks 14–44 | Film canon, first pass, with the remote in hand: Lumière and Méliès; Keaton's *Sherlock Jr.*; the Odessa Steps shot by shot; *La Règle du jeu*; *Citizen Kane*; *Tokyo Story*; *Bicycle Thieves*; *Rashomon*; *Pather Panchali*; *Persona* | Theater, film & narrative media | canon | ~22 |
+| 16 | wks 16–20 | Mauss, *The Gift*, whole | Anthropology & archaeology | canon | ~8 |
+| 17 | wks 18–34 | Open Yale **ASTR 160**, *Frontiers and Controversies in Astrophysics* (Bailyn), begun — the arithmetic actually performed | Cosmology & astronomy | course | ~18 |
+| 18 | wks 20–30 | Abelson & Sussman, *Structure and Interpretation of Computer Programs*, ch. 1–2 (free) | Computing in practice | canon | ~25 |
+| 19 | wks 20–34 | Fukuyama, *Political Order and Political Decay* | Political science | survey | ~15 |
+| 20 | wks 22–34 | A local astronomy club — six meetings and two star parties | Cosmology & astronomy | people | ~15 |
+| 21 | wks 24–32 | Evans-Pritchard, *The Nuer* (the cattle and time-reckoning chapters); Lévi-Strauss, *Tristes Tropiques* | Anthropology & archaeology | canon | ~18 |
+| 22 | wks 26–34 | Olson, *The Logic of Collective Action*; Ostrom, *Governing the Commons* | Political science | canon | ~15 |
+| 23 | wks 28–36 (the season) | An archaeological field school or a dig season | Anthropology & archaeology | practice / place | ~40 |
+| 24 | wks 30–40 | Ladder rung 3 — a service you operate: API, database, deploys, backups, monitoring, and a restore drill you actually perform | Computing in practice | project | ~20 |
+| 25 | wks 34–40 | Aristotle, *Politics* Books 3–6 | Political science | canon | ~10 |
+| 26 | wks 36–42 | Every Frame a Painting (Tony Zhou); Bordwell, *Observations on Film Art* | Theater, film & narrative media | video / blog | ~10 |
+| 27 | wks 40–48 | Tocqueville, *Democracy in America* (Vol. 1 Pt 2; Vol. 2 Pt 2); Mill, *On Liberty*, reread as institutional design | Political science | canon | ~15 |
+| 28 | wks 46–50 | Naur, "Programming as Theory Building"; Parnas (1972); Hoare's "The Emperor's Old Clothes"; Leveson & Turner on Therac-25 | Computing in practice | canon | ~8 |
+
+**Also running.** **The promotions carry two domains now** — statistics on
+Casella & Berger and *Bayesian Data Analysis* since last year, joined at this
+review by a second from years 1–3: mathematics onto Velleman, Spivak, Axler and
+Abbott, or philosophy into the *Stanford Encyclopedia* with Loux and Audi, or
+physics into Kleppner and Purcell. The rule is the record, not the appetite.
+The first promoted domain should be far enough in that its T2 practice — worked
+problems, formalizations, fitted models — is a weekly habit rather than a plan.
+**Three lifetime practices start with the finishing domains this year.** From
+politics: adopt a country that is not yours and follow it for life, with a
+written forecast before each of its elections, graded afterwards. From
+computing: the service you operate stays operated, with the restore drill run
+annually and the incident log kept. From anthropology: field notes written the
+same day, forever, for any setting you are in as an observer. Craft, language
+maintenance, the monthly speaking venue, the journal club, the weekly hard
+problem, the forecast log, the frontier slot and current awareness continue.
 
 **Buy this year.** **The telescope year: a Dobsonian reflector, 6–8 inch,
-$350–700.** It spends your money on the only thing that matters — aperture —
-and its mount problem is already solved, which is why it beats a cheap
-equatorial. Any advertisement leading with magnification is aimed at people
+$350–700**, which is what last year's restraint was banking for. It spends your
+money on the only thing that matters — aperture — and its mount problem is
+already solved. Any advertisement leading with magnification is aimed at people
 who don't know this. Never point any optical instrument at the Sun without a
 proper full-aperture solar filter over the front; eyepiece-mounted "sun
 filters" can crack while your eye is at the lens, and this is the one
-irreversible injury in `kit.md`. If film study is continuing, physical media
-plus a projector ($400–900) or a good large screen — streaming crops,
-recompresses and alters colour, and if you are studying film rather than
-watching it, the disc is the primary source. Logic buys nothing: Lean, mathlib
-and LaTeX are free, and the two purchases that do help are a tutor for the
-eight weeks you are stuck ($40–100/hr) and an alumni library account
-($50–200/yr).
+irreversible injury in `kit.md`. For film, physical media plus a projector
+($400–900) or a good large screen — streaming crops, recompresses and alters
+colour, and if you are studying film rather than watching it, the disc is the
+primary source. Logic buys nothing: Lean, mathlib and LaTeX are free, and the
+two purchases that help are a tutor for the eight weeks you are stuck
+($40–100/hr) and the alumni account you already hold. The real spend on the
+finishing side is the field school's own fees.
 
-**The artifacts.** 2,000 words on how we know the age, composition and
-geometry of the universe — naming the measurements and their error bars, not
-the conclusions. Both incompleteness theorems stated precisely, with every
-hypothesis, then 1,500 words on what each hypothesis is doing and what the
-theorems do *not* imply about minds, machines, or mathematics. A shot-by-shot
-analysis of one three-minute sequence: every shot logged for scale, angle,
-movement, duration and sound, then 1,500 words arguing what the pattern
-accomplishes, with the log attached. Plus the first twelve monthly
-formalizations in the proof-assistant repository.
+**The artifacts.** *Political science*: 2,000 words explaining one country's
+specific political outcome using two competing frameworks and stating what
+observable evidence would distinguish them; naming the discriminating evidence
+is the test. *Computing in practice*: the thing built and deployed that
+strangers actually use, plus the write-up — what broke, what you measured, what
+you'd change — and separately 1,500 words tracing everything that happens
+between typing a URL and pixels appearing. *Anthropology & archaeology*: an
+ethnographic sketch of 2,000 words on a setting you can access, thick
+description first, closing with a paragraph on what your own position let you
+see and what it hid.
 
 ---
 
-## Year 8 — Theoretical computer science & information theory · Linguistics · Rhetoric & writing
+## Year 8 — the year logic hands its subject to computation
 
-**The order, and why.** Williams opens the year as a re-read with the
-exercises done against seven years of your own weekly drafts, which is a
-different book from the one you worked in year 1; Deutscher opens linguistics
-because he shows grammar the way geology shows mountains, after which you can
-never read grammatical structure as designed. Computation's own door was paid
-for in year 6 and Turing 1936 in year 7, so TCS opens directly on Sipser, with
-MIT's 18.404J running beside it because the course is Sipser teaching his own
-book. Shannon comes after Sipser, not before: read cold it is elegant, read
-after the complexity chapters it is the second half of the same idea. Saussure
-and Chomsky come after *Language Files*' problem sets, because read cold they
-are position statements and read after the problem sets they are arguments
-about data you have handled.
+**Finishing** *(second year — canon, course, artifact)*: Cosmology & astronomy · Logic & foundations · Theater, film & narrative media
+**Starting** *(first year — doors and surveys)*: Theoretical computer science & information theory · Linguistics · Rhetoric & writing
+**Clusters live this year:** Formal · Physical · Mind · Meaning & expression
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Williams, *Style: Lessons in Clarity and Grace* | method (door) | ~10 | re-read with exercises, now against seven years of your own drafts |
-| 2 | Deutscher, *The Unfolding of Language* | survey (door) | ~12 | grammar as erosion, not design |
-| 3 | Sipser, *Introduction to the Theory of Computation*, ch. 0–5 and 7 | survey | ~35 | slowly through 3, 4 and 7; skip 6 on a first pass |
-| 4 | McEnerney, *The Craft of Writing Effectively* (80 min), with Gopen & Swan, "The Science of Scientific Writing" | method | ~4 | reader-expectation prose in one afternoon |
-| 5 | Pinker, *The Language Instinct* | survey | ~10 | read it, and know it argues one side hard |
-| 6 | MIT OCW **18.404J Theory of Computation** | course | ~15 | Sipser on video teaching Sipser — run it against the book |
-| 7 | *Language Files* (Ohio State Dept. of Linguistics) | survey | ~40 | exercise-driven, every subfield; do the problem sets, don't read past them |
-| 8 | Pinker, *The Sense of Style* | survey | ~12 | the modern linguistic account of why prose fails |
-| 9 | Shannon, *A Mathematical Theory of Communication* (1948), in full | canon | ~8 | one of the most readable landmark papers ever written |
-| 10 | MIT OCW **24.900 Introduction to Linguistics** | course | ~25 | full materials free, unusually good on syntax |
-| 11 | Aristotle, *Rhetoric* I–II (Kennedy, *On Rhetoric*), with Plato's *Gorgias* | canon | ~12 | invention and arrangement — the canons modern advice ignores |
-| 12 | MacKay's Cambridge lectures with *Information Theory, Inference, and Learning Algorithms* (free PDF) | course | ~16 | equals anything paid, and the entropy half needs a teacher |
-| 13 | Saussure, *Course in General Linguistics* — Introduction, Part One on the sign, synchrony/diachrony | canon | ~8 | the frame every later argument assumes; the rest is skippable |
-| 14 | Moore & Mertens, *The Nature of Computation*, ch. 1–6 | survey | ~20 | the best expository book the field has, read against Sipser rather than instead of him |
-| 15 | Chomsky, *Syntactic Structures* ch. 1–5, then his 1959 review of Skinner's *Verbal Behavior* | canon | ~8 | "colorless green ideas," then the shot that started the cognitive revolution |
-| 16 | The speeches: Pericles; Lincoln's Gettysburg and Second Inaugural; Douglass, "What to the Slave Is the Fourth of July?"; King, "Letter from Birmingham Jail"; Montaigne; Orwell; Baldwin; Didion | canon | ~12 | the field's real canon — read each twice, once for what, once for how |
-| 17 | Cook (1971), "The Complexity of Theorem-Proving Procedures"; Karp (1972), "Reducibility Among Combinatorial Problems" | canon | ~5 | NP-completeness in its own words, then twenty-one problems falling in one paper |
-| 18 | Narrow IPA transcription of your own speech, with CHILDES for child-language data | practice | ~18 | the gap between what people think they say and what they say |
-| 19 | The reduction drill — fifteen to twenty problems proved NP-complete, without solutions | practice | ~15 | reductions feeling mechanical *is* the skill; nothing else produces it |
-| 20 | Cicero, *De Oratore*; Longinus, *On the Sublime* | canon | ~14 | the Roman synthesis and the ancient account of why some sentences lift you |
-| 21 | Sapir, *Language* (1921) | canon | ~6 | beautiful prose, still worth the evening (skip Bloomfield) |
-| 22 | Build four things: a Turing machine simulator, a Huffman and arithmetic coder, a Hamming decoder against a simulated channel | practice | ~20 | the theorems become physical the first time your coder hits the entropy bound |
-| 23 | Corbett & Connors, *Classical Rhetoric for the Modern Student*, with the *progymnasmata* worked in order | practice | ~20 | a textbook with actual exercises — imitation is how this was taught for two thousand years |
-| 24 | Leiden, *Miracles of Human Language* (van Oostendorp, Coursera) | course | ~12 | the friendlier second course, and stronger on typology and fieldwork than MIT's |
-| 25 | Labov (1963) on Martha's Vineyard; Greenberg (1963) on word order; Grice (1975), "Logic and Conversation"; Hockett (1960), "The Origin of Speech" | canon | ~8 | four short papers that founded sociolinguistics, typology, pragmatics and the design features |
-| 26 | Farnsworth, *Classical English Rhetoric* | survey | ~12 | the figures demonstrated on real sentences rather than defined in a glossary |
-| 27 | Gleick, *The Information* | history | ~12 | the wider history, once entropy means something specific to you |
-| 28 | Zinsser, *On Writing Well* | survey | ~6 | nonfiction craft and temperament, re-read from the far side of a decade of drafts |
-| 29 | Sainani, *Writing in the Sciences* (Stanford, free) | course | ~10 | worth the hours even if you never write science; it is revision taught as a procedure |
-| 30 | Everett, *Don't Sleep, There Are Snakes*, read with the published rebuttals | canon | ~8 | a contested fieldwork claim, and a lesson in how to evaluate one |
-| 31 | Hamming, *The Art of Doing Science and Engineering* | canon | ~10 | the Bell Labs lectures, containing "You and Your Research" — about choosing problems, and it applies everywhere |
-| 32 | Orwell, "Politics and the English Language"; Klemperer, *LTI* | canon | ~8 | flawed as linguistics, indispensable as ethics — and the dark mirror the other rows do not show you |
-| 33 | Ostler, *Empires of the Word* | survey | ~12 | world history told through languages, which year 2 has now made legible |
-| 34 | Hofstadter, *Gödel, Escher, Bach* | canon | ~20 | read it once, argue with it forever; year 7's logic is what makes the argument possible |
-| 35 | Quintilian, *Institutio Oratoria*, Book I | canon | ~8 | one book a year for twelve years starts now |
-| 36 | One reference grammar of a language you do not speak, with your own ten-page structural sketch | practice | ~20 | the lifetime practice starts here — thirty of these gives you an internal typology no textbook hands you |
-| 37 | Fortnow, *The Golden Ticket* | survey | ~5 | P versus NP explained without dilution, as the year's closing argument |
+**The mix, and why.** This is the year the interleaving argument makes itself:
+logic is finishing on Smith's *Introduction to Gödel's Theorems* and Turing's
+1936 paper in exactly the weeks theoretical CS is opening on Sipser's
+decidability and reducibility chapters, and they are the same subject in two
+hats. The undecidability of the halting problem and the incompleteness of
+arithmetic are one proof technique wearing different clothes, and meeting them
+eight weeks apart rather than eighteen months apart is the difference between
+noticing that and being told it. A second pairing runs quieter: film finishes
+with the shot-log — every cut of a feature, timed — while astronomy finishes
+with SDSS photometry and AAVSO estimates, and both are the same discipline of
+counting what you actually see instead of what you remember seeing. Rhetoric
+starts with Williams re-read against seven years of your own drafts, which
+only works because there are seven years of drafts. The year is building the
+formal spine that years 9 and 10 spend.
 
-**Also running.** The promotions are now the settled second half of the week —
-two or three domains from years 1–3 at working depth on their long shelves,
-each with its own practice load rather than its own reading list. **Two more
-lifetime practices start here.** From TCS: reduce things. Every genuinely new
-problem that turns up, at work or in another domain on this map, gets
-classified — polynomial, NP-hard, undecidable, or ill-posed — and the reduction
-written down, however roughly. Keep the file, and add one Simons Institute
-workshop series a year; the videos are free. From rhetoric: 500 words a day,
-one finished piece published a month, one page a week copied by hand from a
-single writer chosen for the year, the *progymnasmata* run in order at one per
-quarter, and a commonplace book on Locke's indexing method — one book,
-indefinitely, indexed, never restarted. Keep an editorial log of every change
-any editor makes to your work, with the pattern named. Monthly formalization,
-the weekly hard problem, the weekly journal club, the forecast log, the film
-night, language maintenance and the craft all continue.
+**The rotation.** About 501 ledger hours. The finishing three are heavier than
+the starting three by design — 285 against 216 — because second years carry
+canon and practice and first years carry doors and surveys, and doors are
+cheap. Sipser and Smith's Gödel run as the two anchor courses at three hours
+a week each through the first half, tapering as *Language Files*' problem sets
+take over the second. Film is a fixed weekly night plus one live theatre
+evening a month, which is the cheapest per-hour item in the year. Astronomy
+runs on the weather. Rhetoric is deliberately light in hours and heavy in
+frequency: four short items and a daily writing habit. The spike takes six
+hours; **the promotions now carry two or three domains at working depth on
+their long shelves**, about five hours; fundamentals four; frontier and
+current awareness two.
 
-**Buy this year.** Nothing for computation — it is a pencil-and-screen
-subject. Spend it on feedback instead, which is where rhetoric's hours
-actually convert: **a paid editor**, $300–1,500 per pass, once or twice a year
-on a real piece. This is the single most underrated line in `kit.md`, because
-writing is the fundamental with the worst feedback loop — nobody in your life
-will tell you your prose is flabby. Add **a serious writing workshop** staffed
-by people willing to hurt your feelings on schedule ($300–1,500). For
-linguistics, **a microphone bought properly the first time** — $100–250 for a
-decent large-diaphragm condenser or dynamic plus an interface — because a $25
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–3 | Williams, *Style: Lessons in Clarity and Grace*, re-read with the exercises done against seven years of your own drafts | Rhetoric & writing | method (door) | ~10 |
+| 2 | wks 1–4 | Deutscher, *The Unfolding of Language* | Linguistics | survey (door) | ~12 |
+| 3 | wks 1–6 | Open Yale **ASTR 160** (Bailyn), completed — the arithmetic finished, not watched | Cosmology & astronomy | course | ~17 |
+| 4 | wks 1–52 (ongoing) | Theatre, live and not filmed: *Oedipus*, *A Doll's House*, *The Cherry Orchard*, *Waiting for Godot*, *Mother Courage*, *A Raisin in the Sun* | Theater, film & narrative media | canon | ~20 |
+| 5 | wks 2–3 | McEnerney, *The Craft of Writing Effectively* (80 min), with Gopen & Swan, "The Science of Scientific Writing" | Rhetoric & writing | method | ~4 |
+| 6 | wks 2–14 | Sipser, *Introduction to the Theory of Computation*, ch. 0–5 and 7 | Theoretical CS & information theory | survey | ~35 |
+| 7 | wks 4–18 | Peter Smith, *An Introduction to Gödel's Theorems* | Logic & foundations | canon | ~30 |
+| 8 | wks 5–8 | Frege, preface to the *Begriffsschrift*, and Russell's 1902 letter to Frege | Logic & foundations | canon | ~3 |
+| 9 | wks 5–24 | *Language Files* (Ohio State Dept. of Linguistics) — the problem sets done, not read past | Linguistics | survey | ~40 |
+| 10 | wks 6–14 | MIT OCW **18.404J**, *Theory of Computation* — run against the book | Theoretical CS & information theory | course | ~15 |
+| 11 | wks 8–12 | Pinker, *The Language Instinct* | Linguistics | survey | ~10 |
+| 12 | wks 8–40 | Film canon, second pass: *Breathless*; *Vertigo*; *2001*; *Stalker*; *Black Girl*; *Jeanne Dielman*; *Close-Up*; *In the Mood for Love*; *Spirited Away*; *Parasite* | Theater, film & narrative media | canon | ~23 |
+| 13 | wks 10–24 | SDSS SkyServer: pull galaxy spectra, plot a colour–magnitude diagram, find the red sequence yourself | Cosmology & astronomy | data | ~30 |
+| 14 | wks 12–18 | Pinker, *The Sense of Style* | Rhetoric & writing | survey | ~12 |
+| 15 | wks 14–24 | Turing, *On Computable Numbers* (1936), §1–4, with Petzold, *The Annotated Turing* | Logic & foundations | canon | ~25 |
+| 16 | wks 16–24 | Moore & Mertens, *The Nature of Computation*, ch. 1–6, read against Sipser rather than instead of him | Theoretical CS & information theory | survey | ~20 |
+| 17 | wks 18–22 | Weinberg, *The First Three Minutes*; then Hubble (1929) and Penzias & Wilson (1965) | Cosmology & astronomy | canon / primary | ~12 |
+| 18 | wks 20–24 | Sainani, *Writing in the Sciences* (Stanford, free) | Rhetoric & writing | course | ~10 |
+| 19 | wks 24–36 | MIT OCW **24.900**, *Introduction to Linguistics* | Linguistics | course | ~25 |
+| 20 | wks 24–40 | *Mathematics in Lean*, with mathlib | Logic & foundations | practice | ~25 |
+| 21 | wks 26–34 | Thorne, *Black Holes and Time Warps*; MIT OCW **8.282J**, *Introduction to Astronomy* | Cosmology & astronomy | survey / course | ~25 |
+| 22 | wks 28–32 | Shot-log an entire feature — every cut, timed | Theater, film & narrative media | practice | ~10 |
+| 23 | wks 30–40 | AAVSO variable-star estimates, submitted | Cosmology & astronomy | practice | ~12 |
+| 24 | wks 32–38 | Farnsworth, *Classical English Rhetoric* | Rhetoric & writing | survey | ~12 |
+| 25 | wks 34–38 | Bazin, *What Is Cinema?* (selections); Mulvey (1975), "Visual Pleasure and Narrative Cinema"; Gunning, "The Cinema of Attractions" | Theater, film & narrative media | canon | ~8 |
+| 26 | wks 36–42 | Franzén, *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse* | Logic & foundations | method | ~10 |
+| 27 | wks 38–44 | Overbye, *Lonely Hearts of the Cosmos* | Cosmology & astronomy | history | ~10 |
+| 28 | wks 40–48 | Bordwell & Thompson, *Film History*; Brockett & Hildy, *History of the Theatre* | Theater, film & narrative media | survey | ~20 |
+| 29 | wks 42–46 | Fortnow, *The Golden Ticket* | Theoretical CS & information theory | survey | ~5 |
+| 30 | wks 44–46 | An observatory or planetarium night | Cosmology & astronomy | place | ~5 |
+| 31 | wks 46–50 | Zinsser, *On Writing Well*, re-read from the far side of a decade of drafts | Rhetoric & writing | survey | ~6 |
+
+**Also running.** **The promotions are now the settled second half of the
+week** — two or three domains from years 1–3 at working depth, each with its
+own practice load rather than its own reading list: statistics on Casella &
+Berger with *Bayesian Data Analysis*, mathematics on Spivak, Axler and Abbott,
+and whichever third the record justifies. A promotion that has produced no real
+work in two years gets demoted at this review rather than defended; practise
+the move early, while it costs nothing. **Three lifetime practices start with
+this year's finishing domains.** From logic: keep a proof assistant alive and
+formalize something small every month, an exercise or a lemma, in Lean or Rocq.
+From film: one film a week on a fixed night, working the *Sight and Sound*
+poll, with the shot-log habit kept for anything that surprises you. From
+astronomy: an observing log kept on paper for decades — measurements, not
+pretty pictures. Rhetoric's daily 500 words and the commonplace book on Locke's
+indexing method start now, a year before rhetoric closes, because they need the
+running time. The craft has been going six years and should be producing
+objects a stranger would call good.
+
+**Buy this year.** Nothing for computation — it is a pencil-and-screen subject.
+Spend it on feedback instead, which is where rhetoric's hours actually convert:
+**a paid editor**, $300–1,500 per pass, once or twice a year on a real piece.
+This is the single most underrated line in `kit.md`, because writing is the
+fundamental with the worst feedback loop — nobody in your life will tell you
+your prose is flabby. Add **a serious writing workshop** staffed by people
+willing to hurt your feelings on schedule ($300–1,500). For linguistics, **a
+microphone bought properly the first time** — $100–250 for a decent
+large-diaphragm condenser or dynamic plus an interface — because a $25
 microphone does not produce a worse recording, it produces one in which you
 cannot hear the thing you were trying to evaluate. Praat, ELAN, CHILDES and
-COCA are free. A **second large monitor** ($200–500) earns its place for
-anything with code or two documents at once.
+COCA are free. A **second large monitor** ($200–500) earns its place. The
+finishing domains are already equipped: the Dobsonian is a year old and the
+discs are on the shelf.
 
-**The artifacts.** Prove the halting problem undecidable from scratch, explain
-what NP-completeness means and why 3-SAT is the hinge, then estimate the
-entropy of English text and say what that number means — 2,000 words.
-Transcribe three minutes of your own unscripted speech in narrow IPA — actual
-transcription, not spelling — then 1,500 words on what the transcription
-reveals that the orthography hides, and on what a five-year-old knows about
-your language that nobody taught them, citing real CHILDES data rather than
-reasoning from the armchair; plus the first structural sketch of a grammar you
-don't speak. And: take 1,000 words of your own older writing, cut it to 600
-without losing content, publish both versions plus a paragraph naming each
-*class* of cut — the taxonomy is the proof, not the shorter draft. Then the
-**mid-ledger decision point**: twenty-four domains are behind you, and which
-of them pulled hardest is now a question with evidence. Those are your
-promotion candidates for the second half.
-
-## Year 9 — Artificial intelligence · Sociology · Ecology
-
-**The order, and why.** Mitchell opens the year because AI is the largest
-literacy pass in the ledger and she is the only door that leaves you knowing
-the field has a seventy-year past rather than a news cycle. The patch of
-ground starts in week one regardless of what else is happening, because a
-season is a season and it will not wait for your reading schedule. Mills is
-eight hours and tells you what sociology is *for* before you learn what it
-does, which stops the survey reading as a list of topics. After that the three
-domains interleave on a single rule: implement or observe before you theorize
-— CS188's Pacman projects before Russell & Norvig's philosophy chapters,
-Gotelli's models before Leopold, the microdata before the classical frames.
-
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans* | survey (door) | ~15 | a working researcher taking both the achievements and the skepticism seriously |
-| 2 | One patch of ground, visited weekly for a season | practice | ~25 | week one, not after the reading — the season sets this year's calendar |
-| 3 | C. Wright Mills, *The Sociological Imagination*, ch. 1–2 | canon (door) | ~8 | a hundred pages, a mission statement, what the discipline is for |
-| 4 | David Quammen, *The Song of the Dodo* | survey (door) | ~18 | island biogeography as narrative; own the species–area relationship and you can reason alone |
-| 5 | MIT OCW **6.034 Artificial Intelligence** (Patrick Winston) | course | ~30 | AI as a seventy-year field rather than as this year's tooling |
-| 6 | OpenStax, *Introduction to Sociology* (free) | survey | ~18 | the map, at no cost, so the hours go to the theorists |
-| 7 | Gotelli, *A Primer of Ecology* | course | ~18 | short, math-forward, the fastest route to modelling competence |
-| 8 | Berkeley **CS188** Pacman projects (free) | practice | ~28 | search, CSPs, MDPs and RL stick when you implement them and evaporate when you watch them |
-| 9 | Begon, Townsend & Harper, *Ecology: From Individuals to Ecosystems* | survey | ~40 | unusually readable and genuinely complete |
-| 10 | Erving Goffman, *The Presentation of Self in Everyday Life* | canon | ~10 | the most immediately usable book on the sociology list |
-| 11 | Russell & Norvig, *AI: A Modern Approach* — Part I, the search chapters, uncertainty and decisions skimmed, the closing philosophy chapters read properly | survey | ~35 | do not attempt it whole at this tier |
-| 12 | Sean B. Carroll, *The Serengeti Rules* | survey | ~6 | regulation and trophic cascades, told lightly, against Begon's weight |
-| 13 | Implement from scratch, in a language you control: A\*, minimax with alpha–beta, a CSP solver with propagation, value iteration, Q-learning | practice | ~30 | the algorithms are small; writing them is what makes the vocabulary yours |
-| 14 | Weber, *The Protestant Ethic and the Spirit of Capitalism*, with "Politics as a Vocation" and "Science as a Vocation" | canon | ~10 | short, and the rationalization thesis is load-bearing everywhere later |
-| 15 | Open Yale **EEB 122**, second half (Stearns) | course | ~12 | the ecology treatment, from a course you already know |
-| 16 | Turing (1950), "Computing Machinery and Intelligence," and the 1955 Dartmouth proposal | canon | ~5 | the objections-and-replies section, not just the imitation game |
-| 17 | Durkheim, *Suicide* Book 2 (egoistic and anomic), and the conclusion of *The Elementary Forms* | canon | ~7 | social facts as real, external and measurable |
-| 18 | Karpathy, *Neural Networks: Zero to Hero* (free) — backpropagation by hand before any framework | practice | ~25 | builds to a working transformer from arithmetic you wrote yourself |
-| 19 | Marx, the 1844 manuscripts on alienation, with *The Communist Manifesto*; Du Bois, *The Souls of Black Folk* ch. 1 | canon | ~6 | the two frames the survey will have flattened |
-| 20 | Aldo Leopold, *A Sand County Almanac* — "Thinking Like a Mountain" and "The Land Ethic" | canon | ~7 | lands differently once you can do the population arithmetic |
-| 21 | Newell & Simon (1976), "Computer Science as Empirical Inquiry"; Searle (1980), "Minds, Brains, and Programs"; Marr, *Vision*, ch. 1; Sutton, "The Bitter Lesson" (2019) | canon | ~9 | the hypothesis, its best attack, the levels discipline, and the two pages to argue with |
-| 22 | Rachel Carson, *Silent Spring* — ch. 1–3 and the pesticide-resistance chapters | canon | ~7 | the scientifically live half, read as evolution in action |
-| 23 | Open Yale, *Foundations of Modern Social Theory* (Iván Szelényi) | course | ~20 | the one free course in this domain that rises to the level of the others |
-| 24 | MacArthur & Wilson, *The Theory of Island Biogeography* | canon | ~7 | skim the mathematics; the argument is the point |
-| 25 | GSS, IPUMS and the World Values Survey — one question, cleaned yourself, regressed, and the coefficient explained as not the causal effect | data | ~20 | the modal paper in this field is a regression on panel microdata, so run one |
-| 26 | Granovetter, "The Strength of Weak Ties" (1973); DiMaggio & Powell, "The Iron Cage Revisited" (1983) | canon | ~4 | two of the field's genuinely counterintuitive, genuinely replicated results |
-| 27 | Darwin, *The Formation of Vegetable Mould through the Action of Worms* | canon | ~5 | the original ecosystem-engineering study, and a delight |
-| 28 | Paine (1966), "Food Web Complexity and Species Diversity," with Hairston, Smith & Slobodkin (1960) | canon | ~4 | the keystone paper and the "world is green" argument, back to back |
-| 29 | Matthew Desmond, *Evicted* | practice | ~10 | what a modern ethnography actually looks like, against the classical frames |
-| 30 | Nils Nilsson, *The Quest for Artificial Intelligence* | history | ~18 | the authoritative history by someone who was there; the old budget could never afford it |
-| 31 | Annette Lareau, *Unequal Childhoods*, with William Julius Wilson, *The Truly Disadvantaged* | canon | ~14 | reproduction of advantage as an observed mechanism rather than a slogan |
-| 32 | eBird, iNaturalist and Zooniverse, plus a local mycological or botanical society | practice | ~15 | citizen science with genuine scientific value, and people who will correct you |
-| 33 | Fei Xiaotong, *From the Soil* | canon | ~5 | a non-Western social structure described on its own terms, against Connell's charge |
-| 34 | The *Annual Review of Sociology*, one volume front to back | survey | ~8 | the cheapest way to stay current across a field far too big to follow |
-| 35 | The three artifacts | artifact | ~42 | see below |
-
-**Also running.** The second spike takes its usual three hundred hours and
-comes first in any conflict; the frontier slot and current awareness run as
-they have since year 1, and this is the cluster where the frontier slot most
-often pays — `04-frontier.md` exists for exactly the case where something that
-looks like tooling turns out to be a field. The craft reaches ladder rung 4 —
-hand-cut dovetails, through then half-blind, straight off the saw, or the
-analogue in your medium: a mitred corner that closes, a jar with a seating
-gallery, a piece played from memory without a stumble. Language is
-maintenance, not acquisition. **Three lifetime practices start this year.**
-From AI, the dated capability logbook: a fixed battery of tasks you actually
-care about, a written prediction of how the best available system will do, the
-result recorded, every six months forever — thirty years of that is a private,
-uncontaminated evaluation record worth more than any quantity of commentary,
-and one classic pre-2010 algorithm implemented a year keeps the field's memory
-in your hands. From ecology, the patch and its record: first flowering,
-first arrivals, ice-on and ice-off, a fixed photo point, submitted to a scheme
-so the data survives you. From sociology, sit on something — a school board,
-a housing association, a union local, a co-op — for years, taking notes.
-
-**Buy this year.** Compute, if the projects need it: rented cloud time at
-$50–300 for a specific project, never a framework subscription and never
-hardware bought speculatively, since `01-principles.md` principle 5 says
-nothing with a version number belongs in a seventy-year plan and this is the
-year you will be most tempted. **One serious newspaper of record**,
-$150–400/yr, read daily — a slow course in politics and economics at once, and
-the raw material for the sociology artifact. Then the cheap kit that converts
-ecology from reading to fieldwork: **regional field guides** ($20–30 each,
-regional beats comprehensive — buy the one whose range map includes your
-house), a **10× doublet or triplet loupe** ($15–40, non-negotiable for botany),
-a **plant press** ($40–80 bought, $20 built). Your year-3 binoculars carry
-over, though 8x42 is the birder's preference. Then the access spend, which
-matters more: a **botanical garden or arboretum membership** ($40–100/yr) and a
-**professional society membership** ($50–300/yr — ornithological, mycological,
-native plant), both of which hand newcomers real responsibility within a month.
-If the opportunity reserve has been rolling over, an **ecology field school**
-($1,500–5,000, two to six weeks) is what it was saved for. GSS, IPUMS and the
-World Values Survey are free.
-
-**The artifacts.** 2,500 words answering what would have to be true for you to
-say a system understands something: state a concrete test, apply it to a chess
-engine, a large language model and a honeybee, and where the test gives an
-answer you don't believe, say so and diagnose why — a literate answer engages
-Turing and Searle without merely restating either. 2,000 words applying one
-classical frame — Durkheim, Weber, Marx, Bourdieu or Goffman — to a
-contemporary pattern you have real data on, closing with what the frame cannot
-explain; that second section is the one that proves literacy. And 2,500 words
-of natural history on your patch of ground: species present, energy flow,
-disturbance and land-use history, the human hand on it, and one falsifiable
-claim you could test next season. Plus a season of verified records in eBird or
-iNaturalist that a researcher can actually use, and the first entry in the
-capability logbook.
+**The artifacts.** *Cosmology & astronomy*: 2,000 words on how we know the age,
+composition and geometry of the universe — naming the measurements and their
+error bars, not the conclusions. *Logic & foundations*: both incompleteness
+theorems stated precisely, with every hypothesis, then 1,500 words on what each
+hypothesis is doing and what the theorems do *not* imply about minds, machines
+or mathematics, plus the first twelve monthly formalizations in the
+proof-assistant repository. *Theater, film & narrative media*: a shot-by-shot
+analysis of one three-minute sequence — every shot logged for scale, angle,
+movement, duration and sound — then 1,500 words arguing what the pattern
+accomplishes, with the log attached.
 
 ---
 
-## Year 10 — Earth science & climate · Law & legal systems · Medicine & physiology
+## Year 9 — the mid-ledger year, where language is studied from three sides
 
-**The order, and why.** Three doors, all cheap, all permanently reorganizing:
-McPhee installs deep time in your bones, Hart makes it impossible ever again to
-confuse law with orders backed by threats, and Gawande puts the epistemics of
-practice — uncertainty, error, judgment, a clock running — in front of you
-before a single mechanism, so what follows carries the right humility. Then
-the surveys, and note that law's is a *comparative* one: Merryman decenters the
-common law immediately, because if you have only met common law you have met
-the minority tradition. Silverthorn is the year's spine and is taken in the
-sequence the resource file names — membrane transport, cardiovascular,
-respiratory, renal, endocrine — since that ordering *is* the integration the
-book is selling. Archer's models run before the IPCC report, because you should
-watch the outgoing spectrum change before you read what was agreed about it,
-and the opinions come last and take the largest single block, since briefing
-them yourself is the training and there is no substitute.
+**Finishing** *(second year — canon, course, artifact)*: Theoretical computer science & information theory · Linguistics · Rhetoric & writing
+**Starting** *(first year — doors and surveys)*: Artificial intelligence · Sociology · Ecology
+**Clusters live this year:** Formal · Living · Mind · Human & social · Meaning & expression
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | John McPhee, *Annals of the Former World* — "Basin and Range" first | survey (door) | ~12 | nothing else installs deep time in your bones |
-| 2 | H.L.A. Hart, *The Concept of Law*, ch. 1–6 | canon (door) | ~20 | afterward you cannot confuse law with threats, or with morality |
-| 3 | Atul Gawande, *Complications* | survey (door) | ~12 | the epistemics of practice, read before any mechanism |
-| 4 | The clinical placement, chosen and booked in January — emergency department or hospice volunteering | practice | ~40 | it has a calendar and the calendar is not yours; EMT-Basic waits for year 13 |
-| 5 | David Archer, *Global Warming: Understanding the Forecast* | survey | ~15 | short, quantitative, honest about the uncertainty |
-| 6 | Merryman & Pérez-Perdomo, *The Civil Law Tradition* | survey | ~12 | short, and it decenters the common law immediately |
-| 7 | Dee Unglaub Silverthorn, *Human Physiology: An Integrated Approach* — membrane transport, cardiovascular, respiratory, renal, endocrine | survey | ~55 | the best physiology text for someone working alone; it teaches integration, not organ lists |
-| 8 | Fischl & Paul, *Getting to Maybe* | method | ~12 | nominally an exam book, actually how legal argument is constructed |
-| 9 | Archer, *Global Warming: The Science and Modeling of Climate Change* (Chicago, free), with MODTRAN and the models at forecast.uchicago.edu | course | ~20 | you run real models rather than watch |
-| 10 | *Understanding Clinical Research: Behind the Statistics* (Cape Town, Coursera) | course | ~15 | half of what medicine knows is a claim about trials; run it in parallel from month one |
-| 11 | Penn, *Introduction to American Law* (Coursera, free to audit), with Wacks, *Law: A Very Short Introduction*, and Feinman, *Law 101* | course / survey | ~25 | orientation and the concept map, taken quickly and not lingered over |
-| 12 | MIT OCW **12.001**, *Introduction to Geology* | course | ~20 | the solid-earth half, which the climate material assumes and skips |
-| 13 | IPCC AR6 Working Group I — Summary for Policymakers, then the Technical Summary | canon | ~15 | the SPM is negotiated line by line; the TS is where the science lives |
-| 14 | Harvey, *De Motu Cordis* (1628) | canon | ~6 | short, and you can follow the demonstration yourself |
-| 15 | Holmes, "The Path of the Law" (1897); Fuller, *The Morality of Law* ch. 2 (King Rex); Dworkin, *Law's Empire* ch. 1 and the Hercules material | canon | ~11 | realism, a legal theory told as a story, and the answer to both |
-| 16 | Claude Bernard, *An Introduction to the Study of Experimental Medicine* (1865) | canon | ~12 | the *milieu intérieur*, and still the best statement of what a physiological experiment is |
-| 17 | The global temperature anomaly rebuilt from raw GHCN station data, every homogenization choice confronted yourself | data | ~20 | the field is the most data-open on the map, and the adjustments are where the argument actually is |
-| 18 | Walter Cannon, *The Wisdom of the Body* (1932) | canon | ~8 | homeostasis named, by the person who named it |
-| 19 | Lyell, *Principles of Geology* Vol. 1 ch. 1–4, with Arrhenius (1896) | canon | ~8 | what Darwin read on the *Beagle*, and the radiative physics at its source |
-| 20 | Eight landmark opinions in full, briefed yourself: *Marbury*, *Brown*, *Donoghue v. Stevenson*, *Carlill*, *Riggs v. Palmer*, and three from your own jurisdiction | practice | ~28 | reading actual opinions beats any book about them |
-| 21 | Dissection — sheep heart, cow eye, fetal pig | practice | ~8 | anatomy is spatial knowledge and diagrams flatten it |
-| 22 | Bjornerud, *Timefulness*, or Alvarez, *T. rex and the Crater of Doom* | survey | ~10 | the solid-earth voice, once the deep time has somewhere to sit |
-| 23 | IRAC-structured issue spotting on unfamiliar fact patterns, then a contract drafted and the clause that breaks it | practice | ~20 | the gap between recognizing a rule and deploying it is only closed by doing this |
-| 24 | Manual blood pressure, and Dubin, *Rapid Interpretation of EKG's* | practice | ~10 | two skills that make the physiology stop being notional |
-| 25 | Archie Cochrane, *Effectiveness and Efficiency* (1972) | canon | ~7 | evidence-based medicine's founding document, in seventy pages |
-| 26 | Coase, "The Problem of Social Cost" (1960); Calabresi & Melamed (1972); Bickel, *The Least Dangerous Branch* | canon | ~14 | law and economics, and the countermajoritarian difficulty stated properly |
-| 27 | Lewis Thomas, *The Youngest Science* | canon | ~8 | what the profession was before it could do much, told from inside |
-| 28 | Spencer Weart, *The Discovery of Global Warming* (free, AIP) | history | ~10 | the best history of any science in `resources/`, and continuously updated |
-| 29 | NHANES for population physiology; MIMIC-IV for bedside critical-care data | data | ~12 | the base-rate lesson lands once you compute it yourself |
-| 30 | One live case followed through its docket on CourtListener and RECAP (free) | practice | ~8 | law in action against law on the books |
-| 31 | Harvard **CopyrightX**, if the subject fits | course | ~15 | the one genuinely excellent open law course; skip it without guilt if it doesn't |
-| 32 | Khan Academy health and medicine sequence | course | ~8 | gap-filling only — no free course rivals working through Silverthorn |
-| 33 | The three artifacts | artifact | ~41 | see below |
+**The mix, and why.** Three finishing domains all have language as their
+object and disagree completely about what language is: Shannon and MacKay treat
+it as a channel with a measurable entropy, Chomsky and Saussure treat it as a
+structure with a grammar, Aristotle and Cicero treat it as an instrument aimed
+at a particular room. Running them in the same weeks — the entropy estimate for
+English beside the IPA transcription of your own speech beside the
+*progymnasmata* — is what makes the disagreement legible rather than academic,
+and it is the direct preparation for the AI artifact you will not write until
+next year. The sharper single resonance is Grice's "Logic and Conversation"
+against Aristotle's *Rhetoric*: implicature and enthymeme are both accounts of
+what a speaker leaves out because the audience will supply it, twenty-three
+centuries apart, and neither field cites the other. On the starting side,
+ecology's patch of ground begins in week one regardless of what else is
+happening, because a season is a season and it will not wait for a reading
+schedule.
 
-**Cut first if the year runs long.** CopyrightX, then the Khan Academy
-sequence, then Weart — all real, all deferrable. Do not cut the opinions or the
-placement: the ledger pass here is literacy, and briefing cases *is* the
-literacy, exactly as standing in front of patients is.
+**The rotation.** About 519 ledger hours, the heaviest of the block. The
+season dictates the calendar: the patch takes a fixed weekly hour from week one
+to week thirty, and everything else is fitted around it and around 6.034, which
+wants consecutive weeks. Linguistics and theoretical CS each carry about two
+hours a week across the whole year rather than in blocks, because both are
+finishing on short canon items and practice drills that reward frequency over
+duration. Rhetoric is the daily habit plus one canon item a month. Sociology is
+the lightest domain in the year at sixty-four hours and deliberately so — it is
+the reading you do on the days the other five are too expensive. **The second
+spike takes its usual three hundred hours and comes first in any conflict**,
+which is six hours a week; promotions take five; fundamentals four; frontier
+and current awareness two.
 
-**Also running.** The second spike moves toward trusted-professional strength,
-with the first deliberately hybrid project scoped. The craft takes ladder rung
-5 — **a chair**, the field's traditional proof piece, because compound angles
-have no square reference and strangers judge it with their bodies. Teach: a
-beginner, seriously, which will expose every gap in what you think you know.
-Frontier slot and current awareness run hot this year in particular, since
-climate, law and therapeutics are three domains where the live literature moves
-and `05-current.md` is the mechanism. **Three more lifetime practices begin.**
-Become an observer of record: a weather station reporting daily precipitation
-to CoCoRaHS or your national network, one repeat-photography station — one
-spot, one bearing, one photo a year — and a field notebook with sketched
-sections and measured strikes and dips from every trip. Be your own cohort: a
-personal record with real measurements taken the same way every time, plus a
-journal club of one, a single clinical trial a week read all the way to a
-judgment, and a running list of things you believed that were later reversed —
-that list is the real credential. And keep first aid and CPR current.
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–4 | Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans* | Artificial intelligence | survey (door) | ~15 |
+| 2 | wks 1–4 | C. Wright Mills, *The Sociological Imagination*, ch. 1–2 | Sociology | canon (door) | ~8 |
+| 3 | wks 1–5 | David Quammen, *The Song of the Dodo* | Ecology | survey (door) | ~18 |
+| 4 | wks 1–30 (the season) | One patch of ground, visited weekly | Ecology | practice | ~25 |
+| 5 | wks 2–6 | Shannon, *A Mathematical Theory of Communication* (1948), in full | Theoretical CS & information theory | canon | ~8 |
+| 6 | wks 3–7 | Saussure, *Course in General Linguistics* — Introduction, Part One on the sign, synchrony/diachrony | Linguistics | canon | ~8 |
+| 7 | wks 4–10 | The speeches: Pericles; Lincoln's Gettysburg and Second Inaugural; Douglass, "What to the Slave Is the Fourth of July?"; King, "Letter from Birmingham Jail"; Montaigne; Orwell; Baldwin; Didion — each read twice, once for what, once for how | Rhetoric & writing | canon | ~12 |
+| 8 | wks 5–16 | MIT OCW **6.034**, *Artificial Intelligence* (Patrick Winston) | Artificial intelligence | course | ~30 |
+| 9 | wks 6–12 | OpenStax, *Introduction to Sociology* (free) | Sociology | survey | ~18 |
+| 10 | wks 6–14 | Gotelli, *A Primer of Ecology* | Ecology | course | ~18 |
+| 11 | wks 8–14 | MacKay's Cambridge lectures with *Information Theory, Inference, and Learning Algorithms* (free PDF) | Theoretical CS & information theory | course | ~16 |
+| 12 | wks 8–24 | Narrow IPA transcription of your own speech, with CHILDES for child-language data | Linguistics | practice | ~18 |
+| 13 | wks 10–16 | Aristotle, *Rhetoric* I–II (Kennedy, *On Rhetoric*), with Plato's *Gorgias* | Rhetoric & writing | canon | ~12 |
+| 14 | wks 12–16 | Chomsky, *Syntactic Structures* ch. 1–5, then his 1959 review of Skinner's *Verbal Behavior* | Linguistics | canon | ~8 |
+| 15 | wks 14–20 | Cook (1971), "The Complexity of Theorem-Proving Procedures"; Karp (1972), "Reducibility Among Combinatorial Problems" | Theoretical CS & information theory | canon | ~5 |
+| 16 | wks 14–26 | Open Yale, *Foundations of Modern Social Theory* (Iván Szelényi) | Sociology | course | ~20 |
+| 17 | wks 16–28 | Berkeley **CS188** Pacman projects (free) | Artificial intelligence | practice | ~28 |
+| 18 | wks 16–28 | Leiden, *Miracles of Human Language* (van Oostendorp, Coursera) | Linguistics | course | ~12 |
+| 19 | wks 18–24 | Open Yale **EEB 122**, second half (Stearns) | Ecology | course | ~12 |
+| 20 | wks 18–26 | The reduction drill — fifteen to twenty problems proved NP-complete, without solutions | Theoretical CS & information theory | practice | ~15 |
+| 21 | wks 20–28 | Cicero, *De Oratore*; Longinus, *On the Sublime* | Rhetoric & writing | canon | ~14 |
+| 22 | wks 22–26 | Sapir, *Language* (1921) | Linguistics | canon | ~6 |
+| 23 | wks 24–28 | Erving Goffman, *The Presentation of Self in Everyday Life* | Sociology | canon | ~10 |
+| 24 | wks 26–36 | Build four things: a Turing machine simulator, a Huffman and an arithmetic coder, a Hamming decoder against a simulated channel | Theoretical CS & information theory | practice | ~20 |
+| 25 | wks 28–32 | Sean B. Carroll, *The Serengeti Rules* | Ecology | survey | ~6 |
+| 26 | wks 28–40 | Corbett & Connors, *Classical Rhetoric for the Modern Student*, with the *progymnasmata* worked in order | Rhetoric & writing | practice | ~20 |
+| 27 | wks 30–34 | Labov (1963) on Martha's Vineyard; Greenberg (1963) on word order; Grice (1975), "Logic and Conversation"; Hockett (1960), "The Origin of Speech" | Linguistics | canon | ~8 |
+| 28 | wks 30–36 | Hofstadter, *Gödel, Escher, Bach* | Theoretical CS & information theory | canon | ~20 |
+| 29 | wks 32–36 | Turing (1950), "Computing Machinery and Intelligence," and the 1955 Dartmouth proposal | Artificial intelligence | canon | ~5 |
+| 30 | wks 34–40 | Everett, *Don't Sleep, There Are Snakes*, read with the published rebuttals | Linguistics | canon | ~8 |
+| 31 | wks 36–46 | Nils Nilsson, *The Quest for Artificial Intelligence* | Artificial intelligence | history | ~18 |
+| 32 | wks 36–48 | One reference grammar of a language you do not speak, with your own ten-page structural sketch | Linguistics | practice | ~20 |
+| 33 | wks 38–42 | Ostler, *Empires of the Word* | Linguistics | survey | ~12 |
+| 34 | wks 40–44 | Gleick, *The Information* | Theoretical CS & information theory | history | ~12 |
+| 35 | wks 42–46 | Orwell, "Politics and the English Language"; Klemperer, *LTI* | Rhetoric & writing | canon | ~8 |
+| 36 | wks 44–48 | Hamming, *The Art of Doing Science and Engineering*, with "You and Your Research" | Theoretical CS & information theory | canon | ~10 |
+| 37 | wks 46–50 | Quintilian, *Institutio Oratoria*, Book I — one book a year for twelve years starts here | Rhetoric & writing | canon | ~8 |
+| 38 | wks 48–52 | The *Annual Review of Sociology*, one volume front to back | Sociology | survey | ~8 |
+
+**Also running.** **The promotions run three domains deep now**, and this
+year's review is the one that matters: **twenty-four domains are behind you and
+which of them pulled hardest is a question with evidence, not a preference** —
+those are your promotion candidates for the second half of the ledger. Physics
+onto Kleppner and Purcell is the usual third, and literature onto Genette and
+Booth with the scansion drills the usual fourth. The second spike takes its
+three hundred hours. **Three lifetime practices start with this year's
+finishing domains.** From TCS: reduce things — every genuinely new problem that
+turns up gets classified as polynomial, NP-hard, undecidable or ill-posed, with
+the reduction written down however roughly, plus one Simons Institute workshop
+series a year. From rhetoric: 500 words a day, one finished piece published a
+month, one page a week copied by hand from a single writer chosen for the year,
+and an editorial log of every change any editor makes to your work with the
+pattern named. From linguistics: one reference grammar and one ten-page
+structural sketch a year — thirty of these gives you an internal typology no
+textbook hands you. The craft reaches ladder rung 4; the monthly formalization,
+the weekly hard problem, the journal club, the film night, the observing log
+and the forecast log all continue.
+
+**Buy this year.** Compute, if the AI projects need it: rented cloud time at
+$50–300 for a specific project, never a framework subscription and never
+hardware bought speculatively — `01-principles.md` principle 5 says nothing
+with a version number belongs in a seventy-year plan, and this is the year you
+will be most tempted. **One serious newspaper of record**, $150–400/yr, read
+daily, which is a slow course in politics and economics at once and the raw
+material sociology will need next year. Then the cheap kit that converts
+ecology from reading to fieldwork: **regional field guides** ($20–30 each — buy
+the one whose range map includes your house), a **10× doublet or triplet loupe**
+($15–40, non-negotiable for botany), a **plant press** ($40–80 bought, $20
+built). Your year-2 binoculars carry over. Then the access spend, which matters
+more: a **botanical garden or arboretum membership** ($40–100/yr) and a
+**professional society membership** ($50–300/yr), both of which hand newcomers
+real responsibility within a month. If the opportunity reserve has been rolling
+over, an **ecology field school** ($1,500–5,000) is what it was saved for.
+
+**The artifacts.** *Theoretical CS & information theory*: prove the halting
+problem undecidable from scratch, explain what NP-completeness means and why
+3-SAT is the hinge, then estimate the entropy of English text and say what that
+number means — 2,000 words. *Linguistics*: transcribe three minutes of your own
+unscripted speech in narrow IPA — actual transcription, not spelling — then
+1,500 words on what it reveals that the orthography hides and on what a
+five-year-old knows about your language that nobody taught them, citing real
+CHILDES data rather than reasoning from the armchair, plus the first structural
+sketch of a grammar you don't speak. *Rhetoric & writing*: take 1,000 words of
+your own older writing, cut it to 600 without losing content, publish both
+versions plus a paragraph naming each *class* of cut — the taxonomy is the
+proof, not the shorter draft.
+
+---
+
+## Year 10 — the year the living world is read from the cell and from the biome at once
+
+**Finishing** *(second year — canon, course, artifact)*: Artificial intelligence · Sociology · Ecology
+**Starting** *(first year — doors and surveys)*: Earth science & climate · Law & legal systems · Medicine & physiology
+**Clusters live this year:** Physical · Living · Mind · Human & social
+
+**The mix, and why.** Ecology finishes on Begon's energy budgets and Paine's
+keystone paper in the same months earth science opens on Archer's radiative
+forcing and MODTRAN, and the two are one carbon cycle approached from opposite
+ends — the biome's throughput and the atmosphere's balance sheet, with the same
+molecules in both accounts. Running them together means the climate models
+arrive already populated with organisms rather than as a physics problem about
+a bare sphere. A second pairing carries the year's methodological weight: AI
+finishes on Russell & Norvig's chapters on uncertainty and decision while
+medicine opens on *Understanding Clinical Research*, and both are asking how a
+system with incomplete information should act and how you would know afterwards
+whether it acted well. Sociology's GSS regressions land beside Hart's rules and
+Fischl & Paul's issue-spotting, which is the difference between what a
+population does and what a rule requires of it. The year is building toward
+year 11, where medicine, law and earth science all reach their canon.
+
+**The rotation.** About 507 ledger hours. Two calendar constraints set
+everything: the clinical placement is chosen and booked in January and its
+shifts are not yours to move, and Silverthorn wants a long uninterrupted run at
+membrane transport, cardiovascular and respiratory before the year is half
+gone. Those two go on the calendar first. AI's implementation work takes a
+three-hour block twice a week for twelve weeks and then stops. Ecology is
+finishing, so Begon carries the early year at three hours a week and the short
+canon papers fill the tail. Sociology and law each run at about an hour and a
+half, sustained rather than blocked. Earth science is the year's swing domain
+and absorbs whatever the others release. The second spike moves toward
+trusted-professional strength at six hours; **the promotions carry four domains
+now at roughly five hours**; fundamentals four; frontier and current awareness
+two, and they run hot this year in particular.
+
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–4 | John McPhee, *Annals of the Former World* — "Basin and Range" first | Earth science & climate | survey (door) | ~12 |
+| 2 | wks 1–4 | Atul Gawande, *Complications* | Medicine & physiology | survey (door) | ~12 |
+| 3 | wks 1–6 | H.L.A. Hart, *The Concept of Law*, ch. 1–6 | Law & legal systems | canon (door) | ~20 |
+| 4 | wks 1–40 (booked in January) | The clinical placement — emergency department or hospice volunteering, begun | Medicine & physiology | practice | ~20 |
+| 5 | wks 2–16 | Russell & Norvig, *AI: A Modern Approach* — Part I, the search chapters, uncertainty and decisions skimmed, the closing philosophy chapters read properly | Artificial intelligence | survey | ~35 |
+| 6 | wks 2–20 | Begon, Townsend & Harper, *Ecology: From Individuals to Ecosystems* | Ecology | survey | ~40 |
+| 7 | wks 3–52 (ongoing) | *Understanding Clinical Research: Behind the Statistics* (Cape Town, Coursera), run in parallel from month one | Medicine & physiology | course | ~15 |
+| 8 | wks 4–8 | Merryman & Pérez-Perdomo, *The Civil Law Tradition* | Law & legal systems | survey | ~12 |
+| 9 | wks 5–10 | Weber, *The Protestant Ethic and the Spirit of Capitalism*, with "Politics as a Vocation" and "Science as a Vocation" | Sociology | canon | ~10 |
+| 10 | wks 6–26 | Dee Unglaub Silverthorn, *Human Physiology: An Integrated Approach* — membrane transport, cardiovascular, respiratory | Medicine & physiology | survey | ~30 |
+| 11 | wks 8–14 | David Archer, *Global Warming: Understanding the Forecast* | Earth science & climate | survey | ~15 |
+| 12 | wks 10–20 | Penn, *Introduction to American Law* (free to audit), with Wacks, *Law: A Very Short Introduction*, and Feinman, *Law 101* | Law & legal systems | course / survey | ~25 |
+| 13 | wks 12–16 | Durkheim, *Suicide* Book 2 (egoistic and anomic), and the conclusion of *The Elementary Forms* | Sociology | canon | ~7 |
+| 14 | wks 12–24 | Implement from scratch, in a language you control: A\*, minimax with alpha–beta, a CSP solver with propagation, value iteration, Q-learning | Artificial intelligence | practice | ~30 |
+| 15 | wks 14–18 | Aldo Leopold, *A Sand County Almanac* — "Thinking Like a Mountain" and "The Land Ethic" | Ecology | canon | ~7 |
+| 16 | wks 16–30 | MIT OCW **12.001**, *Introduction to Geology* | Earth science & climate | course | ~20 |
+| 17 | wks 18–22 | Marx, the 1844 manuscripts on alienation, with *The Communist Manifesto*; Du Bois, *The Souls of Black Folk* ch. 1 | Sociology | canon | ~6 |
+| 18 | wks 20–26 | Rachel Carson, *Silent Spring* — ch. 1–3 and the pesticide-resistance chapters | Ecology | canon | ~7 |
+| 19 | wks 20–28 | Fischl & Paul, *Getting to Maybe* | Law & legal systems | method | ~12 |
+| 20 | wks 22–34 | GSS, IPUMS and the World Values Survey — one question, cleaned yourself, regressed, and the coefficient explained as not the causal effect | Sociology | data | ~20 |
+| 21 | wks 24–34 | Karpathy, *Neural Networks: Zero to Hero* (free) — backpropagation by hand before any framework | Artificial intelligence | practice | ~25 |
+| 22 | wks 26–30 | MacArthur & Wilson, *The Theory of Island Biogeography* | Ecology | canon | ~7 |
+| 23 | wks 26–32 | Dissection — sheep heart, cow eye, fetal pig | Medicine & physiology | practice | ~8 |
+| 24 | wks 28–36 | Matthew Desmond, *Evicted* | Sociology | practice | ~10 |
+| 25 | wks 30–40 | Archer, *Global Warming: The Science and Modeling of Climate Change* (Chicago, free), with MODTRAN and the models at forecast.uchicago.edu | Earth science & climate | course | ~20 |
+| 26 | wks 32–40 | eBird, iNaturalist and Zooniverse, plus a local mycological or botanical society | Ecology | practice | ~15 |
+| 27 | wks 34–38 | Annette Lareau, *Unequal Childhoods*, with William Julius Wilson, *The Truly Disadvantaged* | Sociology | canon | ~14 |
+| 28 | wks 36–40 | Newell & Simon (1976), "Computer Science as Empirical Inquiry"; Searle (1980), "Minds, Brains, and Programs"; Marr, *Vision*, ch. 1; Sutton, "The Bitter Lesson" (2019) | Artificial intelligence | canon | ~9 |
+| 29 | wks 38–42 | Darwin, *The Formation of Vegetable Mould through the Action of Worms* | Ecology | canon | ~5 |
+| 30 | wks 40–44 | Khan Academy health and medicine sequence — gap-filling only | Medicine & physiology | course | ~8 |
+| 31 | wks 42–46 | Bjornerud, *Timefulness*, or Alvarez, *T. rex and the Crater of Doom* | Earth science & climate | survey | ~10 |
+| 32 | wks 42–46 | Granovetter, "The Strength of Weak Ties" (1973); DiMaggio & Powell, "The Iron Cage Revisited" (1983) | Sociology | canon | ~4 |
+| 33 | wks 44–48 | Paine (1966), "Food Web Complexity and Species Diversity," with Hairston, Smith & Slobodkin (1960) | Ecology | canon | ~4 |
+| 34 | wks 44–52 (ongoing) | One live case followed through its docket on CourtListener and RECAP (free) | Law & legal systems | practice | ~8 |
+| 35 | wks 48–52 | Fei Xiaotong, *From the Soil* | Sociology | canon | ~5 |
+
+**Cut first if the year runs long.** The Khan Academy sequence, then Bjornerud,
+then Fei Xiaotong — all real, all deferrable. Do not cut the placement or the
+patch record: the ledger pass in both domains is literacy, and standing in
+front of patients and standing in front of the same ground for a second season
+*are* the literacy.
+
+**Also running.** **The promotions carry four domains on their long shelves
+now**, which is the number the year-15 branch point will ask you to defend:
+statistics on Casella & Berger and *Bayesian Data Analysis*, mathematics on
+Spivak, Axler and Abbott, physics on Kleppner and Purcell, literature on
+Genette and Booth with the scansion drills. Four means declining forty, and
+saying that arithmetic out loud is part of the review. The second spike moves
+toward trusted-professional strength, with the first deliberately hybrid
+project scoped. **Three lifetime practices start with this year's finishing
+domains.** From AI, the dated capability logbook: a fixed battery of tasks you
+actually care about, a written prediction of how the best available system will
+do, the result recorded, every six months forever — plus one classic pre-2010
+algorithm implemented a year, which keeps the field's memory in your hands.
+From ecology, the patch and its record: first flowering, first arrivals, ice-on
+and ice-off, a fixed photo point, submitted to a scheme so the data survives
+you. From sociology, sit on something — a school board, a housing association,
+a union local, a co-op — for years, taking notes. The craft takes ladder rung 5,
+a chair. Teach a beginner, seriously.
 
 **Buy this year.** A **home weather station** with anemometer and rain gauge
 ($120–300), or a thermometer and aneroid barometer to start ($40–90) — pressure
@@ -998,607 +1251,674 @@ hydrochloric acid for the carbonate fizz test, because geology is a field
 identification discipline first. **Topographic sheets** from your national
 mapping agency ($10–20 each) for places you actually walk, and a **geology
 field-methods course** if one is reachable. A **dissection kit** ($20–40). Then
-the spend that matters, which is access rather than objects: an **alumni
-library account** ($50–200/yr) covering *NEJM*, *The Lancet*, JAMA, BMJ and the
-law reviews, since PubMed Central covers only part of it. For law the good
-sources are free — CourtListener, RECAP and the Avalon Project. No big-ticket
-instrument anywhere here: none of these domains has been promoted, and a
-research-grade anything would be a closet ornament.
+the spend that matters, which is access rather than objects: an **alumni library
+account** ($50–200/yr) covering *NEJM*, *The Lancet*, JAMA, BMJ and the law
+reviews. For law the good sources are free — CourtListener, RECAP and the
+Avalon Project. Rented compute for the closing AI projects only if a specific
+project needs it, never speculatively.
 
-**The artifacts.** 2,000 words deriving the greenhouse effect from first
-principles — blackbody balance, why the surface exceeds the effective
-temperature, what doubling CO₂ does before feedbacks, and exactly where the
-uncertainty lives. Three cases briefed yourself in standard format (facts,
-issue, holding, reasoning, dissent), then 1,500 words tracing how one doctrine
-shifted across them and arguing whether the shift was interpretation or policy.
-And one common condition — heart failure, type 2 diabetes, hypertension —
-written as a whole chain in 2,500 words: normal physiology, what breaks, how it
-presents, what each first-line treatment does mechanistically, and what the
-trials showed in absolute risk and number needed to treat. Plus the volunteer
-log, which is an artifact in the same sense a finished object is, and the
-rebuilt temperature series with its adjustments defended.
+**The artifacts.** *Artificial intelligence*: 2,500 words answering what would
+have to be true for you to say a system understands something — state a
+concrete test, apply it to a chess engine, a large language model and a
+honeybee, and where the test gives an answer you don't believe, say so and
+diagnose why; a literate answer engages Turing and Searle without merely
+restating either, and the first entry in the capability logbook is filed with
+it. *Sociology*: 2,000 words applying one classical frame — Durkheim, Weber,
+Marx, Bourdieu or Goffman — to a contemporary pattern you have real data on,
+closing with what the frame cannot explain; that second section is the one that
+proves literacy. *Ecology*: 2,500 words of natural history on your patch of
+ground — species present, energy flow, disturbance and land-use history, the
+human hand on it, and one falsifiable claim you could test next season — plus a
+season of verified records in eBird or iNaturalist that a researcher can
+actually use.
 
----
+## Year 11 — three doors open while three arguments close
 
----
+**Finishing** *(second year — canon, course, artifact)*: Earth science & climate · Law & legal systems · Medicine & physiology
+**Starting** *(first year — doors and surveys)*: Materials science · Finance & markets · Geography & geopolitics
+**Clusters live this year:** Physical · Living · Human & social
 
-# Years 11–15 — The Ledger Completes
+**The mix, and why.** The three domains you opened last year are all at the
+stage where the canon finally pays — Hart has made the opinions readable,
+Silverthorn has made Harvey and Bernard readable, and Archer's models have
+made the IPCC's Technical Summary readable — so this year's second-year work
+is heavy on primary sources and light on orientation. Against them, three new
+doors that ask questions rather than deliver content: why things don't fall
+down, whether markets can be beaten, and what the state has to do to space
+before it can govern it. The resonance to watch is between the GHCN rebuild
+and the eight briefed opinions: both are the same act, which is deciding what
+an adjustment or a distinction has to justify before you will accept it, and
+doing them in the same year makes the transfer visible instead of theoretical.
+Scott's *Seeing Like a State* lands in the middle of the law queue on purpose
+— legibility is what a legal code is *for*, and reading the two together is
+cheaper than reading either twice.
 
-Fourteen domains left, and most of them applied. Years 12–14 are where the
-queue stops being a reading list: the project ladders in
-`resources/made-applied.md` become the spine of the practice, and a year here
-should end with objects, datasets, calculation packages and metered results
-rather than only essays. The workshop lands in this block.
+**The rotation.** Of about 25 hours a week, roughly 11 go to the three
+finishing domains and 10 to the three starting ones, with the balance
+absorbed by the spike, the language maintenance protocol and the craft. The
+finishing side is front-loaded: Silverthorn's renal and endocrine chapters
+want six consecutive weeks in the first quarter, not a page a night, and the
+opinions want a fixed weekday slot from week 5 to week 16 because briefing is
+a habit before it is a skill. The starting side runs the other pattern — two
+short doors in January, then two courses (3.091 and ECON 252) held at three
+or four hours a week each for a full semester, and QGIS most days in small
+doses because a tool learned in bursts is a tool forgotten between them. The
+second spike heads toward T1 and still comes first in any conflict; the craft
+takes rung 6, a piece with a curve you made rather than cut, which is
+weekend work and does not compete with the ledger.
 
-**Year 15 is the hinge of the whole plan.** The map is covered, roughly
-forty-five artifacts exist, and fifty-five years remain. The consolidation
-work that year — the audit, the sweep of all 44 re-foundation-watch
-paragraphs, `bridges.md` read against your accumulated list, and the
-promotion decisions that open the long shelves — is what turns a covered map
-into a working one.
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–3 | J.E. Gordon, *Structures: Or Why Things Don't Fall Down* | Materials | survey (door) | ~12 |
+| 2 | wks 1–4 | Burton Malkiel, *A Random Walk Down Wall Street* | Finance | survey (door) | ~15 |
+| 3 | wks 1–6 | Silverthorn, *Human Physiology* — renal and endocrine, taken as the integration the book is selling | Medicine | survey (finish) | ~25 |
+| 4 | wks 2–5 | James C. Scott, *Seeing Like a State* | Geography | canon (door) | ~20 |
+| 5 | wks 3–5 | Mark Miodownik, *Stuff Matters* | Materials | survey | ~8 |
+| 6 | wks 4–10 | Archer, *Global Warming: The Science and Modeling of Climate Change*, with MODTRAN and the models at forecast.uchicago.edu | Earth science | course | ~20 |
+| 7 | wks 5–16 | Eight landmark opinions in full, briefed yourself — *Marbury*, *Brown*, *Donoghue v. Stevenson*, *Carlill*, *Riggs v. Palmer*, and three from your own jurisdiction | Law | practice | ~28 |
+| 8 | wks 6–9 | William Harvey, *De Motu Cordis* (1628) | Medicine | canon | ~6 |
+| 9 | wks 6–20 | Robert Shiller, Open Yale **ECON 252 Financial Markets** | Finance | course | ~30 |
+| 10 | wks 8–22 | MIT OCW **3.091 Introduction to Solid-State Chemistry** (Sadoway) | Materials | course | ~25 |
+| 11 | wks 9–13 | Claude Bernard, *An Introduction to the Study of Experimental Medicine* (1865) | Medicine | canon | ~12 |
+| 12 | wks 10–24 | QGIS — its own documentation and tutorials, with UC Davis's GIS specialization for structure | Geography | course | ~25 |
+| 13 | wks 12–15 | IPCC AR6 Working Group I — Summary for Policymakers, then the Technical Summary | Earth science | canon | ~15 |
+| 14 | wks 14–18 | Holmes, "The Path of the Law" (1897); Fuller, *The Morality of Law* ch. 2 (King Rex); Dworkin, *Law's Empire* ch. 1 and the Hercules material | Law | canon | ~11 |
+| 15 | wks 15–18 | Walter Cannon, *The Wisdom of the Body* (1932) | Medicine | canon | ~8 |
+| 16 | wks 16–20 | Harm de Blij, *Why Geography Matters* | Geography | survey | ~15 |
+| 17 | wks 18–22 | Manual blood pressure, and Dubin, *Rapid Interpretation of EKG's* | Medicine | practice | ~10 |
+| 18 | wks 18–24 | Home metallography — mount, polish, etch and image steel | Materials | practice | ~12 |
+| 19 | wks 20–26 | Benjamin Graham, *The Intelligent Investor* — ch. 8 (Mr. Market) and ch. 20 (margin of safety) | Finance | canon | ~5 |
+| 20 | wks 20–30 | The global temperature anomaly rebuilt from raw GHCN station data, every homogenization choice confronted yourself | Earth science | data | ~20 |
+| 21 | wks 22–32 | IRAC-structured issue spotting on unfamiliar fact patterns, then a contract drafted and the clause that breaks it | Law | practice | ~20 |
+| 22 | wks 24–30 | Ashby & Jones, *Engineering Materials 1* | Materials | survey | ~15 |
+| 23 | wks 24–34 | Robert Christopherson, *Geosystems* | Geography | survey | ~30 |
+| 24 | wks 26–32 | Ken French's data library — a factor strategy backtested, then deliberately broken with out-of-sample data and transaction costs | Finance | practice | ~12 |
+| 25 | wks 28–32 | Archie Cochrane, *Effectiveness and Efficiency* (1972) | Medicine | canon | ~7 |
+| 26 | wks 30–34 | Lyell, *Principles of Geology* Vol. 1 ch. 1–4, with Arrhenius (1896) | Earth science | canon | ~8 |
+| 27 | wks 32–38 | Coase, "The Problem of Social Cost" (1960); Calabresi & Melamed (1972); Bickel, *The Least Dangerous Branch* | Law | canon | ~14 |
+| 28 | wks 33–38 | John Kay, *Other People's Money* | Finance | survey | ~16 |
+| 29 | wks 34–38 | NHANES for population physiology; MIMIC-IV for bedside critical-care data | Medicine | data | ~12 |
+| 30 | wks 36–40 | Lewis Thomas, *The Youngest Science* | Medicine | canon | ~8 |
+| 31 | wks 36–42 | Spencer Weart, *The Discovery of Global Warming* (free, AIP) | Earth science | history | ~10 |
+| 32 | wks 38–44 | Harvard **CopyrightX**, if the subject fits | Law | course | ~15 |
+| 33 | all year | One live case followed through its docket on CourtListener and RECAP | Law | practice | ~8 |
+| 34 | wks 40–48 | The three artifacts | Earth · Law · Medicine | artifact | ~41 |
 
-## Year 11 — Materials science · Finance & markets · Geography & geopolitics
+**Year 11 total: ~538 hours.**
 
-**The order, and why.** Three doors that work by asking one question you cannot
-then un-ask: why things don't fall down, whether markets can be beaten, and
-what the state has to do to space before it can govern it. Gordon is better on
-fracture than most textbooks and funnier than all of them; Malkiel forces the
-efficiency question first, and your answer to it reorganizes everything else in
-finance you will ever read; Scott buys more with twenty hours than anything
-else in geography, because one idea explains cadastral maps, surnames, city
-grids, scientific forestry and collectivization at once. Sadoway grounds the
-atomic basis before Ashby & Jones asks you to reason about selection, and
-metallography starts the week 3.091 reaches phase diagrams, because the
-iron–carbon chart means nothing until you have etched a coupon and looked at
-it. Geography has no dominant free flagship, so the course slot goes to the
-tool: QGIS, most days, because doing geography means making maps — and the
-geopolitical canon comes after the tool, since Mackinder and Mahan are
-arguments about maps and you should be able to draw the map before you judge
-the argument.
+**Also running.** The clinical placement from year 10 finishes and its
+volunteer log closes with it. The second spike heads toward T1, and
+consolidation begins there: finish the long arcs, turn scattered expertise
+into legible artifacts. The craft takes ladder rung 6 — a piece with a curve
+you made rather than cut, a bent lamination or a steam-bent component, which
+teaches planning because the clock starts when the glue opens. The lifetime
+practices that started in year 10 all continue: the weather station reporting
+to CoCoRaHS, the repeat-photography station, the field notebook with measured
+strikes and dips, the journal club of one, the trial a week read to a
+judgment, and the running list of things you believed that were later
+reversed. The forecast log gets a market column this year, fed directly by
+the paper portfolio. First aid and CPR stay current. If the year runs long,
+CopyrightX is the first cut and Weart the second; do not cut the opinions.
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | J.E. Gordon, *Structures: Or Why Things Don't Fall Down* | survey (door) | ~12 | funny, physical, and better on fracture than most textbooks |
-| 2 | Burton Malkiel, *A Random Walk Down Wall Street* | survey (door) | ~15 | forces the efficiency question first; your answer reorganizes the rest |
-| 3 | James C. Scott, *Seeing Like a State* | canon (door) | ~20 | one idea that explains cadastral maps, surnames, city grids and collectivization at once |
-| 4 | Mark Miodownik, *Stuff Matters* | survey | ~8 | ten materials, superbly told — the vocabulary in a week |
-| 5 | Robert Shiller, Open Yale **ECON 252 Financial Markets** | course | ~30 | free, complete, the entire system from insurance to behavioral finance |
-| 6 | QGIS — its own documentation and tutorials, with UC Davis's GIS specialization for structure | course | ~40 | no dominant free flagship exists, so learn the tool instead |
-| 7 | MIT OCW **3.091 Introduction to Solid-State Chemistry** (Sadoway) | course | ~25 | one of the great lecture performances on OCW; it grounds the atomic basis |
-| 8 | Harm de Blij, *Why Geography Matters* (or *The Power of Place*) | survey | ~15 | the human half, from someone who taught it for a living |
-| 9 | MIT OCW **15.401 Finance Theory I** (Andrew Lo), with Damodaran's free valuation course | course | ~48 | where you actually learn to compute; do the problem sets |
-| 10 | Home metallography — mount, polish, etch and image steel; heat-treat and quench coupons and measure the hardness change | practice | ~25 | the most accessible genuine lab work in any domain on the map |
-| 11 | Robert Christopherson, *Geosystems* | survey | ~30 | the physical half most readers skip and shouldn't — and year 10 just made it cheap |
-| 12 | Ashby & Jones, *Engineering Materials 1* | survey | ~15 | a textbook that reads like a book, once 3.091 has given you the atoms |
-| 13 | Benjamin Graham, *The Intelligent Investor* — ch. 8 (Mr. Market) and ch. 20 (margin of safety) | canon | ~5 | those two chapters; the rest is dated and you may skip it |
-| 14 | Halford Mackinder, "The Geographical Pivot of History" (1904) | canon | ~3 | twenty pages, free, and the origin of the whole geopolitical vocabulary |
-| 15 | MIT OCW **3.032**, *Mechanical Behavior of Materials* | course | ~20 | strength, stiffness and toughness separated properly, which is where outsiders fail |
-| 16 | Alfred Thayer Mahan, *The Influence of Sea Power upon History* — introduction and ch. 1 only | canon | ~5 | the sea-power half of the argument, at its source |
-| 17 | Walter Bagehot, *Lombard Street* (1873) | canon | ~6 | still cited by central bankers, which tells you something |
-| 18 | Nicholas Spykman, *America's Strategy in World Politics* | canon | ~8 | the Rimland answer to Mackinder — all three are frameworks, not predictions |
-| 19 | Ashby, *Materials Selection in Mechanical Design*, with one real selection problem worked on the charts | spine | ~12 | property space as a navigable design space, which is how the field is actually used |
-| 20 | Kindleberger & Aliber, *Manias, Panics, and Crashes* | canon | ~10 | the pattern, across three centuries, so you recognize the next one |
-| 21 | Carl Sauer, "The Morphology of Landscape" (1925) | canon | ~4 | landscape as a made thing, which is the discipline's other half |
-| 22 | Ken French's data library — a factor strategy backtested, then deliberately broken with out-of-sample data and transaction costs | practice | ~12 | the fastest cure for mistaking a backtest for evidence |
-| 23 | Cyril Stanley Smith, *A Search for Structure* — the title essay and "Art, Technology and Science" | canon | ~5 | materials advanced through aesthetics and craft long before theory arrived |
-| 24 | David Harvey, *The Condition of Postmodernity* — Part III on time-space compression | canon | ~6 | space is produced socially, not just occupied |
-| 25 | Fama (1970), "Efficient Capital Markets," with Markowitz (1952), Black & Scholes (1973), Fama & French (1992) and Diamond & Dybvig (1983) | canon | ~11 | the claims in their own words, after Malkiel gave you the popular version |
-| 26 | A supervised land-cover classification, plus Moran's I on a real dataset | practice | ~15 | ordinary regression on spatial data is usually wrong, and this is where you find out |
-| 27 | Griffith (1921), "The Phenomena of Rupture and Flow in Solids," with Hall (1951) and Petch (1953) | canon | ~4 | things break from cracks, and grain size is the cheapest strengthening mechanism |
-| 28 | James Blaut, *Eight Eurocentric Historians*, with Pomeranz, read against *Guns, Germs, and Steel*; Marshall's *Prisoners of Geography* treated as journalism | method | ~10 | environmental determinism is the field's oldest failure mode; inoculate deliberately |
-| 29 | The Materials Project database, with pycalphad for a phase diagram you compute yourself | data | ~10 | free, enormous, and the computational half costs nothing but attention |
-| 30 | John Kay, *Other People's Money*, with Michael Lewis's *Liar's Poker* and *The Big Short* as texture | survey | ~16 | Kay for what finance is for; Lewis is reportage and belongs to the curiosity budget |
-| 31 | Our World in Data and the CIA *World Factbook* | data | ~5 | free reference infrastructure worth knowing exists |
-| 32 | Travel as field equipment — three weeks in one place | practice | ~— | the variable is duration, not distance |
-| 33 | The three artifacts | artifact | ~55 | see below |
+**Buy this year.** The **metallography setup** — mounting and polishing
+consumables, etchants, and an inexpensive metallurgical microscope — which is
+the year's real purchase and converts materials science from reading into
+laboratory work. The **alumni library account** ($50–200/yr) earns its keep
+across all three finishing domains at once: *NEJM*, *The Lancet*, BMJ and the
+law reviews. The ***Times Comprehensive Atlas of the World*** ($150–250), or
+the *National Geographic Atlas* as the cheaper alternative, plus **a wall map
+you see daily**, which beats a better one you shelve. Finance needs nothing:
+Ken French's data library, Damodaran's course and every 10-K ever filed are
+free, and buying data is the exact substitution error `kit.md` warns about.
 
-**Also running.** The second spike heads toward T1, and consolidation begins:
-finish the long arcs, turn scattered expertise into legible artifacts — a book,
-a body of work, a named method, a team that runs without you. The craft takes
-ladder rung 6 — **a piece with a curve you made rather than cut**, a bent
-lamination or a steam-bent component, which teaches planning because the clock
-starts when the glue opens. Teach one beginner. The capability logbook, the
-patch record, the weather station, the journal club of one and the trial-a-week
-all continue; the forecast log gets a market column this year, fed directly by
-the paper portfolio. Start learning deliberately from people two levels down —
-seniority insulates you from the new, and reverse-mentoring is the
-countermeasure.
-
-**Buy this year.** A **metallography setup**, which is cheaper than it sounds
-and genuinely doable at home — mounting and polishing consumables, etchants,
-and an inexpensive metallurgical microscope. This is the year's real purchase
-and it converts materials science from reading into laboratory work. Get
-**tensile testing** at a makerspace ($30–150/month) or a community college
-rather than buying anything for it; the Materials Project, Quantum ESPRESSO and
-pycalphad are free. Finance needs nothing at all — Ken French's data library,
-Damodaran's entire valuation course and every 10-K ever filed are free, and the
-temptation to buy data or a terminal is the exact substitution error `kit.md`
-warns about. For geography, **travel budgeted as field equipment rather than
-leisure** ($1,500–6,000, and a great deal less if you go slowly and stay put) —
-this is the one line where more money reliably buys more learning, because it
-buys duration; attach it to a field school, a language program, a specific set
-of buildings or a specific archive and it converts from tourism into study. For
-the desk: the ***Times Comprehensive Atlas of the World*** ($150–250), or the
-*National Geographic Atlas* ($100–170) as the cheaper alternative, plus
-topographic sheets and **a wall map you see daily**, which beats a better one
-you shelve. QGIS, OpenStreetMap and Natural Earth are free.
-
-**The artifacts.** 2,000 words on steel down the full chain: the iron–carbon
-phase diagram, what quenching and tempering do to microstructure, and why a
-razor blade, a bridge cable and a sword need three different microstructures
-from nearly the same alloy system — illustrated with your own etched samples. A
-DCF for one real public company built from its own 10-K, not a summary site,
-with every assumption stated; then inverted, computing what growth rate the
-current price implies, plus 1,500 words on why the market might be right and
-you wrong. And one strait, basin or borderland — Malacca, Hormuz, the Nile, the
-North European Plain, the Taiwan Strait — in 2,000 words on what geography
-constrains there, what it demonstrably does *not* constrain, and how technology
-changed the constraint over a century, with a map you made yourself in QGIS on
-a defensible projection. Optionally a paper portfolio run against a broad index
-for six months, with the postmortem written honestly.
+**The artifacts.** *Earth science* — 2,000 words deriving the greenhouse
+effect from first principles: blackbody balance, why the surface exceeds the
+effective temperature, what doubling CO₂ does before feedbacks, and exactly
+where the uncertainty lives, with the rebuilt temperature series and its
+adjustments defended alongside. *Law* — three cases briefed in standard
+format, then 1,500 words tracing how one doctrine shifted across them and
+arguing whether the shift was interpretation or policy. *Medicine* — one
+common condition written as a whole chain in 2,500 words: normal physiology,
+what breaks, how it presents, what each first-line treatment does
+mechanistically, and what the trials showed in absolute risk and number
+needed to treat.
 
 ---
 
-## Year 12 — Education · Engineering: energy & power systems · Engineering: structures & the built environment
+## Year 12 — the applied cluster opens while the desk work closes
 
-**The order, and why.** The applied cluster opens here, and from now until year
-14 a year should read half like a build log. *Make It Stick* comes first and
-you have almost certainly read it already — read it again from the teacher's
-chair, which is a different book, because the class you teach this year is the
-year's real instrument and it needs pre/post assessments you wrote rather than
-a syllabus you admired. MacKay is next and alone on his side, because he fixes
-the units — kWh per person per day — and every item after is easier once your
-arithmetic has somewhere to land; then you instrument your own house before you
-read anyone else's numbers. Gordon you read last year for materials, so
-structures opens instead on breaking something small: the gap between your
-predicted failure load and the actual break is the fastest feedback this field
-offers, and it should happen in February. Tools come last on both engineering
-sides, always — a power flow or a frame analysis you cannot sanity-check by
-hand is a liability, and that is how engineers actually get hurt.
+**Finishing** *(second year — canon, course, artifact)*: Materials science · Finance & markets · Geography & geopolitics
+**Starting** *(first year — doors and surveys)*: Education · Engineering: energy & power systems · Engineering: structures & the built environment
+**Clusters live this year:** Physical · Human & social · Made & applied
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Brown, Roediger & McDaniel, *Make It Stick* | survey (door) | ~10 | re-read from the teacher's chair; it converts a large literature into things you can do this week |
-| 2 | David MacKay, *Sustainable Energy — Without the Hot Air* (free at withouthotair.com) | survey (door) | ~20 | it refuses to argue with adjectives, and after it you cannot read energy journalism the same way |
-| 3 | Ladder rung 1 (structures) — build a model truss or beam, write down the predicted failure load, then break it | project | ~6 | a weekend, in February, and the gap is the lesson |
-| 4 | Ladder rung 1 (energy) — clamp meter and plug loggers on your own house; a real load profile; predict next month's bill to within 5% | project | ~12 | your own numbers before anyone else's, and the prediction is the test |
-| 5 | J.E. Gordon, *Structures*, re-opened for the load path alone, with *The New Science of Strong Materials* already behind you | canon (door) | ~5 | last year you read him for fracture; this year you read him for the path force takes |
-| 6 | Daniel Willingham, *Why Don't Students Like School?* | survey | ~10 | short, and scrupulous about what the evidence does and doesn't support |
-| 7 | Mario Salvadori, *Why Buildings Stand Up*, then Levy & Salvadori, *Why Buildings Fall Down* | survey | ~18 | read as a set; the second grades the first |
-| 8 | Vaclav Smil, *Energy: A Beginner's Guide*, with Grady Hillhouse's *Practical Engineering* videos | survey / video | ~16 | the technical sweep compactly, and free grid intuition before the math arrives |
-| 9 | MIT OCW **1.050 Engineering Mechanics I** | course | ~40 | statics and mechanics of materials, the entire foundation — do the problem sets or don't bother |
-| 10 | Daisy Christodoulou, *Seven Myths About Education* | survey | ~10 | the systematic demolition of what schools believe without evidence |
-| 11 | Alexandra von Meier, *Electric Power Systems: A Conceptual Introduction* | spine | ~18 | the clearest bridge from literacy into the real math |
-| 12 | Oakley & Sejnowski, *Learning How to Learn* (Coursera, free), then Oakley's *Uncommon Sense Teaching* | course | ~27 | the most enrolled course in the world, for defensible reasons — and you intend to teach |
-| 13 | MIT OCW, *Introduction to Electric Power Systems* (Kirtley), with MIT OCW *Sustainable Energy* for the systems view | course | ~30 | free, and it needs the calculus you have had since year 2 |
-| 14 | Teach a real class at a library or makerspace — pre/post assessments you wrote, item analysis, and a taxonomy of the errors your learners actually make | practice | ~30 | teaching is the final exam, used as a source and not just a test |
-| 15 | Sadi Carnot, *Reflections on the Motive Power of Fire* (1824) | canon | ~4 | short, foundational, readable — the ceiling under everything else |
-| 16 | Vitruvius, *Ten Books on Architecture*, Book I | canon | ~5 | firmitas, utilitas, venustas; skip the war machines unless curious |
-| 17 | Ladder rung 2 (structures) — something real and small, designed by you to code with a calculation package behind it: a deck, a shed, a retaining wall | project | ~30 | a package another engineer could check without phoning you |
-| 18 | Benjamin Bloom, "The 2 Sigma Problem" (1984, free, fifteen pages), with Dunlosky et al. (2013) | canon | ~8 | the benchmark every edtech claim should be measured against, and the field's best review |
-| 19 | MacKay's technical appendices (not the popular front half) | canon | ~12 | the same book at the tier you are now ready for |
-| 20 | Henry Petroski, *To Engineer Is Human* | canon | ~8 | design as a failure-driven process, which is the discipline's actual method |
-| 21 | A per-unit model of a small network, power flow solved by hand, then checked in MATPOWER or PyPSA | practice | ~18 | hand first, tool second — this is the order that keeps you honest |
-| 22 | John Dewey, *Democracy and Education* ch. 1–4 and 11, then *Experience and Education* | canon | ~15 | the second is short, and is Dewey correcting the progressives who claimed him |
-| 23 | ASCE 7 for the loads, alongside a gravity load takedown on a small building | practice | ~10 | the texts teach you to read the documents you will actually work from |
-| 24 | NREL's PVWatts and SAM — size a rooftop PV-plus-battery system, price it, compare against a year of your actual bills | practice | ~12 | then find out why your estimate was wrong, which is the actual exercise |
-| 25 | Paulo Freire, *Pedagogy of the Oppressed*, ch. 1–2, with Vygotsky, *Mind in Society* ch. 6 | canon | ~13 | the banking model named — and you have just spent a semester avoiding it |
-| 26 | Ladder rung 3 (structures) — a traditional timber frame, cut and raised, at a workshop | project | ~25 | joinery that resists by geometry teaches what fasteners hide |
-| 27 | Vaclav Smil, *Energy and Civilization: A History*, with *Power Density* | canon | ~26 | why energy is the substrate under every other domain, and the land-use argument done honestly |
-| 28 | David Billington, *The Tower and the Bridge*, with Stewart Brand, *How Buildings Learn* | canon | ~18 | structural art as a discipline with its own aesthetics, then the time dimension the textbooks omit |
-| 29 | Richard Mayer, *Multimedia Learning*, with Roediger & Karpicke (2006) and Kirschner, Sweller & Clark (2006) | spine | ~15 | you are producing teaching materials this year, so the cognitive-load evidence is operational |
-| 30 | The NIST investigations (World Trade Center, Champlain Towers South) and the Hyatt Regency walkway literature | primary | ~12 | study them as an ethics curriculum as much as a technical one |
-| 31 | IEA *World Energy Outlook*, NREL *Annual Technology Baseline*, EIA *Annual Energy Outlook*, plus a real interconnection study and the 2003 Northeast and February 2021 Texas event reports | data / primary | ~14 | the field's shared reality, and event reports are where the grid explains itself |
-| 32 | Ladder rung 4 (structures) — instrument a real footbridge with accelerometers, extract the modal frequencies, compare to your hand model | project | ~12 | the year-9 microcontroller kit is the rig; measurement against prediction again |
-| 33 | Ladder rung 4 (energy) — rebuild a published dispatch or capacity-expansion study in PyPSA or MATPOWER from public data, and find where you disagree | project | ~25 | replication is the only reading of a model that counts |
-| 34 | Bridge — *Materials and structure*: Smil, *Making the Modern World: Materials and Dematerialization*, with Gordon and Vitruvius in hand | bridge | ~10 | which buildings were possible when, and why — architectural history with the physics restored |
-| 35 | The three artifacts | artifact | ~40 | see below |
+**The mix, and why.** This is the year the interleaving earns its keep,
+because materials science is finishing exactly as structures starts, and that
+is the same physics twice from two directions. You spend the first quarter in
+3.032 separating strength from stiffness from toughness, and the second
+quarter in 1.050 watching those three properties become a beam that either
+carries the load or does not; Griffith's 1921 crack paper and a model truss
+broken in February are the same sentence in two grammars. The second
+resonance is quieter and worth naming: MacKay's kWh per person per day and a
+DCF built from a real 10-K are both disciplines for refusing to argue with
+adjectives, and doing them in the same year makes the habit portable rather
+than domain-bound. Education starts here rather than later because you are
+about to spend three years explaining engineering to people, and the
+cognitive-load evidence is operational the moment you produce your first
+teaching material.
+
+**The rotation.** About 25 hours a week, of which roughly 9 go to the three
+finishing domains — heavily front-loaded, since 15.401 and Damodaran together
+want a real four-hour weekly slot from week 5 to week 24 and the geography
+canon is short pieces that fit anywhere. Roughly 12 go to the three starting
+domains, and the shape changes here: the workshop lands this year, so about
+four of those hours are bench and site hours rather than desk hours. Rung 1
+on both engineering sides is deliberately cheap and early — a truss broken in
+week 5, plug loggers on the house by week 6 — and rung 2 on the structures
+side, the deck or shed designed to code with a calculation package behind it,
+runs from week 24 to week 40 at three or four hours a week including the
+permitting, the site time and the arithmetic. The craft takes rung 7, a
+commission with someone else's brief and deadline, and quoting it correctly
+is half the lesson. Travel is taken as three consecutive weeks, not spread.
+
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–3 | Brown, Roediger & McDaniel, *Make It Stick*, re-read from the teacher's chair | Education | survey (door) | ~10 |
+| 2 | wks 1–5 | David MacKay, *Sustainable Energy — Without the Hot Air* (free) | Energy | survey (door) | ~20 |
+| 3 | wks 2–6 | Ladder rung 1 (energy) — clamp meter and plug loggers on your own house; a real load profile; predict next month's bill to within 5% | Energy | project | ~12 |
+| 4 | wks 4–6 | J.E. Gordon, *Structures*, re-opened for the load path alone | Structures | canon (door) | ~5 |
+| 5 | wks 4–10 | MIT OCW **3.032 Mechanical Behavior of Materials** | Materials | course | ~20 |
+| 6 | wks 5–6 | Ladder rung 1 (structures) — build a model truss or beam, write down the predicted failure load, then break it | Structures | project | ~6 |
+| 7 | wks 5–24 | MIT OCW **15.401 Finance Theory I** (Lo), with Damodaran's free valuation course | Finance | course | ~48 |
+| 8 | wks 6–10 | Daniel Willingham, *Why Don't Students Like School?* | Education | survey | ~10 |
+| 9 | wks 7–12 | Salvadori, *Why Buildings Stand Up*, then Levy & Salvadori, *Why Buildings Fall Down* | Structures | survey | ~18 |
+| 10 | wks 8–12 | Mackinder, "The Geographical Pivot of History" (1904); Mahan, *The Influence of Sea Power upon History*, introduction and ch. 1; Spykman, *America's Strategy in World Politics* | Geography | canon | ~16 |
+| 11 | wks 8–14 | Alexandra von Meier, *Electric Power Systems: A Conceptual Introduction* | Energy | spine | ~18 |
+| 12 | wks 10–16 | Home metallography, second pass — heat-treat and quench coupons, measure the hardness change | Materials | practice | ~13 |
+| 13 | wks 10–30 | MIT OCW **1.050 Engineering Mechanics I**, first half, problem sets done | Structures | course | ~20 |
+| 14 | wks 12–16 | Daisy Christodoulou, *Seven Myths About Education* | Education | survey | ~10 |
+| 15 | wks 14–20 | Ashby, *Materials Selection in Mechanical Design*, with one real selection problem worked on the charts | Materials | spine | ~12 |
+| 16 | wks 14–24 | MIT OCW, *Introduction to Electric Power Systems* (Kirtley), first half | Energy | course | ~15 |
+| 17 | wks 16–24 | Oakley & Sejnowski, *Learning How to Learn*, then Oakley's *Uncommon Sense Teaching* | Education | course | ~27 |
+| 18 | wks 18–22 | Vitruvius, *Ten Books on Architecture*, Book I | Structures | canon | ~5 |
+| 19 | wks 18–26 | A supervised land-cover classification, plus Moran's I on a real dataset | Geography | practice | ~15 |
+| 20 | wks 20–24 | Walter Bagehot, *Lombard Street* (1873) | Finance | canon | ~6 |
+| 21 | wks 22–26 | The Materials Project database, with pycalphad for a phase diagram you compute yourself | Materials | data | ~10 |
+| 22 | wks 24–28 | Carl Sauer, "The Morphology of Landscape" (1925); Harvey, *The Condition of Postmodernity*, Part III | Geography | canon | ~10 |
+| 23 | wks 24–40 | Ladder rung 2 (structures) — a deck, a shed or a retaining wall, designed by you to code with a calculation package another engineer could check without phoning you | Structures | project | ~30 |
+| 24 | wks 26–30 | Kindleberger & Aliber, *Manias, Panics, and Crashes* | Finance | canon | ~10 |
+| 25 | wks 26–32 | ASCE 7 for the loads, alongside a gravity load takedown on a small building | Structures | practice | ~10 |
+| 26 | wks 28–32 | Cyril Stanley Smith, *A Search for Structure* — the title essay and "Art, Technology and Science" | Materials | canon | ~5 |
+| 27 | wks 28–34 | IEA *World Energy Outlook*, NREL *Annual Technology Baseline*, EIA *Annual Energy Outlook*, plus a real interconnection study and the 2003 Northeast and February 2021 Texas event reports | Energy | data / primary | ~14 |
+| 28 | wks 28–40 | Vaclav Smil, *Energy and Civilization: A History*, with *Power Density* | Energy | canon | ~26 |
+| 29 | wks 30–34 | Griffith (1921), "The Phenomena of Rupture and Flow in Solids," with Hall (1951) and Petch (1953) | Materials | canon | ~4 |
+| 30 | wks 30–36 | Fama (1970), with Markowitz (1952), Black & Scholes (1973), Fama & French (1992) and Diamond & Dybvig (1983) | Finance | canon | ~11 |
+| 31 | wks 32–36 | Blaut, *Eight Eurocentric Historians*, with Pomeranz, read against *Guns, Germs, and Steel*; Marshall's *Prisoners of Geography* treated as journalism | Geography | method | ~10 |
+| 32 | wks 34–38 | Next year's class designed — syllabus, venue booked, pre-assessments written before a word of teaching material | Education | practice | ~12 |
+| 33 | wks 36–40 | Our World in Data and the CIA *World Factbook* | Geography | data | ~5 |
+| 34 | three weeks, taken whole | Travel as field equipment — three weeks in one place, attached to a field school, a language program or a specific archive | Geography | practice | ~20 |
+| 35 | wks 38–48 | The three artifacts | Materials · Finance · Geography | artifact | ~55 |
+
+**Year 12 total: ~538 hours.**
 
 **Also running.** The synthesis track opens: start the "these two should talk"
 list from `bridges.md` and write in it the moment something recurs — this
 year's grid work and this year's load paths are both about paths that must
-close, and that belongs in it on day one. The second spike is at or near T1 and
-comes first in any conflict. The craft takes ladder rung 7 — **a commission**:
-someone else's brief, deadline, budget and taste, delivered on time at the
-price you quoted, and quoting it correctly is half the lesson. The workshop
-begins in earnest. **Three lifetime practices start:** MacKay's household
-ledger, re-run every decade until it is a fifty-year dataset nobody else has;
-the load-path notebook, drawn for every building you enter, for decades; and
-teaching instrumented rather than merely performed — assessments written,
-errors taxonomised, gains measured against a baseline you defined in advance.
+close, and that belongs in it on day one. The second spike is at or near T1
+and comes first in any conflict. The craft takes ladder rung 7, a commission.
+**Three lifetime practices start:** MacKay's household ledger, re-run every
+decade until it is a fifty-year dataset nobody else has; the load-path
+notebook, drawn for every building you enter, for decades; and teaching
+instrumented rather than merely performed, which begins with the assessments
+you write this year for a class you have not yet taught.
 
 **Buy this year.** The multimeter at a genuine CAT III rating with fused
 current inputs, since you will be measuring mains, plus the clamp meter and
-plug loggers rung 1 needs. Then the workshop, in the order `kit.md` insists on:
-**safety equipment before the tools that need it** — ANSI-rated eye protection,
-hearing protection at NRR 25+, a fitted respirator with real dust extraction,
-and an ABC extinguisher within reach of the bench. Then the sharpening setup,
-bought good immediately, and a bench and vise — build the bench, buy the vise.
-The **artisan workshop fee for the timber framing** ($200–1,500 for a weekend
-to a week) is the best version of this money: concentrated hands-on instruction
-with tools you would otherwise buy and misuse. A **makerspace membership** if
-the bandsaw and planer question is starting to press. Borrow ASCE 7 and the
-AISC *Steel Construction Manual* through the alumni library rather than buying,
-and add associate membership of the IEEE Power & Energy Society for *IEEE
-Transactions on Power Systems*. The teaching venue is free — libraries,
-makerspaces and community centres usually say yes, and the deadline does the
-work. Spend what is left on **a paid editor** ($300–1,500) for the year's
-write-ups.
+plug loggers rung 1 needs. Then the workshop, in the order `kit.md` insists
+on: **safety equipment before the tools that need it** — ANSI-rated eye
+protection, hearing protection at NRR 25+, a fitted respirator with real dust
+extraction, and an ABC extinguisher within reach of the bench. Then the
+sharpening setup, bought good immediately, and a bench and vise: build the
+bench, buy the vise. A **makerspace membership** ($30–150/month), which is
+also where the tensile testing happens rather than on anything you own.
+Borrow ASCE 7 and the AISC *Steel Construction Manual* through the alumni
+library rather than buying, and add associate membership of the IEEE Power &
+Energy Society. **Travel budgeted as field equipment rather than leisure**
+($1,500–6,000, and far less if you go slowly and stay put) — the one line
+where more money reliably buys more learning, because it buys duration. The
+teaching venue is free. Spend what is left on **a paid editor** ($300–1,500).
 
-**The artifacts.** Run the learning experiment on yourself: take a body of
+**The artifacts.** *Materials* — 2,000 words on steel down the full chain:
+the iron–carbon phase diagram, what quenching and tempering do to
+microstructure, and why a razor blade, a bridge cable and a sword need three
+different microstructures from nearly the same alloy system, illustrated with
+your own etched samples. *Finance* — a DCF for one real public company built
+from its own 10-K, every assumption stated, then inverted to compute what
+growth rate the current price implies, plus 1,500 words on why the market
+might be right and you wrong. *Geography* — one strait, basin or borderland
+in 2,000 words on what geography constrains there, what it demonstrably does
+not, and how technology changed the constraint over a century, with a map you
+made yourself in QGIS on a defensible projection.
+
+---
+
+## Year 13 — the heaviest year, and half of it is a build log
+
+**Finishing** *(second year — canon, course, artifact)*: Education · Engineering: energy & power systems · Engineering: structures & the built environment
+**Starting** *(first year — doors and surveys)*: Engineering: machines, manufacturing & transport · Public health & care systems · Business, management & entrepreneurship
+**Clusters live this year:** Human & social · Made & applied
+
+**The mix, and why.** Only two clusters are live, which is the narrowest the
+rolling structure ever gets, and it is deliberate rather than an oversight —
+five of the six domains sit in Made & applied and the year is built to
+exploit that rather than apologise for it. The resonance that organises
+everything is that three different networks have to close in the same twelve
+months: a power flow that balances, a load path that reaches the ground, and
+a cash flow that gets collected. You solve the first by hand and check it in
+MATPOWER; you solve the second by hand and check it against accelerometers on
+a real footbridge; you solve the third by invoicing a stranger and finding
+out that collection is the part nobody warns you about. The second resonance
+is between the two evidence domains flanking them — Rothman's confounders and
+Mayer's cognitive-load experiments are the same problem in different clothes,
+and the class you teach this year is the one place you control the design
+well enough to see it.
+
+**The rotation.** About 25 hours a week and the mix is roughly 10 finishing,
+12 starting, with the balance to the spike and the standing tracks. Real
+shop and site hours dominate: the machining course is two evenings a week
+from January to May and owns the calendar, the timber-framing workshop is a
+solid week away from home in the middle of the year, and the footbridge
+instrumentation is two weekends with the year-9 microcontroller kit as the
+rig. Roughly 8 hours a week are hands on metal, timber or a clinic desk. The
+public health placement runs six months at 4 hours a week and cannot be
+compressed; the side business runs the back half of the year at 2 hours a
+week and cannot be started in December. The reading interleaves into the
+gaps rather than the other way round: Billington and Brand are evening
+reading across ten weeks, Dewey and Freire are Sunday mornings, and
+Crawford's *Shop Class as Soulcraft* is read while your hands hurt, which is
+the only condition under which it lands.
+
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–2 | David Macaulay, *The Way Things Work Now* | Machines | survey (door) | ~10 |
+| 2 | wks 1–2 | Steven Johnson, *The Ghost Map* | Public health | survey (door) | ~10 |
+| 3 | wks 1–3 | Josh Kaufman, *The Personal MBA* | Business | survey (door) | ~12 |
+| 4 | booked in Jan, wks 1–20 | A community college machining course — manual lathe and mill, cutting metal | Machines | course | ~45 |
+| 5 | wks 2–5 | The teardown — a derailleur, a stapler, a hard drive or a cordless drill taken apart and catalogued by function, material and process | Machines | artifact | ~15 |
+| 6 | wks 3–6 | Benjamin Graham, *The Interpretation of Financial Statements* | Business | survey | ~8 |
+| 7 | wks 3–28 | Ladder rung 3 (public health) — six months inside a real program: a clinic, a vaccination drive, a needle exchange, a food bank; or EMT-Basic certification | Public health | project | ~25 |
+| 8 | wks 4–8 | Sadi Carnot, *Reflections on the Motive Power of Fire* (1824) | Energy | canon | ~4 |
+| 9 | wks 4–10 | MIT OCW **1.050**, second half, problem sets done | Structures | course | ~20 |
+| 10 | wk 5 | Ladder rung 1 (business) — sell ten things to strangers and record the unit economics honestly, including your own time at a real rate | Business | project | ~8 |
+| 11 | wks 5–10 | Kenneth Rothman, *Epidemiology: An Introduction* | Public health | survey | ~18 |
+| 12 | wks 6–12 | MacKay's technical appendices, not the popular front half | Energy | canon | ~12 |
+| 13 | wks 6–16 | MIT OCW, *Introduction to Electric Power Systems* (Kirtley), finished | Energy | course | ~15 |
+| 14 | wk 8 | Ladder rung 1 (machines) — a Geneva drive or a Peaucellier linkage, printed or cut, then measured against its intended motion | Machines | project | ~10 |
+| 15 | wks 8–14 | Richard Mayer, *Multimedia Learning*, with Roediger & Karpicke (2006) and Kirschner, Sweller & Clark (2006) | Education | spine | ~15 |
+| 16 | wks 10–14 | Ladder rung 1 (public health) — reproduce a published figure from NHANES or BRFSS microdata and publish the code | Public health | project | ~12 |
+| 17 | wks 10–16 | This Old Tony and NYC CNC, with *Machinery's Handbook* beside the bench | Machines | video / reference | ~13 |
+| 18 | wks 12–20 | A per-unit model of a small network, power flow solved by hand, then checked in MATPOWER or PyPSA | Energy | practice | ~18 |
+| 19 | wks 14–20 | Johns Hopkins, *Epidemiology in Public Health Practice*, or UNC's *Epidemiology: The Basic Science of Public Health* | Public health | course | ~25 |
+| 20 | wks 14–24 | The class taught at a library or makerspace — item analysis, and a taxonomy of the errors your learners actually make | Education | practice | ~18 |
+| 21 | wks 16–20 | John Snow, *On the Mode of Communication of Cholera* (1855) — the Broad Street pump and the South London water comparison | Public health | canon | ~5 |
+| 22 | wks 16–22 | Ladder rung 3 (structures) — a traditional timber frame, cut and raised, at a workshop | Structures | project | ~25 |
+| 23 | wks 18–22 | Bloom, "The 2 Sigma Problem" (1984), with Dunlosky et al. (2013) | Education | canon | ~8 |
+| 24 | wks 18–26 | Womack, Jones & Roos, *The Machine That Changed the World*, with Goldratt, *The Goal* | Machines | survey | ~18 |
+| 25 | wks 20–26 | Andy Grove, *High Output Management*, with Drucker, *The Effective Executive* | Business | canon | ~15 |
+| 26 | wks 20–30 | NREL's PVWatts and SAM — size a rooftop PV-plus-battery system, price it, compare it against a year of your actual bills, then find out why your estimate was wrong | Energy | practice | ~12 |
+| 27 | wks 22–28 | Henry Petroski, *To Engineer Is Human* | Structures | canon | ~8 |
+| 28 | wks 22–30 | Rob Fitzpatrick, *The Mom Test*, then thirty customer interviews before building anything | Business | practice | ~16 |
+| 29 | wks 24–30 | John Dewey, *Democracy and Education* ch. 1–4 and 11, then *Experience and Education* | Education | canon | ~15 |
+| 30 | wks 26–32 | Matthew Crawford, *Shop Class as Soulcraft* | Machines | canon | ~6 |
+| 31 | wks 26–34 | Factory and industrial heritage tours — the knowledge lives on the floor, not in the CAD file | Machines | place | ~5 |
+| 32 | wks 28–38 | David Billington, *The Tower and the Bridge*, with Stewart Brand, *How Buildings Learn* | Structures | canon | ~18 |
+| 33 | wks 30–36 | Y Combinator's *Startup School* and the Stanford *How to Start a Startup* lectures — Graham, Altman, Chesky | Business | course | ~12 |
+| 34 | wks 30–40 | Ladder rung 2 (business) — a side business started toward its first $1,000: priced, delivered, invoiced | Business | project | ~15 |
+| 35 | wks 32–38 | Paulo Freire, *Pedagogy of the Oppressed* ch. 1–2, with Vygotsky, *Mind in Society* ch. 6 | Education | canon | ~13 |
+| 36 | wks 32–40 | The NIST investigations (World Trade Center, Champlain Towers South) and the Hyatt Regency walkway literature, studied as an ethics curriculum | Structures | primary | ~12 |
+| 37 | wks 34–42 | Ladder rung 4 (energy) — rebuild a published dispatch or capacity-expansion study in PyPSA or MATPOWER from public data, and find where you disagree | Energy | project | ~25 |
+| 38 | wks 36–42 | Ladder rung 4 (structures) — instrument a real footbridge with accelerometers, extract the modal frequencies, compare them to your hand model | Structures | project | ~12 |
+| 39 | wks 38–44 | Bridge — *Materials and structure*: Smil, *Making the Modern World*, with Gordon and Vitruvius in hand | Structures | bridge | ~10 |
+| 40 | wks 40–48 | The three artifacts | Education · Energy · Structures | artifact | ~40 |
+
+**Year 13 total: ~603 hours.** This is the heaviest year in the plan and the
+cut list matters: drop the factory tours, then Billington, then the *Materials
+and structure* bridge. Do not cut the machining course, the placement, the
+timber frame or the footbridge — this year's ledger is objects, line lists and
+invoices, and the reading is what explains them.
+
+**Also running.** The synthesis list now has three engineerings and two
+delivery systems in it, which is what interleaving the applied cluster was
+for. The craft takes ladder rung 8 — a tool of your own making, the point at
+which you stop being downstream of a catalogue — and the shop's "make one
+tool a year" practice starts here. Stewardship starts: this is a good year to
+begin the thing that teaches without you. **Three lifetime practices start.**
+The shop logbook: every job, every setup, every scrap part and why. ***MMWR*
+weekly, and it never stops.** And the decision journal: dated predictions with
+the reasoning, reviewed annually, with one annual report read a month
+alongside it.
+
+**Buy this year.** The machining course fee ($150–600 a semester) first, then
+a lathe *only if the course has made the case* — `kit.md` is explicit that the
+course precedes the metal lathe rather than follows it. *Machinery's
+Handbook*, bought once and kept forever. The **artisan workshop fee for the
+timber framing** ($200–1,500 for a weekend to a week), which is the best
+version of this money: concentrated hands-on instruction with tools you would
+otherwise buy and misuse. A 3D printer ($200–400) only if you already have
+parts you want and can model them. Laser cutters and CNC routers are what the
+makerspace membership is for. For public health, almost nothing physical —
+the alumni library account earns its keep on *The Lancet*, *NEJM* and the
+*American Journal of Epidemiology*. For business, nothing on a shelf: put
+money at risk in the side business at a size you can lose, and add a
+conference or industry meeting registration ($200–1,500).
+
+**The artifacts.** *Education* — the learning experiment run on yourself: take
 material you need anyway, split it, learn half by rereading and half by spaced
-retrieval, test cold at four and eight weeks, and write 1,500 words reporting
-your actual numbers plus an honest section on what your design cannot rule out.
-An energy balance for your own life in kWh/day — transport, heat, food,
-electricity, embodied goods — with a supply stack for your country that adds up
-to it, arithmetic published; if the columns don't balance you don't have an
-opinion yet. And the load-path essay: a bridge, a parking garage or a market
-hall you can physically reach, loads estimated from ASCE 7, 1,500 words on why
-it is shaped the way it is and what would have changed if the span doubled.
-Plus the taught class with its assessments and error taxonomy, the replication
-write-up naming where you disagree with the published study, the deck or shed
-permitted and standing with its calculation package, and the footbridge modal
+retrieval, test cold at four and eight weeks, and report your actual numbers
+in 1,500 words with an honest section on what your design cannot rule out,
+alongside the taught class with its assessments and error taxonomy. *Energy* —
+an energy balance for your own life in kWh/day with a supply stack for your
+country that adds up to it, arithmetic published, plus the replication
+write-up naming where you disagree with the published study. *Structures* —
+the load-path essay on a bridge, parking garage or market hall you can
+physically reach, loads estimated from ASCE 7, 1,500 words on why it is shaped
+the way it is and what would change if the span doubled, plus the deck or shed
+permitted and standing with its calculation package and the footbridge modal
 data.
 
 ---
 
-## Year 13 — Engineering: machines, manufacturing & transport · Public health & care systems · Business, management & entrepreneurship
+## Year 14 — seven domains live, and the last cohort opens
 
-**The order, and why.** Three things get booked in January because they own the
-calendar rather than the reading: the machining course, the six-month front-
-desk placement, and the side business that has to reach its first collected
-thousand. Macaulay is first and do not skip it because it looks like a
-children's book — it is the best mechanism-literacy text in print — and the
-teardown follows immediately, because cataloguing every part of a real machine
-by function, material and process makes every process chapter afterwards
-concrete. Johnson does the same job for public health: *The Ghost Map* shows an
-epidemiological argument being *constructed* against the consensus rather than
-handing you its conclusion, and that is the habit the whole year is about.
-Kaufman maps business honestly in one volume and points at the real books, and
-Graham on financial statements comes immediately after, because you cannot
-claim literacy here without reading a balance sheet and this is the cheapest
-possible fix. This is the heaviest year in the plan; the cut-first line below
-is not decoration.
+**Finishing** *(second year — canon, course, artifact)*: Engineering: machines, manufacturing & transport · Public health & care systems · Business, management & entrepreneurship
+**Starting** *(first year — doors and surveys)*: Media & communication · Military history & strategy · Design · Agriculture & food systems
+**Clusters live this year:** Living · Human & social · Made & applied
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | David Macaulay, *The Way Things Work Now* | survey (door) | ~10 | mechanism literacy, and the fastest hundred pages in the plan |
-| 2 | Steven Johnson, *The Ghost Map* | survey (door) | ~10 | an argument being assembled against the consensus, not a conclusion delivered |
-| 3 | Josh Kaufman, *The Personal MBA* | survey (door) | ~12 | maps the territory honestly and points at the real books |
-| 4 | A community college machining course — manual lathe and mill, cutting metal | course | ~45 | `kit.md`'s best value per dollar after tutoring, and there is no substitute |
-| 5 | The teardown artifact — take a machine apart and catalogue every part | artifact | ~15 | before the process reading, not after |
-| 6 | Ladder rung 3 (public health) — six months inside a real program: a clinic, a vaccination drive, a needle exchange, a food bank; or EMT-Basic certification if year 10 took the volunteering route | project | ~50 | the front desk, where public health actually lives or dies, and both routes are open to anyone |
-| 7 | Benjamin Graham, *The Interpretation of Financial Statements* (or Berman & Knight, *Financial Intelligence*) | survey | ~8 | short, old, still correct, and it fixes the one gap you cannot bluff |
-| 8 | Kenneth Rothman, *Epidemiology: An Introduction* | survey | ~18 | short, by a master, and it teaches the concepts rather than the vocabulary |
-| 9 | Ladder rung 1 (business) — sell ten things to strangers and record the unit economics honestly, including your own time at a real rate | project | ~8 | a weekend, and "honestly" is the whole exercise |
-| 10 | Womack, Jones & Roos, *The Machine That Changed the World*, with Goldratt, *The Goal* | survey | ~18 | manufacturing *systems* differ by orders of magnitude, and a novel that teaches operations theory |
-| 11 | John Snow, *On the Mode of Communication of Cholera* (1855, free) — the Broad Street pump and the South London water comparison | canon | ~5 | the first natural experiment, in the author's own hand |
-| 12 | Ladder rung 1 (public health) — reproduce a published figure from NHANES or BRFSS microdata and publish the code | project | ~12 | your number will differ; finding out why is the education |
-| 13 | Andy Grove, *High Output Management*, with Drucker, *The Effective Executive* | canon | ~15 | the best book ever written on managing, and it is about leverage |
-| 14 | MIT OCW **2.007 Design and Manufacturing I** | course | ~20 | the design process plus the contest that motivates it |
-| 15 | Geoffrey Rose, *Rose's Strategy of Preventive Medicine* | canon | ~8 | the field's philosophical core in under 150 pages, and the prevention paradox inverts your intuitions |
-| 16 | Ronald Coase, "The Nature of the Firm" (1937), with Porter, *Competitive Strategy* ch. 1–3 | canon | ~10 | twenty pages that explain the existence of your employer, then the moat question |
-| 17 | Taiichi Ohno, *Toyota Production System*, with Frederick Taylor, *The Principles of Scientific Management* | canon | ~13 | inventory as a symptom, read against the man he was reacting to |
-| 18 | Johns Hopkins, *Epidemiology in Public Health Practice* (Coursera, auditable free); UNC's *Epidemiology: The Basic Science of Public Health* as the gentler alternative | course | ~25 | structure, from the field's leading school, at no cost |
-| 19 | Ladder rung 1 (machines) — a mechanism from scratch: a Geneva drive or a Peaucellier linkage, printed or cut, then measured against its intended motion | project | ~10 | a weekend, and it makes kinematics physical |
-| 20 | Rob Fitzpatrick, *The Mom Test*, then thirty customer interviews before building anything | practice | ~16 | how to ask without generating flattery, which is the entire skill |
-| 21 | Matthew Crawford, *Shop Class as Soulcraft* | canon | ~6 | why this work is worth doing at all, read while your hands hurt |
-| 22 | Y Combinator's *Startup School* and the Stanford *How to Start a Startup* lectures — Graham, Altman, Chesky; several others are filler | course | ~12 | free, and read Paul Graham's essays alongside |
-| 23 | Budynas & Nisbett, *Shigley's Mechanical Engineering Design* — the fatigue and bearing chapters properly | spine | ~12 | machines die from cycles, not single loads, and this is the half nobody does |
-| 24 | The artifact (public health) — three news health claims traced back to the actual study | artifact | ~20 | see below; three times is the point, not once |
-| 25 | Ladder rung 2 (business) — a side business to its first $1,000 of revenue: priced, delivered, invoiced, collected | project | ~30 | collection is the part nobody warns you about |
-| 26 | Ladder rung 2 (machines) — restore a machine to working spec: a hand plane, a small engine, a bicycle | project | ~15 | you find out what "spec" means by having to meet one |
-| 27 | Doll & Hill's British Doctors Study; the Framingham papers; Marmot's Whitehall studies | primary | ~10 | three landmarks that between them built the modern field |
-| 28 | This Old Tony and NYC CNC — real chips being cut, with *Machinery's Handbook* beside the bench | video / reference | ~13 | watching an experienced machinist think aloud beats most lectures per hour |
-| 29 | Ladder rung 3 (business) — a three-statement model of a public company, forecast a year out, filed dated and unopened until next year | project | ~20 | the error analysis is the course, and it lands in year 14 |
-| 30 | Cochrane, *Effectiveness and Efficiency*; Bradford Hill, "The Environment and Disease" (1965); Ioannidis (2005) | canon | ~8 | seventy pages, nine pages, and a correction — the field's epistemology in one sitting |
-| 31 | Ladder rung 3 (machines) — an assembly of a dozen parts with a real tolerance stack-up, made and fitted first-article | project | ~15 | getting it right once feels like magic and is just arithmetic |
-| 32 | Richard Rumelt, *Good Strategy Bad Strategy*, with Clayton Christensen, *The Innovator's Dilemma* | spine / canon | ~14 | the rare strategy book with actual content, and the disruption argument at its source |
-| 33 | James Jones, *Bad Blood*, and Rebecca Skloot, *The Immortal Life of Henrietta Lacks* | canon | ~10 | read both as the ethics curriculum, not as reading |
-| 34 | Ladder rung 4 (machines) — hold a tenth on the lathe and mill, then make five identical | project | ~20 | five identical is a different and much harder problem than one good one |
-| 35 | Ladder rung 4 (business) — own a P&L that is not yours: treasurer of a nonprofit, a team budget, a project with a real number attached | project | ~20 | fiduciary weight without needing to found anything |
-| 36 | Ladder rung 6 (public health) — an outbreak investigation done properly: case definition, line list, epidemic curve, hypothesis, control measure | project | ~20 | health departments take volunteers and CSTE runs the training |
-| 37 | The failure library — Lowenstein, *When Genius Failed*; McLean & Elkind, *The Smartest Guys in the Room*; Carreyrou, *Bad Blood* | canon | ~10 | this is where the real education is; business books are survivor-biased hypothesis generators |
-| 38 | Gawande's essays, with Drucker, *Managing Oneself* | survey / canon | ~7 | the delivery side the methods texts leave out, and twenty pages to reread every five years |
-| 39 | Bridge — *The politics of health numbers*: Porter, *Trust in Numbers*; Marmot, *The Status Syndrome*; Oreskes & Conway, *Merchants of Doubt* | bridge | ~12 | with the project: reconstruct one local disparity from open data, then name the official who could act |
-| 40 | Factory and industrial heritage tours | place | ~5 | the knowledge lives on the floor, not in the CAD file — go look at a floor |
-| 41 | The three artifacts | artifact | ~40 | see below |
+**Seven domains are live this year, not six.** C14 is the last cohort and
+agriculture joins it rather than waiting for a cohort that will never start,
+so four domains open here and four finish next year. That is a real overload
+and the honest response is to say so and plan for it: the four starting
+domains are deliberately held at door-and-survey weight, roughly seventy
+hours each, and none of them opens a heavy course. The load is manageable
+because the three finishing domains are mostly project rungs you have been
+walking toward for a year, not new reading.
 
-**Cut first if the year runs long, and it will.** Hounshell's *From the
-American System to Mass Production* and Levinson's *The Box* — both real, both
-deferrable to the standing reading. Then Barry's *The Great Influenza*. Then
-the *Organisational ethnography* bridge (Vaughan's *The Challenger Launch
-Decision*, Orr's *Talking About Machines*) and the week of shadowing that goes
-with it, which move cleanly into year 14 beside the media work. Do not cut the
-machining course, the placement, the five identical parts, or the collected
-thousand dollars. This year's ledger is objects, line lists and invoices, and
-the reading is what explains them.
+**The mix, and why.** The resonance to work is Pye's, though you will not read
+him until next year: five identical parts held to a tenth on the lathe is the
+workmanship of certainty, and twelve monthly redesigns tested on five people
+each is the workmanship of risk, and running them in the same twelve months is
+the cheapest way to feel the difference rather than merely define it. The
+second is that public health finishes as agriculture starts, and the handoff
+is exact — Poore & Nemecek is a public-health-shaped paper about food, and you
+read it with the outbreak line list still on your desk. Third, and less
+obvious: the business failure library and Allison's three models of one crisis
+are both arguments that organisations fail for reasons the participants cannot
+see, which is also what the 737 MAX documents say.
 
-**Also running.** The synthesis list now has three engineerings and two
-delivery systems in it, which is the point of taking the applied cluster in a
-block — the same habit of mind, repeatedly. The craft takes ladder rung 8 — **a
-tool of your own making**: a plane, a knife, a marking gauge, a jig — the point
-at which you stop being downstream of a catalogue, and the shop's "make one
-tool a year" practice starts here. Stewardship starts: this is a good year to
-begin the thing that teaches without you. **Three lifetime practices start.**
-The shop logbook: every job, every setup, every scrap part and why. ***MMWR*
-weekly, and it never stops** — forty years of it is pattern recognition you
-cannot buy. And the decision journal: dated predictions with the reasoning,
-reviewed annually, the only defence against remembering yourself as having been
-right, with one annual report read a month alongside it.
+**The rotation.** About 25 hours a week, split roughly 10 to the three
+finishing domains, 11 across the four starting ones — which is under three
+hours a week each and is exactly why they are held to doors and surveys — and
+the balance to the spike and the standing tracks. Shop hours stay high: the
+tolerance stack-up and the five identical parts are perhaps 5 hours a week
+from week 10 to week 30, and the machine restoration is weekend work.
+Agriculture's season is not negotiable and not compressible — the beds go in
+when the ground is warm and the records are kept weekly from that day, about
+1.5 hours a week from soil test to last harvest. The twelve monthly redesigns
+are one weekend a month all year, which is the discipline that makes them
+work. The craft reaches rung 9, a body of work — twenty or more pieces with a
+recognizable hand, made at a speed someone could live on.
 
-**Buy this year.** The machining course fee ($150–600 a semester) first. Then a
-lathe *if the course has made the case* — `kit.md` is explicit that the
-machining course should precede the metal lathe rather than follow it, and that
-the metal lathe is the machine that lets you make machines. *Machinery's
-Handbook*, bought once and kept forever; learn to find things in it. A 3D
-printer ($200–400) only if you already have parts you want and can model them —
-otherwise use a print service until a specific part is the reason. Laser
-cutters and CNC routers are what makerspaces are for; do not buy one. For
-public health, almost nothing physical: the alumni library account earns its
-keep on *The Lancet*, *NEJM* and the *American Journal of Epidemiology*, and R
-or Python and every dataset named above are free. For business, nothing on a
-shelf — put money at risk in the side business instead, at a size you can lose,
-and add a conference or industry meeting registration ($200–1,500), where you
-go as a non-academic and nobody checks.
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–2 | Neil Postman, *Amusing Ourselves to Death* | Media | survey (door) | ~8 |
+| 2 | wks 1–3 | Don Norman, *The Design of Everyday Things* (revised edition) | Design | survey (door) | ~12 |
+| 3 | wks 1–4 | Cathal Nolan, *The Allure of Battle* | Military | survey (door) | ~20 |
+| 4 | wks 1–12 | Ladder rung 2 (business) — the side business's first $1,000 collected: chased, banked, unit economics honest | Business | project | ~12 |
+| 5 | wks 2–4 | Matthew Butterick, *Practical Typography* (free), with Dieter Rams' ten principles | Design | course / canon | ~9 |
+| 6 | first warm week | A soil test through the agricultural extension service, and a call to the extension office | Agriculture | practice | ~4 |
+| 7 | wks 3–8 | Michael Pollan, *The Omnivore's Dilemma* — read as journalism, then corrected | Agriculture | survey (door) | ~12 |
+| 8 | wks 3–10 | MIT OCW **2.007 Design and Manufacturing I** | Machines | course | ~20 |
+| 9 | wks 4–8 | Ronald Coase, "The Nature of the Firm" (1937), with Porter, *Competitive Strategy* ch. 1–3 | Business | canon | ~10 |
+| 10 | wks 4–28 | Ladder rung 3 (public health) — the six-month placement completed, and the front desk written up | Public health | project | ~25 |
+| 11 | wks 5–10 | Magdoff & van Es, *Building Soils for Better Crops* (free PDF) | Agriculture | survey | ~15 |
+| 12 | monthly, all year | Ladder rung 1 (design), months 1–6 — redesign one real thing a month (a form, a sign, a label) and test it on five people | Design | project | ~20 |
+| 13 | wks 6–12 | Walter Lippmann, *Public Opinion* (1922), Part I | Media | canon | ~12 |
+| 14 | wks 8–12 | Geoffrey Rose, *Rose's Strategy of Preventive Medicine* | Public health | canon | ~8 |
+| 15 | wks 8–14 | Michael Howard, *War in European History*, then John Keegan, *The Face of Battle* | Military | survey | ~18 |
+| 16 | the season, wks 8–40 | The season — a market-garden bed sequence with records: yield per bed-foot, inputs, irrigation, labour hours, failures; a compost pile monitored with a thermometer; germination tests; an amendment and pest log | Agriculture | project | ~22 |
+| 17 | wks 10–16 | Lidwell, Holden & Butler, *Universal Principles of Design* | Design | survey | ~8 |
+| 18 | wks 10–20 | Ladder rung 3 (machines) — an assembly of a dozen parts with a real tolerance stack-up, made and fitted first-article | Machines | project | ~12 |
+| 19 | wks 12–18 | Taiichi Ohno, *Toyota Production System*, with Frederick Taylor, *The Principles of Scientific Management* | Machines | canon | ~13 |
+| 20 | wks 12–20 | Ladder rung 3 (business) — a three-statement model of a public company, forecast a year out, filed dated and unopened until next year | Business | project | ~18 |
+| 21 | wks 14–20 | Doll & Hill's British Doctors Study; the Framingham papers; Marmot's Whitehall studies | Public health | primary | ~10 |
+| 22 | wks 14–24 | Denis McQuail (with Deuze), *Mass Communication Theory* | Media | survey | ~18 |
+| 23 | wks 16–22 | Ruth DeFries, *The Big Ratchet* | Agriculture | survey | ~8 |
+| 24 | wks 16–24 | Steve Krug, *Rocket Surgery Made Easy*, then actually run the sessions with strangers | Design | practice | ~13 |
+| 25 | wks 18–24 | Ladder rung 1 (military) — reconstruct the order of battle for one day of one action from primary sources, and notice how much the narrative histories silently invented | Military | project | ~15 |
+| 26 | wks 20–26 | Budynas & Nisbett, *Shigley's Mechanical Engineering Design* — the fatigue and bearing chapters properly | Machines | spine | ~12 |
+| 27 | wks 20–30 | The content analysis begins — one event, six outlets across at least two countries, coding scheme written first, sample drawn | Media | artifact | ~16 |
+| 28 | wks 22–28 | Richard Rumelt, *Good Strategy Bad Strategy*, with Clayton Christensen, *The Innovator's Dilemma* | Business | spine / canon | ~14 |
+| 29 | wks 24–30 | Cochrane, *Effectiveness and Efficiency*; Bradford Hill, "The Environment and Disease" (1965); Ioannidis (2005) | Public health | canon | ~8 |
+| 30 | wks 24–32 | Martin van Creveld, *Supplying War* | Military | spine | ~12 |
+| 31 | wks 26–34 | Ladder rung 2 (machines) — restore a machine to working spec: a hand plane, a small engine, a bicycle | Machines | project | ~15 |
+| 32 | wks 26–34 | Ladder rung 4 (business) — own a P&L that is not yours: treasurer of a nonprofit, a team budget, a project with a real number attached | Business | project | ~15 |
+| 33 | wks 28–32 | Eliot Coleman, *The New Organic Grower*, with Carol Deppe, *The Resilient Gardener* | Agriculture | practice | ~12 |
+| 34 | wks 28–34 | Marshall McLuhan, *Understanding Media* ch. 1–4, with Stuart Hall, "Encoding/Decoding" (1973) | Media | canon | ~12 |
+| 35 | wks 30–36 | Bruno Munari, *Design as Art*, and Massimo Vignelli, *The Vignelli Canon* (free) | Design | canon | ~8 |
+| 36 | wks 30–40 | Ladder rung 4 (machines) — hold a tenth on the lathe and mill, then make five identical | Machines | project | ~15 |
+| 37 | wks 32–38 | James Jones, *Bad Blood*, and Rebecca Skloot, *The Immortal Life of Henrietta Lacks*, read as the ethics curriculum | Public health | canon | ~10 |
+| 38 | wks 32–40 | The failure library — Lowenstein, *When Genius Failed*; McLean & Elkind, *The Smartest Guys in the Room*; Carreyrou, *Bad Blood* | Business | canon | ~10 |
+| 39 | wks 34–40 | The failure literature as an interface problem — the Therac-25 papers, the Three Mile Island control room, the 2018 Hawaii false missile alert, the 737 MAX documents | Design | primary | ~10 |
+| 40 | wks 34–42 | Ladder rung 6 (public health) — an outbreak investigation done properly: case definition, line list, epidemic curve, hypothesis, control measure | Public health | project | ~15 |
+| 41 | wks 36–42 | Graham Allison, *Essence of Decision* | Military | canon | ~12 |
+| 42 | wks 36–42 | A yield-trend analysis built from FAOSTAT and USDA NASS, with Poore & Nemecek (2018) and Foley et al. (2011) beside it | Agriculture | data / primary | ~15 |
+| 43 | wks 38–44 | Bridge — *The politics of health numbers*: Porter, *Trust in Numbers*; Marmot, *The Status Syndrome*; Oreskes & Conway, *Merchants of Doubt*, with one local disparity reconstructed from open data and the official who could act named | Public health | bridge | ~12 |
+| 44 | wks 40–44 | Gawande's essays, with Drucker, *Managing Oneself* | Business | survey / canon | ~7 |
+| 45 | wks 40–48 | The three artifacts | Machines · Public health · Business | artifact | ~40 |
 
-**The artifacts.** The teardown: a derailleur, a stapler, a hard drive or a
-cordless drill, every part photographed and catalogued with its function,
-material and process, and 1,500 words on why each choice was made and what
-would change at 100× the volume. Three separate 1,500-word pieces, each taking
-a health claim currently in the news back to the study behind it — design,
-plausible confounders, the absolute rather than relative risk change, and
-whether the headline survives contact with the paper; do it three times and you
-will never be fooled the same way again. And the one-page model of a real
-company from its 10-K — where revenue enters, what it costs to serve, where the
-cash actually goes — with 1,500 words on where its advantage is structural and
-what would kill it in five years. Plus the first-article assembly that fitted,
-five identical parts within a tenth, the tool you made, the reproduced NHANES
-figure with its code, the outbreak line list, and the side business's first
-$1,000, collected.
+**Year 14 total: ~612 hours** — the top of the band, which is what carrying
+seven live domains costs. If it will not fit, the first cuts are Munari and
+Vignelli, then the *politics of health numbers* bridge, then Allison. Do not
+cut the twelve monthly redesigns, the season, or the five identical parts.
 
----
+**Also running.** Score year 13's three-statement forecast against what
+actually happened — the assignment, not an option, and the error analysis is
+where the business years finally pay. The synthesis work should have a named
+question by now, not a theme. The craft reaches ladder rung 9, a body of work
+shown or sold, made at a speed someone could live on; quality and speed
+together is the line between amateur and professional and this is the year it
+is crossed. **Three lifetime practices start.** The media diary: the same week
+each year, everything read, watched and heard, with sources, durations and an
+archived sample. One campaign a year studied from primary sources, with a
+commonplace book of sourced quotations and a battlefield a year walked
+deliberately. And the daily sketchbook, plus a standing critique group and a
+personal archive of collected artifacts — tickets, packaging, signage, forms.
 
-## Year 14 — Media & communication · Military history & strategy · Design
+**Buy this year.** A **duplex laser printer/scanner** ($150–300): twelve
+monthly redesigns means printing before-and-afters at real size, and inkjets
+are a false economy past occasional use. A **second large monitor** ($200–500).
+**A paid editor** ($300–1,500), which `kit.md` calls the single most
+underrated line item in the file. An **archive reader's card**, usually free,
+plus a phone scanning app and the discipline of recording the citation in the
+same moment. **Topographic sheets** for the terrain you will walk, and Society
+for Military History membership. A **museum or design-collection membership**
+($50–150/yr). For agriculture: the garden itself, seeds, soil and potting mix
+as consumables ($50–200/yr), a compost thermometer, and samples sent to the
+extension service ($15–30 for a real lab report) rather than home kits.
 
-**The order, and why.** Two of these three domains have no course worth
-structuring a year around, and the resource files say so plainly — so in both
-cases the artifact *is* the course, and both start in month two rather than as
-a December scramble. Postman goes first because he takes McLuhan's aphorism and
-turns it into a concrete arguable claim that transfers to every medium since.
-Nolan goes first on the military side because he attacks the illusion you
-almost certainly hold — that wars are decided by great battles — and nothing
-else in the field lands correctly until that is gone. Norman is the design door
-because his five words are load-bearing for everything after, and Butterick
-goes immediately second and out of tier order, since *Practical Typography* is
-free and improves every document you produce within a week, which pays back
-across every remaining artifact in the plan. Then the twelve monthly redesigns
-begin in January and repeat all year, because twelve small things tested on
-five people each beats any course.
-
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | Neil Postman, *Amusing Ourselves to Death* | survey (door) | ~8 | short, and it makes the medium-is-the-message claim arguable instead of decorative |
-| 2 | Cathal Nolan, *The Allure of Battle* | survey (door) | ~20 | it removes the decisive-battle illusion, and nothing else lands correctly until it is gone |
-| 3 | Don Norman, *The Design of Everyday Things* (revised edition) | survey (door) | ~12 | affordances, signifiers, mapping, feedback, constraints — five words that reorganize your eye |
-| 4 | Matthew Butterick, *Practical Typography* (free online), with Dieter Rams' ten principles | course / canon | ~9 | opinionated, free, and it improves every document you produce within a week |
-| 5 | Ladder rung 1 (design), twelve times — redesign one real thing a month (a form, a sign, a label) and test it on five people | project | ~40 | twelve of these beats any course, and Nielsen's five users is why cheap testing works |
-| 6 | The content analysis begins — one event, six outlets, coding scheme written first | artifact | ~30 | the doing is the course here; start it in month two, not month ten |
-| 7 | Michael Howard, *War in European History*, then John Keegan, *The Face of Battle* | survey | ~18 | short and dense, then what combat is actually like at eye level, before any theory |
-| 8 | Walter Lippmann, *Public Opinion* (1922), Part I — "The World Outside and the Pictures in Our Heads" | canon | ~12 | anticipated most of the field, and reads as current |
-| 9 | Lidwell, Holden & Butler, *Universal Principles of Design* | survey | ~8 | a browsable index for finding out what you don't know exists |
-| 10 | Thucydides — the funeral oration, the Corcyra passages, the Melian Dialogue, the Sicilian Expedition | canon | ~20 | skip much of the campaign narrative on a first pass; these four carry it |
-| 11 | McQuail (with Deuze), *Mass Communication Theory* | survey | ~22 | dry but complete, and it gives you the whole map with names attached |
-| 12 | Josef Müller-Brockmann, *Grid Systems in Graphic Design*, then Robert Bringhurst, *The Elements of Typographic Style* | canon | ~25 | the grid as an instrument for directing attention; most "bad design" is bad typography |
-| 13 | Clausewitz, *On War* (Howard & Paret) — Book One Chapter One, then Book Eight; Sun Tzu (Griffith or Sawyer), once | canon | ~12 | the trinity and friction; ninety minutes for Sun Tzu, and don't build a philosophy on him |
-| 14 | Marshall McLuhan, *Understanding Media*, ch. 1–4, with Stuart Hall, "Encoding/Decoding" (1973) | canon | ~10 | past chapter four it becomes aphorism; Hall is two hours and reception is not reception of intent |
-| 15 | Martin van Creveld, *Supplying War* | spine | ~12 | it will permanently change what you notice, which is the point of reading it early |
-| 16 | Steve Krug, *Rocket Surgery Made Easy*, then actually run the sessions with strangers | practice | ~15 | read it and then do it; watch yourself want to explain, and don't |
-| 17 | Herman & Chomsky, *Manufacturing Consent* — ch. 1 for the model, then skim the cases; Habermas, *The Structural Transformation of the Public Sphere*, introduction and ch. 6 | canon | ~16 | the structural filters, and the ideal type that real media never match |
-| 18 | Ladder rung 1 (military) — reconstruct the order of battle for one day of one action from primary sources | project | ~15 | and notice how much the narrative histories silently invented |
-| 19 | Christopher Alexander, *The Timeless Way of Building* (first hundred pages) and *A Pattern Language* (dip) | canon | ~12 | patterns as a language, and the argument that the objective is the real question |
-| 20 | McCombs & Shaw (1972); Entman (1993); Katz & Lazarsfeld, *Personal Influence*; Bakshy, Messing & Adamic (*Science*, 2015) | primary | ~12 | agenda setting, framing, two-step flow — the durable findings, in the original |
-| 21 | Peter Paret (ed.), *Makers of Modern Strategy*, and the 2023 Hal Brands edition | spine | ~20 | read both; they disagree usefully, and the disagreement is the education |
-| 22 | Edward Tufte, *The Visual Display of Quantitative Information*, reread | canon | ~5 | a year-1 statistics text, reread as a designer — and it retro-fits every chart you have made |
-| 23 | Ladder rung 2 (military) — design and play a wargame of a small engagement, then write down what your model got wrong | project | ~20 | designing one teaches more than playing fifty |
-| 24 | Benkler, Faris & Roberts, *Network Propaganda*, with Chris Bail, *Breaking the Social Media Prism* | canon | ~18 | the asymmetry finding, and how weak the echo-chamber story turned out to be |
-| 25 | David Pye, *The Nature and Art of Workmanship* | canon | ~10 | the workmanship of risk versus certainty will organize forty years of your thinking |
-| 26 | Content analysis at scale — Media Cloud, GDELT, the Internet Archive's TV News Archive; hand-code a sample, train a classifier, validate against human coders rather than against itself | practice | ~22 | free corpora, and the validation step is the one people skip |
-| 27 | Ladder rung 3 (military) — plan and lead a staff ride for other people on terrain you can reach | project | ~20 | explaining a decision while standing where it was made is the test |
-| 28 | Bruno Munari, *Design as Art*, and Massimo Vignelli, *The Vignelli Canon* (free) | canon | ~8 | playful and short, and wiser than they look |
-| 29 | Produce media yourself — write, edit, shoot, publish | practice | ~22 | the constraints of the form are invisible until you have hit them |
-| 30 | Ladder rung 5 (military) — a logistics reconstruction: a campaign's actual requirement in tons and calories per day against what moved | project | ~20 | this is also the *Logistics, weapons and war* bridge project, and van Creveld's method is reusable |
-| 31 | Bridge — *Engineering × Design*: Petroski, *The Evolution of Useful Things*, with Norman, Pye and Alexander in hand | bridge | ~12 | why objects that work well so often feel wrong — two years of engineering arguing back |
-| 32 | The bridge project — take an object you dislike using, document every error it induces, redesign and *build* it, then give version two to somebody else and watch them fail differently | project | ~20 | the building is what separates this from an opinion |
-| 33 | Graham Allison, *Essence of Decision* | canon | ~12 | three models of one crisis, and the best methodological training in `made-applied.md` |
-| 34 | Zeynep Tufekci, *Twitter and Tear Gas* (free online), with Tim Wu, *The Master Switch* | canon | ~18 | protest movements outside the West, and the cycle every information industry runs |
-| 35 | The failure literature — the Therac-25 papers, the Three Mile Island control room, the 2018 Hawaii false missile alert, the 737 MAX documents | primary | ~12 | what happens when the human is the last undesigned component |
-| 36 | *Parameters*, the *Naval War College Review*, *War on the Rocks*; the Nielsen Norman Group's free articles; the Reuters Institute *Digital News Report* | reference | ~14 | three free working references, read as series rather than snapshots |
-| 37 | The three artifacts | artifact | ~45 | see below |
-
-**Cut first if the year runs long.** Keegan's *A History of Warfare* and
-Freedman's *Strategy: A History* — the anthropological sweep and strategy
-outside the military frame, both genuinely worth it and both deferrable. Then
-Curran & Seaton's *Power Without Responsibility*. Do not cut the twelve monthly
-redesigns or the coding scheme; both are the year's real curriculum.
-
-**Also running.** Score year 13's three-statement forecast against what actually
-happened — that is the assignment, not an option, and the error analysis is
-where the business year finally pays. The synthesis work should have a named
-question by now, not a theme; `bridges.md` is strict about this, and the test is
-whether a specialist in A would punt it to B. The craft reaches ladder rung 9 —
-**a body of work**, twenty or more pieces with a recognizable hand, shown or
-sold, made at a speed someone could live on; quality and speed together is the
-actual line between amateur and professional, and this is the year the craft
-crosses it. Teaching continues, now at a serious level. **Three lifetime
-practices start.** The media diary: the same week each year, log everything you
-read, watch and hear with sources and durations, and archive a sample of the
-actual content — forty years of that is a longitudinal record of one
-information environment nobody else has. One campaign a year, studied from
-primary sources, with a written assessment you keep, a commonplace book of
-sourced quotations, and a battlefield a year walked deliberately. And the daily
-sketchbook, the single habit that most separates designers who improve from
-designers who plateau, plus a standing critique group and a personal archive of
-collected artifacts — tickets, packaging, signage, forms.
-
-**Buy this year.** A **duplex laser printer/scanner** ($150–300) if you don't
-have one: twelve monthly redesigns means printing before-and-afters at real
-size, and inkjets are a false economy past occasional use. A **second large
-monitor** ($200–500) for two documents at once. **A paid editor** ($300–1,500),
-which `kit.md` calls the single most underrated line item in the file, and a
-year spent producing media is exactly when line-level correction compounds. An
-**archive reader's card**, usually free — ID, proof of address, a short
-registration, and the first time you handle a document nobody has requested in
-eleven years, history stops being a genre — plus a phone scanning app and the
-discipline of recording the citation in the same moment. **Topographic sheets**
-for the terrain you will walk, and travel budgeted as field equipment and
-attached to a specific archive or a specific piece of ground. Society for
-Military History membership. A **museum or design-collection membership**
-($50–150/yr), where the argument is repetition: twenty short visits to look at
-four things. Optional: an artisan workshop in letterpress or bookbinding
-($200–1,500), since ink and paper refuse to be undone, and a used mirrorless
-body with one prime lens ($300–600) only if photography is the point rather than
-the record.
-
-**The artifacts.** The content analysis: one event, coverage sampled from six
-outlets across at least two countries, an explicit coding scheme, the sample
-coded, a subset re-coded two weeks later to measure your agreement with
-yourself, and 1,500 words on what varied, what didn't, and what your coding
-scheme couldn't see. The campaign reassessment: the information the commander
-had and when he had it, the constraints he could not change, and 2,000 words on
-whether the standard verdict on him is fair — hindsight is the field's
-occupational disease and this exercise is the cure. And the redesign done
-properly: one real thing that annoys you — a government form, a wayfinding
-sign, a remote control, an app screen — with a stated hypothesis about why the
-original fails, before-and-after, tested on five real people, reporting **what
-they did, not what they said**. Plus the wargame and its post-mortem, the staff
-ride you led, the logistics arithmetic, twelve monthly redesigns in a folder,
-the rebuilt object from the bridge project, and whatever you published as a
-producer rather than an analyst.
+**The artifacts.** *Machines* — the teardown written up: every part
+photographed and catalogued with function, material and process, and 1,500
+words on why each choice was made and what would change at 100× the volume,
+alongside the first-article assembly that fitted and five identical parts
+within a tenth. *Public health* — three separate 1,500-word pieces, each
+taking a health claim currently in the news back to the study behind it:
+design, plausible confounders, absolute rather than relative risk, and whether
+the headline survives contact with the paper, plus the outbreak line list and
+the reproduced NHANES figure with its code. *Business* — the one-page model of
+a real company from its 10-K, where revenue enters, what it costs to serve,
+where the cash actually goes, with 1,500 words on where its advantage is
+structural and what would kill it in five years, plus the collected thousand.
 
 ---
 
-## Year 15 — Agriculture & food systems · The ledger completes
+## Year 15 — four domains close, and then the ledger does
 
-**The order, and why.** The soil test goes in the ground's first warm week,
-before any reading, because everything else this year runs on a season you
-cannot reschedule. Pollan then comes first on the page and is read as
-journalism — he is excellent at seeing and unreliable at quantities — and is
-corrected immediately with Smil's numbers, which is the whole method of the
-year in one move. Magdoff & van Es sits second and out of the usual tier order
-because `living.md` is explicit that the strongest free material here is
-extension literature rather than a MOOC. Then the year turns, and the second
-queue is the one that matters: the ledger's forty-fourth domain closes and the
-consolidation work begins. Audit first, because the promotion decision
-downstream should be made from the record rather than from memory, and memory
-flatters. Then the re-foundation sweep, then the bridges, then the rereads, and
-only then the decisions. The rereads sit late deliberately — a book you first
-read in year 1 is a different book after forty-three literacy passes, and you
-want the audit's findings in your head while you reread.
+**Finishing** *(second year — canon, course, artifact)*: Media & communication · Military history & strategy · Design · Agriculture & food systems
+**Starting**: nothing. C14 was the last cohort; no domain opens this year.
+**Clusters live this year:** Living · Human & social · Made & applied
 
-**The agriculture queue.**
+**Four domains finish here, not three** — the consequence of agriculture
+joining C14 last year, and the reason this year carries a wider close than any
+before it. Nothing starts, which is what makes the second half of the year
+possible.
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 1 | A soil test through the agricultural extension service, and a call to the extension office | practice | ~4 | one lab result is worth ten home kits, and the office is the most underused free expertise in the domain |
-| 2 | Michael Pollan, *The Omnivore's Dilemma* | survey (door) | ~12 | four complete food chains made visible at once; read it, then correct it |
-| 3 | Magdoff & van Es, *Building Soils for Better Crops* (free PDF) | survey | ~15 | land-grant extension literature, genuinely excellent, and free |
-| 4 | The season — a market-garden bed sequence with records: yield per bed-foot, inputs, irrigation, labour hours, failures; a compost pile monitored with a thermometer; germination tests; an amendment and pest log | project | ~55 | grow at a scale that keeps books, not a windowsill; the season sets the calendar |
-| 5 | Vaclav Smil, *Enriching the Earth*, then *Should We Eat Meat?* | survey | ~18 | half the nitrogen in your body passed through an industrial reactor, and the livestock question done numerically |
-| 6 | Ruth DeFries, *The Big Ratchet* | survey | ~8 | the long-run framing, and it connects back to year 4's biology |
-| 7 | Albert Howard, *An Agricultural Testament* | canon | ~8 | the founding soil-and-compost text, and the origin of "organic" |
-| 8 | F.H. King, *Farmers of Forty Centuries* (1911), first four chapters | canon | ~5 | four thousand years of nutrient cycling before anyone had the chemistry |
-| 9 | Masanobu Fukuoka, *The One-Straw Revolution* | canon | ~4 | argue with it; that is what it is for |
-| 10 | David Montgomery, *Dirt: The Erosion of Civilizations* | canon | ~8 | soil as the thing civilizations spend rather than keep |
-| 11 | Amartya Sen, *Poverty and Famines* — the introduction and the Bengal 1943 chapter | canon | ~6 | famine as a failure of entitlement, not absolute scarcity, and it holds up |
-| 12 | A yield-trend analysis built from FAOSTAT and USDA NASS | data | ~12 | the numbers you will be arguing from for the next forty years, assembled yourself |
-| 13 | Poore & Nemecek (2018, *Science*); Foley et al., "Solutions for a Cultivated Planet" (2011) | primary | ~6 | probably the single most useful paper in the field, and the framing paper beside it |
-| 14 | A season of someone else's ground — a CSA, a WWOOF placement, a research farm | project | ~35 | your own plot will never teach you scale |
-| 15 | Eliot Coleman, *The New Organic Grower*, with Carol Deppe, *The Resilient Gardener* | practice | ~12 | the two most useful practical books, both by people who keep records |
-| 16 | Charles Mann, *The Wizard and the Prophet*, then Borlaug's 1970 Nobel lecture (free) | canon | ~13 | if you read one book here, this — the field's central argument staged as two biographies |
-| 17 | Peter Pringle, *The Murder of Nikolai Vavilov* | canon | ~8 | the seed bank, the siege of Leningrad, and what Lysenkoism cost |
-| 18 | Scott, *Seeing Like a State* — the high-modernist agriculture chapters, reread | canon | ~4 | you read it in year 11 for geography; it is a different book with a soil test in your hand |
-| 19 | The artifact — one crop, one region, the whole system | artifact | ~18 | see below |
-| 20 | Bridge — *The energy budget of food*: Odum, *Environment, Power, and Society*, and Altieri, *Agroecology*, against year 12's Smil and Montgomery above | bridge | ~15 | audit the full energy cost of one meal or one garden bed against calories delivered |
+**The mix, and why.** The resonance is methodological and it runs across all
+four: a coding scheme applied to six outlets, an order of battle rebuilt from
+unit records, a redesign tested on five people, and a season's bed records
+with yields and failures are four instances of the same discipline, which is
+writing down the rule before you look and then living with what the rule
+returns. Media and military are the sharpest pairing — both fields are built
+on contested sources where the standard account was assembled by someone with
+an interest, and Thucydides read in the same months as *Network Propaganda*
+makes that structural rather than cynical. Design and agriculture pair
+differently: Pye's workmanship of risk and a season of someone else's ground
+both say that the material has a vote, and that competence is what you have
+when the material votes against you.
 
-**Agriculture subtotal: ~266 hours. The ledger's forty-fourth domain closes
-here.**
+**The rotation.** About 25 hours a week, and the year splits cleanly in two.
+Through roughly week 34, about 15 hours a week go to the four finishing
+domains — front-loaded on the season, which is calendar-bound and starts in
+the first warm week on someone else's ground rather than your own, plus the
+second six monthly redesigns and the content analysis coding, which is
+grinding work best done in fixed two-hour blocks. Shop and studio time drops
+relative to years 12–14 but does not vanish: the *Engineering × Design* bridge
+requires the disliked object actually rebuilt, and the craft's rung 10 piece —
+built to be repaired and still in use in a hundred years — is real bench time.
+From about week 34 the balance inverts and the consolidation block takes the
+majority of the week, because the audit is not a weekend's work and the
+promotion decision should not be made tired.
 
-**The consolidation queue.** Nothing new gets opened below, and that constraint
-is the point — the material is what you already have. This is the hinge of the
-whole plan, and it arrives fifteen years earlier than the original schedule
-had it, which means the decisions taken here govern more remaining years than
-anyone drafting the old version imagined.
+| # | When | Material | Domain | Role | Hrs |
+|---|------|----------|--------|------|-----|
+| 1 | wks 1–4 | Clausewitz, *On War* (Howard & Paret) — Book One Chapter One, then Book Eight; Sun Tzu (Griffith or Sawyer), once | Military | canon | ~12 |
+| 2 | wks 1–6 | Josef Müller-Brockmann, *Grid Systems in Graphic Design*, then Robert Bringhurst, *The Elements of Typographic Style* | Design | canon | ~25 |
+| 3 | first warm week, wks 2–34 | A season of someone else's ground — a CSA, a WWOOF placement, a research farm; your own plot will never teach you scale | Agriculture | project | ~20 |
+| 4 | wks 2–10 | The content analysis coded — the sample worked, then a subset re-coded two weeks later to measure your agreement with yourself | Media | artifact | ~20 |
+| 5 | wks 4–10 | Vaclav Smil, *Enriching the Earth*, then *Should We Eat Meat?* | Agriculture | survey | ~18 |
+| 6 | wks 6–12 | Thucydides — the funeral oration, the Corcyra passages, the Melian Dialogue, the Sicilian Expedition | Military | canon | ~20 |
+| 7 | monthly, wks 1–24 | Ladder rung 1 (design), months 7–12, closing with the redesign done properly: a stated hypothesis about why the original fails, before-and-after, tested on five real people, reporting what they did rather than what they said | Design | project | ~20 |
+| 8 | wks 8–14 | Herman & Chomsky, *Manufacturing Consent* — ch. 1 for the model, then skim the cases; Habermas, *The Structural Transformation of the Public Sphere*, introduction and ch. 6 | Media | canon | ~16 |
+| 9 | wks 10–14 | Albert Howard, *An Agricultural Testament* | Agriculture | canon | ~8 |
+| 10 | wks 12–18 | Christopher Alexander, *The Timeless Way of Building* (first hundred pages) and *A Pattern Language* (dip) | Design | canon | ~12 |
+| 11 | wks 12–20 | Ladder rung 2 (military) — design and play a wargame of a small engagement, then write down what your model got wrong | Military | project | ~14 |
+| 12 | wks 14–18 | F.H. King, *Farmers of Forty Centuries* (1911), first four chapters; Masanobu Fukuoka, *The One-Straw Revolution*, argued with | Agriculture | canon | ~9 |
+| 13 | wks 14–22 | McCombs & Shaw (1972); Entman (1993); Katz & Lazarsfeld, *Personal Influence*; Bakshy, Messing & Adamic (2015) | Media | primary | ~12 |
+| 14 | wks 16–22 | David Pye, *The Nature and Art of Workmanship* | Design | canon | ~10 |
+| 15 | wks 18–24 | Peter Paret (ed.), *Makers of Modern Strategy*, and the 2023 Hal Brands edition — read both; the disagreement is the education | Military | spine | ~18 |
+| 16 | wks 20–26 | Amartya Sen, *Poverty and Famines* — the introduction and the Bengal 1943 chapter | Agriculture | canon | ~6 |
+| 17 | wks 20–28 | Benkler, Faris & Roberts, *Network Propaganda*, with Chris Bail, *Breaking the Social Media Prism* | Media | canon | ~15 |
+| 18 | wks 22–30 | Bridge — *Engineering × Design*: Petroski, *The Evolution of Useful Things*, with Norman, Pye and Alexander in hand, plus the object you dislike using documented, redesigned and rebuilt, then given to somebody else to fail differently | Design | bridge | ~18 |
+| 19 | wks 24–30 | Charles Mann, *The Wizard and the Prophet*, then Borlaug's 1970 Nobel lecture | Agriculture | canon | ~13 |
+| 20 | wks 24–32 | Ladder rung 5 (military) — a logistics reconstruction: a campaign's actual requirement in tons and calories per day against what actually moved | Military | project | ~14 |
+| 21 | wks 26–36 | Content analysis at scale — Media Cloud, GDELT, the Internet Archive's TV News Archive; hand-code a sample, train a classifier, validate against human coders rather than against itself | Media | practice | ~22 |
+| 22 | wks 30–36 | The four artifacts — the content analysis write-up, the campaign reassessment, the redesign report, and one crop in one region | Media · Military · Design · Agriculture | artifact | ~36 |
 
-| # | Material | Role | Hrs | Why here |
-|---|----------|------|-----|----------|
-| 21 | `templates/annual-review.md`, run at fifteen-year scale | audit | ~12 | answer from the record, not from memory — skim the weekly logs first, all of them |
-| 22 | `phases/decade-2-completion.md`, milestone list, answered honestly | audit | ~3 | including the uncomfortable one about being a genuine beginner at something recently |
-| 23 | Every "Re-foundation watch" paragraph in `resources/`, read in one sitting | audit | ~14 | forty-four of them; the ones that read as stale *are* the re-foundation queue |
-| 24 | `resources/bridges.md`, end to end, against your own "these two should talk" list | synthesis | ~12 | an idea you wrote down three times across five years has a question underneath it |
-| 25 | The "Beyond T1 — the long shelf" section of every promotion candidate | decision | ~15 | the branch point: saying yes to five means saying no to thirty-nine, and the long shelves are what the five open into |
-| 26 | Mortimer Adler, *How to Read a Book*, reread | reread | ~8 | the method from year 1, applied now by someone with forty-three passes behind it; you will find you have been half-doing it |
-| 27 | The Socratic dialogues, reread | reread | ~6 | sixty pages, and a different book entirely after law, politics, medicine, business and war |
-| 28 | David Pye, *The Nature and Art of Workmanship*, reread | reread | ~8 | the workmanship of risk reads differently after three engineering years and a body of work |
-| 29 | Thucydides, the Melian Dialogue, reread | reread | ~2 | fifteen pages that now have public health, business and strategy standing behind them |
-| 30 | Peter Drucker, *Managing Oneself*, reread | reread | ~1 | twenty pages, every five years; the habit starts properly here |
-| 31 | MacKay's household ledger, re-run against year 12's baseline | practice | ~8 | the second point on a fifty-year dataset nobody else has |
-| 32 | The lifetime-practice audit — all fifteen of them, checked for entries | audit | ~4 | a practice with no entries is a practice that ended; retire it deliberately rather than keep it on the list |
-| 33 | `kit.md`'s inventory walk and the consumables diagnostic, applied across the whole workshop | audit | ~6 | an hour with a list, through the house — **a tool with no consumable spend is a tool you are not using** |
-| 34 | The first bridge, chosen and fully scoped: the question named in one sentence, the reading assembled from `bridges.md`, the first sixty pages read | project | ~50 | the ledger was never a collection; it was the price of standing between two fields and being taken seriously by both |
-| 35 | Show the scope to a specialist on each side, separately, before committing a year to it | practice | ~6 | `bridges.md`'s countermeasure — if both wince, you learned something cheaply |
-| 36 | Stewardship — the course, curriculum, standard or open resource that teaches without you | project | ~45 | one good institution outlearns any individual, and vault-keeping is the named failure mode |
-| 37 | The craft, ladder rung 10 — teach it, and make one piece built to be repaired and still in use in a hundred years | project | ~40 | both are contributions of a kind books cannot be |
-| 38 | The next-phase sketch, written against `phases/decade-3-mastery.md` | artifact | ~10 | fifty-five years left and a completed map to work from, which is not a position the original schedule ever contemplated |
+**The four finishing domains: ~358 hours. The ledger's forty-fourth domain
+closes here.**
 
-**Consolidation subtotal: ~250 hours. Year 15 total: ~516 hours.**
+---
 
-**Also running.** Everything, unchanged and now a decade and a half old: spaced
-repetition, the weekly log, the frontier slot, current awareness, the curiosity
-budget. Fifteen lifetime practices are live by the end of this year — the AI
-capability logbook, the patch record, sitting on something, the observer-of-
-record series, being your own cohort, the journal club of one, MacKay's
-household ledger, the load-path notebook, instrumented teaching, the shop
-logbook, *MMWR* weekly, the decision journal, the media diary, one campaign a
-year, the daily sketchbook, and now the field book and soil history. The second
-spike is at T1 and the synthesis work has a named question. **The last lifetime
-practice starts with the season:** one piece of ground and an unbroken record
-of it — the same sample points, the same depth, the same laboratory, every
-three to five years for thirty years — plus a dated field book of last frost,
-sowing, emergence, flowering, harvest, yield per bed, rainfall, every failure
-and what you think caused it. Save seed from your own selections until you have
-a landrace adapted to your specific ground; that is a thirty-year artifact no
-catalogue can supply.
+### The consolidation block — the ledger completes
 
-**Buy this year.** A garden, soil test kits, and time — the slowest feedback
-loop of anything in the plan and worth it. Send samples to the extension
-service ($15–30 for a real lab report) rather than relying on home kits. Seeds,
-soil and potting mix as consumables ($50–200/yr under `kit.md`'s Living line).
-A fermentation setup ($30–60) — applied microbial ecology at kitchen scale,
-failing informatively. A compost thermometer; the regional field guides and the
-10× loupe you already own from year 9. Otherwise nothing, deliberately, with
-one exception: `kit.md`'s unglamorous upgrade — **the desk, the chair and the
-light, in that order** — which applies to every hour of every domain for the
-fifty-five years that follow, and is the best cost-per-year arithmetic in the
-file. The money the audit's conclusions call for gets spent in year 16, against
-whatever the promotion decision names, and not before.
+Nothing new gets opened below, and that constraint is the point: the material
+is what you already have. This is the hinge of the entire plan. The map is
+covered, roughly forty-five artifacts exist, and fifty-five years remain —
+which means the decisions taken in these weeks govern more remaining years
+than any decision you have made so far. Run it in order. The audit comes first
+because the promotion decision downstream should be made from the record
+rather than from memory, and memory flatters. Then the re-foundation sweep,
+then the bridges, then the rereads, and only then the decisions. The rereads
+sit late deliberately — a book you first read in year 1 is a different book
+after forty-three literacy passes, and you want the audit's findings in your
+head while you reread.
 
-**The artifacts.** One crop in one region, 2,500 words: agronomy, inputs,
-water, labour, subsidy regime, supply chain, environmental cost per kilogram —
-then model what a 30% yield shortfall or a price spike does to each link. Plus
-a full season's bed records with yields and failures, the FAOSTAT trend
-analysis, and the energy-per-calorie audit. Then the consolidation artifacts,
-which are the real output of the year: **the fifteen-year review**, written
-against the template and kept. **The re-foundation queue** — which domains have
-moved most since you learned them, named and ranked, with the stale
-"Re-foundation watch" paragraphs cited. **The promotion decision** — three to
-five domains taken to the long shelves, with the reasoning written down and the
-thirty-nine you are declining named too, because saying yes to five is the same
-act as saying no to thirty-nine and only one half of it feels like a decision.
-**The bridge scope**, one sentence for the question and a reading list behind
-it, already shown to a specialist on each side. And the next-phase sketch —
-because the plan does not end when the ledger does; that is the moment the
-bridges become visible.
+| # | When | Material | Role | Hrs |
+|---|------|----------|------|-----|
+| 23 | wks 34–37 | `templates/annual-review.md`, run at fifteen-year scale — answer from the record, not from memory, and skim the weekly logs first, all of them | audit | ~12 |
+| 24 | wk 37 | `phases/decade-2-completion.md`, milestone list, answered honestly — including the uncomfortable one about being a genuine beginner at something recently | audit | ~3 |
+| 25 | wks 37–40 | Every "Re-foundation watch" paragraph in `resources/`, read in one sitting — forty-four of them; the ones that read as stale *are* the re-foundation queue | audit | ~14 |
+| 26 | wks 38–41 | `resources/bridges.md`, end to end, against your own "these two should talk" list — an idea you wrote down three times across five years has a question underneath it | synthesis | ~12 |
+| 27 | wks 39–41 | The lifetime-practice audit — all sixteen of them, checked for entries; a practice with no entries is a practice that ended, so retire it deliberately | audit | ~4 |
+| 28 | wks 40–42 | `kit.md`'s inventory walk and the consumables diagnostic, applied across the whole workshop — a tool with no consumable spend is a tool you are not using | audit | ~6 |
+| 29 | wks 40–42 | MacKay's household ledger, re-run against year 12's baseline — the second point on a fifty-year dataset nobody else has | practice | ~8 |
+| 30 | wks 41–43 | Mortimer Adler, *How to Read a Book*, reread — you will find you have been half-doing it | reread | ~8 |
+| 31 | wks 42–43 | The Socratic dialogues, reread — a different book entirely after law, politics, medicine, business and war | reread | ~6 |
+| 32 | wks 42–43 | David Pye, *The Nature and Art of Workmanship*, reread — the workmanship of risk reads differently after three engineering years and a body of work | reread | ~8 |
+| 33 | wk 43 | Thucydides, the Melian Dialogue, reread; Drucker, *Managing Oneself*, reread | reread | ~3 |
+| 34 | wks 43–46 | The "Beyond T1 — the long shelf" section of every promotion candidate — the branch point: saying yes to five is saying no to thirty-nine | decision | ~15 |
+| 35 | wks 44–48 | The first bridge, chosen and fully scoped: the question named in one sentence, the reading assembled from `bridges.md`, the first sixty pages read | project | ~50 |
+| 36 | wks 46–47 | Show the scope to a specialist on each side, separately, before committing a year to it — if both wince, you learned something cheaply | practice | ~6 |
+| 37 | all year | Stewardship — the course, curriculum, standard or open resource that teaches without you | project | ~45 |
+| 38 | all year | The craft, ladder rung 10 — teach it, and make one piece built to be repaired and still in use in a hundred years | project | ~40 |
+| 39 | wks 46–48 | The next-phase sketch, written against `phases/decade-3-mastery.md` | artifact | ~10 |
+
+**Consolidation subtotal: ~250 hours. Year 15 total: ~608 hours.**
+
+**Also running.** Everything, unchanged and now a decade and a half old:
+spaced repetition, the weekly log, the frontier slot, current awareness, the
+curiosity budget. Sixteen lifetime practices are live by the end of this year
+— the AI capability logbook, the patch record, sitting on something, the
+observer-of-record series, being your own cohort, the journal club of one,
+MacKay's household ledger, the load-path notebook, instrumented teaching, the
+shop logbook, *MMWR* weekly, the decision journal, the media diary, one
+campaign a year with a battlefield walked and a staff ride led for other
+people, the daily sketchbook, and now the field book and soil history. The
+second spike is at T1 and the synthesis work has a named question. **The last
+lifetime practice starts with the season:** one piece of ground and an
+unbroken record of it — the same sample points, the same depth, the same
+laboratory, every three to five years for thirty years — plus a dated field
+book of last frost, sowing, emergence, flowering, harvest, yield per bed,
+rainfall, every failure and what you think caused it. Save seed from your own
+selections until you have a landrace adapted to your specific ground.
+
+**Buy this year.** Seeds, soil and potting mix as consumables ($50–200/yr),
+the CSA share or WWOOF placement costs, and a fermentation setup ($30–60) for
+applied microbial ecology at kitchen scale. Optionally an artisan workshop in
+letterpress or bookbinding ($200–1,500), since ink and paper refuse to be
+undone, and a used mirrorless body with one prime lens ($300–600) only if
+photography is the point rather than the record. Otherwise nothing,
+deliberately, with one exception: `kit.md`'s unglamorous upgrade — **the desk,
+the chair and the light, in that order** — which applies to every hour of
+every domain for the fifty-five years that follow, and is the best
+cost-per-year arithmetic in the file. The money the audit's conclusions call
+for gets spent in year 16, against whatever the promotion decision names, and
+not before.
+
+**The artifacts.** *Media* — one event, coverage sampled from six outlets
+across at least two countries, an explicit coding scheme, the sample coded, a
+subset re-coded two weeks later, and 1,500 words on what varied, what didn't,
+and what your coding scheme couldn't see. *Military* — the campaign
+reassessment: the information the commander had and when he had it, the
+constraints he could not change, and 2,000 words on whether the standard
+verdict is fair, plus the wargame post-mortem and the logistics arithmetic.
+*Design* — the redesign done properly, tested on five real people and reported
+on what they did rather than what they said, plus twelve monthly redesigns in
+a folder and the rebuilt object from the bridge project. *Agriculture* — one
+crop in one region, 2,500 words: agronomy, inputs, water, labour, subsidy
+regime, supply chain, environmental cost per kilogram, then a model of what a
+30% yield shortfall or a price spike does to each link, plus the season's bed
+records and the FAOSTAT trend analysis.
+
+**Then the consolidation artifacts, which are the real output of the year.**
+**The fifteen-year review**, written against the template and kept. **The
+re-foundation queue** — which domains have moved most since you learned them,
+named and ranked, with the stale "Re-foundation watch" paragraphs cited.
+**The promotion decision** — three to five domains taken to the long shelves,
+with the reasoning written down and the thirty-nine you are declining named
+too, because saying yes to five is the same act as saying no to thirty-nine
+and only one half of it feels like a decision. **The bridge scope**, one
+sentence for the question and a reading list behind it, already shown to a
+specialist on each side. And the next-phase sketch — because the plan does not
+end when the ledger does; that is the moment the bridges become visible.
 
 ---
 
