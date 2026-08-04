@@ -1,86 +1,456 @@
 # Learning Agenda
 
-A seventy-year learning agenda: a framework for deliberately building
-knowledge, skill, and judgment across a whole adult life — designed to survive
-career changes, technology shifts, and changes in what you care about.
+**A seventy-year plan to learn everything one mind can hold.**
 
-Year 1 is age 20. Year 70 is age 90.
+Not a reading list. A working system: 44 domains of human knowledge mapped into
+three depth tiers, sequenced year by year from age 20 to 90, with the material,
+the equipment, the habits, and the honest arithmetic to actually run it.
 
-## Why plan learning in decades?
+[**Quickstart**](QUICKSTART.md) · [**Timeline**](TIMELINE.md) ·
+[**Map**](02-map.md) · [**Resources**](resources/) ·
+[**Tracker**](log/tracker.md) · [**FAQ**](FAQ.md) ·
+[**Glossary**](GLOSSARY.md)
 
-Most learning plans fail because they are written at the wrong timescale.
-A semester plan can't tell you *what to get good at*; a vague ambition
-("become an expert") can't tell you *what to do this week*. This agenda works
-at four timescales that feed each other:
+---
 
-| Timescale | Document | Question it answers |
-|-----------|----------|---------------------|
-| Decades   | `phases/` | What kind of capability am I building toward? |
-| The whole arc | `03-spine.md` | What order does everything go in, and why? |
-| Years     | `templates/annual-plan.md` | What 2–3 things get serious investment this year? |
-| Weeks     | `templates/weekly-log.md` | What did I actually practice, build, and read? |
+## The premise
 
-## Structure
+Ten focused hours a week for seventy years is about 38,000 hours. That is
+enough to be **world-class in two or three fields, professionally competent in
+eight to twelve, and genuinely literate in every major domain of human
+knowledge** — with a language, a craft, and time left over.
 
+The arithmetic has never been the hard part. The hard part is knowing what to
+do in year 7, having material that doesn't run out in year 30, and building a
+system that survives the years when life wins. That's what this repo is.
+
+> **The one rule:** consistency beats intensity. No heroic sprints. The agenda
+> only asks that you never fully stop.
+
+---
+
+## How the pieces fit
+
+```mermaid
+flowchart TD
+    P["<b>01-principles</b><br/>how learning compounds"] --> M["<b>02-map</b><br/>44 domains, 3 tiers"]
+    M --> S["<b>03-spine</b><br/>the sequenced order"]
+    S --> T["<b>TIMELINE</b><br/>all 70 years, one page"]
+    T --> Q["<b>QUICKSTART</b><br/>your first 90 days"]
+
+    F["<b>04-frontier</b><br/>fields that don't exist yet"] -.-> M
+    C["<b>05-current</b><br/>the live layer"] -.-> M
+
+    R["<b>resources/</b><br/>every domain, every depth"] --> S
+    PH["<b>phases/</b><br/>what each decade is for"] --> T
+
+    Q --> L["<b>log/tracker</b><br/>where you actually are"]
+    L --> AR["<b>templates/</b><br/>annual + weekly loop"]
+    AR -.->|"revise"| M
+
+    style M fill:#2d4a63,stroke:#5a8cb8,color:#fff
+    style T fill:#2d4a63,stroke:#5a8cb8,color:#fff
+    style Q fill:#3d5a3d,stroke:#7aa87a,color:#fff
 ```
-01-principles.md          How learning actually compounds (methods that work)
-02-map.md                 The knowledge map — 44 domains, three depth tiers
-03-spine.md               The linear plan: everything sequenced, year 1 to 70
-04-frontier.md            The mobile slot: fields that don't exist yet
-05-current.md             News, journals, and staying awake — the live layer
-phases/
-  decade-1-foundations.md   Yrs 1–10  (20–30) fundamentals, breadth, first depth
-  decade-2-mastery.md       Yrs 11–20 (30–40) specialization, original work
-  decade-3-synthesis.md     Yrs 21–30 (40–50) synthesis; the ledger completes
-  decade-4-integration.md   Yrs 31–40 (50–60) integration, re-foundations
-  decade-5-reinvention.md   Yrs 41–50 (60–70) the free decade; third spike
-  decade-6-distillation.md  Yrs 51–60 (70–80) what survives you, made usable
-  decade-7-long-view.md     Yrs 61–70 (80–90) the view nobody younger has
-templates/
-  annual-plan.md            Fill out every January (or start of academic year)
-  annual-review.md          Fill out every December
-  weekly-log.md             Lightweight tracking, ~5 minutes per week
-resources/
-  <cluster>.md              Every domain at all three tiers: what the field asks,
-                            its big ideas, and T3/T2/T1 paths with texts and practice
-  modes.md                  The full range of sources beyond books
-  kit.md                    Equipment, access, and instruction — what to buy
-log/                        Your completed plans, reviews, and logs live here
+
+---
+
+## Start here
+
+Three steps, in order. The whole repo is downstream of these.
+
+1. **Read [`01-principles.md`](01-principles.md)** — the operating manual.
+   Twenty minutes, and everything else assumes it.
+2. **Open [`QUICKSTART.md`](QUICKSTART.md)** — day zero takes 30 minutes.
+   Install Anki, get a library card, publish 300 bad words. The first piece
+   being bad is load-bearing; it kills the standard that would otherwise stop
+   you.
+3. **Copy [`log/tracker.md`](log/tracker.md)** and fill in the status block.
+   That file is the only record that matters.
+
+<details>
+<summary><b>Where am I?</b> — jump to your year</summary>
+
+<br/>
+
+| If you are… | Age | Go to | Phase |
+|---|---|---|---|
+| Just starting | 20 | [Quickstart](QUICKSTART.md) → [Timeline yr 1](TIMELINE.md) | [Decade 1](phases/decade-1-foundations.md) |
+| In the trunk years | 20–30 | [Timeline: Decade 1](TIMELINE.md) | [Foundations](phases/decade-1-foundations.md) |
+| Building the second spike | 30–40 | [Timeline: Decade 2](TIMELINE.md) | [Mastery](phases/decade-2-mastery.md) |
+| In the applied decade | 40–50 | [Timeline: Decade 3](TIMELINE.md) | [Synthesis](phases/decade-3-synthesis.md) |
+| Past the ledger | 50–60 | [The Second Half](TIMELINE.md) | [Integration](phases/decade-4-integration.md) |
+| In the free decade | 60–70 | [Timeline: Decade 5](TIMELINE.md) | [Reinvention](phases/decade-5-reinvention.md) |
+| Distilling | 70–80 | [Timeline: Decade 6](TIMELINE.md) | [Distillation](phases/decade-6-distillation.md) |
+| Taking the long view | 80–90 | [Timeline: Decade 7](TIMELINE.md) | [The Long View](phases/decade-7-long-view.md) |
+| Starting late, or behind | any | [Variants](TIMELINE.md#variants--pre-built-forks) · [FAQ](FAQ.md) | — |
+
+</details>
+
+---
+
+## The map — 44 domains
+
+Everything enters at **literacy** and is promoted only at an annual review.
+Concurrency caps hold at all times: 1–2 fields at mastery, 2–3 at working
+depth, ~2 new literacies a year.
+
+```mermaid
+mindmap
+  root((44 domains))
+    Formal
+      Mathematics
+      Logic
+      Statistics
+      Theoretical CS
+    Physical
+      Physics
+      Astronomy
+      Chemistry
+      Earth & climate
+      Materials
+    Living
+      Evolution
+      Genetics
+      Ecology
+      Medicine
+      Agriculture
+    Mind
+      Neuroscience
+      Psychology
+      Linguistics
+      AI
+    Human & social
+      History
+      Anthropology
+      Sociology
+      Politics
+      Law
+      Economics
+      Finance
+      Geography
+      Education
+      Media
+    Meaning
+      Philosophy
+      Religion
+      Literature
+      Music
+      Art
+      Film
+      Rhetoric
+    Made & applied
+      Energy
+      Structures
+      Machines
+      Computing
+      Public health
+      Business
+      Strategy
+      Design
+      Craft
 ```
 
-## How to use this repo
+<details>
+<summary><b>The full ledger</b> — check them off as you go</summary>
 
-1. **Read `01-principles.md` once.** It's the operating manual for everything else.
-2. **Read `02-map.md`.** The territory and the three depth tiers. Fill in the
-   tier-assignment table and rate yourself on the fundamentals.
-3. **Open `03-spine.md` to the current year.** It tells you which two domains
-   are up, why those and not others, what to buy, and what has to exist by
-   December. If you only ever read one file after the map, read this one.
-4. **Pull the details from `resources/`.** Every domain has a full entry —
-   what the field is asking, its big ideas, and paths at all three depths.
-   `modes.md` keeps you out of book-only ruts; `kit.md` says what to buy.
-5. **Set up the two live tracks once, then leave them running.** `05-current.md`
-   builds the news pipe; `04-frontier.md` holds a slot open for fields that
-   don't exist yet. Both are capped on purpose.
-6. **Copy `templates/annual-plan.md` into `log/` and fill it out** (e.g.
-   `log/2026-plan.md`). This is where the spine's year becomes your year.
-7. **Log weekly, review annually.** The weekly log is deliberately tiny so you
-   actually do it. The annual review is where you correct course.
-8. **Revise the spine and phases every few years.** They are forecasts, not
-   contracts. A plan you never revise is a plan you abandoned.
+<br/>
 
-## The shape of it
+Fork the repo and tick these. Full detail for every one lives in
+[`resources/`](resources/); tier and year get recorded in
+[`log/tracker.md`](log/tracker.md).
 
-The 44-domain ledger completes around **year 30 — at fifty, with forty years
-left**. That's the fact most "lifetime learning plans" get wrong. Covering the
-map once is the first third, not the whole thing. What follows is
-re-foundation (fields you learned at 25 have moved by 55), promotion (forty-four
-literacy passes tell you which five domains actually pull), the frontier
-(fields that will exist in your sixties with no name today), and transmission.
+**Formal** — [`resources/formal.md`](resources/formal.md)
+- [ ] Mathematics
+- [ ] Logic & foundations
+- [ ] Statistics & probability
+- [ ] Theoretical computer science & information theory
 
-## The one rule
+**Physical** — [`resources/physical.md`](resources/physical.md)
+- [ ] Physics
+- [ ] Cosmology & astronomy
+- [ ] Chemistry
+- [ ] Earth science & climate
+- [ ] Materials science
 
-Consistency beats intensity. Ten focused hours a week for seventy years is
-~35,000 hours — enough for genuine mastery in three or four fields, working
-depth in a dozen more, and literacy across the whole map, twice. No heroic
-sprints required; the agenda only asks that you never fully stop.
+**Living** — [`resources/living.md`](resources/living.md)
+- [ ] Evolutionary & molecular biology
+- [ ] Genetics
+- [ ] Ecology
+- [ ] Medicine & physiology
+- [ ] Agriculture & food systems
+
+**Mind** — [`resources/mind.md`](resources/mind.md)
+- [ ] Neuroscience
+- [ ] Psychology
+- [ ] Linguistics
+- [ ] Artificial intelligence
+
+**Human & social** — [`resources/human-social.md`](resources/human-social.md)
+- [ ] World history
+- [ ] Anthropology & archaeology
+- [ ] Sociology
+- [ ] Political science
+- [ ] Law & legal systems
+- [ ] Economics
+- [ ] Finance & markets
+- [ ] Geography & geopolitics
+- [ ] Education
+- [ ] Media & communication
+
+**Meaning & expression** — [`resources/meaning-expression.md`](resources/meaning-expression.md)
+- [ ] Philosophy
+- [ ] World religions & mythology
+- [ ] Literature
+- [ ] Music
+- [ ] Visual art & architecture
+- [ ] Theater, film & narrative media
+- [ ] Rhetoric & writing
+
+**Made & applied** — [`resources/made-applied.md`](resources/made-applied.md)
+- [ ] Engineering: energy & power systems
+- [ ] Engineering: structures & the built environment
+- [ ] Engineering: machines, manufacturing & transport
+- [ ] Computing in practice
+- [ ] Public health & care systems
+- [ ] Business, management & entrepreneurship
+- [ ] Military history & strategy
+- [ ] Design
+- [ ] A craft done with the hands *(a track, not a slot — runs 40 years)*
+
+**Languages** — [`resources/languages.md`](resources/languages.md)
+- [ ] A second language to real fluency
+- [ ] Further languages as chosen
+
+</details>
+
+<details>
+<summary><b>The three tiers</b> — what each depth costs and buys</summary>
+
+<br/>
+
+| Tier | You can… | Cost | Concurrent |
+|------|----------|------|-----------|
+| **T3 — Literacy** | State the field's core questions and big ideas, follow an expert, know the canon exists | 100–300 hrs | ~2 new/yr |
+| **T2 — Working depth** | Do real work, read the primary literature, teach the fundamentals | 1–3 yrs | 2–3 |
+| **T1 — Mastery** | Contribute original work; hold your own with the field's best | 5–10 yrs | 1–2 |
+
+Beyond T1, every domain has a **long shelf**: subfield branches, an extended
+canon, a re-foundation watch, a lifetime practice, and rabbit holes. That's
+what keeps a promoted domain from running dry in the second half.
+
+**A literacy pass is done when the artifact exists** — 1,000–3,000 words
+published: what the field asks, its biggest ideas, what surprised you, what
+you'd study next, what you still don't understand. Reading is the input; the
+artifact is the evidence. No artifact, no checkmark.
+
+</details>
+
+---
+
+## The seventy years
+
+Year 1 is age 20. Year 70 is age 90. **The ledger completes around year 30, at
+fifty — with forty years left.** Covering the map once is the first third.
+
+<details>
+<summary><b>Decade 1</b> — The Trunk (20–30) · 20 domains</summary>
+
+<br/>
+
+Fundamentals first, because they tax everything downstream. Statistics and
+philosophy in year 1 — one is how you evaluate every empirical claim in the
+other 42, the other is how you evaluate every argument. Then mathematics,
+physics, biology, chemistry, and the domains that make later ones cheap.
+
+The language and the craft begin in year 3 and run for decades. The telescope
+arrives in year 10, as the payoff for the discipline that got you there.
+
+**Ends with:** 20 domains · a language at B2 · a craft that produces real
+objects · a professional first spike · the second spike chosen from evidence.
+
+→ [`phases/decade-1-foundations.md`](phases/decade-1-foundations.md) ·
+[Timeline](TIMELINE.md)
+</details>
+
+<details>
+<summary><b>Decade 2</b> — The Second Spike (30–40) · 14 domains</summary>
+
+<br/>
+
+Fewer domains per year on purpose: the second spike is taking real hours and
+this is peak career output. The π-shape forms — two competencies whose
+intersection few people hold, which is where original work comes from.
+
+The central risk is structural, not motivational: competence is comfortable,
+and your calendar will quietly decide you're done learning. The countermeasure
+is a fixed weekly block defended like a client meeting.
+
+**Ends with:** 34 domains · second spike near mastery · an original
+contribution · teaching as routine.
+
+→ [`phases/decade-2-mastery.md`](phases/decade-2-mastery.md)
+</details>
+
+<details>
+<summary><b>Decade 3</b> — The Applied World (40–50) · 9 domains · <b>ledger completes</b></summary>
+
+<br/>
+
+The remaining domains cluster in engineering, computing, business, and design —
+deliberately. After two decades of largely textual learning, the third act is
+where you build things. The workshop lands here.
+
+Year 30 is the hinge: forty-nine years old, the map covered, roughly 60
+artifacts, two mature spikes, and forty years still to run.
+
+→ [`phases/decade-3-synthesis.md`](phases/decade-3-synthesis.md)
+</details>
+
+<details>
+<summary><b>The Second Half</b> (50–90) · four kinds of work</summary>
+
+<br/>
+
+No new ledger domains — there are none left. Instead:
+
+| | |
+|---|---|
+| **Re-foundation** | A field learned at 25 has moved by 55. Refresh every 15–20 years. The signal: you can't follow a current talk in a field you once knew |
+| **Promotion** | 44 literacy passes told you which five domains actually pull. Take those to real depth |
+| **Frontier** | Fields will exist in your sixties with no name today ([`04-frontier.md`](04-frontier.md)) |
+| **Transmission** | Synthesis, teaching, institutions, successors. Unshared mastery doesn't compound — it retires |
+
+**Decade 4** (50–60) integration and the first re-foundations ·
+**Decade 5** (60–70) the free decade, when hours roughly double and the third
+spike is chosen on pull alone · **Decade 6** (70–80) distillation, where the
+work is editing rather than accumulating · **Decade 7** (80–90) the long view,
+the perspective nobody younger can have.
+
+→ [Decade 4](phases/decade-4-integration.md) ·
+[5](phases/decade-5-reinvention.md) ·
+[6](phases/decade-6-distillation.md) ·
+[7](phases/decade-7-long-view.md)
+</details>
+
+---
+
+## Every file
+
+<details open>
+<summary><b>The spine</b> — read in this order</summary>
+
+<br/>
+
+| File | What it's for |
+|------|---------------|
+| [`01-principles.md`](01-principles.md) | How learning actually compounds — deliberate practice, spaced repetition, artifacts, half-life |
+| [`02-map.md`](02-map.md) | The territory: 44 domains, three depth tiers, concurrency caps, guardrails |
+| [`03-spine.md`](03-spine.md) | The sequenced order and the prerequisite reasoning behind it |
+| [`04-frontier.md`](04-frontier.md) | The mobile slot for fields that don't exist yet — how to tell a shift from a fad |
+| [`05-current.md`](05-current.md) | News and journals as a deliberate low-time system, not an anxious scroll |
+| [`TIMELINE.md`](TIMELINE.md) | **All seventy years on one page**, with branch points and pre-built forks |
+| [`QUICKSTART.md`](QUICKSTART.md) | Your first 90 days, hour by hour |
+| [`FAQ.md`](FAQ.md) | Objections, edge cases, and what to do when you fall behind |
+| [`GLOSSARY.md`](GLOSSARY.md) | The system's vocabulary |
+
+</details>
+
+<details>
+<summary><b>resources/</b> — the library (~10,000 lines)</summary>
+
+<br/>
+
+Every domain gets: the question the field actually asks · its big ideas · what
+outsiders get wrong · then T3, T2, T1, and the long shelf.
+
+| File | Covers |
+|------|--------|
+| [`formal.md`](resources/formal.md) | Mathematics, logic, statistics, theoretical CS |
+| [`physical.md`](resources/physical.md) | Physics, astronomy, chemistry, earth science, materials |
+| [`living.md`](resources/living.md) | Biology, genetics, ecology, medicine, agriculture |
+| [`mind.md`](resources/mind.md) | Neuroscience, psychology, linguistics, AI |
+| [`human-social.md`](resources/human-social.md) | History, anthropology, sociology, politics, law, economics, finance, geography, education, media |
+| [`meaning-expression.md`](resources/meaning-expression.md) | Philosophy, religion, literature, music, art, film, rhetoric |
+| [`made-applied.md`](resources/made-applied.md) | Engineering ×3, computing, public health, business, strategy, design, craft |
+| [`languages.md`](resources/languages.md) | Language acquisition by method — CEFR, FSI hours, the maintenance problem |
+| [`fundamentals.md`](resources/fundamentals.md) | The eight capacities the whole map runs on |
+| [`bridges.md`](resources/bridges.md) | Where domains meet — the material for synthesis work |
+| [`modes.md`](resources/modes.md) | Sources beyond books: courses, data, museums, people, doing |
+| [`kit.md`](resources/kit.md) | Equipment, access, and instruction — what to buy, and what to buy instead |
+| [`INDEX.md`](resources/INDEX.md) | Every work named in the library, indexed |
+
+</details>
+
+<details>
+<summary><b>phases/</b> and <b>templates/</b> and <b>log/</b></summary>
+
+<br/>
+
+**phases/** — one document per decade, ages 20 through 90: the mission, the
+themes, the milestones, and the failure modes characteristic of that stretch of
+life.
+
+**templates/** — [`annual-plan.md`](templates/annual-plan.md) every January ·
+[`annual-review.md`](templates/annual-review.md) every December ·
+[`weekly-log.md`](templates/weekly-log.md), five minutes a week.
+
+**log/** — where your filled-in plans, reviews, and logs live.
+[`tracker.md`](log/tracker.md) is the durable state file: the ledger, the
+streaks, the artifacts, the promotions, and the re-foundation log.
+
+</details>
+
+---
+
+## The rules that actually matter
+
+<details open>
+<summary>Nine things the whole system rests on</summary>
+
+<br/>
+
+1. **No artifact, no checkmark.** Passive consumption counts for nothing. If a
+   book left no artifact and no cards, you didn't read it — you visited it.
+2. **Everything enters at literacy.** No field is promoted on enthusiasm, only
+   at an annual review, after its artifact exists.
+3. **The caps hold even when it hurts.** The failure this map is built against
+   is surveying everything and mastering nothing.
+4. **Fields, not tools.** Nothing with a version number belongs in a
+   seventy-year plan. Tools are learned just-in-time, inside projects.
+5. **The spike always wins.** When professional work and the ledger conflict,
+   the ledger yields. A polymath with no spike is an audience member.
+6. **Teaching is the final exam.** You don't understand it until you can
+   explain it to someone a level below you.
+7. **Consistency beats intensity.** Ten hours a week, kept, beats thirty
+   abandoned. Sleep and exercise are learning infrastructure, not competitors.
+8. **A lapsed habit restarts at the next weekly log** — at half size if
+   necessary. Broken streaks are fine; unrestarted ones are how agendas die.
+9. **Buy access before objects.** A tutor and a field school teach more than
+   the same money in equipment. And nothing gets bought without a scheduled
+   first use.
+
+</details>
+
+---
+
+## Scale
+
+| | |
+|---|---|
+| **Domains** | 44, each at four depths |
+| **Span** | 70 years · ages 20–90 |
+| **Library** | ~10,000 lines across 13 files |
+| **Repo** | ~14,000 lines |
+| **Hours assumed** | 10/week → ~38,000 total |
+| **Cost** | Most of it free. Equipment scales from ~$3k/yr; the library card is the highest-leverage item in it |
+
+---
+
+<div align="center">
+
+**A plan written at twenty and still running at ninety has already succeeded.**
+
+*Start with [`QUICKSTART.md`](QUICKSTART.md). Today. 300 bad words.*
+
+</div>
