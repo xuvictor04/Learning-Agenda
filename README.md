@@ -35,7 +35,7 @@ system that survives the years when life wins. That's what this repo is.
 flowchart TD
     P["<b>01-principles</b><br/>how learning compounds"] --> M["<b>02-map</b><br/>44 domains, 3 tiers"]
     M --> S["<b>03-spine</b><br/>the sequenced order"]
-    S --> T["<b>TIMELINE</b><br/>all 70 years, one page"]
+    S --> T["<b>TIMELINE</b><br/>what to read, in order"]
     T --> Q["<b>QUICKSTART</b><br/>your first 90 days"]
 
     F["<b>04-frontier</b><br/>fields that don't exist yet"] -.-> M
@@ -84,6 +84,31 @@ Three steps, in order. The whole repo is downstream of these.
 | 51–60 | Distillation | [Timeline: Years 51–60](TIMELINE.md#years-5160--distillation) | [Distillation](phases/decade-6-distillation.md) |
 | 61–70 | The long view | [Timeline: Years 61–70](TIMELINE.md#years-6170--the-long-view) | [The Long View](phases/decade-7-long-view.md) |
 | Behind, or starting late | — | [Variants](TIMELINE.md#variants--pre-built-forks) · [FAQ](FAQ.md) | — |
+
+</details>
+
+<details>
+<summary><b>What year 1 actually looks like</b> — the first nine items</summary>
+
+<br/>
+
+Not "year 1: statistics and philosophy." The timeline is a queue of specific
+material, in order, with the reason each item sits where it does:
+
+| # | Material | Role | Hrs | Why here |
+|---|----------|------|-----|----------|
+| 1 | Adler & Van Doren, *How to Read a Book* | method | ~12 | month one, as a manual not an essay — it is the instrument the other sixty-nine years run on |
+| 2 | Anki, set up day one, with Woźniak's twenty rules | method | ~4 + daily | rules 1–4 before your first card, or you'll write a year of bad ones |
+| 3 | Spiegelhalter, *The Art of Statistics* | survey | ~20 | teaches the reasoning through real cases, postpones formulas until you want them |
+| 4 | Huff, *How to Lie with Statistics* | survey | ~2 | ninety minutes, written in 1954, inoculates permanently |
+| 5 | Plato, *Euthyphro / Apology / Crito*, Grube | canon | ~10 | sixty pages, and it shows philosophy as an activity before any doctrine |
+| 6 | Harvard **Stat 110** + Blitzstein & Hwang, ch. 1–6 | course | ~55 | the load-bearing half of the domain; the problem sets *are* the course |
+| 7 | Millican, *General Philosophy* (Oxford, free) | course | ~15 | the core problems, structured, before you meet them scattered through the canon |
+| 8 | Freedman, Pisani & Purves, *Statistics* | survey | ~25 | the calculus-free classic, unmatched on what inference actually *means* |
+| 9 | Kenny, *A New History of Western Philosophy* | survey | ~25 | the map, after you've walked one small piece of the territory yourself |
+
+Sixteen items in year 1, 540 across seventy years — see
+[`TIMELINE.md`](TIMELINE.md).
 
 </details>
 
@@ -349,7 +374,7 @@ the perspective nobody younger can have.
 | [`03-spine.md`](03-spine.md) | The sequenced order and the prerequisite reasoning behind it |
 | [`04-frontier.md`](04-frontier.md) | The mobile slot for fields that don't exist yet — how to tell a shift from a fad |
 | [`05-current.md`](05-current.md) | News and journals as a deliberate low-time system, not an anxious scroll |
-| [`TIMELINE.md`](TIMELINE.md) | **All seventy years on one page**, with branch points and pre-built forks |
+| [`TIMELINE.md`](TIMELINE.md) | **The material queue** — 540 items in order, with branch points and six pre-built forks |
 | [`QUICKSTART.md`](QUICKSTART.md) | Your first 90 days, hour by hour |
 | [`FAQ.md`](FAQ.md) | Objections, edge cases, and what to do when you fall behind |
 | [`GLOSSARY.md`](GLOSSARY.md) | The system's vocabulary |
@@ -440,8 +465,8 @@ streaks, the artifacts, the promotions, and the re-foundation log.
 |---|---|
 | **Domains** | 44, each at four depths |
 | **Span** | 70 years · seven decades |
-| **Library** | ~10,000 lines across 13 files |
-| **Repo** | ~14,000 lines |
+| **Library** | ~10,000 lines across 14 files · 540-item material queue |
+| **Repo** | ~19,500 lines across 39 files |
 | **Hours assumed** | 10/week → ~38,000 total |
 | **Cost** | Most of it free. Equipment scales from ~$3k/yr; the library card is the highest-leverage item in it |
 
