@@ -85,15 +85,16 @@ timeline
 
 # Years 1–10 — The Trunk
 
-`03-spine.md` tells you which domains happen when. This tells you what to
-open, in what order, and why that order and not another one. It is a queue,
-not a schedule — if a year runs long, the next item waits; it does not get
-skipped.
+Twenty literacy passes, two a year, and the heaviest decade in the plan. It
+carries the most because these are the domains everything downstream is
+waiting on — the five load-bearing ones (statistics, mathematics, philosophy,
+world history, evolution) all land in years 1–4, and every domain after them
+is cheaper for it.
 
-Every item here is already named in `resources/`. Nothing new has been
-introduced. Where a domain file says *start here*, that item is #1 or close
-to it, and the reason is always the same: the accessible door before the hard
-text, the method before the material, the intuition before the rigour.
+It is a queue, not a schedule: if a year runs long, the next item waits
+rather than getting skipped. And the fundamentals are woven in rather than
+bolted on, because a slow reader in year 1 is a slow reader for sixty-nine
+more.
 
 **Hours are approximate.** Roughly 200 a year across the two ledger domains,
 per the load model in `03-spine.md`. Method and fundamentals items in the
