@@ -342,12 +342,12 @@ what declines is speed of retrieval, working-memory capacity under time
 pressure, and any hope of improving pronunciation. So expect reading and
 vocabulary to go roughly as they always did, conversation to feel slower
 than the page suggests it should, and a longer runway to B2 than the same
-work would have taken at thirty. Adapt accordingly: lean on reading and
+work would have taken in Decade 2. Adapt accordingly: lean on reading and
 graded input, pick a language close to one you already have, keep sessions
 short and daily rather than long and occasional, and lengthen the timeline
 instead of raising the intensity.
 
-Starting a new language in your sixties or seventies is a legitimate
+Starting a new language in the later decades is a legitimate
 project, and reviving a dormant one is a better-value one. It is also among
 the better-supported cognitively demanding activities available — sustained,
 effortful, novel, and social, which is the combination that anything worth

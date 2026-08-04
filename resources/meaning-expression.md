@@ -1152,8 +1152,8 @@ without trained public speech has no way of deciding anything together.
   Album*; John McPhee, *Draft No. 4* and Verlyn Klinkenborg's *Several Short
   Sentences About Writing* as the two craft books that stay useful.
 - *The multi-decade reading and listening plan:* Quintilian is twelve books;
-  read one a year for twelve years, then run it again in your fifties and
-  once more in your seventies, and the marginalia become the record. Under
+  read one a year for twelve years, then run it again a decade later and
+  once more after that, and the marginalia become the record. Under
   that, three standing habits. Write five hundred words a day, which is seven
   million words by ninety and the only reliable path to a style. Publish one
   finished piece a month — four hundred and eighty essays is a body of work

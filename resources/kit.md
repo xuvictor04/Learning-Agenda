@@ -33,7 +33,7 @@ materials, because putting them here forces the comparison that matters: this
 tutor or this telescope, this field school or this lathe. That comparison is
 the whole point of the file, and it disappears if they're on separate lines.
 
-And the agenda is now seventy years long — years 1 to 70, ages 20 to 90. At
+And the agenda is now seventy years long — years 1 to 70. At
 $3,000 a year that is a **lifetime capital allocation of well over $200,000**,
 before any increase. That reframes everything. This is not a starter-kit
 document. It is a plan for equipping seven decades of practice, in which most
@@ -835,7 +835,7 @@ of this file, applied at a level where nothing else enforces it.
 
 ### The lifetime view — seven decades
 
-Years 1 to 70, ages 20 to 90. That changes the arithmetic on the expensive
+Years 1 to 70. That changes the arithmetic on the expensive
 things, and mostly in their favour.
 
 **Judge big-ticket items on cost per year of use, not sticker price.** A

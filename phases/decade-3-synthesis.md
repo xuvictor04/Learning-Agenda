@@ -10,8 +10,8 @@ longer "how do I get good?" but "what is all this *for*?" The three tracks
 below usually run in parallel, with the mix shifting over the decade.
 
 **This is the hinge, not the end.** The 44-domain ledger completes near the
-close of this decade, at around age 50 — with forty years still to run. The
-three tracks below are where the second half's work begins, and
+close of this decade — with forty years still to run. The three tracks
+below are where the second half's work begins, and
 `decade-4-integration.md` picks them up from here.
 
 ## Track A: Synthesis — the work of the third act
@@ -48,7 +48,7 @@ Not everyone takes this track, but keep it honestly open:
   habits are now three decades strong; watch how fast they carry you compared
   to year 1.
 - Beginner-hood is the practice here, not the price. Being publicly bad at
-  something new — with teachers half your age — is the single best defense
+  something new — with teachers far younger than you — is the single best defense
   against intellectual rigidity, which is this phase's real enemy.
 - Some people's Track C becomes their most significant work. Careers
   regularly produce their best output after year 25; the agenda's job is to
@@ -72,9 +72,9 @@ Not everyone takes this track, but keep it honestly open:
       without your involvement.
 - [ ] Something begun after year 21 at which you were a genuine beginner.
 - [ ] All 44 ledger domains checked — the map covered once.
-- [ ] The annual review of year 30 written, and Decade 4 drafted. You are
-      fifty, with forty years left and a completed map to work from. The
-      agenda doesn't end here; it gets more interesting to write.
+- [ ] The annual review of year 30 written, and Decade 4 drafted. Forty
+      years left, and a completed map to work from. The agenda doesn't end
+      here; it gets more interesting to write.
 
 ## Failure modes to watch for in Decade 3
 

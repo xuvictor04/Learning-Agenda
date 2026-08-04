@@ -1,4 +1,4 @@
-# Decade 4 (Years 31–40, ages 50–60): Integration and Re-foundation
+# Decade 4 (Years 31–40): Integration and Re-foundation
 
 **Mission:** the map is covered once. Now make it one thing rather than 44
 things — re-found the domains that have moved, promote the few that actually
@@ -24,7 +24,8 @@ Authority is the easiest thing in this agenda to mistake for currency.
   genetics, neuroscience, cosmology, materials, AI, climate, medicine —
   anywhere the data got orders of magnitude bigger or a new instrument opened
   a window shut when you studied. Textual domains drift slowly and can wait.
-- **Be taught the new version by people half your age.** Normal and correct,
+- **Be taught the new version by people who learned it after you did.**
+  Normal and correct,
   not a concession. The generation that built a field's last fifteen years
   explains them better than anyone who watched from a distance, and your job
   in their classroom is to be a good student.

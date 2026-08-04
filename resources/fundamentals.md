@@ -516,7 +516,7 @@ Held at that level they stay useful for fifty years.
 
 Two are worth pushing indefinitely: **writing and reading.** Three reasons.
 Their ceiling is absurdly high — unlike anything speed-bound, the best
-writers and readers at eighty are better than they were at forty, and the
+writers and readers in Decade 7 are better than they were in Decade 3, and the
 gains are still visible in the final decade. They multiply everything else:
 every fundamental's *output* leaves through writing and every domain's
 *input* arrives through reading, so a 20% gain in either applies to the

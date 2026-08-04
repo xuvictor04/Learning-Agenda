@@ -1,4 +1,4 @@
-# Decade 6 (Years 51–60, ages 70–80): Distillation
+# Decade 6 (Years 51–60): Distillation
 
 **Mission:** decide what of seventy years of accumulated understanding is
 worth passing on, and put it in a form that survives you. And keep learning
@@ -17,7 +17,7 @@ real problem, and it is an editing problem, not a collecting one.
 Say the trade plainly: a thousand scattered pieces distilled into one usable
 thing is a larger contribution than the thousand. That is not a consolation
 prize for slowing down. It is the hardest intellectual work in the agenda,
-and you could not have done it at forty — you did not yet know which parts
+and you could not have done it in Decade 2 — you did not yet know which parts
 were load-bearing.
 
 ## Years 51–54: The distillation

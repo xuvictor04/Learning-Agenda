@@ -1,4 +1,4 @@
-# Decade 7 (Years 61–70, ages 80–90): The Long View
+# Decade 7 (Years 61–70): The Long View
 
 **Mission:** hand on the perspective almost nobody gets — seventy years of
 deliberate learning, in one continuous mind, looking back across all of it.
@@ -16,7 +16,7 @@ from documents; you worked from inside. It decays unless it is written down.
 - **Testify to the change, not the facts.** The facts are in the literature.
   What is not: how the field actually moved. Which confident consensus
   collapsed, and how long it took. Which unfashionable idea turned out to
-  matter. What everyone believed in your twenties that nobody now remembers
+  matter. What everyone believed in Decade 1 that nobody now remembers
   believing. Which of your own bets were right for the wrong reasons.
 - **Capture it in a form that survives.** Memoir or long essay if you write
   well; recorded conversations if you talk better than you type; an oral
@@ -43,12 +43,12 @@ from documents; you worked from inside. It decays unless it is written down.
 - **Keep the ledger alive in whatever form works.** Fewer domains, slower,
   chosen for pull. `02-map.md` never required a pace — only honesty about
   depth.
-- **Reread the canon deliberately.** The books you read at twenty are
+- **Reread the canon deliberately.** The books you read in Decade 1 are
   different books now, and you are the only person who can run the comparison.
   One canonical work a year, read against your own marginalia from fifty years
   ago. Not nostalgia — the clearest measure of a mind's change anyone gets.
 - **The curiosity budget is unchanged.** Ten to twenty percent, off-ledger,
-  no artifact required. It was the canary at twenty; it is the canary now.
+  no artifact required. It was the canary in year 1; it is the canary now.
 - **The craft continues, adapted.** Smaller pieces, better light, sharper
   tools, more jigs, less standing. The hands know things worth staying in
   contact with.
@@ -109,7 +109,7 @@ were spent — not in the tally at the end.
 There is no terminal state here. `03-spine.md` ran out of scheduled years long
 ago and the agenda kept going, because what it built was never the list.
 
-A plan written at twenty and still running at ninety has already succeeded. It
+A plan written in year 1 and still running in year 70 has already succeeded. It
 succeeded the first year you kept the habit through something hard, and every
 year after. Whatever remains unchecked in `02-map.md` is not a debt — it is
 evidence the map was drawn honestly large.
@@ -130,6 +130,6 @@ system has been from year one.
   decisions. Standing weekly contact with someone, defended the way the
   learning block once was.
 - **Checklists as guilt.** These files were written by a twenty-year-old with
-  no idea what your eighties would hold. They are a tool. If a milestone has
+  no idea what these decades would hold. They are a tool. If a milestone has
   become a reproach rather than a prompt, edit the file — this repo was always
   yours to rewrite.

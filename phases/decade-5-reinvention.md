@@ -1,4 +1,4 @@
-# Decade 5 (Years 41–50, ages 60–70): The Free Decade
+# Decade 5 (Years 41–50): The Free Decade
 
 **Mission:** use the hours that come back. For most people this is when
 obligations loosen — children grown, the career peak passed or passing,

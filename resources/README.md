@@ -35,7 +35,7 @@ you make, not a wall you hit.
 
 **Then a fourth block: "Beyond T1 — the long shelf."** The three tiers cover
 about ten years of a domain. This plan runs seventy (`03-spine.md`), and the
-ledger completes near year 30 — so a domain you promote in your fifties has
+ledger completes near year 30 — so a domain you promote in Decade 4 has
 decades of runway and would otherwise run out of material. The long shelf is
 what absorbs it:
 
