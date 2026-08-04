@@ -94,26 +94,27 @@ Three steps, in order. The whole repo is downstream of these.
 </details>
 
 <details>
-<summary><b>What year 1 actually looks like</b> — the first nine items</summary>
+<summary><b>What year 1 actually looks like</b> — the first ten items</summary>
 
 <br/>
 
-Not "year 1: statistics and philosophy." The timeline is a queue of specific
-material, in order, with the reason each item sits where it does:
+Not "year 1: statistics, philosophy, mathematics." The timeline is a queue of
+specific material, in order, with the reason each item sits where it does:
 
 | # | Material | Role | Hrs | Why here |
 |---|----------|------|-----|----------|
 | 1 | Adler & Van Doren, *How to Read a Book* | method | ~12 | month one, as a manual not an essay — it is the instrument the other sixty-nine years run on |
-| 2 | Anki, set up day one, with Woźniak's twenty rules | method | ~4 + daily | rules 1–4 before your first card, or you'll write a year of bad ones |
-| 3 | Spiegelhalter, *The Art of Statistics* | survey | ~20 | teaches the reasoning through real cases, postpones formulas until you want them |
-| 4 | Huff, *How to Lie with Statistics* | survey | ~2 | ninety minutes, written in 1954, inoculates permanently |
-| 5 | Plato, *Euthyphro / Apology / Crito*, Grube | canon | ~10 | sixty pages, and it shows philosophy as an activity before any doctrine |
-| 6 | Harvard **Stat 110** + Blitzstein & Hwang, ch. 1–6 | course | ~55 | the load-bearing half of the domain; the problem sets *are* the course |
-| 7 | Millican, *General Philosophy* (Oxford, free) | course | ~15 | the core problems, structured, before you meet them scattered through the canon |
-| 8 | Freedman, Pisani & Purves, *Statistics* | survey | ~25 | the calculus-free classic, unmatched on what inference actually *means* |
-| 9 | Kenny, *A New History of Western Philosophy* | survey | ~25 | the map, after you've walked one small piece of the territory yourself |
+| 2 | Anki, day one, with Woźniak's twenty rules | method | ~4 + daily | rules 1–4 before your first card, or you'll write a year of bad ones |
+| 3 | Williams, *Style: Lessons in Clarity and Grace* | method | ~10 | worked with its exercises; writing is the output channel for every artifact below |
+| 4 | Spiegelhalter, *The Art of Statistics* | survey | ~20 | teaches the reasoning through real cases, postpones formulas until you want them |
+| 5 | Huff, *How to Lie with Statistics* | survey | ~2 | ninety minutes, written in 1954, inoculates permanently |
+| 6 | Plato, *Euthyphro / Apology / Crito*, Grube | canon | ~10 | sixty pages, and it shows philosophy as an activity before any doctrine |
+| 7 | Gowers, *Mathematics: A Very Short Introduction* | survey | ~6 | 150 pages on the abstract method, which is the actual barrier |
+| 8 | 3Blue1Brown, *Essence of Linear Algebra* / *Calculus* | video | ~10 | geometric meaning first — intuition pumps, not substitutes |
+| 9 | 500–1,500 words published weekly, with your name on it | practice | ~40 | the habit starts in week one or it never starts |
+| 10 | Harvard **Stat 110** + Blitzstein & Hwang, ch. 1–6 | course | ~55 | the load-bearing half of the domain; the problem sets *are* the course |
 
-Sixteen items in year 1, 540 across seventy years — see
+Thirty items in year 1 at ~520 hours, and **694 across seventy years** — see
 [`TIMELINE.md`](TIMELINE.md).
 
 </details>

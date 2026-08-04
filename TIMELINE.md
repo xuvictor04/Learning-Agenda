@@ -44,8 +44,8 @@ means **the ledger completes at year 15** — not year 30, and not never.
 
 | Block | Ledger hrs/yr | What's happening |
 |-------|---------------|------------------|
-| Years 1–10 | ~540, plus fundamentals | Thirty domains. The heaviest stretch of the plan, deliberately |
-| Years 11–15 | ~540 | The last fourteen domains. The applied cluster, where doing is the material |
+| Years 1–10 | ~500–580, plus fundamentals | Thirty domains. The heaviest stretch of the plan, deliberately |
+| Years 11–15 | ~505–650 | The last fourteen domains. Years 12–14 run highest — the applied cluster, where doing is the material and shop hours are hours |
 | Years 16–70 | — | No new literacy passes. Depth, re-foundation, bridges, the long shelves |
 
 The whole plan **rescales cleanly** — the *order* never changes, only how fast
