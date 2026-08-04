@@ -39,7 +39,7 @@ working as designed.
 
 ## The sequencing logic
 
-Four rules generated this order. If you rebuild the sequence yourself, keep
+Five rules generated this order. If you rebuild the sequence yourself, keep
 them and you'll get something equally good.
 
 **1. Fundamentals first, because they tax everything downstream.** A slow
@@ -119,17 +119,44 @@ the curiosity budget from being the only non-obligatory thing in your life.
 At three domains a year the rule matters more, not less — three hard domains
 in one year is how a good year becomes an abandoned one.
 
-**4. Some things run continuously, not in slots.** Spaced repetition, weekly
+**4. Six domains run at once, and each spans two years.** This is the
+interleaving rule from `01-principles.md`, principle 2, and it is the single
+biggest structural choice in the plan.
+
+Every domain runs **two years at ~90 hours a year** rather than one year at
+~180. Three domains start each year and three finish, so **six are live at any
+moment**, deliberately spanning several clusters:
+
+- A domain's **first year** is orientation — the door, the survey, the
+  accessible entry, the course begun, the equipment bought.
+- A domain's **second year** is completion — the canon, the course finished,
+  the practice, and the artifact that earns the checkmark.
+- The year of distance between them does for a subject what spacing does for
+  a flashcard.
+
+The completion rate is unchanged: three domains a year, ledger closed at year
+15. What changes is that you are never studying one thing. Blocked study —
+one subject to completion, then the next — feels more efficient and measurably
+isn't; it produces worse retention and worse transfer than mixing. The
+discomfort of holding six half-finished subjects is the mechanism, not a
+symptom.
+
+**Prerequisites only need to be one cohort ahead.** Because the first year of
+a domain is orientation, a dependent domain can start while its prerequisite
+is in its second year — physics starts while mathematics finishes, structural
+engineering starts while materials finishes. What you cannot do is start them
+in the same cohort.
+
+**5. Some things run continuously, not in slots.** Spaced repetition, weekly
 logging, the language, the craft, the spike, and the curiosity budget are
 *tracks*, not domains. They appear in every year because they never stop.
 
-This is why 43 of the ledger's 44 domains get a year and one doesn't: **"a
-craft done with the hands" is a track, not a slot.** You cannot bring
-embodied skill to literacy in a hundred hours and then leave it — it decays,
-and it is the one domain on the map the rest cannot fake. It starts in year 3
-and runs the length of the plan, reaching working-craftsperson level. Language
-works the same way for the same reason (see `resources/languages.md`), which
-is why it's a three-year track from year 3 rather than a ledger entry.
+This is why 43 of the ledger's 44 domains get a cohort and one doesn't: **"a
+craft done with the hands" is a track, not a slot.** You cannot bring embodied
+skill to literacy in a hundred hours and then leave it — it decays, and it is
+the one domain on the map the rest cannot fake. It starts in year 2 and runs
+the length of the plan. Language works the same way for the same reason (see
+`resources/languages.md`).
 
 ---
 
@@ -206,20 +233,23 @@ first promotions. This is by far the heaviest decade, and deliberately so:
 these are the domains everything downstream waits on, and at this pace there
 is no reason to spread them over thirty years.
 
-| Yr | Ledger | Why these, now |
-|----|--------|----------------|
-| 1 | Statistics & probability · Philosophy · Mathematics | The three meta-domains. Statistics is how you evaluate every empirical claim in the other 41; philosophy is how you evaluate every argument; mathematics gates the entire formal and physical half. None has prerequisites |
-| 2 | World history · Physics · Literature | History is the timeline every social and humanities domain plugs into. Physics needs year 1's mathematics. Literature is the free domain — no prerequisites, different rhythm, and the one you read on a bad week |
-| 3 | Evolutionary & molecular biology · Chemistry · Music | Evolution organises the entire living cluster. Chemistry needs physics and gates genetics, medicine, materials. Music is the free slot, and the instrument starts now |
-| 4 | Psychology · Economics · Visual art & architecture | Both hard domains need year 1's statistics; economics also needs year 2's history. Psychology without statistics cannot survive the replication literature |
-| 5 | Neuroscience · Genetics · World religions & mythology | Neuroscience needs biology, chemistry, and psychology. Genetics is the most prerequisite-dense domain in the living cluster. Religion pairs with neuroscience deliberately — two very different accounts of the human interior, read in one year |
-| 6 | Political science · Computing in practice · Anthropology & archaeology | Politics needs history and philosophy; anthropology needs evolution and history; computing lands after five years of programming as a fundamental, so you arrive with real problems. **Promotions begin this year** |
-| 7 | Cosmology & astronomy · Logic & foundations · Theater, film & narrative media | Astronomy needs physics and mathematics; logic needs mathematical maturity. Film is the free slot |
-| 8 | Theoretical CS & information theory · Linguistics · Rhetoric & writing | Theoretical CS and logic are the same subject in two hats. Linguistics needs neuroscience and psychology. Rhetoric arrives after seven years of weekly writing — you have something to refine rather than start |
-| 9 | Artificial intelligence · Sociology · Ecology | AI needs the mathematics, the programming, and neuroscience. Sociology needs history and statistics. Ecology needs evolution |
-| 10 | Earth science & climate · Law & legal systems · Medicine & physiology | Earth science needs chemistry and physics. Law needs history and philosophy. Medicine is the most prerequisite-dense domain on the map, which is why it waits until now |
+| Cohort | Years | Domains | Why these, together |
+|--------|-------|---------|---------------------|
+| C1 | 1–2 | Statistics · Philosophy · Mathematics | The three meta-domains, and none has prerequisites. Statistics is how you evaluate every empirical claim in the other 41; philosophy how you evaluate every argument; mathematics gates the formal and physical half |
+| C2 | 2–3 | World history · Physics · Literature | History is the timeline the social and humanities domains attach to. Physics starts while mathematics finishes. Literature is the free domain — no prerequisites, different rhythm |
+| C3 | 3–4 | Evolution & molecular biology · Chemistry · Music | Evolution organises the living cluster; chemistry starts while physics finishes and gates genetics, medicine, materials. Music is the free slot, and the instrument starts here |
+| C4 | 4–5 | Psychology · Economics · Visual art & architecture | Both hard domains need statistics; economics also needs history. Psychology without statistics cannot survive its own replication literature |
+| C5 | 5–6 | Neuroscience · Genetics · World religions & mythology | Neuroscience needs biology, chemistry, psychology. Genetics is the most prerequisite-dense domain in the living cluster. Religion against neuroscience is a deliberate collision — two very different accounts of the human interior, live in the same year |
+| C6 | 6–7 | Political science · Computing in practice · Anthropology & archaeology | Politics needs history and philosophy; anthropology needs evolution and history; computing arrives after five years of programming as a fundamental. **The first promotion happens this year** |
+| C7 | 7–8 | Cosmology & astronomy · Logic & foundations · Theater, film & narrative media | Astronomy needs physics and mathematics; logic needs mathematical maturity. Film is the free slot |
+| C8 | 8–9 | Theoretical CS & information theory · Linguistics · Rhetoric & writing | Theoretical CS starts while logic finishes — the same subject in two hats, and the overlap is the argument. Linguistics needs neuroscience. Rhetoric arrives after seven years of weekly writing |
+| C9 | 9–10 | Artificial intelligence · Sociology · Ecology | AI needs the mathematics, the programming, and neuroscience. Sociology needs history and statistics. Ecology needs evolution |
+| C10 | 10–11 | Earth science & climate · Law & legal systems · Medicine & physiology | Earth science needs chemistry and physics. Law needs history and philosophy. Medicine is the most prerequisite-dense domain on the map, which is why it waits |
 
-**Continuous from year 3:** the language (to B2 by year 6) and the craft.
+Year 1 runs three live domains, because only C1 has started. From year 2
+onward, six are live: last year's cohort finishing and this year's starting.
+
+**Continuous from year 2:** the language (to B2 by year 6) and the craft.
 **Continuous from year 1:** spaced repetition, the weekly log, current
 awareness, the frontier slot, the curiosity budget.
 
@@ -235,13 +265,15 @@ Two halves, and they are different in kind.
 
 **Years 11–15 close the ledger.**
 
-| Yr | Ledger |
-|----|--------|
-| 11 | Materials science · Finance & markets · Geography & geopolitics |
-| 12 | Education · Engineering: energy & power · Engineering: structures |
-| 13 | Engineering: machines & manufacturing · Public health · Business |
-| 14 | Media & communication · Military history & strategy · Design |
-| 15 | Agriculture & food systems — **and the ledger completes** |
+| Cohort | Years | Domains |
+|--------|-------|---------|
+| C11 | 11–12 | Materials science · Finance & markets · Geography & geopolitics |
+| C12 | 12–13 | Education · Engineering: energy & power · Engineering: structures |
+| C13 | 13–14 | Engineering: machines & manufacturing · Public health · Business |
+| C14 | 14–15 | Media & communication · Military history · Design · **Agriculture** |
+
+C14 carries four domains — it is the last cohort, so seven run live in year 14
+and four finish in year 15.
 
 The applied cluster concentrates in years 12–14 by design: after a decade of
 largely textual learning, these are the domains where *doing* is the material,

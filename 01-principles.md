@@ -17,17 +17,50 @@ Reading and watching lectures are *orientation*, not practice. Budget them
 accordingly: for most skills, aim for at least 2 hours of doing per hour of
 consuming.
 
-## 2. Spaced repetition for anything worth remembering
+## 2. Spacing and interleaving — at both scales
 
-Memory decays on a predictable curve, and reviewing just before you forget
-flattens it. For factual knowledge (vocabulary, formulas, definitions,
-anatomy, syntax, case law — whatever your field's atoms are), use a spaced
-repetition system (Anki or similar) as lifelong infrastructure:
+The same two findings govern how you should schedule a deck of cards and how
+you should schedule a decade of subjects. Most people apply them to the first
+and never think to apply them to the second.
+
+**Spacing.** Memory decays on a predictable curve, and reviewing just before
+you forget flattens it. For factual knowledge (vocabulary, formulas,
+definitions, anatomy, syntax, case law — whatever your field's atoms are), use
+a spaced repetition system (Anki or similar) as lifelong infrastructure:
 
 - Add cards *from your own study*, in your own words. Downloaded decks teach
   recognition, not understanding.
 - 15–20 minutes a day sustains a vault of tens of thousands of facts
   indefinitely. This is the single highest-leverage habit in this agenda.
+
+**Interleaving.** Studying one subject to completion before starting the next
+— *blocked* practice — feels efficient and produces better performance during
+the study session. It also produces worse retention and worse transfer than
+mixing subjects, which feels harder and messier while you're doing it. The
+gap between how learning feels and how it works is the whole finding, and it
+is why the honest version of this principle is uncomfortable.
+
+So the plan runs **six domains at once, not one** (`03-spine.md`,
+`TIMELINE.md`). Each domain spans two years rather than one: the first year is
+doors and surveys, the second is canon and the artifact, with a year of
+distance in between doing the same work spacing does for a flashcard. Three
+domains finish each year and three start, so the mix is always live and always
+spans several clusters.
+
+Two things fall out of this that are worth having on purpose:
+
+- **The domains talk to each other.** Logic finishing while theoretical
+  computer science starts is the same subject in two hats. Materials finishing
+  while structural engineering starts is the same physics twice. Those
+  collisions are scheduled, not accidental — see the *mix* note on each year.
+- **A bad week has somewhere to go.** With six live subjects, the week you
+  cannot face a proof is a week you read a novel instead, and the plan
+  survives it. With one, that week is simply lost.
+
+The cost is real and worth naming: you will feel less competent at any given
+moment than a blocked schedule would make you feel. Six half-finished subjects
+is an uncomfortable state to hold. Hold it anyway — the discomfort is the
+mechanism, not a sign it's going wrong.
 
 ## 3. Projects are the unit of deep learning
 
@@ -93,6 +126,9 @@ prevent.
 Sleep, exercise, and mental health are learning infrastructure, not
 competition for study time. Sleep is when memory consolidates; chronic
 under-sleeping to study more is borrowing from the exact resource you're
-trying to build. A sustainable 10 focused hours/week beats an unsustainable
-30 every time — this agenda is thirty years long, and burnout is its most
-common cause of death.
+trying to build. A sustainable twenty-five hours a week beats an
+unsustainable forty every time — this agenda runs seventy years, and burnout
+is its most common cause of death. The pace table in `03-spine.md` exists so
+you can pick a row you will still be running in year 12; picking the
+flattering row in year 1 is the same mistake as skipping sleep, made once and
+paid for over decades.

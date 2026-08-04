@@ -31,7 +31,9 @@ Three rules make the budget real:
 1. **Everything enters at T3.** No field is promoted to T2/T1 on enthusiasm —
    only at an annual review, after its literacy artifact exists.
 2. **Concurrency caps:** at most 2 fields *actively* funded at T1, 3–5 at
-   T2, and ~3 new T3 literacies per year. The caps are per-moment, not per
+   T2, and **six T3 literacies live at once** — three finishing, three
+   starting, spanning several clusters (see `03-spine.md`, rule 4). Three
+   complete per year. The caps are per-moment, not per
    lifetime — over seven decades that's 4–5 masteries, 15–20 fields taken to
    working depth, and the whole T3 ledger walked several times over. That
    *is* "everything," at the only exchange rate time offers. The budget got
