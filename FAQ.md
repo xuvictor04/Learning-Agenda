@@ -457,14 +457,18 @@ length of the runway — nothing in `01-principles.md` or `02-map.md` assumes
 all seventy years are available. What changes is arithmetic, so do it plainly
 rather than feeling vaguely late.
 
-With fifty-five years, you have the whole structure: two domains a year closes
-the ledger thirty years in, and decades 4 through 7 land roughly as written.
-With forty, the same pace still closes it thirty years in — it fits, barely,
-and the better move is to compress: run three domains a year while capacity is
-high, or cut the ledger to the domains you actually want, since the 44 were
-never sacred. With twenty-five, stop pretending you're at year 1. Run the
-second half of the plan directly — promotion of what already pulls,
-re-foundation of what's gone stale, the frontier slot, transmission.
+At the current pace the ledger is no longer what a short runway threatens.
+Three domains a year closes it near year 15, so with fifty-five years or with
+forty you have the whole structure: the map covered once well inside the
+first two decades, then mastery, integration and transmission landing roughly
+as written, just compressed at the back. What a short runway costs is depth,
+because T1 is five to ten years and you can only stack so many of those. With
+forty years, plan for two masteries rather than four and stop apologising for
+it. With twenty-five, stop pretending you're at year 1: run the ledger and the
+promotions concurrently from the start, cut the ledger to the domains you
+actually want since the 44 were never sacred, and read the second half of the
+plan directly — promotion of what already pulls, re-foundation of what's gone
+stale, the frontier slot, transmission.
 `phases/decade-5-reinvention.md` describes your situation better than decade 1
 does.
 

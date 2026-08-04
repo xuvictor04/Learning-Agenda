@@ -2,46 +2,53 @@
 
 **Mission:** use the hours that come back. For most people this is when
 obligations loosen — children grown, the career peak passed or passing,
-financial pressure reduced — and the learning budget roughly doubles. Spend it
-on a third spike chosen purely on pull, on transmission at scale, and on the
-second re-foundation pass.
+financial pressure reduced — and the learning budget rises by half again or
+more, from twenty-five hours a week toward forty. Spend it on a third spike
+chosen purely on pull, on transmission at scale, and on the third
+re-foundation pass.
 
 Here is the argument this file exists to make, without sentimentality: **this
 can be the most productive learning decade of a life.** Not a consolation
 decade, not a wind-down. Someone who kept the habits for forty years arrives
 at year 41 with a vast repetition vault, syntopical reading that makes a new
 field's literature a matter of weeks rather than years, a network that
-answers, taste, a completed map, two or three spikes — and, for the first time
-since year 1, time. Nobody at 20 has that combination. The system exists
-partly to make sure you arrive here able to use it, because the hours come
-back for everyone and almost nobody has anything loaded to put in them.
+answers, taste, a map completed at year 15 and repaired twice since, two
+spikes at mastery, eight to twelve domains at working depth — and, for the
+first time since year 1, time. Nobody starting out has that combination. The
+system exists partly to make sure you arrive here able to use it, because the
+hours come back for everyone and almost nobody has anything loaded to put in
+them.
 
 ## Years 41–43: Claiming the hours, and the third spike
 
 **Themes**
 
-- Plan the doubled budget on paper before it arrives — the year-40 review is
+- Plan the larger budget on paper before it arrives — the year-40 review is
   where this should already have happened. Reclaimed hours that aren't
   allocated don't sit in an account; they evaporate into errands, news, and
   other people's schedules inside six months.
-- A workable default for twenty hours a week: half to the third spike, a
+- A workable default for forty hours a week: half to the third spike, a
   quarter to transmission, an eighth to re-foundation and the frontier slot
   (`04-frontier.md`), an eighth to the curiosity budget. Adjust it, but write
   it down.
 - **The third spike, chosen on pull alone.** Zero career justification
   permitted — that filter did its job for forty years and is now in the way.
   The criterion is what you'd read on a bad week. `02-map.md`'s rules still
-  apply: it enters at T3, earns T2 at a review, and only then gets equipment.
+  apply: it enters at literacy, earns working depth at a review, and only
+  then gets equipment.
 - Beginner-hood is a practice here, not a humiliation. Being visibly bad at
-  something in a room of twenty-five-year-olds is the best defense against
-  the rigidity that is this decade's real enemy — and you'll notice how fast
-  forty years of habit carries you compared to year 1. Genuinely new work
-  often comes from exactly this: a mind carrying decades of one field's
-  judgment, arriving late and unembarrassed in another.
+  something in a room of people who started decades after you is the best
+  defense against the rigidity that is this decade's real enemy — and you'll
+  notice how fast forty years of habit carries you compared to year 1. A
+  literacy pass that took a hundred and fifty hours in Decade 1 takes a
+  fraction of that now, and the third spike's foundations go down faster than
+  either of the first two did. Genuinely new work often comes from exactly
+  this: a mind carrying decades of one field's judgment, arriving late and
+  unembarrassed in another.
 
 **Milestones by year 43**
 
-- [ ] The doubled budget written down and defended for two full years.
+- [ ] The larger budget written down and defended for two full years.
 - [ ] Third spike chosen, foundations underway, first artifact published.
 - [ ] One thing at which you are publicly, cheerfully a beginner.
 
@@ -61,9 +68,9 @@ back for everyone and almost nobody has anything loaded to put in them.
   than twenty years of good mentoring; do both, but don't confuse the scales.
 - **Formal re-entry is a real and underused option.** A degree, a research
   program, a clinical or artist's residency, a fellowship, a visiting
-  position. Many institutions actively want older students — the seminar
-  improves when someone in it has done the thing — and the structure,
-  deadlines, and expert access are worth more than most people your age
+  position. Many institutions actively want students who arrive late — the
+  seminar improves when someone in it has done the thing — and the structure,
+  deadlines, and expert access are worth more than most people at this stage
   assume. Apply. The worst case is a letter.
 
 **Milestones by year 46**
@@ -74,14 +81,15 @@ back for everyone and almost nobody has anything loaded to put in them.
 - [ ] One formal program, residency, or fellowship applied to — and attended
       if accepted.
 
-## Years 47–50: The second re-foundation, and what stays
+## Years 47–50: The third re-foundation, and what stays
 
 **Themes**
 
-- Run the drift audit again across the full ledger, as in Decade 4. Fifteen
-  years is long enough that the domains you re-founded at 52 have moved
-  again, and the frontier slot has probably absorbed something that was
-  science fiction when you last looked.
+- Run the drift audit again across the full ledger, as in Decades 3 and 4,
+  and use the refresh intervals you wrote down in Decade 4 rather than
+  re-deriving them. Fifteen years is long enough that the domains you
+  re-founded in Decade 4 have moved again, and the frontier slot has probably
+  absorbed something that was science fiction when you last looked.
 - **Reverse-mentoring becomes structural, not incidental.** Seniority
   insulates you from correction a little more each year, and by now almost
   nobody in the room is positioned to tell you your model is out of date.
@@ -92,8 +100,9 @@ back for everyone and almost nobody has anything loaded to put in them.
 
 **Milestones by end of the decade**
 
-- [ ] Second full re-foundation pass complete.
-- [ ] Third spike at working depth, with real work in it.
+- [ ] Third full re-foundation pass complete, on the written intervals.
+- [ ] Third spike at working depth, with real work in it, and an honest answer
+      at the year-50 review about whether it goes to mastery.
 - [ ] Habits intact for 50 years — repetition, weekly log, annual review.
 - [ ] The year-50 review written (`templates/annual-review.md`), and a sketch
       of what years 51–60 are for.
