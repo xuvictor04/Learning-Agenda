@@ -38,7 +38,7 @@ README calls the phase files forecasts and tells you to revise them every few
 years.
 Almost nothing here is a prediction about your preferences.
 
-What is actually fixed is infrastructure: ten hours a week, a daily
+What is actually fixed is infrastructure: twenty-five hours a week, a daily
 repetition habit, the artifact rule, tiers with concurrency caps, an annual
 review empowered to rewrite any of it, and a slot held permanently open for
 fields that don't exist yet (`04-frontier.md`). Those hold regardless of what
@@ -111,18 +111,29 @@ the breadth was still worth having for reasons that were never instrumental.
 
 ### Isn't this a recipe for burnout?
 
-It is designed against burnout and can still cause it. The design: ten
-focused hours a week rather than thirty; principle 8 treating sleep and
-exercise as infrastructure rather than as competition for study time; the
-spine's alternation rule, which pairs a hard prerequisite-chained domain with
-a free one every year specifically so there is something to read on a bad
-week; a curiosity budget that is unplanned and demands no artifact.
+It is designed against burnout and it is now much closer to causing it, and
+that concession comes first because the hour budget moved and the honest
+answer moved with it. Twenty-five hours a week is not a hobby's worth of
+time. It is a part-time job, run for seventy years, on top of whatever else
+your life contains. At ten hours a week the design margin was real; at
+twenty-five it is thin, and anyone telling you otherwise is selling the plan
+rather than describing it.
 
-Where it goes wrong is arithmetic. Ten hours means ten hours total, and if
-you are inside a demanding degree or job the spine's own instruction is to
-halve the ledger and run one domain a year — the professional program *is*
-the spike. Most burnout here comes from stacking the agenda on top of a full
-life instead of inside it.
+What still protects you: principle 8 treating sleep and exercise as
+infrastructure rather than as competition for study time; the spine's
+alternation rule, which pairs a hard prerequisite-chained domain with a free
+one every year specifically so there is something to read on a bad week; a
+curiosity budget that is unplanned and demands no artifact; and the fact
+that three domains a year does not mean three at equal pressure in the same
+week — one runs hot, the others are held warm.
+
+Where it goes wrong is arithmetic. Twenty-five hours means twenty-five hours
+total, and it only exists if the rest of your life is arranged to leave it
+there. Inside a demanding degree or job it usually isn't, and then the
+spine's own instruction applies: cut the ledger and run fewer domains a year
+— the professional program *is* the spike. Most burnout here comes from
+stacking the agenda on top of a full life instead of inside it, and a larger
+budget makes that mistake larger rather than safer.
 
 The other mechanism isn't hours at all. A schedule you are permanently behind
 on costs more than the studying does. That's the last question in this file,
@@ -195,14 +206,17 @@ No, and the spine anticipates you by name: "Falling five years behind the
 sequence is not failure; it's the schedule working as designed." Seventy
 years for 44 domains is generous on purpose, and the slack exists to absorb
 illness, a demanding program, a child, a move, a job that ate everything.
+The larger hour budget makes the slack larger, not smaller: five years is
+now a third of the ledger's whole length rather than a sixth of it, which
+sounds worse and is in fact the same fifteen domains.
 
 Practically, nothing needs to happen except arithmetic. Open the spine at the
 domain you are actually on and continue — the sequence's value is the
 prerequisite order, not the year numbers attached to it. The ledger completes
-in Decade 4 instead of Decade 3. Then reread the second half of
-`03-spine.md` and notice how little that changes: re-foundation, promotion,
-the frontier slot, and transmission are the work of decades 4 through 7, and
-none of them care what year the ledger closed.
+around year 20 instead of year 15, still inside Decade 2. Then reread the
+second half of `03-spine.md` and notice how little that changes: mastery,
+re-foundation, promotion, the frontier slot, and transmission are the work of
+decades 3 through 7, and none of them care what year the ledger closed.
 
 Resist the restart instinct generally. Restarting is a way of making the past
 not count, and it costs you everything you actually learned.
@@ -365,17 +379,29 @@ Concede the remainder honestly. A few things cost real money — a chemistry
 lab course, a language tutor — and those are precisely where the feedback
 loop lives, so they're what to spend on. Defer a domain rather than fake it.
 
-### I have 4 hours a week, not 10.
+### I have less time than the default.
 
-Then do the arithmetic and accept its answer, instead of thinning every track
-to forty percent, which is how people end up with six things all failing at
-once.
+Most people do, and the default moved a long way up — twenty-five hours a
+week, about 1,300 a year. So do the arithmetic and accept its answer,
+instead of thinning every track to a fifth, which is how people end up with
+nine things all failing at once.
 
-Four hours is about 200 a year. That funds one T3 domain plus the permanent
-habits, and the ledger completes near year 55 rather than year 30 — a
-finished map with fifteen years left to use it. That is a good
-outcome, not a degraded one, and it is still more of the map than almost
-anyone covers.
+The default funds three T3 domains a year and closes the ledger near year
+15. Ten hours a week is about 500 a year: one or two domains, ledger
+somewhere around year 30, and every structural feature of the plan intact.
+Four hours is about 200 a year, which is the constrained fork in
+`TIMELINE.md` — one domain a year, the ledger closing in the forties, a
+finished map with decades left to use it. All three are good outcomes. The
+one that isn't is running the 25-hour table at 20% and calling it the same
+plan, because then nothing finishes and the log tells you so for years
+before you believe it.
+
+Say plainly what the smaller budgets cost, since the fork pages are
+cheerful about it: they buy the same map and much less depth. Promotions to
+working depth begin around year 6 at the default because there are hours
+left over after the ledger; at four hours a week there are none, and the
+plan becomes a breadth plan with one spike rather than a breadth plan with
+three or four masteries in it.
 
 Cut, don't thin. The order to protect: spaced repetition and the weekly log
 first, because they cost fifteen minutes a day and five minutes a week and

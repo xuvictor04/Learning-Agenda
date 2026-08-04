@@ -46,7 +46,11 @@ common cause of death for this entire agenda.
 
 ## 2. Week 1
 
-Seven days, 60–90 minutes each. Do them in order — the order is the argument.
+Seven days, two to three hours each. Do them in order — the order is the
+argument. Each day below names the day's spine, not its whole content: once
+the listed task is done, the remaining hours go back into the same material —
+more problems, a second pass at the same chapter, cards written while you
+read. Week 1 is where the order gets set, not where the volume arrives.
 
 - [ ] **Day 1 — Read `01-principles.md`, all of it, once.** Eight
       principles, and every later file assumes them. As you read, write
@@ -83,10 +87,10 @@ Seven days, 60–90 minutes each. Do them in order — the order is the argument
       Pick the fixed weekly log time now — Sunday evening works, and
       `templates/weekly-log.md` says so — put it in your calendar as a
       recurring event, and write week 1's row. Five minutes, a few words per
-      column, not paragraphs. Then finish `log/2026-plan.md`: your two big
-      investments are Statistics & probability and Philosophy, your artifacts
-      are the two literacy pieces, and your weekly hours are the table in
-      section 3 below.
+      column, not paragraphs. Then finish `log/2026-plan.md`: your three big
+      investments are Statistics & probability, Philosophy and Mathematics,
+      your artifacts are the three literacy pieces, and your weekly hours are
+      the table in section 3 below.
 
 ---
 
@@ -123,23 +127,30 @@ you should write it rather than skip it — the skipped rows are the data.
 
 ### The weekly rhythm
 
-Ten focused hours, which is what the whole agenda assumes. Here is where
-they go in the first 90 days:
+Twenty-five focused hours, which is what the whole agenda assumes. Here is
+where they go in the first 90 days:
 
 | Day | What happens | Hours |
 |-----|--------------|-------|
-| Mon | Anki · Stat 110 lecture + handwritten notes + cards | 1.25 |
-| Tue | Anki · probability problems, solutions covered | 1.25 |
-| Wed | Anki · philosophy reading (primary text, not summary) | 1.25 |
-| Thu | Anki · probability problems or statistics reading | 1.25 |
-| Fri | Anki · fundamentals — Adler, then Williams' *Style* | 1.0 |
-| Sat | Anki · draft the week's piece | 2.0 |
-| Sun | Anki · cut 25%, publish, weekly log at fixed time | 1.5 |
-|     | **Total** | **9.5** |
+| Mon | Anki · Stat 110 lecture + handwritten notes + cards | 3.5 |
+| Tue | Anki · probability problems, solutions covered | 3.5 |
+| Wed | Anki · philosophy reading (primary text, not summary) | 3.0 |
+| Thu | Anki · mathematics — survey reading, then problems | 3.5 |
+| Fri | Anki · second Stat 110 lecture · fundamentals — Adler, then Williams' *Style* | 3.0 |
+| Sat | Anki · statistics problems, then draft the week's piece | 5.0 |
+| Sun | Anki · cut 25%, publish, weekly log at fixed time | 2.5 |
+|     | **Total** | **24.0** |
 
-The remaining half hour is slack, and slack is load-bearing too. Anki is on
-every row on purpose: it is fifteen minutes attached to something you
-already do, not a session you schedule.
+The remaining hour is slack, and slack is load-bearing too — at this load it
+is the difference between a bad week and a broken one. Anki is on every row
+on purpose: it is fifteen minutes attached to something you already do, not
+a session you schedule.
+
+Look at the weekday rows honestly before you commit to them. Three and a
+half hours on a Tuesday is not something you fit around a full day; it is
+something a day has to be arranged around. If the arrangement isn't there
+yet, take the constrained fork in `TIMELINE.md` deliberately rather than
+running this table at forty percent and calling it the same plan.
 
 ---
 
@@ -148,49 +159,59 @@ already do, not a session you schedule.
 Now run one domain end to end. Use **Statistics & probability**, because
 `03-spine.md` puts it first for a reason: it gates the honest reading of
 every empirical claim in the other 43 domains, and half the ledger is closed
-without it. Philosophy waits until month 4. Concentrating beats splitting —
-the spine says six weeks of intensity beats ten months of thirty-minute
-sessions, so give statistics the ledger hours and let philosophy be your
-Wednesday reading only.
+without it. Concentrating beats splitting — the spine says six weeks of
+intensity beats ten months of thirty-minute sessions, so statistics takes
+the bulk of the ledger hours, mathematics has its own weekday and runs
+underneath, and philosophy stays a Wednesday reading until statistics
+closes. Three domains a year does not mean three domains at equal volume in
+the same week; it means one at full pressure and the others held warm.
 
 The sequence, in order:
 
-- [ ] **Weeks 5–6: David Spiegelhalter, *The Art of Statistics*.** The whole
-      book. It's the door because it teaches the reasoning through real
+- [ ] **Week 5: David Spiegelhalter, *The Art of Statistics*.** The whole
+      book, in a week — at this budget that is a comfortable pace, not a
+      sprint. It's the door because it teaches the reasoning through real
       cases and postpones formulas until you want them. Cards as you go.
 - [ ] **One evening in week 5: Darrell Huff, *How to Lie with Statistics*.**
       Ninety minutes, written in 1954, and it inoculates you permanently
       against a large fraction of everything you will ever be shown.
-- [ ] **Weeks 5–12: Stat 110 lectures 1–12, one or two a week**, with
+- [ ] **Weeks 5–12: Stat 110 lectures 1–20, two or three a week**, with
       Blitzstein & Hwang's *Introduction to Probability* (free PDF)
-      chapters 1–6 read alongside — read the chapter that matches the
-      lecture, not ahead of it.
+      chapters 1–8 read alongside — read the chapter that matches the
+      lecture, not ahead of it. The extra hours buy more problems per
+      lecture, not more lectures per problem; if the two ever compete, the
+      problems win.
 - [ ] **Problems, every week, non-negotiable.** 8–12 exercises per chapter,
-      worked with the solutions covered, then checked. Target 60+ worked
+      worked with the solutions covered, then checked. Target 150+ worked
       problems by day 90. Reading math is not learning math, and the
       feedback here is unusually clean: an answer is right or wrong, and a
       ten-line simulation settles any probability argument you're having
       with yourself.
-- [ ] **Week 9: pick the artifact's target.** Find a statistical claim in
+- [ ] **Week 7: pick the artifact's target.** Find a statistical claim in
       the news and get the underlying paper — your new library card is how
       you get past the paywall.
-- [ ] **Week 10: reconstruct what was actually done.** Sample and how it was
+- [ ] **Week 8: reconstruct what was actually done.** Sample and how it was
       drawn, comparison group, effect size in absolute rather than relative
       terms, the interval, the assumptions, and how many comparisons were
       really made.
-- [ ] **Week 11: draft 2,000 words** on what the study does and does not
+- [ ] **Week 9: draft 2,000 words** on what the study does and does not
       support.
-- [ ] **Week 12: cut it by a quarter, fix the ten worst sentences, publish
+- [ ] **Week 10: cut it by a quarter, fix the ten worst sentences, publish
       it.** This is the week's piece, not extra work.
+- [ ] **Weeks 11–12: close the pass with the canon.** Fisher's *The Design
+      of Experiments*, chapter 2, the lady tasting tea, fifteen pages —
+      read slowly, then written up in a paragraph of your own in the log.
 
 **What "done" means.** The artifact is public, dated, has your name on it,
 and a reader could restate its argument back to you. That is the day-90 bar
-and you should hit it. It is not yet a checked box in `02-map.md`: a full T3
-pass is one survey work plus one canonical work plus the artifact, so
-sometime later in year 1 you still owe the canon — Fisher's *The Design of
-Experiments*, chapter 2, the lady tasting tea, fifteen pages. Check the box
-then. And note the rule while you're there: promotion to T2 happens at an
-annual review, never on enthusiasm.
+and you should hit it. What is new at this budget is that the checkmark
+arrives with it: a full T3 pass is one survey work plus one canonical work
+plus the artifact, and weeks 5–12 contain all three, so statistics gets
+checked in `02-map.md` inside the first 90 days rather than sometime later
+in year 1. That is one of the year's three boxes, on day 90. And note the
+rule while you're there: promotion to T2 happens at an annual review, never
+on enthusiasm — a fast literacy pass buys you a faster ledger, not an early
+promotion.
 
 ---
 
@@ -203,6 +224,10 @@ By day 90, this should exist:
 - [ ] ~12 published pieces, each 500+ words, in public, under your name
 - [ ] 12 rows in `log/2026-weekly.md`, including the honest empty ones
 - [ ] One literacy artifact — the 2,000-word statistics piece
+- [ ] One checked box in `02-map.md` — statistics, survey and canon and
+      artifact all done, which is the first of the year's three
+- [ ] 150+ worked probability problems, and mathematics genuinely started
+      rather than merely scheduled
 - [ ] An honest fundamentals self-rating in `02-map.md`, written on day 2
       and worth rereading now
 
@@ -212,11 +237,13 @@ You have not failed at a seventy-year plan in ninety days. That isn't a
 consolation, it's arithmetic. But diagnose it now, because the same cause
 will eat month 4. Three causes account for nearly all of it:
 
-**Too much at once.** You tried to run statistics, philosophy, three habits,
-and a reading list simultaneously and nothing got traction. *Fix:* cut to
-one habit and one domain. Daily Anki and the weekly log — 20 minutes a day
-total — then add publishing back at month 5. Ten hours a week is the design
-load, not the entry load.
+**Too much at once.** You tried to run statistics, mathematics, philosophy,
+three habits, and a reading list simultaneously and nothing got traction.
+*Fix:* cut to one habit and one domain. Daily Anki and the weekly log — 20
+minutes a day total — then add publishing back at month 5. Twenty-five hours
+a week is the design load, not the entry load, and the gap between those two
+is wider than it has ever been in this plan — which makes this the most
+likely of the three causes, not the least.
 
 **No fixed time.** The work was scheduled as "this week" rather than
 "Tuesday at 8pm," and a week has no edges to hold anything against. *Fix:*
@@ -251,17 +278,19 @@ weeks anything, and you may not spend this week repaying them.
   literacy passes are what tell you which fields actually pull. Everything
   enters at T3.
 - **Don't read ahead into `resources/` for domains years away.** Neuroscience
-  is year 12. Reading its entry now costs an evening and buys nothing you'll
-  still remember, and it is the most seductive form of not-starting available
-  in this repo.
+  is years off yet, and a faster ledger does not make it closer than the
+  domains in front of it. Reading its entry now costs an evening and buys
+  nothing you'll still remember, and it is the most seductive form of
+  not-starting available in this repo.
 - **Don't optimize the note-taking system instead of taking notes.** No new
   app, no tagging scheme, no vault architecture. A plain text file and Anki
   are sufficient for ten years. Reorganizing notes produces a strong feeling
   of processing and near-zero learning.
-- **Don't start a second language.** It begins in year 3 for good reasons —
-  it's a T2-cost track that runs for years, and starting it before the three
-  habits hold means it becomes the thing that breaks and takes the habits
-  down with it.
+- **Don't start a second language.** It begins on the spine's schedule and
+  not on yours, for good reasons — it's a T2-cost track that runs for years,
+  and starting it before the three habits hold means it becomes the thing
+  that breaks and takes the habits down with it. A bigger hour budget is
+  exactly the argument you will be tempted to make here. Don't.
 - **Don't reorganize this repo before you've used it.** Restructuring
   someone's plan is the most comfortable way to avoid executing it. Change
   it at the annual review, with a year of evidence, which is what annual
@@ -273,12 +302,13 @@ weeks anything, and you may not spend this week repaying them.
 
 Four files, in this order:
 
-- **`03-spine.md`, Year 1** — the rest of your year. Philosophy is the
-  second domain and starts now: Plato's *Euthyphro / Apology / Crito*, then
-  Kenny's *A New History of Western Philosophy* as the survey, with the free
-  will artifact by December. Year 1's December bar is two literacy artifacts,
-  forty-plus weeks of public writing, an unbroken SRS streak, and the
-  fundamentals self-rating done honestly.
+- **`03-spine.md`, Year 1** — the rest of your year. Philosophy steps up
+  from a Wednesday trickle to a full pass now: Plato's *Euthyphro / Apology
+  / Crito*, then Kenny's *A New History of Western Philosophy* as the survey,
+  with the free will artifact by December. Mathematics is the third domain
+  and keeps its own day throughout. Year 1's December bar is three literacy
+  artifacts, forty-plus weeks of public writing, an unbroken SRS streak, and
+  the fundamentals self-rating done honestly.
 - **`TIMELINE.md`** — all seventy years on one page. Worth one read now that
   you have three months of evidence that you'll actually do this, and worth
   a second read for the variants at the bottom: pre-built forks for four

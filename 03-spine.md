@@ -13,33 +13,29 @@ and what it will cost you.
 
 ## The seventy-year frame
 
-Seven decades, seventy years.
+Seven decades, seventy years. **The ledger completes at year 15** — and that
+single fact shapes everything else.
 
 | Decade | Years | The work |
 |--------|-------|----------|
-| 1 | 1–10 | The trunk: fundamentals, and the domains everything else needs |
-| 2 | 11–20 | The second spike; the branches that needed scaffolding |
-| 3 | 21–30 | The applied world; the ledger completes; synthesis begins |
-| 4 | 31–40 | Integration, first re-foundations, promotions |
-| 5 | 41–50 | The free decade: reclaimed hours, third spike, transmission |
+| 1 | 1–10 | Foundations: the fundamentals, 30 of the 44 domains, the first spike |
+| 2 | 11–20 | The ledger completes at year 15; then the first real depth |
+| 3 | 21–30 | Mastery and original work: the second spike, the first bridges |
+| 4 | 31–40 | Integration and synthesis; re-foundation; institutions |
+| 5 | 41–50 | The free decade: hours rise again, the third spike on pull alone |
 | 6 | 51–60 | Distillation: what survives you, put in usable form |
 | 7 | 61–70 | The long view: the perspective nobody younger can have |
 
-**The ledger completes around year 30 — with forty years left.**
-That is the single most important fact about this plan, and the one most
-people get wrong when they imagine a "lifetime learning plan." Covering the
-map once is the *first third*. What follows is not repetition: fields you
-learned in Decade 1 will have moved by Decade 4, entire domains will exist
-that have no name today, and the domains that actually pull will be waiting
-for promotion to real depth. Decades 4–7 are where a broad education stops
-being a collection and becomes a point of view.
+**Fifty-five years sit after the ledger.** Covering the map is the first fifth
+of this plan, not the whole of it. What follows is not repetition — it is
+promotion (taking the domains that actually pull to real depth), re-foundation
+(fields you learned in Decade 1 will have moved by Decade 3), the frontier
+(fields that have no name today), and transmission.
 
-A note on pace. Seventy years is generous for 44 domains — deliberately. The
-slack absorbs the years that go wrong: illness, a demanding program, a new
-child, a move, a job that eats everything. Falling five years behind the
-sequence is not failure; it's the schedule working as designed.
-
----
+A note on pace. Seventy years is generous, deliberately. The slack absorbs the
+years that go wrong: illness, a demanding program, a move, a job that eats
+everything. Falling five years behind is not failure; it is the schedule
+working as designed.
 
 ## The sequencing logic
 
@@ -64,10 +60,10 @@ flowchart LR
     STAT --> PH[Public health]
     STAT --> FIN[Finance]
 
-    MATH["Mathematics<br/><i>yr 2</i>"] --> PHYS["Physics<br/><i>yr 3</i>"]
+    MATH["Mathematics<br/><i>yr 1</i>"] --> PHYS["Physics<br/><i>yr 2</i>"]
     MATH --> LOGIC[Logic]
     MATH --> TCS[Theoretical CS]
-    PHYS --> CHEM["Chemistry<br/><i>yr 5</i>"]
+    PHYS --> CHEM["Chemistry<br/><i>yr 3</i>"]
     PHYS --> ASTRO[Astronomy]
     PHYS --> ENG[Engineering ×3]
     CHEM --> MAT[Materials]
@@ -76,7 +72,7 @@ flowchart LR
     GEN --> MED
     MED --> PH
 
-    EVO["Evolution<br/><i>yr 4</i>"] --> ECOL[Ecology]
+    EVO["Evolution<br/><i>yr 3</i>"] --> ECOL[Ecology]
     EVO --> ANTH[Anthropology]
     EVO --> PSY
     EVO --> AGRI[Agriculture]
@@ -112,14 +108,16 @@ flowchart LR
 
 The five shaded nodes are the load-bearing ones: statistics, mathematics,
 philosophy, world history, and evolution. Everything else in the ledger gets
-cheaper after them, which is why all five land in years 1–4. Get those wrong
+cheaper after them, which is why all five land in years 1–3. Get those wrong
 and the rest of the sequence costs more than it should.
 
-**3. Alternate hard and free.** Every year pairs one prerequisite-chained
-domain with one that has no prerequisites at all — literature, music, art,
+**3. Alternate hard and free.** Every year pairs prerequisite-chained domains
+with at least one that has no prerequisites at all — literature, music, art,
 religion, film. This isn't decoration. It's what makes seventy years
 survivable: the free domain is the one you read on a bad week, and it keeps
 the curiosity budget from being the only non-obligatory thing in your life.
+At three domains a year the rule matters more, not less — three hard domains
+in one year is how a good year becomes an abandoned one.
 
 **4. Some things run continuously, not in slots.** Spaced repetition, weekly
 logging, the language, the craft, the spike, and the curiosity budget are
@@ -129,7 +127,7 @@ This is why 43 of the ledger's 44 domains get a year and one doesn't: **"a
 craft done with the hands" is a track, not a slot.** You cannot bring
 embodied skill to literacy in a hundred hours and then leave it — it decays,
 and it is the one domain on the map the rest cannot fake. It starts in year 3
-and runs to year 30, reaching working-craftsperson level by the end. Language
+and runs the length of the plan, reaching working-craftsperson level. Language
 works the same way for the same reason (see `resources/languages.md`), which
 is why it's a three-year track from year 3 rather than a ledger entry.
 
@@ -137,41 +135,53 @@ is why it's a three-year track from year 3 rather than a ledger entry.
 
 ## The load model
 
-The agenda assumes **ten focused hours a week**, about 500 a year. A year's
-allocation:
+The agenda assumes **25 focused hours a week**, about 1,300 a year. That is
+the number everything else is sized against, and it is deliberately a real
+number rather than a comfortable one.
 
 | Track | Hours/yr | Notes |
 |-------|----------|-------|
-| Two T3 domains | ~200 | 100 each; this is the ledger work |
-| Spike (T1/T2) | ~150 | Your professional depth; more in some years |
-| Fundamentals | ~50 | Heavy in years 1–2, maintenance after |
-| Frontier slot | ~40 | Reconnaissance on what isn't on the map yet — `04-frontier.md` |
-| Current awareness | ~100 | 2 hrs/wk across all frequencies — `05-current.md` |
-| Curiosity budget | ~50 | Unplanned, off-ledger, no artifact required |
+| Three T3 domains | ~540 | ~180 each; this is the ledger work |
+| Depth (promotions) | ~300 | From year 6 on: taking domains to working depth via the long shelves |
+| Spike (T1/T2) | ~250 | Your professional depth; more in some years |
+| Fundamentals | ~80 | Heavy in years 1–2, maintenance after |
+| Current awareness | ~100 | ~2 hrs/wk across all frequencies — `05-current.md` |
+| Frontier slot | ~80 | Reconnaissance on what isn't on the map yet — `04-frontier.md` |
+| Curiosity budget | ~150 | Unplanned, off-ledger, no artifact required |
 
-Two of those tracks are new and permanent. The **frontier slot** is 5–10% of
-your hours held open, every year for seventy years, for fields that don't
-exist yet — because over that span some will, and a fixed map would sleep
-through them. **Current awareness** is the live layer: a map with no news
-attached becomes a museum. Both are capped deliberately, because both expand
-to fill whatever you give them.
+Two of those tracks are permanent and capped on purpose. The **frontier slot**
+holds 5–10% of your hours open, every year for seventy years, for fields that
+don't exist yet — because over that span some will, and a fixed map would
+sleep through them. **Current awareness** is the live layer: a map with no
+news attached becomes a museum. Both expand to fill whatever you give them,
+which is why both have ceilings.
 
-Three caveats worth stating plainly.
+### Pick your pace honestly
 
-**The trunk years run heavier than this table.** `TIMELINE.md` lists closer to
-300 hours of ledger material in Decade 1, because those years carry two
-domains *and* the fundamentals. Either run twelve or thirteen hours a week
-through the trunk, or cut from the bottom of each year's queue — it's ordered
-for exactly that. Decades 2 and 3 come back under budget as the spike takes
-over.
+25 hrs/week is the default, not a requirement. The whole plan rescales
+cleanly, and the *order* never changes — only how fast you move through it.
 
-**If you're in a demanding degree or training program, halve the ledger and
-run one domain a year** — the spike comes first, always, and a professional
-program *is* the spike. You'll finish the ledger around year 44 instead of
-year 30, which is fine.
+| Hrs/week | Hrs/year | Ledger done | 70-year total | Reads as |
+|----------|----------|-------------|---------------|----------|
+| 10 | ~520 | year 25 | ~36,000 | A serious hobby alongside a full life |
+| 15 | ~780 | year 17 | ~55,000 | Committed; roughly a part-time second job |
+| **25** | **~1,300** | **year 15** | **~91,000** | **The default. Demanding but sustainable** |
+| 35 | ~1,820 | year 9 | ~127,000 | Near-professional. Realistic only in stretches |
 
-**A domain's hours don't have to be evenly spread**: six weeks of intensity
-beats ten months of thirty-minute sessions for most literacy passes.
+Choose the row you will still be running in year 12, not the one that
+flatters you in year 1. **Consistency is the entire mechanism** — the plan
+does not reward a heroic first year followed by a decade of nothing, and
+`FAQ.md` is blunt about why.
+
+Two further caveats:
+
+**If you're in a demanding degree or training program, cut the ledger to one
+or two domains a year while it lasts** — the spike comes first, always, and a
+professional program *is* the spike. The ledger completes later; nothing else
+breaks.
+
+**A domain's hours need not be evenly spread.** Six weeks of intensity beats
+ten months of thirty-minute sessions for most literacy passes.
 
 ---
 
@@ -179,7 +189,7 @@ beats ten months of thirty-minute sessions for most literacy passes.
 
 Each year below gives you:
 
-- **Ledger** — the two T3 domains, with the file to open in `resources/`
+- **Ledger** — the three T3 domains, with the file to open in `resources/`
 - **Why now** — the prerequisite argument, so you can judge a reorder
 - **Fundamentals** — which capacity gets deliberate work
 - **Modes** — the variety mandate. Minimum three modes per domain; see
@@ -189,438 +199,125 @@ Each year below gives you:
 
 ---
 
-# Decade 1 — Years 1–10: The Trunk
+# Decade 1 — Years 1–10: Foundations
 
-The mission is the trunk of the tree: the fundamentals, the formal and
-physical core that half the ledger depends on, and the habits. Twenty domains
-land here — the most of any decade — because these are the ones that make
-later domains cheap.
+Thirty of the forty-four domains, the fundamentals, the first spike, and the
+first promotions. This is by far the heaviest decade, and deliberately so:
+these are the domains everything downstream waits on, and at this pace there
+is no reason to spread them over thirty years.
 
-## Year 1 — The instrument, and how to argue
+| Yr | Ledger | Why these, now |
+|----|--------|----------------|
+| 1 | Statistics & probability · Philosophy · Mathematics | The three meta-domains. Statistics is how you evaluate every empirical claim in the other 41; philosophy is how you evaluate every argument; mathematics gates the entire formal and physical half. None has prerequisites |
+| 2 | World history · Physics · Literature | History is the timeline every social and humanities domain plugs into. Physics needs year 1's mathematics. Literature is the free domain — no prerequisites, different rhythm, and the one you read on a bad week |
+| 3 | Evolutionary & molecular biology · Chemistry · Music | Evolution organises the entire living cluster. Chemistry needs physics and gates genetics, medicine, materials. Music is the free slot, and the instrument starts now |
+| 4 | Psychology · Economics · Visual art & architecture | Both hard domains need year 1's statistics; economics also needs year 2's history. Psychology without statistics cannot survive the replication literature |
+| 5 | Neuroscience · Genetics · World religions & mythology | Neuroscience needs biology, chemistry, and psychology. Genetics is the most prerequisite-dense domain in the living cluster. Religion pairs with neuroscience deliberately — two very different accounts of the human interior, read in one year |
+| 6 | Political science · Computing in practice · Anthropology & archaeology | Politics needs history and philosophy; anthropology needs evolution and history; computing lands after five years of programming as a fundamental, so you arrive with real problems. **Promotions begin this year** |
+| 7 | Cosmology & astronomy · Logic & foundations · Theater, film & narrative media | Astronomy needs physics and mathematics; logic needs mathematical maturity. Film is the free slot |
+| 8 | Theoretical CS & information theory · Linguistics · Rhetoric & writing | Theoretical CS and logic are the same subject in two hats. Linguistics needs neuroscience and psychology. Rhetoric arrives after seven years of weekly writing — you have something to refine rather than start |
+| 9 | Artificial intelligence · Sociology · Ecology | AI needs the mathematics, the programming, and neuroscience. Sociology needs history and statistics. Ecology needs evolution |
+| 10 | Earth science & climate · Law & legal systems · Medicine & physiology | Earth science needs chemistry and physics. Law needs history and philosophy. Medicine is the most prerequisite-dense domain on the map, which is why it waits until now |
 
-- **Ledger:** Statistics & probability (`formal.md`) · Philosophy
-  (`meaning-expression.md`)
-- **Why now:** These are the two meta-domains. Statistics is how you evaluate
-  every empirical claim in the other 42; philosophy is how you evaluate every
-  argument. Doing them first makes everything after cheaper and makes you
-  much harder to fool. Neither has prerequisites.
-- **Fundamentals:** The big three, and this is the year for them — writing,
-  reading, and SRS discipline. Adler's *How to Read a Book* in month one;
-  Williams' *Style* worked with its exercises; Anki started on day one and
-  never stopped.
-- **Modes:** Stat 110's free lectures (Blitzstein) as a scheduled class with
-  the problem sets actually done. Philosophy through the primary texts, not
-  summaries — the Socratic dialogues are sixty pages. A reading group or one
-  reader who owes you honesty.
-- **Kit:** Almost nothing, deliberately. A library card, a notebook system,
-  and Anki. Under $50. The year-1 restraint is the point — gear bought before
-  the habit exists is gear that goes unused.
-- **By December:** Two literacy artifacts published. Forty-plus weeks of
-  weekly public writing. An unbroken SRS streak. A self-rating against the
-  fundamentals table in `02-map.md`, done honestly.
+**Continuous from year 3:** the language (to B2 by year 6) and the craft.
+**Continuous from year 1:** spaced repetition, the weekly log, current
+awareness, the frontier slot, the curiosity budget.
 
-## Year 2 — The universal solvent
-
-- **Ledger:** Mathematics (`formal.md`) · World history, part 1 of 2
-  (`human-social.md`)
-- **Why now:** Mathematics gates physics, chemistry, economics, and the
-  entire formal cluster — it is the single highest-leverage domain on the
-  map. World history is the timeline every social and humanities domain plugs
-  into later; starting it now means politics, law, and sociology all arrive
-  with somewhere to attach. History is the one domain given two years,
-  because `resources/human-social.md` is right that no single book does it.
-- **Fundamentals:** Math and statistics to working level. Programming begins
-  — automate one real annoyance in your own life, which is the whole on-ramp.
-- **Modes:** 3Blue1Brown for intuition, then Strang's linear algebra for the
-  real thing. The Big History Project for deep time. A natural history museum
-  visit with a specific question in hand.
-- **Kit:** A whiteboard and a proof notebook. Under $100.
-- **By December:** A mathematics artifact. History part 1 notes. A working
-  script you wrote that saves you real time.
-
-## Year 3 — Physical law, and the first art
-
-- **Ledger:** Physics (`physical.md`) · Literature (`meaning-expression.md`)
-- **Why now:** Physics needs year 2's mathematics and is itself the gate to
-  chemistry, astronomy, materials, and all three engineerings. Literature is
-  the alternation rule's first real test: a domain with no prerequisites, no
-  math, and a completely different rhythm, deliberately placed against the
-  hardest year so far.
-- **Continuous tracks begin:** **Your language** starts now and runs three
-  years to B2 — see `resources/languages.md` for why "fluent" is a
-  meaningless target and CEFR isn't. **Your craft** starts now too, and never
-  ends.
-- **Modes:** The Feynman Lectures, free online, read by the chapters
-  `resources/physical.md` names rather than cover to cover. Susskind's
-  *Theoretical Minimum* lectures. A tutor for the language from month one —
-  conversation is the feedback loop and there's no substitute.
-- **Kit:** 10×50 binoculars (they'll serve astronomy in year 10 and birding
-  forever), and the craft's starting tools. Whichever instrument or tool you
-  chose, buy the cheap version and use it until its limits genuinely annoy
-  you.
-- **By December:** A physics artifact. A literature artifact. CEFR A2 in the
-  language. One finished object from the craft, however bad.
-
-## Year 4 — The living world
-
-- **Ledger:** Evolutionary & molecular biology (`living.md`) · Music
-  (`meaning-expression.md`)
-- **Why now:** Evolution is the organizing idea of the entire living cluster
-   — ecology, genetics, medicine, anthropology, and half of psychology all
-  assume it. Nothing in biology makes sense without it, so it comes first.
-- **Modes:** Stearns' Open Yale lectures. A microscope on your own kitchen
-  scrapings — pond water, yeast, your own cheek cells. A local natural
-  history society. For music: an instrument in your hands, not a book about
-  music.
-- **Kit:** A real compound microscope, bought used from university surplus if
-  you can — the difference between a toy and a usable scope with achromatic
-  objectives is the difference between the mode working and not. An
-  instrument and a metronome.
-- **By December:** A biology artifact tracing one adaptation end to end. A
-  music artifact. Language at B1.
-
-## Year 5 — Matter and mind
-
-- **Ledger:** Chemistry (`physical.md`) · Psychology (`mind.md`)
-- **Why now:** Chemistry needs year 3's physics and gates genetics, medicine,
-  and materials. Psychology needs year 1's statistics — without it you cannot
-  read the field's literature honestly, and the replication crisis makes that
-  a live problem rather than an academic one.
-- **Modes:** Chemistry is the least autodidact-friendly domain on the map
-  because you cannot fake a lab. Take the community college lab course; it's
-  cheap and it's the honest route. Psychology through Bloom's Open Yale
-  course plus running a classic experiment on yourself.
-- **Kit:** Lab course fees rather than home equipment. Home chemistry has
-  real safety and legal constraints — the legitimate hobby routes are in
-  `resources/kit.md`.
-- **By December:** Two artifacts. Language at B1+. The craft's second object,
-  visibly better than the first.
-
-## Year 6 — Incentives and images
-
-- **Ledger:** Economics (`human-social.md`) · Visual art & architecture
-  (`meaning-expression.md`)
-- **Why now:** Economics needs statistics (year 1) and history (year 2) —
-  it's incoherent without both. Art needs nothing, which is exactly why it's
-  here.
-- **Modes:** CORE Econ's *The Economy*, free and better than most paid
-  courses. FRED and Our World in Data for a real dataset — an afternoon with
-  actual series teaches what ten chapters don't. For art: standing in front
-  of real paintings, because scale does not survive reproduction.
-- **Kit:** A museum membership, which pays for itself in two visits and
-  changes how you use a museum — repeatedly and briefly, rather than once and
-  exhaustively.
-- **By December:** Two artifacts. Language at B2 — the level that changes
-  your life. Sixty percent of the fundamentals table at "strong."
-
-## Year 7 — Brains and belief
-
-- **Ledger:** Neuroscience (`mind.md`) · World religions & mythology
-  (`meaning-expression.md`)
-- **Why now:** Neuroscience needs biology (year 4), chemistry (year 5), and
-  psychology (year 5) — attempted earlier it's memorization. Religion pairs
-  with it deliberately: the two most different accounts of the human interior
-  you will meet, read in the same year, is a genuinely useful collision.
-- **Modes:** Kanwisher's MIT lectures, free. A brain specimen at a museum or
-  a university open day. For religion: primary texts, and attending services
-  or ceremonies of two traditions not your own, observed as a scholar would.
-- **Kit:** Nothing significant. Bank it for year 10.
-- **By December:** Two artifacts. Language maintenance, not acquisition.
-
-## Year 8 — Inheritance and power
-
-- **Ledger:** Genetics (`living.md`) · Political science (`human-social.md`)
-- **Why now:** Genetics needs evolution (4), chemistry (5), and statistics
-  (1) — it's the most prerequisite-dense domain in the living cluster.
-  Political science needs history (2) and philosophy (1).
-- **Modes:** Real sequence data — pull from GenBank, build a tree, learn what
-  a bootstrap value does and doesn't mean. For politics: attend a local
-  council meeting, then read the minutes. The gap between the two is the
-  domain's actual subject.
-- **Kit:** Nothing new.
-- **By December:** Two artifacts. **Mid-decade decision point:** which
-  domains so far pulled hardest? Those are your second-spike candidates.
-
-## Year 9 — Machines and peoples
-
-- **Ledger:** Computing in practice (`made-applied.md`) · Anthropology &
-  archaeology (`human-social.md`)
-- **Why now:** Computing lands after seven years of programming as a
-  fundamental, so you arrive with real problems rather than tutorials.
-  Anthropology needs evolution (4) and history (2).
-- **Modes:** CS50 if you want the structure, but the better route by now is
-  building something you need. MIT's *Missing Semester* for the tools nobody
-  teaches. For anthropology: a field school, or a dig season — volunteer
-  archaeology genuinely takes amateurs.
-- **Kit:** A soldering iron (temperature-controlled — the fixed-temperature
-  one is a false economy), a multimeter, a microcontroller starter kit. Under
-  $200 and it opens the whole made-and-applied cluster.
-- **By December:** Two artifacts. Something you built that another person
-  uses.
-
-## Year 10 — The sky, the screen, and the audit
-
-- **Ledger:** Cosmology & astronomy (`physical.md`) · Theater, film &
-  narrative media (`meaning-expression.md`)
-- **Why now:** Astronomy needs physics (3) and mathematics (2). It's placed
-  last in the decade because it's the best possible payoff for the discipline
-  that got you here — and because the binoculars from year 3 have been
-  waiting.
-- **Modes:** SDSS SkyServer for real data. An astronomy club, which is the
-  most welcoming amateur community in existence and will let you look through
-  telescopes worth more than your car. An observatory or planetarium visit.
-- **Kit:** **The year-10 purchase: a Dobsonian reflector.** Aperture matters
-  more than magnification, and this is the one big-ticket item the decade has
-  earned. (Never point any telescope at the sun without a proper solar
-  filter.)
-- **By December:** Two artifacts. **The ten-year audit:** twenty domains
-  checked, the fundamentals table honest, and the second spike chosen — see
-  `phases/decade-1-foundations.md`.
+**By year 10:** 30 domains · ~30 artifacts · a language at B2 · a craft making
+real objects · the first spike professional · 2–3 domains at working depth ·
+the second spike chosen from evidence.
 
 ---
 
-# Decade 2 — Years 11–20: The Second Spike and the Branches
+# Decade 2 — Years 11–20: Completion, then Depth
 
-Twelve to fourteen domains, at a deliberately slower ledger pace, because the
-second spike is now taking real hours and the mastery work in
-`phases/decade-2-mastery.md` is the decade's actual mission. The domains here
-are the ones that needed a decade of scaffolding underneath them.
+Two halves, and they are different in kind.
 
-## Years 11–12 — Foundations of form
+**Years 11–15 close the ledger.**
 
-- **Ledger:** Logic & foundations · Theoretical computer science &
-  information theory · Rhetoric & writing
-- **Why now:** Logic and theoretical CS are the same subject wearing two
-  hats, and both need a decade of mathematical maturity to land as anything
-  but symbol-pushing. Rhetoric arrives now because you've been writing weekly
-  for ten years — you have something to refine rather than something to
-  start.
-- **Modes:** Lean and mathlib for formalization, which turns logic from a
-  reading subject into a doing subject. A serious writing workshop with real
-  feedback, which beats any course.
-- **Kit:** Nothing. These are pencil-and-screen domains.
-- **Continuous:** Second spike at T2. Craft approaching material fluency.
+| Yr | Ledger |
+|----|--------|
+| 11 | Materials science · Finance & markets · Geography & geopolitics |
+| 12 | Education · Engineering: energy & power · Engineering: structures |
+| 13 | Engineering: machines & manufacturing · Public health · Business |
+| 14 | Media & communication · Military history & strategy · Design |
+| 15 | Agriculture & food systems — **and the ledger completes** |
 
-## Years 13–14 — Language, intelligence, society
+The applied cluster concentrates in years 12–14 by design: after a decade of
+largely textual learning, these are the domains where *doing* is the material,
+and the project ladders in `resources/made-applied.md` become the spine of the
+practice. The workshop lands here.
 
-- **Ledger:** Linguistics · Artificial intelligence · Sociology
-- **Why now:** Linguistics and AI both need neuroscience (7) and psychology
-  (5); AI additionally needs the mathematics and the programming. Sociology
-  needs history and statistics. Note that AI here means the *field* — search,
-  representation, learning theory, the philosophical questions — not the
-  tooling, which has a two-year half-life and is learned inside projects.
-- **Modes:** Build a model from scratch, badly, before reading about better
-  ones. Transcribe and analyze an hour of real recorded speech for
-  linguistics — the gap between what people think they say and what they say
-  is the field's front door.
-- **Kit:** A decent microphone and recorder for linguistic fieldwork.
+**Year 15 is the hinge of the entire plan.** All 44 domains checked, roughly
+45 artifacts, and fifty-five years still to run. The consolidation work that
+year — sweeping every domain's re-foundation watch, reading `bridges.md`
+against your accumulated "these two should talk" list, and making the
+promotion decisions that open the long shelves — is what converts a covered
+map into a working one.
 
-## Years 15–16 — Systems that sustain
+**Years 16–20 are the first real depth.** Three or four domains promoted to
+working depth, chosen on demonstrated pull rather than plan. The second spike
+takes serious hours. The first bridges get attempted.
 
-- **Ledger:** Ecology · Earth science & climate · Law & legal systems
-- **Why now:** Ecology needs evolution (4) and statistics (1). Earth science
-  needs chemistry (5) and physics (3). Law needs history (2) and philosophy
-  (1) — and it's the domain where the licensing wall is real, so the ledger
-  pass is literacy and nothing more.
-- **Modes:** Citizen science with genuine scientific value — eBird,
-  iNaturalist, Zooniverse. A local mycological or botanical society. Read
-  actual court opinions rather than books about them.
-- **Kit:** A home weather station, regional field guides, a plant press, a
-  hand lens. Under $250 and it converts two domains from reading to fieldwork.
-
-## Years 17–18 — Bodies and money
-
-- **Ledger:** Medicine & physiology · Materials science · Finance & markets
-- **Why now:** Medicine needs biology, chemistry, genetics, and statistics —
-  it is the most prerequisite-dense domain on the whole map, which is why
-  it's this late. Materials needs chemistry and physics. Finance needs
-  economics (6) and statistics (1).
-- **Modes:** For medicine, the honest amateur routes are EMT certification or
-  hospital and hospice volunteering — both genuinely open to anyone, and both
-  teach what no textbook does. Shiller's Yale course for finance, free.
-- **Kit:** A metallography setup for materials is cheaper than it sounds and
-  genuinely doable at home.
-
-## Years 19–20 — Place, learning, and the audit
-
-- **Ledger:** Geography & geopolitics · Education
-- **Why now:** Geography integrates history, politics, economics, and earth
-  science — it's best late, when it has all four to integrate. Education
-  arrives now because you're twenty years into an experiment in it, and
-  because Decade 3's stewardship work needs it.
-- **Modes:** Travel as actual field equipment. Teach a real class at a
-  library or makerspace.
-- **By year 20:** The **twenty-year audit** in
-  `phases/decade-2-mastery.md`. Roughly 34 domains checked. Second spike at
-  or near T1. A legible body of work.
+**By year 20:** the ledger complete and refreshed · 4–6 domains at working
+depth · second spike well advanced · the first cross-field project.
 
 ---
 
-# Decade 3 — Years 21–30: The Applied World and Synthesis
+# Decade 3 — Years 21–30: Mastery and Original Work
 
-The remaining domains are deliberately concentrated in the made-and-applied
-cluster, and that's a design choice: after two decades of largely textual
-learning, the third act is where you build things. It also carries the
-synthesis, stewardship, and reinvention tracks from
-`phases/decade-3-synthesis.md`.
+With the map covered fifteen years ago and depth accumulating since, this is
+the plan's most productive stretch.
 
-## Years 21–23 — Engineering, three ways
+- **The second spike reaches mastery.** Original contribution becomes the
+  goal rather than the horizon.
+- **The bridges open.** `resources/bridges.md` is the material; the ledger is
+  what bought the right to use it. Most original work happens at
+  intersections, and you now hold forty-four of them.
+- **The first re-foundation pass.** Domains learned in Decade 1 have moved —
+  genetics, astronomy, AI, medicine, and linguistics move fastest.
+- **Teaching becomes routine**, and the first institution-building starts.
 
-- **Ledger:** Engineering: energy & power systems · Engineering: structures &
-  the built environment · Engineering: machines, manufacturing & transport
-- **Why now:** All three need physics (3), mathematics (2), and materials
-  (17–18). Taken together in a block, they teach the same habit of mind three
-  times, which is why they're adjacent rather than scattered.
-- **Modes:** Run real numbers on real data — MATPOWER and PyPSA are free.
-  Instrument your own house and discover your mental model of where your
-  electricity goes is badly off. Factory and industrial heritage tours.
-- **Kit:** The workshop, properly. Hand tools over power tools, a sharpening
-  setup first because sharpening is the actual first skill, a bench and vise.
-  Safety equipment is not optional — eye protection, hearing protection, dust
-  control, a fire extinguisher.
-
-## Years 24–26 — Systems of people
-
-- **Ledger:** Public health & care systems · Business, management &
-  entrepreneurship · Media & communication
-- **Why now:** Public health needs medicine (17–18) and statistics.
-  Business and media both benefit from everything, and both are domains where
-  two decades of accumulated judgment makes the reading land differently.
-- **Modes:** These are practitioner fields — interview people who do them.
-  Run something small and real rather than reading about running things.
-
-## Years 27–30 — The last of the ledger, and the synthesis
-
-- **Ledger:** Military history & strategy · Design · Agriculture & food
-  systems
-- **Why now:** They're last because nothing depends on them, not because they
-  matter least. Agriculture is a fine domain to end on — it closes the loop
-  from year 4's biology to the food on your table, and it's the most
-  physical, seasonal, patient subject on the map.
-- **Kit:** A garden, soil test kits, and time. The slowest feedback loop of
-  anything here, and worth it.
-- **The three tracks:** Synthesis (the cross-field work only your combination
-  enables), stewardship (transferring what you know to people and
-  institutions), and optionally reinvention — a third spike chosen with zero
-  career justification allowed, on pull alone.
-- **By year 30:** All 44 domains checked. One major synthesis work. The craft
-  at working-craftsperson level. The year-30 review written, and a sketch of
-  what years 31–40 are for.
+**By year 30:** an original contribution defended in public · 6–9 domains at
+working depth · 1–2 at mastery · a legible body of work · the craft at
+working level.
 
 ---
 
 # The Second Half — Years 31–70
 
-The ledger is done and you are fifty. Forty years remain — more time than the
-whole plan so far has used.
+Forty years, no new ledger domains, and more material than the first thirty
+carried. Detail lives in `phases/` and `TIMELINE.md`.
 
-The instinct at this point is to assume the learning is over and only the
-using is left. That instinct is wrong, and the rest of this file exists to
-say why. Four kinds of work fill the second half, and none of them are
-available to someone who hasn't done the first:
+## Decade 4 — Years 31–40: Integration and Synthesis
 
-**Re-foundation.** A field you brought to literacy at 25 has moved by 55.
-Instrument-driven and computational fields move fastest — biology, astronomy,
-linguistics, medicine, anything that got a new way of measuring. Every domain
-needs a refresh roughly every 15–20 years, and the signal that one is overdue
-is simple: you can no longer follow a current talk in a field you once knew.
-Being taught the new version by someone who learned it long after you did
-is the normal experience, not a humiliation. See `04-frontier.md`.
-
-**Promotion.** Forty-four literacy passes tell you something no amount of
-planning could: which domains actually pull. The second half is where a
-handful of them go to working depth or mastery. This is a narrowing move —
-saying no to thirty-nine domains in order to say yes to five.
-
-**The frontier.** Fields will exist in Decade 5 with no name today. The
-slot has been running at 5–10% since year 1 precisely so that you notice them
-and can join rather than watch.
-
-**Transmission.** Synthesis, teaching, institutions, successors. Unshared
-mastery doesn't compound — it retires.
-
-Because these are less schedulable than a literacy pass, the decades below
-are lighter on year-by-year prescription and heavier on the shape of the
-work. The detailed treatment is in `phases/`.
-
----
-
-# Decade 4 — Years 31–40: Integration
-
-**The move:** stop collecting, start connecting. This is typically peak
-professional authority, and the decade where a completed ledger plus two
-mature spikes finally produces work nobody else could do.
-
-- **Re-foundations:** the first systematic pass. Pick the 5–8 domains that
-  have moved most since you learned them and redo the literacy pass on
-  current material.
-- **Promotions:** 3–5 domains from T3 to T2 across the decade, chosen on
-  demonstrated pull rather than on plan.
-- **The signature work:** cross-field synthesis. The problems you've been
-  noticing since Decade 2 that need your specific combination.
-- **Institutions:** begin building the thing that teaches after you — a
-  course, a curriculum, a team, a standard, an open resource.
-- **Maintenance becomes curriculum:** exercise, sleep, hearing and vision
-  correction, social engagement. These stop being background and become
-  scheduled, because they protect the instrument everything else runs on.
-- **Kit:** peak earning meets deferred wants. The big durable goods —
-  a serious telescope, a full workshop, a real instrument, a kiln or lathe —
-  are justifiable now on cost-per-year-of-use. The trap is buying capability
-  instead of exercising it (`resources/kit.md`).
+The signature cross-field work — the problems that need your specific
+combination. Institution-building: the course, the curriculum, the standard,
+the open resource that teaches after you. A second re-foundation pass. Peak
+earning meets deferred wants, so the durable equipment in `resources/kit.md`
+becomes justifiable on cost-per-year-of-use.
 
 ## Decade 5 — Years 41–50: The Free Decade
 
-**The move:** obligations loosen and learning hours roughly double. For
-someone who kept the habits for forty years, this can be the most productive
-learning decade of a life — a vast SRS vault, syntopical reading, a network,
-taste, and now time.
-
-- **The third spike,** chosen on pull alone with zero career justification
-  permitted. Beginner-hood here is a practice, not a humiliation, and it is
-  where genuinely new work often comes from.
-- **Transmission at scale:** the book-length synthesis, specific named
-  successors, the institution.
-- **Formal re-entry** is a real and underused option — a degree, a
-  fellowship, a residency. Many institutions actively want older students.
-- **Second re-foundation pass,** with reverse-mentoring now essential:
-  seniority insulates you from the new unless you build against it.
+Obligations loosen and hours rise again. The **third spike, chosen on pull
+alone** with zero career justification permitted — beginner-hood as a
+practice, not a humiliation. Transmission at scale: the book-length synthesis,
+named successors, formal re-entry if you want it.
 
 ## Decade 6 — Years 51–60: Distillation
 
-**The move:** the corpus is large and unsorted. The work is editing, not
-accumulating — deciding what of fifty years is worth passing on and putting
-it in a form that survives you.
-
-- **The summative work:** the book, the curriculum, the archive made legible
-  to a stranger. A thousand scattered pieces distilled into one usable thing
-  is the greater contribution.
-- **Hard learning as health infrastructure.** Novelty and difficulty are the
-  active ingredient — a new language, a new instrument, a new craft beats
-  reviewing what you already know.
-- **Adapt the method, don't lower the ambition.** Audio as a first-class
-  mode, larger type, shorter and more frequent sessions, more spaced review,
-  hearing aids early rather than late. The SRS vault built over five decades
-  is now doing exactly what it was designed for.
-- **The frontier slot still runs.** A frozen model is the characteristic
-  failure of this decade, and the slot is the countermeasure.
+The corpus is large and unsorted; the work is editing, not accumulating. The
+summative work, the curriculum, the archive made legible to a stranger.
+Hard learning continues as health infrastructure — novelty and difficulty are
+the active ingredient. **Adapt the method, don't lower the ambition.**
 
 ## Decade 7 — Years 61–70: The Long View
 
-**The move:** you hold something no younger person can — the shape of how
-knowledge actually changed across seventy years, which confident consensus
-collapsed, and what turned out to matter.
-
-- **Capture the view:** memoir, oral history, recorded conversations,
-  annotated bibliographies of a life's reading, letters to successors.
-- **Re-read the canon.** The books you read in Decade 1 are a different
-  experience now, and reading them again with seventy years of context is
-  worth doing deliberately.
-- **Hand things over concretely:** books, tools, instruments, notes, and
-  collections placed with named people or institutions while you can still
-  explain them.
-- **Honest about capacity:** scale sessions to energy, favour depth in fewer
-  domains, keep the practices that protect engagement. The plan's success was
-  never measured by completing every checkbox.
+The shape of how knowledge changed across seventy years, which confident
+consensus collapsed, what turned out to matter. Capture it — memoir, oral
+history, the annotated bibliography of a life's reading. Hand things over by
+name, while you can still explain them. Re-read the canon against your own
+decades-old marginalia.
 
 **Year 70 is not a finish line.** A plan written in year 1 and still running
 in year 70 has already succeeded. Write the next sketch anyway.

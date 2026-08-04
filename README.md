@@ -15,14 +15,19 @@ the equipment, the habits, and the honest arithmetic to actually run it.
 
 ## The premise
 
-Ten focused hours a week for seventy years is about 38,000 hours. That is
-enough to be **world-class in two or three fields, professionally competent in
-eight to twelve, and genuinely literate in every major domain of human
-knowledge** — with a language, a craft, and time left over.
+Twenty-five focused hours a week for seventy years is about **91,000 hours**.
+That is enough to be world-class in three or four fields, professionally
+competent in a dozen, and genuinely literate in every major domain of human
+knowledge — with languages, a craft, and time left over.
+
+At that pace **the 44-domain map is covered by year 15**, which is the fact
+that shapes everything else here. Covering it is the first fifth of the plan,
+not the whole of it. The remaining fifty-five years are for depth, mastery,
+and the work only a covered map makes possible.
 
 The arithmetic has never been the hard part. The hard part is knowing what to
-do in year 7, having material that doesn't run out in year 30, and building a
-system that survives the years when life wins. That's what this repo is.
+open in year 7, having material that doesn't run out in year 40, and building
+a system that survives the years when life wins. That's what this repo is.
 
 > **The one rule:** consistency beats intensity. No heroic sprints. The agenda
 > only asks that you never fully stop.
@@ -76,13 +81,14 @@ Three steps, in order. The whole repo is downstream of these.
 | Plan year | You're in | Material | Phase |
 |---|---|---|---|
 | Not started | — | [Quickstart](QUICKSTART.md) | [Decade 1](phases/decade-1-foundations.md) |
-| 1–10 | The trunk | [Timeline: Years 1–10](TIMELINE.md#years-110--the-trunk) | [Foundations](phases/decade-1-foundations.md) |
-| 11–20 | The second spike | [Timeline: Years 11–20](TIMELINE.md#years-1120--the-second-spike) | [Mastery](phases/decade-2-mastery.md) |
-| 21–30 | The applied world | [Timeline: Years 21–30](TIMELINE.md#years-2130--the-applied-world) | [Synthesis](phases/decade-3-synthesis.md) |
-| 31–40 | Past the ledger | [Timeline: Years 31–40](TIMELINE.md#years-3140--integration) | [Integration](phases/decade-4-integration.md) |
-| 41–50 | The free decade | [Timeline: Years 41–50](TIMELINE.md#years-4150--the-free-decade) | [Reinvention](phases/decade-5-reinvention.md) |
-| 51–60 | Distillation | [Timeline: Years 51–60](TIMELINE.md#years-5160--distillation) | [Distillation](phases/decade-6-distillation.md) |
-| 61–70 | The long view | [Timeline: Years 61–70](TIMELINE.md#years-6170--the-long-view) | [The Long View](phases/decade-7-long-view.md) |
+| 1–10 | Foundations — 30 domains | [Timeline: Years 1–10](TIMELINE.md#years-110--foundations) | [Decade 1](phases/decade-1-foundations.md) |
+| 11–15 | Closing the ledger | [Timeline: Years 11–15](TIMELINE.md#years-1115--the-ledger-completes) | [Decade 2](phases/decade-2-mastery.md) |
+| 16–20 | First depth | [Timeline: Years 16–20](TIMELINE.md#years-1620--first-depth) | [Decade 2](phases/decade-2-mastery.md) |
+| 21–30 | Mastery, original work | [Timeline: Years 21–30](TIMELINE.md#years-2130--mastery-and-original-work) | [Decade 3](phases/decade-3-synthesis.md) |
+| 31–40 | Integration | [Timeline: Years 31–40](TIMELINE.md#years-3140--integration-and-synthesis) | [Decade 4](phases/decade-4-integration.md) |
+| 41–50 | The free decade | [Timeline: Years 41–50](TIMELINE.md#years-4150--the-free-decade) | [Decade 5](phases/decade-5-reinvention.md) |
+| 51–60 | Distillation | [Timeline: Years 51–60](TIMELINE.md#years-5160--distillation) | [Decade 6](phases/decade-6-distillation.md) |
+| 61–70 | The long view | [Timeline: Years 61–70](TIMELINE.md#years-6170--the-long-view) | [Decade 7](phases/decade-7-long-view.md) |
 | Behind, or starting late | — | [Variants](TIMELINE.md#variants--pre-built-forks) · [FAQ](FAQ.md) | — |
 
 </details>
@@ -117,8 +123,8 @@ Sixteen items in year 1, 540 across seventy years — see
 ## The map — 44 domains
 
 Everything enters at **literacy** and is promoted only at an annual review.
-Concurrency caps hold at all times: 1–2 fields at mastery, 2–3 at working
-depth, ~2 new literacies a year.
+Concurrency caps hold at all times: 2 fields at mastery, 3–5 at working
+depth, ~3 new literacies a year.
 
 ```mermaid
 mindmap
@@ -467,7 +473,7 @@ streaks, the artifacts, the promotions, and the re-foundation log.
 | **Span** | 70 years · seven decades |
 | **Library** | ~10,000 lines across 14 files · 540-item material queue |
 | **Repo** | ~19,500 lines across 39 files |
-| **Hours assumed** | 10/week → ~38,000 total |
+| **Hours assumed** | 25/week → ~91,000 total (rescales cleanly at 10, 15, or 35) |
 | **Cost** | Most of it free. Equipment scales from ~$3k/yr; the library card is the highest-leverage item in it |
 
 ---

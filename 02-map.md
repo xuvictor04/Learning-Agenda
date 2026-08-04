@@ -8,9 +8,10 @@ doesn't shrink because you're ahead in places.
 ## The horizon
 
 The plan runs from year 1 to year 70. Seven decades, laid out in `03-spine.md`
-and `phases/`. The ledger below completes around year 30 — with forty years
-still to run. Covering the map once is the first third of this, not the whole
-of it.
+and `phases/`. The ledger below completes around year 15 — with fifty-five
+years still to run. Covering the map once is the opening stretch of this, not
+the whole of it, and almost everything the plan is actually for happens after
+the last box is checked.
 
 ## Depth tiers = time budgets, nothing more
 
@@ -29,11 +30,13 @@ Two rules make the budget real:
 
 1. **Everything enters at T3.** No field is promoted to T2/T1 on enthusiasm —
    only at an annual review, after its literacy artifact exists.
-2. **Concurrency caps:** at most 1–2 fields *actively* funded at T1, 2–3 at
-   T2, and ~2 new T3 literacies per year. The caps are per-moment, not per
-   lifetime — over seven decades that's 3–4 masteries, 12–18 working depths,
-   and the whole T3 ledger walked more than once. That *is* "everything," at
-   the only exchange rate time offers.
+2. **Concurrency caps:** at most 2 fields *actively* funded at T1, 3–5 at
+   T2, and ~3 new T3 literacies per year. The caps are per-moment, not per
+   lifetime — over seven decades that's 3–4 masteries, 8–12 fields taken to
+   working depth, and the whole T3 ledger walked several times over. That
+   *is* "everything," at the only exchange rate time offers. The budget got
+   larger; the caps did not dissolve, they only widened, because the failure
+   they prevent is unchanged.
 3. **The ledger is open at the bottom.** Fields will exist by Decade 5
    that have no name today, and they join the map through the frontier slot —
    see `04-frontier.md`. A map that can't grow is a map that expires.
@@ -42,8 +45,8 @@ Two rules make the budget real:
 
 Each unchecked box is a T3 target: bring it to literacy (one survey work +
 one canonical work + one artifact you write and publish), check it, and
-decide at review whether it earns promotion. Order is yours; ~2/year
-compounds through the whole ledger by around year 30. Check off anything you
+decide at review whether it earns promotion. Order is yours; ~3/year
+compounds through the whole ledger by around year 15. Check off anything you
 can already pass the literacy bar in today.
 
 **Formal**
@@ -116,7 +119,7 @@ Filled in by you, revised at every annual review. Start honest and small.
 |------|------------------------|-------|----------------------|
 | T1 | ___ | ___ | still the right bet? |
 | T2 | ___ | ___ | promote, hold, or demote? |
-| T3 (this year's ~2) | ___ | ___ | artifact done? |
+| T3 (this year's ~3) | ___ | ___ | artifact done? |
 
 ## Universal fundamentals
 
