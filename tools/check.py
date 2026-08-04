@@ -69,7 +69,7 @@ if missing:
     fails.append(f"tracker missing {len(missing)}: {missing[:3]}")
 
 # 4. no age references
-AGE = re.compile(r'ages? \d|at (?:twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)\b(?![- ]year)'
+AGE = re.compile(r'ages? \d|at (?:twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)\b(?![- ]year|[- ]percent|-(?:one|two|three|four|five|six|seven|eight|nine)| of )'
                  r'|your (?:twenties|thirties|forties|fifties|sixties|seventies|eighties)'
                  r'|half your age|\d+ years old|aged \d')
 for f in md:
