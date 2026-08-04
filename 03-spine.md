@@ -156,12 +156,22 @@ through them. **Current awareness** is the live layer: a map with no news
 attached becomes a museum. Both are capped deliberately, because both expand
 to fill whatever you give them.
 
-Two caveats worth stating plainly. **If you're in a demanding degree or
-training program, halve the ledger and run one domain a year** — the spike
-comes first, always, and a professional program *is* the spike. You'll finish
-the ledger around year 44 instead of year 30, which is fine. And **a domain's
-hours don't have to be evenly spread**: six weeks of intensity beats ten
-months of thirty-minute sessions for most literacy passes.
+Three caveats worth stating plainly.
+
+**The trunk years run heavier than this table.** `TIMELINE.md` lists closer to
+300 hours of ledger material in Decade 1, because those years carry two
+domains *and* the fundamentals. Either run twelve or thirteen hours a week
+through the trunk, or cut from the bottom of each year's queue — it's ordered
+for exactly that. Decades 2 and 3 come back under budget as the spike takes
+over.
+
+**If you're in a demanding degree or training program, halve the ledger and
+run one domain a year** — the spike comes first, always, and a professional
+program *is* the spike. You'll finish the ledger around year 44 instead of
+year 30, which is fine.
+
+**A domain's hours don't have to be evenly spread**: six weeks of intensity
+beats ten months of thirty-minute sessions for most literacy passes.
 
 ---
 

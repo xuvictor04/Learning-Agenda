@@ -31,10 +31,38 @@ sequence when you inevitably reorder:
    asks; the canon shows you the field asking it. Reversed, the canon is just
    difficult prose. Where a resource file says *start here*, that item is #1.
 
-**Hours are approximate** and deliberately loose. They assume roughly ten
-focused hours a week, of which about two hundred a year go to ledger material.
-A domain's hours don't have to be spread evenly — six weeks of intensity beats
-ten months of half-hour sessions for most literacy passes.
+### About the hours
+
+Every item carries a rough estimate. Add them up and the years don't sit
+evenly, which is deliberate and worth understanding before you start:
+
+| Decade | Listed per year | Against a 500-hour year |
+|--------|-----------------|-------------------------|
+| 1 (yrs 1–10) | ~265–345 hrs | Heavy. The trunk years carry two domains each *and* the fundamentals |
+| 2 (yrs 11–20) | ~140–180 hrs | Light on purpose — the second spike is taking the rest |
+| 3 (yrs 21–30) | ~220–250 hrs | Middling, but half of it is building rather than reading |
+
+**Decade 1 is over its nominal budget and this is the honest fact about it.**
+The load model in `03-spine.md` allocates about 200 hours a year to ledger
+material; the trunk years list closer to 300. Three ways to resolve that, and
+you should pick one deliberately rather than discovering the gap in March:
+
+1. **Run the trunk years at twelve or thirteen hours a week** rather than ten.
+   Most people starting this have more slack early than they will later, and
+   the front-loading buys back time from year 6 onward.
+2. **Cut from the bottom.** The queue is *ordered*, which makes it a triage
+   list: item 16 is there because it earns its place after item 15, not
+   because it's optional filler. When a year won't fit, drop the tail — never
+   the first four.
+3. **Take the constrained fork** — one domain a year, ledger completes near
+   year 44. See [the variants](#variants--pre-built-forks).
+
+What you should not do is keep all sixteen items and finish none of them. A
+year with ten items completed and six deferred is a good year. A year with
+sixteen started is a wasted one.
+
+**Within a year, hours need not be spread evenly.** Six weeks of intensity
+beats ten months of half-hour sessions for most literacy passes.
 
 **Three things run underneath every year** and are not repeated in the tables:
 daily spaced repetition, the weekly log, and the curiosity budget. Current
