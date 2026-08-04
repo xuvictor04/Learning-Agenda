@@ -31,8 +31,8 @@ people get wrong when they imagine a "lifetime learning plan." Covering the
 map once is the *first third*. What follows is not repetition: fields you
 learned in Decade 1 will have moved by Decade 4, entire domains will exist
 that have no name today, and the domains that actually pull will be waiting
-for promotion to real depth. Decades 4–7 are where a broad education stops being a
-collection and becomes a point of view.
+for promotion to real depth. Decades 4–7 are where a broad education stops
+being a collection and becomes a point of view.
 
 A note on pace. Seventy years is generous for 44 domains — deliberately. The
 slack absorbs the years that go wrong: illness, a demanding program, a new
@@ -55,18 +55,65 @@ front-loading buys back more time than it costs by roughly year 6.
 **2. Prerequisite chains, honoured.** Some domains are dramatically cheaper
 after another one. The real chains:
 
+```mermaid
+flowchart LR
+    STAT["Statistics<br/><i>yr 1</i>"] --> PSY[Psychology]
+    STAT --> ECON[Economics]
+    STAT --> GEN[Genetics]
+    STAT --> MED[Medicine]
+    STAT --> PH[Public health]
+    STAT --> FIN[Finance]
+
+    MATH["Mathematics<br/><i>yr 2</i>"] --> PHYS["Physics<br/><i>yr 3</i>"]
+    MATH --> LOGIC[Logic]
+    MATH --> TCS[Theoretical CS]
+    PHYS --> CHEM["Chemistry<br/><i>yr 5</i>"]
+    PHYS --> ASTRO[Astronomy]
+    PHYS --> ENG[Engineering ×3]
+    CHEM --> MAT[Materials]
+    CHEM --> EARTH[Earth science]
+    CHEM --> GEN
+    GEN --> MED
+    MED --> PH
+
+    EVO["Evolution<br/><i>yr 4</i>"] --> ECOL[Ecology]
+    EVO --> ANTH[Anthropology]
+    EVO --> PSY
+    EVO --> AGRI[Agriculture]
+    EVO --> GEN
+
+    PSY --> NEURO[Neuroscience]
+    CHEM --> NEURO
+    NEURO --> LING[Linguistics]
+    NEURO --> AI[AI]
+
+    HIST["World history<br/><i>yr 2</i>"] --> POL[Politics]
+    HIST --> LAW[Law]
+    HIST --> SOC[Sociology]
+    HIST --> GEO[Geography]
+    HIST --> MIL[Military history]
+    HIST --> MEDIA[Media]
+    ECON --> FIN
+    ECON --> GEO
+
+    PROG["Programming<br/><i>fundamental</i>"] --> COMP[Computing]
+    PROG --> AI
+
+    PHIL["Philosophy<br/><i>yr 1</i>"] -.->|"informs everything"| POL
+    PHIL -.-> LAW
+    PHIL -.-> AI
+
+    style STAT fill:#2d4a63,stroke:#5a8cb8,color:#fff
+    style MATH fill:#2d4a63,stroke:#5a8cb8,color:#fff
+    style PHIL fill:#2d4a63,stroke:#5a8cb8,color:#fff
+    style HIST fill:#2d4a63,stroke:#5a8cb8,color:#fff
+    style EVO fill:#2d4a63,stroke:#5a8cb8,color:#fff
 ```
-statistics ──→ psychology, economics, genetics, medicine, public health,
-               and the honest reading of any empirical claim anywhere
-mathematics ─→ physics ──→ chemistry ──→ materials, earth science
-                    │            └──→ genetics ──→ medicine
-                    └──→ astronomy, all three engineerings
-evolution ───→ ecology, anthropology, psychology, agriculture
-biology + chemistry ──→ neuroscience ──→ linguistics, AI
-world history ──→ politics, law, sociology, geography, military, media
-philosophy ──→ everything (it is the discipline about disciplines)
-programming ──→ computing, AI, data work in every empirical field
-```
+
+The five shaded nodes are the load-bearing ones: statistics, mathematics,
+philosophy, world history, and evolution. Everything else in the ledger gets
+cheaper after them, which is why all five land in years 1–4. Get those wrong
+and the rest of the sequence costs more than it should.
 
 **3. Alternate hard and free.** Every year pairs one prerequisite-chained
 domain with one that has no prerequisites at all — literature, music, art,
