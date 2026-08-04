@@ -21,7 +21,8 @@ for f in md:
     s = open(f).read()
     base = os.path.dirname(f)
     for link in re.findall(r'\]\(([^)\s]+?)(?:#[^)]*)?\)', s):
-        if link.startswith(('http', 'mailto:')): continue
+        # same-file anchors (#foo) are checked by the anchor pass below
+        if not link or link.startswith(('http', 'mailto:', '#')): continue
         if re.search(r'log/\d{4}-(review|plan|weekly)\.md', link): continue  # future logs
         target = os.path.normpath(os.path.join(base, link.rstrip('/')))
         if not os.path.exists(target):
@@ -68,7 +69,7 @@ if missing:
     fails.append(f"tracker missing {len(missing)}: {missing[:3]}")
 
 # 4. no age references
-AGE = re.compile(r'ages? \d|at (?:twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)\b(?! years)'
+AGE = re.compile(r'ages? \d|at (?:twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)\b(?![- ]year)'
                  r'|your (?:twenties|thirties|forties|fifties|sixties|seventies|eighties)'
                  r'|half your age|\d+ years old|aged \d')
 for f in md:
@@ -81,7 +82,7 @@ def slug(h):
     h = h.strip().lower()
     h = re.sub(r'[`*_]', '', h)
     h = re.sub(r'[^\w\s-]', '', h)
-    return re.sub(r'\s+', '-', h).strip('-')
+    return re.sub(r'\s', '-', h).strip('-')
 
 heads = {}
 for f in md:
