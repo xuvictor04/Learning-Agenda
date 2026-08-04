@@ -247,8 +247,8 @@ There is more than enough to do; the composition shifts from acquisition to
 maintenance and reconnaissance.
 
 Say this part plainly, because it's where people fail: **being taught the
-new version of your own field by someone half your age is the normal and
-correct experience.** Every biologist who learned recombinant DNA in the
+new version of your own field by someone who learned it after you did is the
+normal and correct experience.** Every biologist who learned recombinant DNA in the
 mid-1970s learned it from a postdoc. The alternative to being taught by
 someone younger is not being taught. Principle 7 in `01-principles.md` asks
 you to review the system itself; this is the part that most often needs it,
@@ -258,8 +258,9 @@ because the obstacle is ego rather than time.
 
 ## 7. The seventy-year view
 
-You are 20 in 2026. If you make 90, you will have lived through a span of
-change comparable to 1955–2025. Take that comparison seriously for a moment.
+Year 1 is 2026. Run the plan to year 70 and you will have lived through a
+span of change comparable to 1955–2025. Take that comparison seriously for a
+moment.
 
 In 1955: the structure of DNA was two years old and the genetic code
 unsolved. Continental drift was a fringe idea respectable geologists mocked;
@@ -298,7 +299,8 @@ awareness of things that turned out not to matter, and depth in nothing. The
 cap is the difference between reconnaissance and distraction.
 
 **Dismissing everything as hype.** The mirror error, and the more common one
-after 40. It feels like wisdom, it's cheap, and it's right most of the time
+in the plan's later decades. It feels like wisdom, it's cheap, and it's right
+most of the time
 — which is exactly what makes it dangerous, because being right nine times
 costs less than being wrong once. Metcalfe predicted the internet's collapse
 in 1996. Deep learning was correctly dismissed twice before 2012 and
@@ -325,7 +327,7 @@ depth you have, and the questions you're asked stop being ones you can't
 answer. The countermeasure is structural, not attitudinal: **reverse
 mentoring.** Arrange to be taught by someone twenty or thirty years younger,
 in a domain where they're ahead of you — GE ran this as formal policy from
-1999 for exactly this reason. One a year from your forties on, on the
+1999 for exactly this reason. One a year from Decade 3 on, on the
 calendar, as a student rather than a senior person graciously listening.
 
 ---

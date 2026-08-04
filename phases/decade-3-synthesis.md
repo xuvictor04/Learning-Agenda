@@ -1,4 +1,4 @@
-# Decade 3 (Years 21–30, ages 40–50): Synthesis, Stewardship, Reinvention
+# Decade 3 (Years 21–30): Synthesis, Stewardship, Reinvention
 
 **Mission:** do the work only someone with your accumulated spikes can do;
 transfer what you know to people and institutions that outlast you; and keep

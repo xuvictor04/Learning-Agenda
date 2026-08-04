@@ -3,7 +3,7 @@
 **A seventy-year plan to learn everything one mind can hold.**
 
 Not a reading list. A working system: 44 domains of human knowledge mapped into
-three depth tiers, sequenced year by year from age 20 to 90, with the material,
+three depth tiers, sequenced year by year across seven decades, with the material,
 the equipment, the habits, and the honest arithmetic to actually run it.
 
 [**Quickstart**](QUICKSTART.md) · [**Timeline**](TIMELINE.md) ·
@@ -73,17 +73,17 @@ Three steps, in order. The whole repo is downstream of these.
 
 <br/>
 
-| If you are… | Age | Go to | Phase |
+| Plan year | You're in | Material | Phase |
 |---|---|---|---|
-| Just starting | 20 | [Quickstart](QUICKSTART.md) → [Timeline yr 1](TIMELINE.md) | [Decade 1](phases/decade-1-foundations.md) |
-| In the trunk years | 20–30 | [Timeline: Decade 1](TIMELINE.md) | [Foundations](phases/decade-1-foundations.md) |
-| Building the second spike | 30–40 | [Timeline: Decade 2](TIMELINE.md) | [Mastery](phases/decade-2-mastery.md) |
-| In the applied decade | 40–50 | [Timeline: Decade 3](TIMELINE.md) | [Synthesis](phases/decade-3-synthesis.md) |
-| Past the ledger | 50–60 | [The Second Half](TIMELINE.md) | [Integration](phases/decade-4-integration.md) |
-| In the free decade | 60–70 | [Timeline: Decade 5](TIMELINE.md) | [Reinvention](phases/decade-5-reinvention.md) |
-| Distilling | 70–80 | [Timeline: Decade 6](TIMELINE.md) | [Distillation](phases/decade-6-distillation.md) |
-| Taking the long view | 80–90 | [Timeline: Decade 7](TIMELINE.md) | [The Long View](phases/decade-7-long-view.md) |
-| Starting late, or behind | any | [Variants](TIMELINE.md#variants--pre-built-forks) · [FAQ](FAQ.md) | — |
+| Not started | — | [Quickstart](QUICKSTART.md) | [Decade 1](phases/decade-1-foundations.md) |
+| 1–10 | The trunk | [Timeline: Years 1–10](TIMELINE.md#years-110--the-trunk) | [Foundations](phases/decade-1-foundations.md) |
+| 11–20 | The second spike | [Timeline: Years 11–20](TIMELINE.md#years-1120--the-second-spike) | [Mastery](phases/decade-2-mastery.md) |
+| 21–30 | The applied world | [Timeline: Years 21–30](TIMELINE.md#years-2130--the-applied-world) | [Synthesis](phases/decade-3-synthesis.md) |
+| 31–40 | Past the ledger | [Timeline: Years 31–40](TIMELINE.md#years-3140--integration) | [Integration](phases/decade-4-integration.md) |
+| 41–50 | The free decade | [Timeline: Years 41–50](TIMELINE.md#years-4150--the-free-decade) | [Reinvention](phases/decade-5-reinvention.md) |
+| 51–60 | Distillation | [Timeline: Years 51–60](TIMELINE.md#years-5160--distillation) | [Distillation](phases/decade-6-distillation.md) |
+| 61–70 | The long view | [Timeline: Years 61–70](TIMELINE.md#years-6170--the-long-view) | [The Long View](phases/decade-7-long-view.md) |
+| Behind, or starting late | — | [Variants](TIMELINE.md#variants--pre-built-forks) · [FAQ](FAQ.md) | — |
 
 </details>
 
@@ -250,8 +250,8 @@ artifact is the evidence. No artifact, no checkmark.
 
 ## The seventy years
 
-Year 1 is age 20. Year 70 is age 90. **The ledger completes around year 30, at
-fifty — with forty years left.** Covering the map once is the first third.
+**The ledger completes around year 30 — with forty years left.** Covering the
+map once is the first third.
 
 <details>
 <summary><b>Decade 1</b> — The Trunk (20–30) · 20 domains</summary>
@@ -318,7 +318,7 @@ No new ledger domains — there are none left. Instead:
 |---|---|
 | **Re-foundation** | A field learned at 25 has moved by 55. Refresh every 15–20 years. The signal: you can't follow a current talk in a field you once knew |
 | **Promotion** | 44 literacy passes told you which five domains actually pull. Take those to real depth |
-| **Frontier** | Fields will exist in your sixties with no name today ([`04-frontier.md`](04-frontier.md)) |
+| **Frontier** | Fields will exist in the later decades with no name today ([`04-frontier.md`](04-frontier.md)) |
 | **Transmission** | Synthesis, teaching, institutions, successors. Unshared mastery doesn't compound — it retires |
 
 **Decade 4** (50–60) integration and the first re-foundations ·
@@ -387,7 +387,7 @@ outsiders get wrong · then T3, T2, T1, and the long shelf.
 
 <br/>
 
-**phases/** — one document per decade, ages 20 through 90: the mission, the
+**phases/** — one document per decade, all seven: the mission, the
 themes, the milestones, and the failure modes characteristic of that stretch of
 life.
 
@@ -439,7 +439,7 @@ streaks, the artifacts, the promotions, and the re-foundation log.
 | | |
 |---|---|
 | **Domains** | 44, each at four depths |
-| **Span** | 70 years · ages 20–90 |
+| **Span** | 70 years · seven decades |
 | **Library** | ~10,000 lines across 13 files |
 | **Repo** | ~14,000 lines |
 | **Hours assumed** | 10/week → ~38,000 total |
@@ -449,7 +449,7 @@ streaks, the artifacts, the promotions, and the re-foundation log.
 
 <div align="center">
 
-**A plan written at twenty and still running at ninety has already succeeded.**
+**A plan written in year 1 and still running in year 70 has already succeeded.**
 
 *Start with [`QUICKSTART.md`](QUICKSTART.md). Today. 300 bad words.*
 

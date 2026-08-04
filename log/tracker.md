@@ -212,31 +212,31 @@ The portfolio. This is the only real evidence the whole enterprise happened
 
 One row per decade. Check the box only when the decade's audit is written.
 
-- [ ] **Decade 1 — years 1–10, ages 20–30** · `../phases/decade-1-foundations.md`
+- [ ] **Decade 1 — years 1–10** · `../phases/decade-1-foundations.md`
   - [ ] Twenty domains checked; fundamentals table rated honestly
   - [ ] Recognized specialization, with a public body of work a stranger can evaluate
   - [ ] Second spike chosen; three permanent habits intact for 5+ years
-- [ ] **Decade 2 — years 11–20, ages 30–40** · `../phases/decade-2-mastery.md`
+- [ ] **Decade 2 — years 11–20** · `../phases/decade-2-mastery.md`
   - [ ] Roughly 34 domains checked
   - [ ] Second spike at or near T1, with one defensible original contribution
   - [ ] Twenty-year audit written; Decade 3 direction drafted
-- [ ] **Decade 3 — years 21–30, ages 40–50** · `../phases/decade-3-synthesis.md`
+- [ ] **Decade 3 — years 21–30** · `../phases/decade-3-synthesis.md`
   - [ ] All 44 ledger domains checked — the map covered once
   - [ ] One major synthesis work completed and shared
   - [ ] Craft at working-craftsperson level; an institution or successor carrying work forward
-- [ ] **Decade 4 — years 31–40, ages 50–60** · `../phases/decade-4-integration.md`
+- [ ] **Decade 4 — years 31–40** · `../phases/decade-4-integration.md`
   - [ ] First systematic re-foundation pass — 5–8 domains, each with a new artifact
   - [ ] 3–5 domains promoted T3 → T2, and one deliberately demoted
   - [ ] One synthesis work published; something institutional built and running
-- [ ] **Decade 5 — years 41–50, ages 60–70** · `../phases/decade-5-reinvention.md`
+- [ ] **Decade 5 — years 41–50** · `../phases/decade-5-reinvention.md`
   - [ ] Doubled hour budget claimed and defended; third spike at working depth
   - [ ] Transmission at scale — synthesis work out, two named successors with real authority
   - [ ] Second re-foundation pass complete; habits intact for 50 years
-- [ ] **Decade 6 — years 51–60, ages 70–80** · `../phases/decade-6-distillation.md`
+- [ ] **Decade 6 — years 51–60** · `../phases/decade-6-distillation.md`
   - [ ] The summative work finished and released
   - [ ] Archive has a finding aid a stranger can use without you
   - [ ] Hearing and vision corrected; something new begun at which you are visibly bad
-- [ ] **Decade 7 — years 61–70, ages 80–90** · `../phases/decade-7-long-view.md`
+- [ ] **Decade 7 — years 61–70** · `../phases/decade-7-long-view.md`
   - [ ] The long-view account exists in durable form — written or recorded
   - [ ] Every significant item has a named destination, and the major transfers are done
   - [ ] Curiosity budget above zero every year; the next sketch written anyway

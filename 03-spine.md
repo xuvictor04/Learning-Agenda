@@ -13,25 +13,25 @@ and what it will cost you.
 
 ## The seventy-year frame
 
-Year 1 is age 20. Year 70 is age 90.
+Seven decades, seventy years.
 
-| Decade | Years | Ages | The work |
-|--------|-------|------|----------|
-| 1 | 1–10 | 20–30 | The trunk: fundamentals, and the domains everything else needs |
-| 2 | 11–20 | 30–40 | The second spike; the branches that needed scaffolding |
-| 3 | 21–30 | 40–50 | The applied world; the ledger completes; synthesis begins |
-| 4 | 31–40 | 50–60 | Integration, first re-foundations, promotions |
-| 5 | 41–50 | 60–70 | The free decade: reclaimed hours, third spike, transmission |
-| 6 | 51–60 | 70–80 | Distillation: what survives you, put in usable form |
-| 7 | 61–70 | 80–90 | The long view: the perspective nobody younger can have |
+| Decade | Years | The work |
+|--------|-------|----------|
+| 1 | 1–10 | The trunk: fundamentals, and the domains everything else needs |
+| 2 | 11–20 | The second spike; the branches that needed scaffolding |
+| 3 | 21–30 | The applied world; the ledger completes; synthesis begins |
+| 4 | 31–40 | Integration, first re-foundations, promotions |
+| 5 | 41–50 | The free decade: reclaimed hours, third spike, transmission |
+| 6 | 51–60 | Distillation: what survives you, put in usable form |
+| 7 | 61–70 | The long view: the perspective nobody younger can have |
 
-**The ledger completes around year 30, at age 50 — with forty years left.**
+**The ledger completes around year 30 — with forty years left.**
 That is the single most important fact about this plan, and the one most
 people get wrong when they imagine a "lifetime learning plan." Covering the
 map once is the *first third*. What follows is not repetition: fields you
-learned at 25 will have moved by 55, entire domains will exist that have no
-name today, and the domains that actually pull will be waiting for promotion
-to real depth. Decades 4–7 are where a broad education stops being a
+learned in Decade 1 will have moved by Decade 4, entire domains will exist
+that have no name today, and the domains that actually pull will be waiting
+for promotion to real depth. Decades 4–7 are where a broad education stops being a
 collection and becomes a point of view.
 
 A note on pace. Seventy years is generous for 44 domains — deliberately. The
@@ -112,7 +112,7 @@ to fill whatever you give them.
 Two caveats worth stating plainly. **If you're in a demanding degree or
 training program, halve the ledger and run one domain a year** — the spike
 comes first, always, and a professional program *is* the spike. You'll finish
-the ledger in the 40s instead of the 30s, which is fine. And **a domain's
+the ledger around year 44 instead of year 30, which is fine. And **a domain's
 hours don't have to be evenly spread**: six weeks of intensity beats ten
 months of thirty-minute sessions for most literacy passes.
 
@@ -132,7 +132,7 @@ Each year below gives you:
 
 ---
 
-# Decade 1 — Years 1–10 (ages 20–30): The Trunk
+# Decade 1 — Years 1–10: The Trunk
 
 The mission is the trunk of the tree: the fundamentals, the formal and
 physical core that half the ledger depends on, and the habits. Twenty domains
@@ -322,7 +322,7 @@ later domains cheap.
 
 ---
 
-# Decade 2 — Years 11–20 (ages 30–40): The Second Spike and the Branches
+# Decade 2 — Years 11–20: The Second Spike and the Branches
 
 Twelve to fourteen domains, at a deliberately slower ledger pace, because the
 second spike is now taking real hours and the mastery work in
@@ -399,7 +399,7 @@ are the ones that needed a decade of scaffolding underneath them.
 
 ---
 
-# Decade 3 — Years 21–30 (ages 40–50): The Applied World and Synthesis
+# Decade 3 — Years 21–30: The Applied World and Synthesis
 
 The remaining domains are deliberately concentrated in the made-and-applied
 cluster, and that's a design choice: after two decades of largely textual
@@ -452,7 +452,7 @@ synthesis, stewardship, and reinvention tracks from
 
 ---
 
-# The Second Half — Years 31–70 (ages 50–90)
+# The Second Half — Years 31–70
 
 The ledger is done and you are fifty. Forty years remain — more time than the
 whole plan so far has used.
@@ -467,15 +467,15 @@ Instrument-driven and computational fields move fastest — biology, astronomy,
 linguistics, medicine, anything that got a new way of measuring. Every domain
 needs a refresh roughly every 15–20 years, and the signal that one is overdue
 is simple: you can no longer follow a current talk in a field you once knew.
-Being taught the new version by someone half your age is the normal
-experience, not a humiliation. See `04-frontier.md`.
+Being taught the new version by someone who learned it long after you did
+is the normal experience, not a humiliation. See `04-frontier.md`.
 
 **Promotion.** Forty-four literacy passes tell you something no amount of
 planning could: which domains actually pull. The second half is where a
 handful of them go to working depth or mastery. This is a narrowing move —
 saying no to thirty-nine domains in order to say yes to five.
 
-**The frontier.** Fields will exist in your sixties with no name today. The
+**The frontier.** Fields will exist in Decade 5 with no name today. The
 slot has been running at 5–10% since year 1 precisely so that you notice them
 and can join rather than watch.
 
@@ -488,7 +488,7 @@ work. The detailed treatment is in `phases/`.
 
 ---
 
-# Decade 4 — Years 31–40 (ages 50–60): Integration
+# Decade 4 — Years 31–40: Integration
 
 **The move:** stop collecting, start connecting. This is typically peak
 professional authority, and the decade where a completed ledger plus two
@@ -511,7 +511,7 @@ mature spikes finally produces work nobody else could do.
   are justifiable now on cost-per-year-of-use. The trap is buying capability
   instead of exercising it (`resources/kit.md`).
 
-## Decade 5 — Years 41–50 (ages 60–70): The Free Decade
+## Decade 5 — Years 41–50: The Free Decade
 
 **The move:** obligations loosen and learning hours roughly double. For
 someone who kept the habits for forty years, this can be the most productive
@@ -528,7 +528,7 @@ taste, and now time.
 - **Second re-foundation pass,** with reverse-mentoring now essential:
   seniority insulates you from the new unless you build against it.
 
-## Decade 6 — Years 51–60 (ages 70–80): Distillation
+## Decade 6 — Years 51–60: Distillation
 
 **The move:** the corpus is large and unsorted. The work is editing, not
 accumulating — deciding what of fifty years is worth passing on and putting
@@ -547,7 +547,7 @@ it in a form that survives you.
 - **The frontier slot still runs.** A frozen model is the characteristic
   failure of this decade, and the slot is the countermeasure.
 
-## Decade 7 — Years 61–70 (ages 80–90): The Long View
+## Decade 7 — Years 61–70: The Long View
 
 **The move:** you hold something no younger person can — the shape of how
 knowledge actually changed across seventy years, which confident consensus
@@ -555,9 +555,9 @@ collapsed, and what turned out to matter.
 
 - **Capture the view:** memoir, oral history, recorded conversations,
   annotated bibliographies of a life's reading, letters to successors.
-- **Re-read the canon.** The books you read at twenty are a different
-  experience at eighty, and reading them again with seventy years of context
-  is worth doing deliberately.
+- **Re-read the canon.** The books you read in Decade 1 are a different
+  experience now, and reading them again with seventy years of context is
+  worth doing deliberately.
 - **Hand things over concretely:** books, tools, instruments, notes, and
   collections placed with named people or institutions while you can still
   explain them.
@@ -565,8 +565,8 @@ collapsed, and what turned out to matter.
   domains, keep the practices that protect engagement. The plan's success was
   never measured by completing every checkbox.
 
-**Year 70 is not a finish line.** A plan written at twenty and still running
-at ninety has already succeeded. Write the next sketch anyway.
+**Year 70 is not a finish line.** A plan written in year 1 and still running
+in year 70 has already succeeded. Write the next sketch anyway.
 
 ---
 

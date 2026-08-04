@@ -30,7 +30,7 @@ Practically: if you are reading this file before you have published anything,
 stop reading. Open `03-spine.md` to year 1, pick the first domain, get the
 survey book. The plan is finished. The reading isn't.
 
-### Isn't a seventy-year plan absurd? I don't know what I'll want at 50.
+### Isn't a seventy-year plan absurd? I don't know what I'll want in year 30.
 
 You don't, and neither does the plan — which is why it is built the way it
 is. `03-spine.md` calls itself "a default sequence, not a contract." The
@@ -42,11 +42,11 @@ What is actually fixed is infrastructure: ten hours a week, a daily
 repetition habit, the artifact rule, tiers with concurrency caps, an annual
 review empowered to rewrite any of it, and a slot held permanently open for
 fields that don't exist yet (`04-frontier.md`). Those hold regardless of what
-you want at 50, because they describe how you learn rather than what.
+you want in year 30, because they describe how you learn rather than what.
 
 Concede the real cost, though: a seventy-year document invites you to treat
 it as binding, and people do. The failure isn't wanting something different
-at 50 — it's wanting something different at 50 and not editing the file.
+decades in — it's wanting something different and not editing the file.
 
 ### Isn't breadth just shallowness with better branding?
 
@@ -199,7 +199,7 @@ illness, a demanding program, a child, a move, a job that ate everything.
 Practically, nothing needs to happen except arithmetic. Open the spine at the
 domain you are actually on and continue — the sequence's value is the
 prerequisite order, not the year numbers attached to it. The ledger completes
-in your fifties instead of your forties. Then reread the second half of
+in Decade 4 instead of Decade 3. Then reread the second half of
 `03-spine.md` and notice how little that changes: re-foundation, promotion,
 the frontier slot, and transmission are the work of decades 4 through 7, and
 none of them care what year the ledger closed.
@@ -243,14 +243,14 @@ retraining.
 
 Now the framing correction. `01-principles.md`'s π-shape says a second spike
 is supposed to arrive right about now. Most people who want to change spikes
-at 32 actually want to *add* one, and adding is the stronger move, because
-original work comes from holding two competencies few people hold together. A
-swap throws that away and buys nothing back.
+in year 12 actually want to *add* one, and adding is the stronger move,
+because original work comes from holding two competencies few people hold
+together. A swap throws that away and buys nothing back.
 
 If it really is a swap, price it honestly: T1 costs five to ten years, so
-starting at 32 means mastery near 40. That's survivable. Just don't pretend
-the first twelve years transfer less than they do. Method, taste, and having
-gone deep once all carry across.
+starting in year 12 means mastery around year 20. That's survivable. Just
+don't pretend the first twelve years transfer less than they do. Method,
+taste, and having gone deep once all carry across.
 
 ### I want to add a domain that isn't on the map.
 
@@ -311,9 +311,10 @@ toward wherever your field's judgment is still scarce. Check the fundamentals
 table in `02-map.md`, because those rows transfer across any field boundary
 and are the reason relearning is fast.
 
-Honestly: retraining at 45 is hard, and nothing here makes it painless. What
-the plan gives you is a person who has voluntarily learned twenty unfamiliar
-fields from scratch, on a schedule, with a method that demonstrably worked.
+Honestly: retraining decades in is hard, and nothing here makes it painless.
+What the plan gives you is a person who has voluntarily learned twenty
+unfamiliar fields from scratch, on a schedule, with a method that
+demonstrably worked.
 That is the actual transferable asset, and most people facing the same shock
 don't have it.
 
@@ -372,7 +373,7 @@ once.
 
 Four hours is about 200 a year. That funds one T3 domain plus the permanent
 habits, and the ledger completes near year 55 rather than year 30 — a
-finished map at 75, with fifteen years left to use it. That is a good
+finished map with fifteen years left to use it. That is a good
 outcome, not a degraded one, and it is still more of the map than almost
 anyone covers.
 
@@ -423,23 +424,25 @@ actual court opinions instead of books about them, then stop, and be exact
 with yourself about what you have. A reading pass is not a practitioner's
 knowledge. That difference is only embarrassing if you hide it.
 
-### What if I'm not 20?
+### What if I don't have a full seventy years?
 
-The tiers, the artifact rule, the caps, and the method are age-independent —
-nothing in `01-principles.md` or `02-map.md` assumes youth. What changes is
-arithmetic, so do it plainly rather than feeling vaguely late.
+The tiers, the artifact rule, the caps, and the method don't depend on the
+length of the runway — nothing in `01-principles.md` or `02-map.md` assumes
+all seventy years are available. What changes is arithmetic, so do it plainly
+rather than feeling vaguely late.
 
-At 35, you have the whole structure with fifty-five years: two domains a year
-closes the ledger near 65, and decades 4 through 7 land roughly as written.
-At 50, the same pace puts the ledger at 80 — it fits, barely, and the better
-move is to compress: run three domains a year while capacity is high, or cut
-the ledger to the domains you actually want, since the 44 were never sacred.
-At 65, stop pretending you're at year 1. Run the second half of the plan
-directly — promotion of what already pulls, re-foundation of what's gone
-stale, the frontier slot, transmission. `phases/decade-5-reinvention.md`
-describes your situation better than decade 1 does.
+With fifty-five years, you have the whole structure: two domains a year closes
+the ledger thirty years in, and decades 4 through 7 land roughly as written.
+With forty, the same pace still closes it thirty years in — it fits, barely,
+and the better move is to compress: run three domains a year while capacity is
+high, or cut the ledger to the domains you actually want, since the 44 were
+never sacred. With twenty-five, stop pretending you're at year 1. Run the
+second half of the plan directly — promotion of what already pulls,
+re-foundation of what's gone stale, the frontier slot, transmission.
+`phases/decade-5-reinvention.md` describes your situation better than decade 1
+does.
 
-Two advantages a twenty-year-old lacks: a spike already exists, and you read
+Two advantages a standing start lacks: a spike already exists, and you read
 much faster in everything adjacent to it. One thing that refuses to compress:
 a craft and a language are time-on-instrument, and no accumulated judgment
 buys those hours back.
@@ -451,12 +454,12 @@ buys those hours back.
 ### What if I die before finishing?
 
 Then you die partway through a curriculum, like every person who has ever had
-one. There is no other available outcome — the plan runs to 90, and
+one. There is no other available outcome — the plan runs to year 70, and
 `03-spine.md` closes by telling you to write the next sketch anyway, because
 there was never a finish line to cross.
 
 The value was never held in escrow against completion. What you can think
-with at 40 is yours at 40. The artifacts you published in your twenties
+with in year 20 is yours in year 20. The artifacts you published in Decade 1
 existed and were read. The people you taught were taught. This is a plan
 built to deliver continuously and to be interrupted at any point with most of
 the value already banked — artifacts from year 1, teaching from year 3, a
@@ -467,7 +470,7 @@ understood, inside a life that had them in it.
 One practical concession, and it's the only one this question needs.
 `phases/decade-7-long-view.md` says to hand things over concretely — books,
 tools, notes, collections placed with named people while you can still
-explain them. Don't schedule all of that for 85.
+explain them. Don't schedule all of that for the final years.
 
 ### How do I keep this from becoming a source of guilt?
 
@@ -490,7 +493,7 @@ still not done, no comment" is the state that rots.
 And keep a real exit available. If a year of this produced guilt and no
 artifacts, delete the schedule and keep three things: daily repetition, the
 weekly log, one finished artifact a year. That's most of the value at a tenth
-of the machinery, and it's a version you will still be running at 60.
+of the machinery, and it's a version you will still be running in year 40.
 
 ---
 

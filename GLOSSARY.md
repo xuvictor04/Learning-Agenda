@@ -195,7 +195,7 @@ literacy pass is done. Open at the bottom — new domains can join it.
 **Why it matters:** it makes "everything" finite and inspectable, and a list
 whose end you can see behaves completely differently from an ambition. It
 also carries the fact most lifetime-learning plans get wrong: it completes
-around year 30, at fifty, with forty years still to run.
+around year 30, with forty years still to run.
 
 ### literacy pass
 *`02-map.md`; `resources/README.md`*
@@ -230,8 +230,8 @@ What a domain offers past T1: its subfields as separate entry points, the
 further canon, a re-foundation watch, a lifetime practice, and rabbit holes.
 
 **Why it matters:** the three tiers cover about ten years and this plan runs
-seventy. A domain promoted in your fifties would otherwise run out of
-material by your sixties. The long shelf is what makes forty more years
+seventy. A domain promoted in Decade 4 would otherwise run out of
+material by Decade 5. The long shelf is what makes forty more years
 inside one field a real option rather than a re-read — "physics" is not one
 territory but eight.
 
@@ -346,7 +346,7 @@ talk, or the methods sections read like a foreign language.
 
 Arranging to be taught, as a student rather than as a senior person listening
 graciously, by someone twenty or thirty years younger in a domain where they
-are ahead of you. One a year from your forties on, on the calendar.
+are ahead of you. One a year from Decade 3 on, on the calendar.
 
 **Why it matters:** the seniority trap is structural, not attitudinal. You
 get consulted about what you already know, rewarded for the depth you have,

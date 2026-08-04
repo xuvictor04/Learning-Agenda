@@ -364,22 +364,22 @@ function, not a subject.
   next click, not your next insight. If you didn't subscribe to it, you
   didn't choose it.
 - **Total disengagement** — the opposite error, and one this file exists to
-  prevent as much as the others. The person who quit news entirely at 25 is
-  not serene at 45; they are running a frozen model of the world with no
+  prevent as much as the others. The person who quit news entirely is not
+  serene two decades on; they are running a frozen model of the world with no
   mechanism for noticing. Their confidence is intact. Their accuracy is not.
 
 ---
 
 ## 9. How this changes across seven decades
 
-**Decades 1–2 (ages 20–40).** Mostly breadth maintenance and calibration.
+**Decades 1–2.** Mostly breadth maintenance and calibration.
 With limited depth you are largely consuming intermediaries, which is fine —
 the job now is orientation: learning what the fields are arguing about and
 building the placement reflex from section 7. Keep the budget small. This is
 the era when deep work compounds hardest and news is the easiest thing to
 overspend on.
 
-**Decades 3–5 (ages 40–70).** The intermediaries start to cost you. In the
+**Decades 3–5.** The intermediaries start to cost you. In the
 fields you've taken to T2 and T1 you can read the primary literature
 directly, faster and more accurately than any journalist covering it — so
 journal TOCs and preprint feeds should increasingly replace coverage in your
@@ -387,7 +387,7 @@ own areas. Keep the intermediaries everywhere else. You'll also start
 noticing you have seen this story before: genuine expertise, and the first
 symptom of the next problem.
 
-**Decades 6–7 (ages 70–90).** The risk inverts. The failure mode is no
+**Decades 6–7.** The risk inverts. The failure mode is no
 longer overconsumption but a frozen model and a nostalgia curriculum — only
 about the world you already understand, in the terms you learned it in. So
 deliberate current awareness matters *more* late, not less, and the

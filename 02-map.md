@@ -7,10 +7,10 @@ doesn't shrink because you're ahead in places.
 
 ## The horizon
 
-Year 1 is age 20; year 70 is age 90. Seven decades, laid out in `03-spine.md`
-and `phases/`. The ledger below completes around year 30 — at fifty, with
-forty years still to run. Covering the map once is the first third of this,
-not the whole of it.
+The plan runs from year 1 to year 70. Seven decades, laid out in `03-spine.md`
+and `phases/`. The ledger below completes around year 30 — with forty years
+still to run. Covering the map once is the first third of this, not the whole
+of it.
 
 ## Depth tiers = time budgets, nothing more
 
@@ -34,7 +34,7 @@ Two rules make the budget real:
    lifetime — over seven decades that's 3–4 masteries, 12–18 working depths,
    and the whole T3 ledger walked more than once. That *is* "everything," at
    the only exchange rate time offers.
-3. **The ledger is open at the bottom.** Fields will exist in your sixties
+3. **The ledger is open at the bottom.** Fields will exist by Decade 5
    that have no name today, and they join the map through the frontier slot —
    see `04-frontier.md`. A map that can't grow is a map that expires.
 
