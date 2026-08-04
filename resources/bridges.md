@@ -405,7 +405,7 @@ tell you what you assumed, while correction is still cheap.
 
 ## The bridge as the third act's work
 
-`phases/decade-3-synthesis.md` calls cross-field work "the work of the third
+`phases/decade-3-mastery.md` calls cross-field work "the work of the third
 act"; `phases/decade-4-integration.md` names it the decade's signature
 output; `phases/decade-5-reinvention.md` puts the book-length synthesis and
 the freely chosen third spike at the centre of the free decade. This file is

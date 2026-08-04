@@ -277,17 +277,17 @@ weeks anything, and you may not spend this week repaying them.
   the highest-stakes calls in the repo and you have no evidence. Forty-four
   literacy passes are what tell you which fields actually pull. Everything
   enters at T3.
-- **Don't read ahead into `resources/` for domains years away.** Neuroscience
-  is years off yet, and a faster ledger does not make it closer than the
-  domains in front of it. Reading its entry now costs an evening and buys
+- **Don't read ahead into `resources/` for domains years away.** Medicine is
+  year 10 and agriculture is year 15; a faster ledger does not make them
+  closer than the domains in front of them. Reading its entry now costs an evening and buys
   nothing you'll still remember, and it is the most seductive form of
   not-starting available in this repo.
 - **Don't optimize the note-taking system instead of taking notes.** No new
   app, no tagging scheme, no vault architecture. A plain text file and Anki
   are sufficient for ten years. Reorganizing notes produces a strong feeling
   of processing and near-zero learning.
-- **Don't start a second language.** It begins on the spine's schedule and
-  not on yours, for good reasons — it's a T2-cost track that runs for years,
+- **Don't start a second language.** It begins in year 3, not now, for good
+  reasons — it's a T2-cost track that runs for years,
   and starting it before the three habits hold means it becomes the thing
   that breaks and takes the habits down with it. A bigger hour budget is
   exactly the argument you will be tempted to make here. Don't.

@@ -75,12 +75,15 @@ treated like a client meeting, audited at the annual review.
   for your field, teach formally if you can. Your explanations now carry
   experience textbooks can't, and teaching is still the fastest way to find
   out what you only think you know.
-- **Run the first systematic re-foundation pass.** The trunk domains were
-  learned in years 1–10 and are now fifteen to thirty years old. Go row by row
-  through `02-map.md` asking one question of each: *how far has this moved
-  since I learned it?* Take the 5–8 with the largest answer and redo the
-  literacy pass on current material — new survey, new canonical work, new
-  artifact.
+- **Run the first systematic re-foundation pass, on the trunk.** The thirty
+  domains of Decade 1 are now eighteen to twenty-seven years old — old enough
+  that some of them are teaching you a field that no longer exists. Go row by
+  row through those rows of `02-map.md` asking one question of each: *how far
+  has this moved since I learned it?* Take the 5–8 with the largest answer and
+  redo the literacy pass on current material — new survey, new canonical work,
+  new artifact. The fourteen domains you finished in years 11–15 are younger
+  and can wait for Decade 4; that split is what a ledger completed at year 15
+  buys you.
 - The fields that move fastest are instrument-driven and computational:
   genetics, neuroscience, cosmology, materials, AI, climate, medicine —
   anywhere the data got orders of magnitude bigger or a new instrument opened

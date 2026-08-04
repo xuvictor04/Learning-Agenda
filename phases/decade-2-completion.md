@@ -10,7 +10,7 @@ plan that depth, not coverage, is the whole job.
 
 That is the single most important fact about this plan, and the one most
 people get wrong when they imagine a lifetime of learning. Covering the map is
-not the plan — it is the first seventh of it. At three domains a year the
+not the plan — it is the first fifth of it. At three domains a year the
 whole territory of `02-map.md` is walked before the second spike is even
 funded, which means the remaining fifty-five years are not a long tail of
 mopping up. They are the actual work, and this decade is where the shift from
@@ -38,10 +38,11 @@ know which stranger to call. That is a starting position, not a trophy.
   Taste in what's worth working on is the master-level skill, and it's built
   by post-mortems, studying your field's history of bets, and proximity to
   people with proven taste.
-- **Run the completion review at year 15 properly** (`templates/annual-review.md`).
-  Go row by row through the ledger and mark, honestly, which passes were real
-  and which were tourism. A domain you cannot now state the core questions of
-  is unchecked, whatever the box says. Redo it in year 16.
+- **Run the completion review at year 15 properly** — see
+  `templates/annual-review.md`. Go row by row through the ledger and mark,
+  honestly, which passes were real and which were tourism. A domain you
+  cannot now state the core questions of is unchecked, whatever the box says.
+  Redo it in year 16.
 
 **Milestones by year 15**
 

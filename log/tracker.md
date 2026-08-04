@@ -11,7 +11,6 @@ are. Fill the blanks, check the boxes, never delete a line.
 | Field | Value |
 |-------|-------|
 | Year of the agenda | ___ of 70 |
-| Current age | ___ |
 | Current decade | ___ of 7 |
 | Phase file | `../phases/___.md` |
 | Spine year you are working | `../03-spine.md` — Year ___ |
@@ -46,7 +45,7 @@ done. Record the tier you actually reached, not the one you aimed at.
 
 *Example line — delete:*
 
-- [x] **Statistics & probability** — tier: T2 · year: 1 (T3), 12 (T2) · artifact: "What a p-value isn't", blog
+- [x] **Statistics & probability** — tier: T2 · year: 1 (T3), 7 (T2) · artifact: "What a p-value isn't", blog
 
 ### Formal
 
@@ -146,12 +145,14 @@ under-funded somewhere and you are pretending otherwise.
 
 | Tier | Cap | Currently funded | Since | Over cap? |
 |------|-----|------------------|-------|-----------|
-| T1 — Mastery | 1–2 at a time | ___ | ___ | ___ |
-| T2 — Working depth | 2–3 at a time | ___ | ___ | ___ |
-| T3 — Literacy | ~2 new per year | ___ | ___ | ___ |
+| T1 — Mastery | 2 at a time | ___ | ___ | ___ |
+| T2 — Working depth | 3–5 at a time | ___ | ___ | ___ |
+| T3 — Literacy | ~3 new per year | ___ | ___ | ___ |
 
 Everything enters at T3. Nothing is promoted on enthusiasm — only at an
-annual review, after its literacy artifact exists.
+annual review, after its literacy artifact exists. The first promotions land
+around year 6, so this table stops being all blanks much earlier than it used
+to — which makes the over-cap column the one that actually needs answering.
 
 ### Promotions log
 
@@ -213,23 +214,24 @@ The portfolio. This is the only real evidence the whole enterprise happened
 One row per decade. Check the box only when the decade's audit is written.
 
 - [ ] **Decade 1 — years 1–10** · `../phases/decade-1-foundations.md`
-  - [ ] Twenty domains checked; fundamentals table rated honestly
+  - [ ] Thirty domains checked; fundamentals table rated honestly
   - [ ] Recognized specialization, with a public body of work a stranger can evaluate
+  - [ ] First promotions to working depth made from year 6, at reviews and not on enthusiasm
   - [ ] Second spike chosen; three permanent habits intact for 5+ years
-- [ ] **Decade 2 — years 11–20** · `../phases/decade-2-mastery.md`
-  - [ ] Roughly 34 domains checked
-  - [ ] Second spike at or near T1, with one defensible original contribution
+- [ ] **Decade 2 — years 11–20** · `../phases/decade-2-completion.md`
+  - [ ] All 44 ledger domains checked by year 15 — the map covered once
+  - [ ] The freed hours redirected into depth rather than absorbed: 3–5 domains funded at T2
   - [ ] Twenty-year audit written; Decade 3 direction drafted
-- [ ] **Decade 3 — years 21–30** · `../phases/decade-3-synthesis.md`
-  - [ ] All 44 ledger domains checked — the map covered once
-  - [ ] One major synthesis work completed and shared
+- [ ] **Decade 3 — years 21–30** · `../phases/decade-3-mastery.md`
+  - [ ] Two domains held at mastery, and the T1 cap honestly enforced
+  - [ ] One defensible original contribution, published and survivable in front of the field
   - [ ] Craft at working-craftsperson level; an institution or successor carrying work forward
 - [ ] **Decade 4 — years 31–40** · `../phases/decade-4-integration.md`
   - [ ] First systematic re-foundation pass — 5–8 domains, each with a new artifact
-  - [ ] 3–5 domains promoted T3 → T2, and one deliberately demoted
-  - [ ] One synthesis work published; something institutional built and running
+  - [ ] One major synthesis work published; something institutional built and running
+  - [ ] Working-depth roster at its full 3–5, and one domain deliberately demoted
 - [ ] **Decade 5 — years 41–50** · `../phases/decade-5-reinvention.md`
-  - [ ] Doubled hour budget claimed and defended; third spike at working depth
+  - [ ] Expanded hour budget claimed and defended; third spike at working depth
   - [ ] Transmission at scale — synthesis work out, two named successors with real authority
   - [ ] Second re-foundation pass complete; habits intact for 50 years
 - [ ] **Decade 6 — years 51–60** · `../phases/decade-6-distillation.md`

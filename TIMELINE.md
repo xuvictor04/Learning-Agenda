@@ -671,7 +671,7 @@ instrument for it.
 
 Fourteen literacy passes across ten years, which is fewer per year than Decade
 1 ran, and that is the design. The second spike is taking real hours now
-(`phases/decade-2-mastery.md`), so the ledger drops to roughly 100–150 hours
+(`phases/decade-2-completion.md`), so the ledger drops to roughly 100–150 hours
 of material a year instead of 200. Single-domain years go deeper into the one
 domain rather than padding with a second.
 
@@ -1097,7 +1097,7 @@ waited seventeen years for the biology, chemistry, genetics and statistics
 underneath it, and no textbook teaches what a patient in front of you does.
 
 **Also running.** Original contribution is due this year per
-`phases/decade-2-mastery.md`: one piece of work you would defend as original,
+`phases/decade-2-completion.md`: one piece of work you would defend as original,
 mentoring as a routine part of the week, and your specialty's material taught
 at a serious level — a course, a talk series, a book in progress, or long-form
 writing with an audience. Craft, grammar of the year, monthly formalization,
@@ -1303,7 +1303,7 @@ need anyway, split it, learn half by rereading and half by spaced retrieval,
 test cold at four and eight weeks, and write 1,500 words reporting your actual
 numbers plus an honest section on what your design cannot rule out. Plus the
 taught class with its assessments and error taxonomy. Plus **the twenty-year
-audit** (`phases/decade-2-mastery.md`): roughly 34 domains checked, second spike
+audit** (`phases/decade-2-completion.md`): roughly 34 domains checked, second spike
 at or near T1, which bets paid off, what you would tell your year-1 self, and a
 drafted direction for Decade 3 — which may legitimately point somewhere new,
 chosen from strength rather than boredom.
@@ -1321,7 +1321,7 @@ datasets, calculation packages and metered results, not only essays.
 Two structural changes from Decade 2. **One ledger domain a year, not two** —
 the applied domains are heavier (150–200 hours each, and machining and shop
 time are hours like any other), and the synthesis and stewardship tracks from
-`phases/decade-3-synthesis.md` now take real time. And **each year adds one
+`phases/decade-3-mastery.md` now take real time. And **each year adds one
 lifetime practice** — MacKay's household ledger, the load-path notebook, the
 shop logbook, *MMWR* weekly, the decision journal, the media diary, one
 campaign a year, the daily sketchbook, the field book. By year 30 you are
@@ -1842,7 +1842,7 @@ passes, and you want the audit's findings in your head while you reread.
 | # | Material | Role | Hrs | Why here |
 |---|----------|------|-----|----------|
 | 1 | `templates/annual-review.md`, run at thirty-year scale | audit | ~10 | answer from the record, not from memory — skim the weekly logs first, all of them |
-| 2 | `phases/decade-3-synthesis.md`, milestone list | audit | ~2 | five checkboxes, answered honestly, including the one about being a genuine beginner at something after year 21 |
+| 2 | `phases/decade-3-mastery.md`, milestone list | audit | ~2 | five checkboxes, answered honestly, including the one about being a genuine beginner at something after year 21 |
 | 3 | Every "Re-foundation watch" paragraph in `resources/`, read in one sitting | audit | ~12 | forty-four of them; the ones that read as stale *are* Decade 4's re-foundation queue |
 | 4 | `resources/bridges.md`, end to end, against your own "these two should talk" list | synthesis | ~10 | an idea you wrote down three times across five years has a question underneath it |
 | 5 | The "Beyond T1 — the long shelf" section of every promotion candidate | decision | ~12 | the year-30 branch point: saying yes to five means saying no to thirty-nine, and the long shelves are what the five open into |

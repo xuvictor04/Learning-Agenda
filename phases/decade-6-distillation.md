@@ -1,23 +1,27 @@
 # Decade 6 (Years 51–60): Distillation
 
-**Mission:** decide what of seventy years of accumulated understanding is
+**Mission:** decide what of fifty years of accumulated understanding is
 worth passing on, and put it in a form that survives you. And keep learning
 hard things — which by now is not merely enriching but load-bearing for the
 instrument the whole agenda runs on.
 
 ## The problem has changed
 
-For fifty years the binding constraint was acquisition: too much map, not
-enough hours. That constraint is gone. What you have instead is a corpus —
-notes, artifacts, half-finished manuscripts, three spikes' worth of judgment,
-forty-four domains of literacy and the connections between them — and it is
-almost entirely unsorted. Nobody but you can read it. That is this decade's
-real problem, and it is an editing problem, not a collecting one.
+Acquisition stopped being the binding constraint at year 15, when the ledger
+closed. For the thirty-five years since, the constraint was choosing — which
+depths to fund, which bridges to build, which work to give five years to.
+That one is gone too. What you have instead is a corpus — notes, artifacts,
+half-finished manuscripts, three spikes' worth of judgment, forty-four domains
+of literacy walked once and kept current across three scheduled re-foundation
+passes, eight to twelve of them at working depth, and the connections between
+all of it — and it is almost entirely unsorted. Nobody but you can read it.
+That is this decade's real problem, and it is an editing problem, not a
+collecting one.
 
 Say the trade plainly: a thousand scattered pieces distilled into one usable
 thing is a larger contribution than the thousand. That is not a consolation
 prize for slowing down. It is the hardest intellectual work in the agenda,
-and you could not have done it in Decade 2 — you did not yet know which parts
+and you could not have done it in Decade 3 — you did not yet know which parts
 were load-bearing.
 
 ## Years 51–54: The distillation
@@ -36,8 +40,8 @@ were load-bearing.
   head written into the margins. An archive only its author can navigate is a
   private pleasure, not a bequest.
 - **Test it on someone who wasn't there.** Hand a chapter, a module, a folder
-  to a person thirty years younger and watch where they stall. Their
-  confusion is the edit list.
+  to someone who arrived thirty years after you did and watch where they
+  stall. Their confusion is the edit list.
 
 **Milestones by year 54**
 
@@ -68,8 +72,9 @@ were load-bearing.
   protective factors. The workshop from `resources/kit.md` gets better light,
   better guarding, and fewer solo sessions on the dangerous tools.
 - **The SRS vault is now doing exactly what it was built for.** Fifty years of
-  cards means recall of the whole ledger costs you twenty minutes a day. This
-  was always the payoff; collect it.
+  cards — filled three domains a year through the whole first decade — means
+  recall of the entire ledger costs you half an hour a day. This was always
+  the payoff; collect it.
 
 **Milestones by year 57**
 
@@ -99,18 +104,18 @@ were load-bearing.
 
 ## The frontier slot still runs
 
-Do not let it lapse — see `04-frontier.md`. Someone in their seventies in
-this plan has lived through change comparable to 1955–2025, and will live
-through more. The slot is the difference between a model of the world that is
-current and one that froze at the height of your career. It is also how you
-stay interesting to the people you are trying to teach.
+Do not let it lapse — see `04-frontier.md`. Sixty years into this plan you
+have lived through change comparable to 1955–2025, and you will live through
+more. The slot is the difference between a model of the world that is current
+and one that froze at the height of your career. It is also how you stay
+interesting to the people you are trying to teach.
 
 ## Failure modes to watch for in Decade 6
 
 - **The nostalgia curriculum** — teaching the field as it was in your prime.
   The frontier slot and reverse-mentoring are the fix; make them non-optional.
 - **Vault-keeping** — deferring transfer until the knowledge leaves with
-  you. Fifty years of notes nobody can read is fifty years spent on yourself.
+  you. Sixty years of notes nobody can read is sixty years spent on yourself.
 - **Mistaking adaptation for decline** — quitting the telescope because the
   eyepiece needs a different chair. Reread `01-principles.md`: the method was
   always negotiable, the ambition never was.

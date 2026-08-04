@@ -82,9 +82,9 @@ Three steps, in order. The whole repo is downstream of these.
 |---|---|---|---|
 | Not started | — | [Quickstart](QUICKSTART.md) | [Decade 1](phases/decade-1-foundations.md) |
 | 1–10 | Foundations — 30 domains | [Timeline: Years 1–10](TIMELINE.md#years-110--foundations) | [Decade 1](phases/decade-1-foundations.md) |
-| 11–15 | Closing the ledger | [Timeline: Years 11–15](TIMELINE.md#years-1115--the-ledger-completes) | [Decade 2](phases/decade-2-mastery.md) |
-| 16–20 | First depth | [Timeline: Years 16–20](TIMELINE.md#years-1620--first-depth) | [Decade 2](phases/decade-2-mastery.md) |
-| 21–30 | Mastery, original work | [Timeline: Years 21–30](TIMELINE.md#years-2130--mastery-and-original-work) | [Decade 3](phases/decade-3-synthesis.md) |
+| 11–15 | Closing the ledger | [Timeline: Years 11–15](TIMELINE.md#years-1115--the-ledger-completes) | [Decade 2](phases/decade-2-completion.md) |
+| 16–20 | First depth | [Timeline: Years 16–20](TIMELINE.md#years-1620--first-depth) | [Decade 2](phases/decade-2-completion.md) |
+| 21–30 | Mastery, original work | [Timeline: Years 21–30](TIMELINE.md#years-2130--mastery-and-original-work) | [Decade 3](phases/decade-3-mastery.md) |
 | 31–40 | Integration | [Timeline: Years 31–40](TIMELINE.md#years-3140--integration-and-synthesis) | [Decade 4](phases/decade-4-integration.md) |
 | 41–50 | The free decade | [Timeline: Years 41–50](TIMELINE.md#years-4150--the-free-decade) | [Decade 5](phases/decade-5-reinvention.md) |
 | 51–60 | Distillation | [Timeline: Years 51–60](TIMELINE.md#years-5160--distillation) | [Decade 6](phases/decade-6-distillation.md) |
@@ -320,7 +320,7 @@ is a fixed weekly block defended like a client meeting.
 **Ends with:** 34 domains · second spike near mastery · an original
 contribution · teaching as routine.
 
-→ [`phases/decade-2-mastery.md`](phases/decade-2-mastery.md)
+→ [`phases/decade-2-completion.md`](phases/decade-2-completion.md)
 </details>
 
 <details>
@@ -335,7 +335,7 @@ where you build things. The workshop lands here.
 Year 30 is the hinge: forty-nine years old, the map covered, roughly 60
 artifacts, two mature spikes, and forty years still to run.
 
-→ [`phases/decade-3-synthesis.md`](phases/decade-3-synthesis.md)
+→ [`phases/decade-3-mastery.md`](phases/decade-3-mastery.md)
 </details>
 
 <details>

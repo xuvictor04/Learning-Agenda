@@ -167,15 +167,18 @@ Half size counts. An empty week logged as empty counts.
 Diagnose before you resolve, because "try harder" has already failed. Three
 causes cover most cases. First, the artifact was never named — a domain with
 no specific thing that must exist by December has no ending, so it can only
-be abandoned, never finished. Second, you stacked two hard
-prerequisite-chained domains in one year, which is the exact thing the
-alternation rule exists to prevent. Third, the survey book was wrong for you
-and you concluded the field was.
+be abandoned, never finished. Second, you stacked two or three hard
+prerequisite-chained domains in the same year, which is the exact thing the
+alternation rule exists to prevent and which three-a-year makes much easier
+to do by accident. Third, the survey book was wrong for you and you concluded
+the field was.
 
 Then apply the structural fix: no new domain starts until the current
-artifact is published. That is a real constraint and it will feel bad in
-month four, which is the point — `02-map.md` says the caps hold "even when
-it hurts."
+artifact is published. Three a year does not repeal that — it means one
+domain at full pressure while the others are held warm, in sequence, not
+three simultaneous starts in January. That is a real constraint and it will
+feel bad in month four, which is the point — `02-map.md` says the caps hold
+"even when it hurts."
 
 Concede the remaining possibility. Some people genuinely prefer beginnings,
 and if that is you, no amount of insight will change it; only the constraint

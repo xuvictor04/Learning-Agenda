@@ -29,15 +29,20 @@ newcomer sound like a newcomer. Cheap to fix, expensive to carry.
 | **T1 — Mastery** (5–10 yrs) | Graduate references, where the frontier is, what original contribution means here, and the community you'd join |
 
 Most domains you'll only ever take to T3, and that's the design — the map's
-concurrency caps mean two or three fields hold T1/T2 budgets at any moment.
+concurrency caps mean five to seven fields hold T1/T2 budgets at any moment.
 But the ladder is written out for every domain so that promotion is a decision
 you make, not a wall you hit.
 
 **Then a fourth block: "Beyond T1 — the long shelf."** The three tiers cover
-about ten years of a domain. This plan runs seventy (`03-spine.md`), and the
-ledger completes near year 30 — so a domain you promote in Decade 4 has
-decades of runway and would otherwise run out of material. The long shelf is
-what absorbs it:
+something like a decade of a domain — less than that at the current budget,
+since the tier costs are hour-bound and the hours now arrive nearly three
+times faster, which puts a serious domain nearer six or seven years than ten.
+This plan runs seventy (`03-spine.md`), the ledger completes near year 15,
+and promotions to working depth begin around year 6 — so a domain you promote
+in Decade 1 has sixty years of runway and will exhaust its three tiers before
+Decade 2 is out. The long shelf is not a late-life supplement; it is what most
+of your reading in a promoted domain will actually be, starting sooner than
+you expect:
 
 | | |
 |---|---|
@@ -47,9 +52,11 @@ what absorbs it:
 | *A lifetime practice* | What sustained engagement looks like at the thirty-year scale — the thing you keep doing |
 | *Rabbit holes* | Narrower topics worth a month each, for the curiosity budget |
 
-`bridges.md` handles the other axis. After the ledger is covered, the highest-
-value work is usually at the intersections — over 900 domain pairs, most never
-thought about carefully by one mind. That file is the material for them.
+`bridges.md` handles the other axis. After the ledger is covered — near year
+15 now, not decades in — the highest-value work is usually at the
+intersections: over 900 domain pairs, most never thought about carefully by
+one mind. That file is the material for them, and it comes off the shelf
+early.
 
 ## Selection rules
 
@@ -76,7 +83,7 @@ thought about carefully by one mind. That file is the material for them.
 | `made-applied.md` | Engineering, computing, public health, business, strategy, design, craft |
 | `languages.md` | Language acquisition — resourced by method, since method transfers |
 | `fundamentals.md` | The universal capacities the whole map runs on |
-| `bridges.md` | Where domains meet — the material for synthesis work in the later decades |
+| `bridges.md` | Where domains meet — the material for synthesis work, live from Decade 2 |
 | `modes.md` | The full range of sources beyond books — courses, data, places, people, doing |
 | `kit.md` | Equipment, access, and instruction — what to buy, and what to buy instead |
 

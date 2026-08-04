@@ -18,15 +18,17 @@ mistake for currency.
 
 **Themes**
 
-- Run the drift audit again, as in Decade 3, and expect a different answer.
-  The domains you re-founded then have had fifteen years to move; the ones
-  you skipped then have had thirty. Take the 5–8 with the largest drift and
-  redo the literacy pass on current material — new survey, new canonical
-  work, new artifact.
+- Decade 3's pass took the trunk — the thirty domains of Decade 1. This one
+  takes the rest: the fourteen you finished in years 11–15, now twenty years
+  old, plus anything in the trunk that moved again while you were re-founding
+  it. Take the 5–8 with the largest drift and redo the literacy pass on
+  current material — new survey, new canonical work, new artifact. Together
+  the two passes complete one full sweep of the ledger.
 - Two passes in, the pattern is legible: some domains need refreshing every
   fifteen years and some have not meaningfully moved since you met them.
   Write that classification down. It converts re-foundation from a decade
-  project into a rolling maintenance schedule for the rest of the plan.
+  project into a rolling maintenance schedule for the rest of the plan, and
+  it is the last time the whole ledger needs auditing from scratch.
 - **Be taught the new version by people who learned it after you did.**
   Normal and correct, not a concession. The generation that built a field's
   last fifteen years explains them better than anyone who watched from a

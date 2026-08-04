@@ -26,13 +26,13 @@ same field can be re-aimed later.
 | **T2 — Working depth** | do real work in it; read the primary literature; teach the fundamentals | 1–3 yrs |
 | **T3 — Literacy** | state the field's core questions and big ideas; follow an expert; know the canon exists and where | 100–300 hrs |
 
-Two rules make the budget real:
+Three rules make the budget real:
 
 1. **Everything enters at T3.** No field is promoted to T2/T1 on enthusiasm —
    only at an annual review, after its literacy artifact exists.
 2. **Concurrency caps:** at most 2 fields *actively* funded at T1, 3–5 at
    T2, and ~3 new T3 literacies per year. The caps are per-moment, not per
-   lifetime — over seven decades that's 3–4 masteries, 8–12 fields taken to
+   lifetime — over seven decades that's 4–5 masteries, 15–20 fields taken to
    working depth, and the whole T3 ledger walked several times over. That
    *is* "everything," at the only exchange rate time offers. The budget got
    larger; the caps did not dissolve, they only widened, because the failure

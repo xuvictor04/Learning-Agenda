@@ -719,7 +719,8 @@ in the file and also the most expensive mistakes.
 
 The recurring cost nobody budgets for, and the one that most reliably predicts
 whether a tool is real. Expect **$300–800/yr at the floor budget**, more once
-several domains are active.
+several domains are active — which, at three a year with promotions from year
+6, is most of Decade 1 rather than some later phase.
 
 - **Sharpening**: stone flatteners, lapping plate, honing compound, strops,
   replacement diamond plates — $50–150/yr for anyone using edge tools.
@@ -768,10 +769,10 @@ This is a workable allocation, not an aspiration. A suggested split:
 
 | Category | Share | Approx. |
 |----------|-------|---------|
-| Access and people — tutors, courses, memberships, workshops | ~45% | $1,300 |
-| Domain equipment for the years currently active in `03-spine.md` | ~30% | $900 |
+| Access and people — tutors, courses, memberships, workshops | ~40% | $1,200 |
+| Domain equipment for the years currently active in `03-spine.md` | ~35% | $1,050 |
 | Consumables and maintenance | ~13% | $400 |
-| Opportunity reserve | ~13% | $400 |
+| Opportunity reserve | ~12% | $350 |
 
 Three things about this table. **Access is the largest line, deliberately** —
 if your split has objects on top, you have reverted to buying things because
@@ -783,11 +784,36 @@ that appears in March, a used instrument at the right price, a lab liquidation
 two towns over. Do not spend the reserve on schedule; let it roll over, and
 accept that some years it goes unused and some years it goes on one thing.
 
+**What changed: the early years are no longer cheap.** This split used to
+describe a Decade 1 in which two domains a year were active, most of them
+reading domains, and the equipment line went half unspent while the money
+quietly accumulated toward some later microscope. That is over. Three domains
+enter the ledger every year now, so at any moment there are three sets of
+scheduled first uses competing for the equipment line, and the first
+promotions to working depth land around year 6 — which is when a domain stops
+being satisfied by borrowed access and starts wanting its own instrument.
+Expect the floor to be fully spent from about year 3 onward, and expect the
+first genuinely expensive purchase in Decade 1 rather than Decade 3.
+
+**The floor is still a floor, and it now binds sooner rather than harder.**
+Nothing above licenses buying ahead of the spine — the scheduled-first-use
+rule and the tier gate are unchanged, and at three domains a year they are
+doing more work, not less, because there are simply more defensible-looking
+purchases available in any given month. What has changed is that a year in
+which you spend nothing is now evidence of a problem rather than of thrift.
+Three active domains and no equipment spend usually means three reading
+passes and no practice.
+
 Software — Anki, LaTeX, R, SageMath, Stellarium, PsychoPy, IMSLP — is free and
 installs in week one. It is the cheapest half of this document and the half
 most likely to still be in use in decade five.
 
 ### Comfortable — $5,000–8,000/yr
+
+At three domains a year this is not a distant upgrade tier. It is where the
+floor lands once two or three domains are held at working depth at the same
+time, which the caps now permit from Decade 1 — so read this section early
+rather than filing it under later.
 
 What actually gets added, in order of return:
 
@@ -801,9 +827,11 @@ What actually gets added, in order of return:
   chair, the desk, the light, the knife, the bench, the eyepieces, the
   binoculars. Things touched weekly justify their upgrade; things touched
   annually do not, however much more interesting they are.
-- **One durable big-ticket item every two or three years**, chosen from the
-  "when budget isn't the constraint" lines above, and only for a domain that
-  has already reached T2 with the literacy artifact to prove it.
+- **One durable big-ticket item every year or two**, chosen from the "when
+  budget isn't the constraint" lines above, and only for a domain that has
+  already reached T2 with the literacy artifact to prove it. The interval
+  shortens because promotions start around year 6 and there are more of them,
+  not because the gate loosened.
 
 ### Unconstrained — above $10,000/yr
 
@@ -852,9 +880,11 @@ risk. The unused years are.
 Three consequences worth planning around:
 
 - **Buy the durable version once, at the right moment** — after the domain has
-  proven itself, and while you are young enough to build the skill on it.
-  Instruments and craft tools especially: technique acquired at 25 is still
-  there at 75, and the tool will be too.
+  proven itself, and early enough that you get the decades of skill-building
+  the tool is priced for. That moment now arrives around year 6 rather than
+  decades in, which pulls the durable purchases forward into Decade 1.
+  Instruments and craft tools especially: technique acquired in Decade 1 is
+  still there in Decade 7, and the tool will be too.
 - **Maintain deliberately.** A forty-year tool requires forty years of
   sharpening, tuning, oiling and calibration. Budget it (see above) and treat
   it as part of the practice.
@@ -886,7 +916,11 @@ does that nothing on the list already does.
 
 Every purchase above a few hundred dollars should be attached to a domain the
 spine has actually reached, and the largest ones to a domain **promoted to T2**
-— the literacy artifact exists and an annual review has funded it. A benchtop
+— the literacy artifact exists and an annual review has funded it. That gate
+opens earlier than it used to, around year 6, and it opens more often, which
+makes it more load-bearing rather than less: it is now the main thing standing
+between a large budget and a room full of equipment for domains you read about
+once. A benchtop
 oscilloscope, a research microscope, a printmaking press, a kiln, a lathe, an
 acoustic piano, a tracking mount: every one is justified for someone doing the
 work and a closet ornament for someone who isn't. Money removes the financial

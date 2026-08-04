@@ -41,11 +41,11 @@ from documents; you worked from inside. It decays unless it is written down.
 **Themes**
 
 - **Keep the ledger alive in whatever form works.** Fewer domains, slower,
-  chosen for pull. `02-map.md` never required a pace — only honesty about
-  depth.
+  chosen for pull. Three a year was a Decade 1 device, not a standard;
+  `02-map.md` never required a pace — only honesty about depth.
 - **Reread the canon deliberately.** The books you read in Decade 1 are
   different books now, and you are the only person who can run the comparison.
-  One canonical work a year, read against your own marginalia from fifty years
+  One canonical work a year, read against your own marginalia from sixty years
   ago. Not nostalgia — the clearest measure of a mind's change anyone gets.
 - **The curiosity budget is unchanged.** Ten to twenty percent, off-ledger,
   no artifact required. It was the canary in year 1; it is the canary now.
@@ -67,10 +67,10 @@ from documents; you worked from inside. It decays unless it is written down.
   collections, correspondence, unfinished work — each to a named person or
   institution, written down and told to them. What is left to chance is left
   to a skip.
-- **Give while you can still explain.** The Dobsonian from year 10, the
-  microscope from year 4, the bench and stones from `resources/kit.md` — the
-  object is half the gift; the other half is the afternoon showing someone how
-  you used it. Libraries, makerspaces, clubs and schools take gear gladly.
+- **Give while you can still explain.** The Dobsonian and the microscope from
+  Decade 1, the bench and stones from `resources/kit.md` — the object is half
+  the gift; the other half is the afternoon showing someone how you used it.
+  Libraries, makerspaces, clubs and schools take gear gladly.
 - **Hand over the unfinished work explicitly.** What you were trying to do,
   where you got stuck, what you would try next. Unfinished work with
   instructions is an inheritance; without them it is a puzzle nobody solves.
@@ -89,15 +89,17 @@ longer-horizon question set, answered fresh once a year:
 - What was the whole thing for? Not last year's answer — this year's.
 - What do I know that is not yet written down anywhere?
 - Who would miss the thing I stopped doing this year?
-- What would I tell the twenty-year-old who wrote `01-principles.md`?
+- What would I tell the person in year 1 who wrote `01-principles.md`?
 
 ## Honest about capacity
 
 Some capacities decline. The system adapts rather than pretends. Scale
-sessions to energy rather than ambition — three good hours a week is a real
-learning practice. Favour depth in a few domains over breadth; you have
-already done the breadth. Keep the physical, social, and sensory practices
-from Decade 6, which protect engagement more than any study technique does.
+sessions to energy rather than ambition — five good hours a week is a real
+learning practice, and the budget was twenty-five for most of a lifetime, so
+falling to a fifth of it is a change of scale, not a failure. Favour depth in
+a few domains over breadth; you finished the breadth at year 15 and have been
+choosing ever since. Keep the physical, social, and sensory practices from
+Decade 6, which protect engagement more than any study technique does.
 
 Say it plainly, once: the plan's success is not measured by completing every
 checkbox in year 70. It was never a scorecard. It was a way of arranging
@@ -111,8 +113,9 @@ ago and the agenda kept going, because what it built was never the list.
 
 A plan written in year 1 and still running in year 70 has already succeeded. It
 succeeded the first year you kept the habit through something hard, and every
-year after. Whatever remains unchecked in `02-map.md` is not a debt — it is
-evidence the map was drawn honestly large.
+year after. The ledger closed at year 15 and the fifty-five years after it were
+the point; whatever the map grew in that time and never got checked is not a
+debt — it is evidence the map stayed honestly open.
 
 So the last instruction is the same as every year's: write the review, then
 write the next sketch anyway. Years 71–80, in good faith, with real intentions
@@ -129,7 +132,7 @@ system has been from year one.
 - **Isolation** — the quiet one, arriving through cancelled plans rather than
   decisions. Standing weekly contact with someone, defended the way the
   learning block once was.
-- **Checklists as guilt.** These files were written by a twenty-year-old with
+- **Checklists as guilt.** These files were written in year 1, by someone with
   no idea what these decades would hold. They are a tool. If a milestone has
   become a reproach rather than a prompt, edit the file — this repo was always
   yours to rewrite.
