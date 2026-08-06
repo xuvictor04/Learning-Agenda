@@ -19,10 +19,15 @@ pattern of what you finish.
 
 Dated entries, newest at the bottom.
 
-### 2026-08-06 · Thu · Day 0
+### 2026-08-06 · Thu · Day 1
 
 Restarted. Scrapped the seventy-year plan; kept the philosophy and the
-resource library. Week 1 proposed — theme: the instrument. Awaiting verdicts.
+resource library. Week 1 theme set: the instrument.
+
+Day 1 proposed — Anki plus Woźniak's rules, Adler's inspectional-reading
+chapters, and 300 published words. ~1h45. Awaiting verdicts.
+
+Open question put to you: what to point this at.
 
 ---
 
@@ -46,7 +51,7 @@ not a failure) · shelved.
 
 | Week | Dates | Theme | Proposed | Accepted | Completed |
 |------|-------|-------|----------|----------|-----------|
-| 1 | 2026-08-06 → | The instrument | 5 items · ~6 hrs | *awaiting* | — |
+| 1 | 2026-08-06 → | The instrument | day 1: 3 items · ~1h45 | *awaiting* | — |
 
 ---
 
