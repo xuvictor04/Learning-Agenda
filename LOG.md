@@ -27,9 +27,10 @@ resource library. Week 1 theme set: the instrument.
 Day 1 proposed — Anki plus Woźniak's rules, Adler's inspectional-reading
 chapters, and 300 published words. ~1h45. Awaiting verdicts.
 
-Publishing venue decided: **GitHub Pages**, not Bear Blog. Repo
-`xuvictor04.github.io`, markdown, default theme, custom domain deferred.
-Chosen for durability and zero new accounts — and because the platform
+Publishing venue decided: **`xuvictor04/blog`**, already created. GitHub
+Pages, markdown, default theme, custom domain deferred. Serves at
+`xuvictor04.github.io/blog` since it's a project repo rather than a user
+page. Chosen for durability and zero new accounts — and because the platform
 decision is exactly the kind of thing that eats the evening it was meant to
 start.
 
