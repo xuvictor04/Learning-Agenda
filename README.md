@@ -4,16 +4,21 @@ A week-by-week learning practice. I propose, you rule, I keep the record.
 
 ## How it works
 
-1. I put a week's proposal in **`weeks/week-NN.md`** — a handful of items,
-   each with what it is, why it's there, and roughly what it costs.
+1. I put a proposal in **`weeks/week-NN.md`** — a handful of items, each with
+   what it is, why it's there, and roughly what it costs. Themes are weekly
+   or daily depending on what the material wants.
 2. You rule on each: **in, out, or modified.**
-3. At the end of the week you say what actually happened — done, partial, or
-   didn't.
-4. I write it into **`LOG.md`**, and the next proposal gets built from what
-   the log says rather than what either of us hoped.
+3. You report at whatever granularity suits — a day, a week, a single book.
+4. I date it and write it into **`LOG.md`**: the journey, the books, the
+   habits, the artifacts. The next proposal gets built from what the log says
+   rather than what either of us hoped.
 
-Nothing is scheduled further out than the week in front of you. The plan is
+Nothing is scheduled further out than what's in front of you. The plan is
 whatever the log has taught us so far.
+
+Books are mirrored on Goodreads where applicable. `LOG.md` keeps the two
+things Goodreads has nowhere to put: why a book was proposed, and what came
+of it.
 
 ## The files
 

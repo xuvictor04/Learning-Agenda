@@ -1,32 +1,59 @@
 # Log
 
-The running record. I maintain this; you give the verdicts.
+The running record of the journey. I maintain it; you give the verdicts.
 
-**How it works.** I propose a week in `weeks/week-NN.md`. You rule on each
-item — in, out, or modified. At the end of the week you say what actually
-happened. I write it down here, and the next week's proposal is built from
-what this file says rather than from what either of us hoped.
+**Granularity:** whatever you message at. A day, a week, a single book — you
+tell me what happened and I date it and write it down. Timestamps come from
+when you message, so "today" always means the day you're writing.
 
 **The rule that makes it worth keeping:** partials and misses get logged the
-same as completions. A record that only shows wins can't tell me anything, and
-the whole reason to have a logger is that the pattern of what you skip is more
-informative than the pattern of what you finish.
+same as completions. A record that only shows wins can't teach either of us
+anything, and the pattern of what you skip is more informative than the
+pattern of what you finish.
+
+**Started:** 2026-08-06 (Thursday)
 
 ---
 
-## Ledger
+## Journey
 
-| Week | Proposed | Accepted | Completed | Notes |
-|------|----------|----------|-----------|-------|
-| 1 | 5 items · ~6 hrs | *awaiting verdicts* | — | Theme: the instrument |
+Dated entries, newest at the bottom.
+
+### 2026-08-06 · Thu · Day 0
+
+Restarted. Scrapped the seventy-year plan; kept the philosophy and the
+resource library. Week 1 proposed — theme: the instrument. Awaiting verdicts.
+
+---
+
+## Books
+
+Everything picked up, whether or not it gets finished. Mirrored on Goodreads
+where applicable — this table is the one that also records *why it was on the
+list* and *what came of it*, which Goodreads has nowhere to put.
+
+| Started | Title | Author | Status | Why it was proposed | Artifact |
+|---------|-------|--------|--------|---------------------|----------|
+| — | — | — | — | — | — |
+
+**Status values:** reading · finished · inspected (45-min pass, verdict
+written) · abandoned (with the reason — abandoning deliberately is a result,
+not a failure) · shelved.
+
+---
+
+## Weeks
+
+| Week | Dates | Theme | Proposed | Accepted | Completed |
+|------|-------|-------|----------|----------|-----------|
+| 1 | 2026-08-06 → | The instrument | 5 items · ~6 hrs | *awaiting* | — |
 
 ---
 
 ## Habits
 
-Tracked from the week they start. Streaks are noted honestly, including
-breaks — a restarted habit is a success, an unrestarted one is the failure
-mode this whole thing exists to prevent.
+Streaks noted honestly, including breaks. A restarted habit is a success; an
+unrestarted one is the failure mode this whole thing exists to prevent.
 
 | Habit | Started | Current streak | Longest | Last lapse |
 |-------|---------|----------------|---------|------------|
@@ -37,10 +64,10 @@ mode this whole thing exists to prevent.
 
 ## Artifacts
 
-Finished things, with where they live. This is the only real evidence any of
-it happened.
+Finished things and where they live. The only real evidence any of it
+happened.
 
-| Week | What | Where |
+| Date | What | Where |
 |------|------|-------|
 | — | — | — |
 
@@ -48,9 +75,9 @@ it happened.
 
 ## Standing observations
 
-Patterns worth remembering across weeks — what you reliably do, what you
-reliably avoid, what conditions made a good week good. I add to this as
-evidence accumulates; it's what stops me proposing the same thing you've
-already declined twice.
+Patterns worth carrying between weeks — what you reliably do, what you
+reliably avoid, what made a good week good. I add here as evidence
+accumulates; it's what stops me proposing something you've already declined
+twice.
 
 *(nothing yet — needs a few weeks of data)*
