@@ -38,7 +38,19 @@ start.
 300 words, deferred off today** — still week 1, not tonight. Items 1 and 2
 stand.
 
-Library card already held, so Adler is gettable without a purchase.
+Library card already held.
+
+**Revised again, ~16:30 UTC.**
+
+- **Item 1 expanded** — reading all twenty of Woźniak's rules rather than the
+  first four. Their call, not mine.
+- **Item 2 (Adler) out.** Cause: I gave chapter numbers for the
+  inspectional-reading section that I was not actually sure of. The skip is a
+  response to an unreliable reference, not a judgment on the book — worth
+  distinguishing, because the method is still worth having and the book can
+  come back later via its table of contents rather than my page numbers.
+- **Lesson for me, logged:** don't give locations inside a book unless I know
+  them. Name the section, let the contents page do the rest.
 
 Open question still open: what to point this at. Not blocking day 1, which is
 subject-agnostic by design — but it shapes day 2.
@@ -53,8 +65,8 @@ list* and *what came of it*, which Goodreads has nowhere to put.
 
 | Started | Title | Author | Status | Why it was proposed | Artifact |
 |---------|-------|--------|--------|---------------------|----------|
-| 2026-08-06 | *How to Read a Book* (inspectional chapters only) | Adler & Van Doren | reading | The one reading technique used on almost everything; changes how every later book is read | — |
-| 2026-08-06 | "Twenty Rules of Formulating Knowledge" | Piotr Woźniak | reading | Rules 1–4 before the first Anki card, to avoid a year of cards that get deleted | — |
+| 2026-08-06 | *How to Read a Book* | Adler & Van Doren | **dropped day 1** — bad chapter refs from me; recoverable later | The one reading technique used on almost everything; changes how every later book is read | — |
+| 2026-08-06 | "Twenty Rules of Formulating Knowledge" | Piotr Woźniak | reading — all 20 | Rules before the first Anki card, to avoid a year of cards that get deleted | — |
 
 **Status values:** reading · finished · inspected (45-min pass, verdict
 written) · abandoned (with the reason — abandoning deliberately is a result,
@@ -66,7 +78,7 @@ not a failure) · shelved.
 
 | Week | Dates | Theme | Proposed | Accepted | Completed |
 |------|-------|-------|----------|----------|-----------|
-| 1 | 2026-08-06 → | The instrument | day 1: 3 items · ~1h45 | 3 of 3 | *in progress* |
+| 1 | 2026-08-06 → | The instrument | day 1: 3 items · ~1h45 | 1 of 3 (1 out, 1 deferred) | *in progress* |
 
 ---
 

@@ -19,8 +19,8 @@ which is why they're first and why the day is light.
 
 | # | Proposed | Why today | Time | Verdict | Done |
 |---|----------|-----------|------|---------|------|
-| 1 | **Install Anki. Read Woźniak's "Twenty Rules of Formulating Knowledge"** (free online) — rules 1–4 are the ones that matter. Then write **three cards** from anything you already know | The habit needs a start date more than it needs good cards. Reading the rules first is the difference between a useful deck and a year of cards you delete | ~30 min | **in** | — |
-| 2 | **Adler & Van Doren, *How to Read a Book*** — the chapters on **inspectional reading** only. Not Part One, not the whole book | It's the one technique you'll use on almost everything you ever pick up. Everything else in Adler can wait; this can't, because it changes how you read item 3 onward | ~45 min | **in** | — |
+| 1 | **Install Anki. Read Woźniak's "Twenty Rules of Formulating Knowledge"** (free online) — **all twenty**, per your call. Then write **three cards** from anything you already know | The habit needs a start date more than it needs good cards. Reading the rules first is the difference between a useful deck and a year of cards you delete | ~30 min | **in** — modified to all 20 rules | — |
+| 2 | **Adler & Van Doren, *How to Read a Book*** — the chapters on **inspectional reading** only. Not Part One, not the whole book | It's the one technique you'll use on almost everything you ever pick up. Everything else in Adler can wait; this can't, because it changes how you read item 3 onward | ~45 min | **out** — my chapter refs were unreliable | — |
 | 3 | **Publish 300 words. Tonight. Badly.** Venue: **`xuvictor04/blog`** — add a dated markdown post, enable Pages in Settings (source: main, root). Serves at `xuvictor04.github.io/blog` | Not to be read. To destroy the standard that would otherwise stop you in week six, when the piece is half-done on a Sunday night | ~30 min | **deferred** — not today | — |
 
 **~1 hour 45.** If the day is already gone, item 1 alone is a real result —
