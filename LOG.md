@@ -34,7 +34,10 @@ page. Chosen for durability and zero new accounts — and because the platform
 decision is exactly the kind of thing that eats the evening it was meant to
 start.
 
-Open question put to you: what to point this at.
+**Accepted, 16:00 UTC.** All three items in, unmodified. Started.
+
+Open question still open: what to point this at. Not blocking day 1, which is
+subject-agnostic by design — but it shapes day 2.
 
 ---
 
@@ -46,7 +49,8 @@ list* and *what came of it*, which Goodreads has nowhere to put.
 
 | Started | Title | Author | Status | Why it was proposed | Artifact |
 |---------|-------|--------|--------|---------------------|----------|
-| — | — | — | — | — | — |
+| 2026-08-06 | *How to Read a Book* (inspectional chapters only) | Adler & Van Doren | reading | The one reading technique used on almost everything; changes how every later book is read | — |
+| 2026-08-06 | "Twenty Rules of Formulating Knowledge" | Piotr Woźniak | reading | Rules 1–4 before the first Anki card, to avoid a year of cards that get deleted | — |
 
 **Status values:** reading · finished · inspected (45-min pass, verdict
 written) · abandoned (with the reason — abandoning deliberately is a result,
@@ -58,7 +62,7 @@ not a failure) · shelved.
 
 | Week | Dates | Theme | Proposed | Accepted | Completed |
 |------|-------|-------|----------|----------|-----------|
-| 1 | 2026-08-06 → | The instrument | day 1: 3 items · ~1h45 | *awaiting* | — |
+| 1 | 2026-08-06 → | The instrument | day 1: 3 items · ~1h45 | 3 of 3 | *in progress* |
 
 ---
 
@@ -69,8 +73,8 @@ unrestarted one is the failure mode this whole thing exists to prevent.
 
 | Habit | Started | Current streak | Longest | Last lapse |
 |-------|---------|----------------|---------|------------|
-| Spaced repetition (daily) | — | — | — | — |
-| Publishing (weekly) | — | — | — | — |
+| Spaced repetition (daily) | 2026-08-06 | *day 1* | — | — |
+| Publishing (weekly) | 2026-08-06 | *week 1* | — | — |
 
 ---
 
