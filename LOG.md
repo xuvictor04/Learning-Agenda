@@ -52,6 +52,20 @@ Library card already held.
 - **Lesson for me, logged:** don't give locations inside a book unless I know
   them. Name the section, let the contents page do the rest.
 
+**~16:45 UTC — theme change.** Reported having just read *Style*, and wanting
+to move off method material onto actual subject matter. Week 1's "instrument"
+theme ends early.
+
+Standing observation, first one worth recording: **meta-learning material hits
+diminishing returns fast here.** Two of the three day-1 items were about how to
+learn rather than about anything; both were declined or dropped. Propose
+subjects, not methods. Method can ride along inside real material.
+
+Asked three times what to point this at without an answer, so I chose:
+**statistics**, on the grounds that it has no prerequisites, changes how every
+other subject's claims get read, and is directly load-bearing in health
+sciences. Offered as overridable in one word.
+
 Open question still open: what to point this at. Not blocking day 1, which is
 subject-agnostic by design — but it shapes day 2.
 
@@ -67,6 +81,8 @@ list* and *what came of it*, which Goodreads has nowhere to put.
 |---------|-------|--------|--------|---------------------|----------|
 | 2026-08-06 | *How to Read a Book* | Adler & Van Doren | **dropped day 1** — bad chapter refs from me; recoverable later | The one reading technique used on almost everything; changes how every later book is read | — |
 | 2026-08-06 | "Twenty Rules of Formulating Knowledge" | Piotr Woźniak | reading — all 20 | Rules before the first Anki card, to avoid a year of cards that get deleted | — |
+
+| — | *Style* | — | finished (before this log began) | Read independently; reported 2026-08-06 as the reason for moving off method material | — |
 
 **Status values:** reading · finished · inspected (45-min pass, verdict
 written) · abandoned (with the reason — abandoning deliberately is a result,
@@ -112,4 +128,8 @@ reliably avoid, what made a good week good. I add here as evidence
 accumulates; it's what stops me proposing something you've already declined
 twice.
 
-*(nothing yet — needs a few weeks of data)*
+- **Meta-learning material gets declined.** Day 1: Woźniak accepted (short,
+  immediately usable), Adler dropped, and the theme abandoned within hours.
+  Propose subjects; let method arrive inside them.
+- **Precision matters more than usual.** A chapter reference I wasn't sure of
+  cost a whole book. Name sections, not pages, unless verified.
