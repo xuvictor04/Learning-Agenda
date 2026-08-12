@@ -1,119 +1,57 @@
 # Log
 
-The running record of the journey. I maintain it; you give the verdicts.
+**Started 2026-08-06.**
 
-**Granularity:** whatever you message at. A day, a week, a single book — you
-tell me what happened and I date it and write it down. Timestamps come from
-when you message, so "today" always means the day you're writing.
-
-**The rule that makes it worth keeping:** partials and misses get logged the
-same as completions. A record that only shows wins can't teach either of us
-anything, and the pattern of what you skip is more informative than the
-pattern of what you finish.
-
-**Started:** 2026-08-06 (Thursday)
+Dated entries, newest at the bottom. Granularity follows whatever you message
+at — a day, a week, a single book. Partials and misses get logged the same as
+completions.
 
 ---
 
 ## Journey
 
-Dated entries, newest at the bottom.
+### 2026-08-06 · Thu
 
-### 2026-08-06 · Thu · Day 1
+Repo restarted clean. Everything prior — a seventy-year plan, a 44-domain map,
+a resource library — is preserved in git history at `c49bb3d` and recoverable
+if ever wanted. It isn't needed.
 
-Restarted. Scrapped the seventy-year plan; kept the philosophy and the
-resource library. Week 1 theme set: the instrument.
+What happened during the day, and why it matters:
 
-Day 1 proposed — Anki plus Woźniak's rules, Adler's inspectional-reading
-chapters, and 300 published words. ~1h45. Awaiting verdicts.
-
-Publishing venue decided: **`xuvictor04/blog`**, already created. GitHub
-Pages, markdown, default theme, custom domain deferred. Serves at
-`xuvictor04.github.io/blog` since it's a project repo rather than a user
-page. Chosen for durability and zero new accounts — and because the platform
-decision is exactly the kind of thing that eats the evening it was meant to
-start.
-
-**Accepted, 16:00 UTC.** All three in. Revised shortly after: **item 3, the
-300 words, deferred off today** — still week 1, not tonight. Items 1 and 2
-stand.
-
-Library card already held.
-
-**Revised again, ~16:30 UTC.**
-
-- **Item 1 expanded** — reading all twenty of Woźniak's rules rather than the
-  first four. Their call, not mine.
-- **Item 2 (Adler) out.** Cause: I gave chapter numbers for the
-  inspectional-reading section that I was not actually sure of. The skip is a
-  response to an unreliable reference, not a judgment on the book — worth
-  distinguishing, because the method is still worth having and the book can
-  come back later via its table of contents rather than my page numbers.
-- **Lesson for me, logged:** don't give locations inside a book unless I know
-  them. Name the section, let the contents page do the rest.
-
-**~16:45 UTC — theme change.** Reported having just read *Style*, and wanting
-to move off method material onto actual subject matter. Week 1's "instrument"
-theme ends early.
-
-Standing observation, first one worth recording: **meta-learning material hits
-diminishing returns fast here.** Two of the three day-1 items were about how to
-learn rather than about anything; both were declined or dropped. Propose
-subjects, not methods. Method can ride along inside real material.
-
-Asked three times what to point this at without an answer, so I chose:
-**statistics**, on the grounds that it has no prerequisites, changes how every
-other subject's claims get read, and is directly load-bearing in health
-sciences. Offered as overridable in one word.
-
-Open question still open: what to point this at. Not blocking day 1, which is
-subject-agnostic by design — but it shapes day 2.
+- **Anki proposed and accepted.** Woźniak's twenty rules read in full rather
+  than the four I suggested.
+- **Adler's *How to Read a Book* dropped.** I gave chapter references I hadn't
+  verified. The skip was a response to a bad reference, not to the book.
+- **Method material abandoned as a theme.** Reported having just read *Style*
+  and wanting real subject matter instead.
+- **Statistics proposed** as the first real subject — no prerequisites,
+  changes how every other subject's claims read, directly load-bearing in
+  health sciences. Awaiting a verdict.
 
 ---
 
 ## Books
 
-Everything picked up, whether or not it gets finished. Mirrored on Goodreads
-where applicable — this table is the one that also records *why it was on the
-list* and *what came of it*, which Goodreads has nowhere to put.
+| Date | Title | Author | Status | Why | Artifact |
+|------|-------|--------|--------|-----|----------|
+| 2026-08-06 | "Twenty Rules of Formulating Knowledge" | Woźniak | read | Before writing the first Anki cards | — |
+| 2026-08-06 | *How to Read a Book* | Adler & Van Doren | dropped | Bad chapter refs from me; recoverable later | — |
+| earlier | *Style* | — | read | Read independently, before this log | — |
 
-| Started | Title | Author | Status | Why it was proposed | Artifact |
-|---------|-------|--------|--------|---------------------|----------|
-| 2026-08-06 | *How to Read a Book* | Adler & Van Doren | **dropped day 1** — bad chapter refs from me; recoverable later | The one reading technique used on almost everything; changes how every later book is read | — |
-| 2026-08-06 | "Twenty Rules of Formulating Knowledge" | Piotr Woźniak | reading — all 20 | Rules before the first Anki card, to avoid a year of cards that get deleted | — |
-
-| — | *Style* | — | finished (before this log began) | Read independently; reported 2026-08-06 as the reason for moving off method material | — |
-
-**Status values:** reading · finished · inspected (45-min pass, verdict
-written) · abandoned (with the reason — abandoning deliberately is a result,
-not a failure) · shelved.
-
----
-
-## Weeks
-
-| Week | Dates | Theme | Proposed | Accepted | Completed |
-|------|-------|-------|----------|----------|-----------|
-| 1 | 2026-08-06 → | The instrument | day 1: 3 items · ~1h45 | 1 of 3 (1 out, 1 deferred) | *in progress* |
+Mirrored on Goodreads where applicable. This table keeps the two things
+Goodreads can't: why it was proposed, and what came of it.
 
 ---
 
 ## Habits
 
-Streaks noted honestly, including breaks. A restarted habit is a success; an
-unrestarted one is the failure mode this whole thing exists to prevent.
-
-| Habit | Started | Current streak | Longest | Last lapse |
-|-------|---------|----------------|---------|------------|
-| Spaced repetition (daily) | 2026-08-06 | *day 1* | — | — |
-| Publishing (weekly) | 2026-08-06 | *week 1* | — | — |
+| Habit | Started | Streak | Longest | Last lapse |
+|-------|---------|--------|---------|------------|
+| Spaced repetition | 2026-08-06 | — | — | — |
 
 ---
 
 ## Artifacts
-
-Finished things and where they live. The only real evidence any of it
-happened.
 
 | Date | What | Where |
 |------|------|-------|
@@ -121,15 +59,10 @@ happened.
 
 ---
 
-## Standing observations
+## What I've learned about proposing to you
 
-Patterns worth carrying between weeks — what you reliably do, what you
-reliably avoid, what made a good week good. I add here as evidence
-accumulates; it's what stops me proposing something you've already declined
-twice.
-
-- **Meta-learning material gets declined.** Day 1: Woźniak accepted (short,
-  immediately usable), Adler dropped, and the theme abandoned within hours.
-  Propose subjects; let method arrive inside them.
-- **Precision matters more than usual.** A chapter reference I wasn't sure of
-  cost a whole book. Name sections, not pages, unless verified.
+- Meta-learning material gets declined. Lead with subjects.
+- Precision matters more than usual — an unverified chapter reference cost a
+  whole book.
+- Three requests for a direction went unanswered, so choosing and letting you
+  override works better than asking.
