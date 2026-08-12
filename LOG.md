@@ -34,7 +34,11 @@ page. Chosen for durability and zero new accounts — and because the platform
 decision is exactly the kind of thing that eats the evening it was meant to
 start.
 
-**Accepted, 16:00 UTC.** All three items in, unmodified. Started.
+**Accepted, 16:00 UTC.** All three in. Revised shortly after: **item 3, the
+300 words, deferred off today** — still week 1, not tonight. Items 1 and 2
+stand.
+
+Library card already held, so Adler is gettable without a purchase.
 
 Open question still open: what to point this at. Not blocking day 1, which is
 subject-agnostic by design — but it shapes day 2.
