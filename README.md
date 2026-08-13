@@ -8,7 +8,8 @@ I write down what actually happened.
 
 Nothing is planned further out than the next thing.
 
-**The record is `LOG.md`.** That's the whole repo.
+**The record is `LOG.md`.** **The plan is `TRANSCRIPT.md`** — a degree-shaped
+progression built from free university courses.
 
 ---
 

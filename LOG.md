@@ -24,9 +24,14 @@ What happened during the day, and why it matters:
   verified. The skip was a response to a bad reference, not to the book.
 - **Method material abandoned as a theme.** Reported having just read *Style*
   and wanting real subject matter instead.
-- **Statistics proposed** as the first real subject — no prerequisites,
-  changes how every other subject's claims read, directly load-bearing in
-  health sciences. Awaiting a verdict.
+- **Statistics proposed** as the first real subject. Superseded before a
+  verdict.
+- **Called out for over-focusing on books.** Correct — I'd written a file
+  about learning modes and then proposed six books in a row. Reproposed with
+  free university courses and other modes.
+- **New direction: a transcript.** Build a degree-shaped progression from
+  free courses, extending to all branches. First draft in `TRANSCRIPT.md` —
+  eight terms, 32 courses, all free, prerequisites respected.
 
 ---
 
@@ -66,3 +71,10 @@ Goodreads can't: why it was proposed, and what came of it.
   whole book.
 - Three requests for a direction went unanswered, so choosing and letting you
   override works better than asking.
+- **Offer options, not a single pick.** A menu of six got engagement where one
+  recommendation didn't.
+- **Books are not the default.** Courses, datasets, societies, museums. I
+  defaulted to books twice and was corrected both times.
+- **Structure helps.** The transcript framing landed immediately where
+  freeform proposals hadn't — prerequisites and terms give the plan a shape
+  that's familiar and checkable.
