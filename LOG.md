@@ -30,8 +30,16 @@ What happened during the day, and why it matters:
   about learning modes and then proposed six books in a row. Reproposed with
   free university courses and other modes.
 - **New direction: a transcript.** Build a degree-shaped progression from
-  free courses, extending to all branches. First draft in `TRANSCRIPT.md` —
-  eight terms, 32 courses, all free, prerequisites respected.
+  free courses, extending to every branch, assuming a freshman with zero
+  credits. Delivered: `CATALOGUE.md` (43 divisions, ~400 courses, verified by
+  search, overlaps resolved, gaps named) and `TRANSCRIPT.md` (twelve terms
+  over six years, plus electives).
+
+  Notable findings from the build: Open Yale is frozen at 2011; only MIT OCW's
+  `SC` and `RES` courses carry full free assessment; Lewin's physics lectures
+  survive on the Internet Archive but the problem sets did not; MIT renumbered
+  its CS courses in 2022; and there is no free Latin course, no historiography
+  course, and no usable free clinical psychology or pharmacology.
 
 ---
 

@@ -1,24 +1,22 @@
 # Transcript
 
 A full degree progression built entirely from free, open university courses.
-Starting from zero credits, no prerequisites assumed.
+Zero credits assumed, nothing prerequisite.
 
-**This is a menu, not a mandate.** It's built long and wide on purpose so you
-can strike things out. Filtering down is easier than filling in, and what you
-cut tells me more than what you keep.
+**This is a menu, not a mandate.** Built long and wide so you can strike
+things out. Filtering down is easier than filling in, and what you cut tells
+me more than what you keep.
 
-**The catalogue is `CATALOGUE.md`** — every subject, every division, with the
-overlaps resolved and the standout individual lectures called out. This file
-is the *progression*: what order to take them in and why.
+**`CATALOGUE.md` is the full list** — 43 divisions, ~400 courses, overlaps
+resolved. This file is the *order*.
 
 ---
 
-## How long this takes
+## The shape
 
-At three or four courses a term, two terms a year, the core runs about six
-years. That's longer than a degree because a degree drops most of the map —
-it makes you pick a major in year two and never opens the other eleven
-divisions.
+Twelve terms, two a year, six years. That's longer than a degree because a
+degree drops most of the map: it makes you pick a major in year two and never
+opens the other forty divisions.
 
 | Pace | Courses/term | Core done in |
 |------|--------------|--------------|
@@ -26,51 +24,205 @@ divisions.
 | **Standard** | **3–4** | **~6 years** |
 | Heavy | 5 | ~4 years |
 
-The order matters more than the pace. Prerequisites are real, and a course
-taken out of order teaches noticeably less.
+After term 12 the remaining divisions are electives — take them in any order,
+because nothing depends on them.
 
 ---
 
-## The rules that make this a transcript
+## Rules
 
-1. **Problem sets are the course.** Lectures without them are television.
-   MIT OCW ships psets with solutions; do them before checking. Where a
-   course is lecture-only, the reading is on you and the catalogue says so.
-2. **One artifact per course.** A written summary, a solved problem set you'd
-   show someone, or a built thing. No artifact, no credit.
-3. **Prerequisites hold.** Linear algebra after calculus. E&M after
-   mechanics. Skipping them doesn't save time, it wastes the course.
-4. **Always mixed.** Never four quantitative courses in one term. Every term
-   pairs something that demands proofs with something that demands reading.
-5. **Dropping is a result.** Logged, with the reason, in `LOG.md`. A course
-   dropped deliberately is information; one abandoned quietly is drift.
+1. **Problem sets are the course.** On MIT OCW only `SC` and `RES` courses
+   carry full free assessment. Lecture-only courses put the reading on you —
+   budget roughly 2:1 reading to lecture.
+2. **One artifact per course.** No artifact, no credit.
+3. **Prerequisites hold.** Linear algebra after calculus, E&M after
+   mechanics, biology after chemistry. Out of order teaches noticeably less.
+4. **Never four quantitative in one term.** Every term pairs proofs with
+   reading. This is the interleaving rule and it's load-bearing.
+5. **Dropping is a result** — logged with the reason in `LOG.md`.
 
 ---
 
-## Progression
+# Year 1 — Foundations
 
-*Terms fill in as the catalogue lands. The structure below is the frame.*
+Nothing here assumes anything.
 
-### Year 1 — Foundations
-Nothing here assumes anything. Two quantitative, two verbal, and the
-prerequisites that half the later terms depend on.
+### Term 1
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **Statistics 110: Probability** | Harvard, free video + free text | Blitzstein | ~120 |
+| **18.01SC Single Variable Calculus** | MIT OCW *(SC — full assessment)* | — | ~120 |
+| **9.00SC Introduction to Psychology** | MIT OCW *(SC)* | Gabrieli | ~90 |
+| **Justice** | justiceharvard.org | Sandel | ~50 |
 
-### Year 2 — The physical world and its methods
-Mechanics, chemistry, the mathematics that describes them, and the first
-humanities courses that need no scaffolding.
+### Term 2
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **18.06 Linear Algebra** | MIT OCW | Strang | ~120 |
+| **CS50: Introduction to Computer Science** | Harvard / edX | Malan | ~150 |
+| **General Philosophy** | Oxford podcasts | Millican | ~40 |
+| **MUSI 112 Listening to Music** | Open Yale | Wright | ~50 |
 
-### Year 3 — Life, mind, and society
-Biology and neuroscience become available once chemistry is behind you.
-Economics and psychology become readable once statistics is.
-
-### Year 4 — Depth and divergence
-The first genuinely advanced courses, plus the divisions untouched so far —
-engineering, the arts, law, linguistics.
-
-### Years 5–6 — Advanced work and the remainder
-Graduate-level material in whatever held, and a sweep of the divisions the
-first four years couldn't reach.
+*Two quantitative, two verbal, every term. Stat 110 and calculus are the
+prerequisites half the later terms assume.*
 
 ---
 
-*Full term-by-term detail follows once `CATALOGUE.md` is complete.*
+# Year 2 — The physical world
+
+### Term 3
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **8.01SC Classical Mechanics** | MIT OCW *(SC)* | — | ~130 |
+| **5.111SC Principles of Chemical Science** | MIT OCW *(SC)* | Drennan | ~130 |
+| **CORE: The Economy 2.0 — Microeconomics** | core-econ.org | — | ~80 |
+| **ENGL 300 Introduction to Theory of Literature** | Open Yale | Fry | ~50 |
+
+### Term 4
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **8.02 Electricity & Magnetism** | MIT OCW | — | ~130 |
+| **18.02 Multivariable Calculus** | MIT OCW | — | ~120 |
+| **E&EB 122 Evolution, Ecology & Behavior** | Open Yale | Stearns | ~60 |
+| **HIST 210 The Early Middle Ages** | Open Yale | Freedman | ~50 |
+
+---
+
+# Year 3 — Life, mind, society
+
+Chemistry is behind you, so biology opens. Statistics is behind you, so the
+social sciences become readable rather than merely agreeable.
+
+### Term 5
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **7.01SC Fundamentals of Biology** | MIT OCW *(SC)* | — | ~130 |
+| **18.03 Differential Equations** | MIT OCW | — | ~120 |
+| **ECON 159 Game Theory** | Open Yale | Polak | ~60 |
+| **24.900 Introduction to Linguistics** | MIT OCW | — | ~90 |
+
+### Term 6
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **9.13 The Human Brain** | MIT OCW | Kanwisher | ~90 |
+| **MIT 14.01 Principles of Microeconomics** | MIT OCW | Gruber | ~100 |
+| **RLST 145 Introduction to the Hebrew Bible** | Open Yale | Hayes | ~50 |
+| **Smarthistory** — full chronological survey | Khan Academy | — | ~60 |
+
+---
+
+# Year 4 — Depth and divergence
+
+### Term 7
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **5.07SC Biological Chemistry** | MIT OCW *(SC)* | Essigmann, Fedeles | ~130 |
+| **6.006 Introduction to Algorithms** | MIT OCW | — | ~130 |
+| **PLSC 114 Introduction to Political Philosophy** | Open Yale | Smith | ~50 |
+| **ENGL 310 Modern Poetry** | Open Yale | Hammer | ~50 |
+
+### Term 8
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **ECON 252 Financial Markets** | Open Yale | Shiller | ~60 |
+| **8.03SC Physics III: Waves & Vibrations** | MIT OCW *(SC)* | — | ~130 |
+| **SOCY 151 Foundations of Modern Social Theory** | Open Yale | Szelényi | ~50 |
+| **Epidemiology: The Basic Science of Public Health** | UNC / Coursera | — | ~50 |
+
+---
+
+# Year 5 — Advanced work
+
+### Term 9
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **8.04 Quantum Physics I** | MIT OCW | Zwiebach | ~140 |
+| **18.404J Theory of Computation** | MIT OCW | Sipser | ~120 |
+| **RES.7-006 Genetics** | MIT OCW *(RES)* | Hemann, Reddien | ~110 |
+| **CLCV 205 Ancient Greek History** | Open Yale | Kagan | ~50 |
+
+### Term 10
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **3.091SC Solid State Chemistry** | MIT OCW *(SC)* | Sadoway | ~120 |
+| **Biostatistics in Public Health** | Johns Hopkins / Coursera | — | ~80 |
+| **HIST 202 European Civilization 1648–1945** | Open Yale | Merriman | ~50 |
+| **24.241 Logic I** | MIT OCW | Glick | ~90 |
+
+---
+
+# Year 6 — The remainder
+
+### Term 11
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **8.333 Statistical Mechanics I** | MIT OCW | Kardar | ~140 |
+| **2.003SC Engineering Dynamics** | MIT OCW *(SC)* | Vandiver | ~120 |
+| **ASTR 160 Frontiers of Astrophysics** | Open Yale | Bailyn | ~50 |
+| **CopyrightX** | Harvard | — | ~60 |
+
+### Term 12
+| Course | Source | Instructor | Hrs |
+|---|---|---|---|
+| **6.002 Circuits & Electronics** | MIT OCW | Agarwal, Lang | ~130 |
+| **Human Behavioral Biology** | Stanford, free video | Sapolsky | ~60 |
+| **4.605 History of Architecture** | MIT OCW | Jarzombek | ~80 |
+| **Capstone** — one written artifact per division touched | — | — | ~80 |
+
+---
+
+## After the core — electives, any order
+
+Nothing below depends on anything else. Take what pulls.
+
+| Division | Entry point |
+|---|---|
+| Organic chemistry | CHEM 125 (McBride), Open Yale |
+| Advanced physics | Susskind's *Theoretical Minimum*, Stanford |
+| Machine learning | CS229 (Ng), Stanford — not the Coursera simplification |
+| Artificial intelligence | CS188, Berkeley |
+| Systems programming | 15-213, Carnegie Mellon |
+| Databases | 15-445 (Pavlo), Carnegie Mellon |
+| Computer graphics | 15-462 (Keenan Crane), Carnegie Mellon |
+| Neuroscience, deep | MCB80x parts 1–3, Harvard |
+| Anatomy & physiology | Michigan Anatomy; Duke Physiology |
+| Immunology | Rice, Coursera |
+| Anthropology | 21A.00 / 21A.01, MIT OCW |
+| American law | Penn, Coursera; NCC *Constitution 101* |
+| Accounting & finance | Wharton intro sequence; MIT 15.401 (Lo) |
+| Negotiation | Michigan (Siedel), Coursera |
+| Entrepreneurship | MIT 15.390 (Aulet) |
+| GIS | MIT RES.STR-001; Penn State GEOG 483 |
+| Urban planning | MIT 11.001J (Silberberg) |
+| New Testament | RLST 152 (Martin), Open Yale |
+| Islam, Buddhism | HarvardX World Religions modules |
+| Dante | ITAL 310 (Mazzotta), Open Yale |
+| Milton | ENGL 220 (Rogers), Open Yale |
+| Phonology, syntax, semantics | 24.901 / 24.902 / 24.903, MIT OCW |
+| Ancient Greek | 118 free lessons (see catalogue) |
+| Composition | English Composition I (Comer); Rhetoric (Engell) |
+| Music theory & history | 21M.301, 21M.220, MIT OCW |
+| Film & media | 21L.011 (Thorburn), MIT OCW |
+| Fluid mechanics | NPTEL (Biswas, Chakraborty — IIT Kanpur) |
+| Control systems | NPTEL (Pasumarthy); power electronics (Umanand) |
+| Structural analysis | NPTEL (Menon), advanced |
+| Rocket propulsion | NPTEL (Ramamurthi) |
+| Aerospace | TU Delft, edX; MIT 16 series |
+| Biomedical engineering | BENG 100 (Saltzman), Open Yale |
+| Learning science | *Learning How to Learn*; *Uncommon Sense Teaching* |
+
+---
+
+## The gaps — where free material doesn't exist
+
+Named so you don't waste time searching.
+
+- **No free Latin course.** Learn it from a book.
+- **No historiography course.**
+- **Clinical/abnormal psychology and pharmacology** — genuine holes.
+- **Latin American, African, Middle Eastern history** — poor. ChinaX is the
+  only first-rate non-Western regional offering.
+- **Wet lab, cadaveric anatomy, clinical exposure, studio critique** — can't
+  be got this way at all. Substitutes in the catalogue: community bio labs,
+  community college lab courses, EMT-Basic, master naturalist programmes,
+  local studio classes.

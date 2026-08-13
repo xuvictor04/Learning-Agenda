@@ -8,8 +8,11 @@ I write down what actually happened.
 
 Nothing is planned further out than the next thing.
 
-**The record is `LOG.md`.** **The plan is `TRANSCRIPT.md`** — a degree-shaped
-progression built from free university courses.
+**`TRANSCRIPT.md`** — a six-year degree progression, twelve terms, built
+entirely from free university courses.
+**`CATALOGUE.md`** — the full menu: 43 divisions, ~400 courses, overlaps
+resolved and gaps named.
+**`LOG.md`** — the record of what actually happens.
 
 ---
 
