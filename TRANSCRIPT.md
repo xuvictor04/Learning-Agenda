@@ -213,24 +213,44 @@ Nothing below depends on anything else. Take what pulls.
 
 ---
 
-## The gaps — where free material doesn't exist
+## The gaps — and what replaces them
 
-Named so you don't waste time searching.
+Where no free course exists, a book takes the slot. **`TEXTBOOKS.md`** holds
+the full substitution list; this is the index to it.
 
-- **No free Latin course.** Learn it from a book.
-- **No historiography course.**
-- **Clinical/abnormal psychology and pharmacology** — genuine holes.
-- **Latin American, African, Middle Eastern history** — poor. ChinaX is the
-  only first-rate non-Western regional offering.
-- **Law** — no free 1L sequence, and no doctrinal constitutional law course
-  taught by a constitutional law professor. CopyrightX and the Penn intro are
-  the ceiling.
-- **Business** — no strategy, no organizational behaviour.
-- **Human geography** — close to absent.
-- **Economic history** — a genuine gap, not a search failure.
-- **Post-1970 social theory** and **comparative politics with actual
-  lectures** — thin to absent.
-- **Wet lab, cadaveric anatomy, clinical exposure, studio critique** — can't
-  be got this way at all. Substitutes in the catalogue: community bio labs,
-  community college lab courses, EMT-Basic, master naturalist programmes,
-  local studio classes.
+| Gap | What replaces it |
+|---|---|
+| **Latin** — the single largest hole | Ørberg's *Lingua Latina* or *Wheelock's Latin*, then Dickinson College Commentaries for the reading |
+| **Greek past the introduction** | *Athenaze*, or Hansen & Quinn if you want it fast |
+| **Historiography** | Tosh, *The Pursuit of History*; then Carr and Bloch |
+| **Clinical / abnormal psychology** | Kring & Johnson; Judith Beck for what therapy consists of; Lilienfeld et al. for the critical apparatus |
+| **Pharmacology** | Katzung, with Goodman & Gilman as the reference. Take biochemistry and physiology first or it's memorisation |
+| **Latin American history** | Chasteen, *Born in Blood and Fire* |
+| **African history** | Iliffe, *Africans: The History of a Continent* |
+| **Middle Eastern history** | Hourani, *A History of the Arab Peoples*; Cleveland & Bunton as the textbook |
+| **Roman history** — no free equal to Kagan | Beard, *SPQR* |
+| **Law: the 1L year** | The *Examples & Explanations* series, subject by subject, against CALI's free eLangdell casebooks |
+| **Law: constitutional doctrine** | Chemerinsky, *Constitutional Law: Principles and Policies* — the substitute for the missing course, not a supplement |
+| **Business strategy** | Porter's *Competitive Strategy* and *Competitive Advantage*; Rumelt as the corrective |
+| **Organizational behaviour** | OpenStax *Organizational Behavior* — free and complete; then Schein and March |
+| **Human geography** | Knox & Marston for the survey; Cresswell for the discipline's own arguments |
+| **Economic history** | Allen's *Very Short Introduction* as the door; then Mokyr, Pomeranz, North |
+| **Post-1970 social theory** | Calhoun's reader first, then Goffman, Bourdieu, Foucault |
+| **Comparative politics** | Clark, Golder & Golder for the textbook; Moore, Skocpol, Scott for the canon |
+| **Critical / constructivist IR** | Dunne, Kurki & Smith for the survey; Wendt, Enloe, Said |
+| **Heterodox economics** | Chang, *Economics: The User's Guide* |
+| **Chemical process design** | Towler & Sinnott, or Seider et al. |
+
+### What no book fixes
+
+**Wet lab, cadaveric dissection, clinical hours, studio critique, and
+supervised feedback on writing.** These stay gaps. The catalogue's
+substitutes are the real answer: community bio labs, community college lab
+courses, EMT-Basic, master naturalist programmes, local studio classes.
+
+### The rule that changes when a book replaces a course
+
+Problem sets are the course — and a book has no grader. So: **do the
+end-of-chapter problems and write the answer out in full before checking**,
+and the one-artifact rule holds unchanged. A textbook read without an
+artifact is reading, not study.

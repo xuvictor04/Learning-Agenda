@@ -12,6 +12,8 @@ Nothing is planned further out than the next thing.
 entirely from free university courses.
 **`CATALOGUE.md`** — the full menu: 43 divisions, ~400 courses, overlaps
 resolved and gaps named.
+**`TEXTBOOKS.md`** — what fills the gaps. Where no free course exists, a
+book takes the slot.
 **`LOG.md`** — the record of what actually happens.
 
 ---

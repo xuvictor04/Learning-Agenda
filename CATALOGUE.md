@@ -6,6 +6,14 @@ organised by division and level. Roughly 400 courses.
 **This is the menu.** `TRANSCRIPT.md` is the suggested order through it.
 Strike out whatever you don't want — filtering down is the point.
 
+**Where a division below names a gap, `TEXTBOOKS.md` names the book that
+fills it.** Every gap statement in this file — Latin, historiography,
+clinical psychology, pharmacology, the 1L year, constitutional doctrine,
+strategy, organizational behaviour, human geography, economic history,
+post-1970 theory, comparative politics, Latin American / African / Middle
+Eastern / Roman history — has a substitution waiting there. Five gaps have
+no book substitute and are listed as such.
+
 ## How to read an entry
 
 - **Institution and instructor** are given. **Course codes appear only where

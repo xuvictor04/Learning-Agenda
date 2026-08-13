@@ -41,6 +41,29 @@ What happened during the day, and why it matters:
   its CS courses in 2022; and there is no free Latin course, no historiography
   course, and no usable free clinical psychology or pharmacology.
 
+### 2026-08-13 · Thu
+
+**Gaps filled with books.** Every place the catalogue said no free course
+exists now names what to read instead — `TEXTBOOKS.md`. Twenty gaps
+substituted; five stated as unfillable by any book (wet lab, cadaveric
+dissection, clinical hours, studio critique, supervised writing feedback).
+
+The substitutions worth knowing about before you filter:
+
+- **Latin** — Ørberg or Wheelock, then Dickinson's free commentaries. This
+  was the largest hole in the catalogue and it closes cleanly.
+- **Law** — CALI's eLangdell casebooks and Harvard's Open Casebook are both
+  free and legally licensed, which makes a self-taught 1L year genuinely
+  possible. Chemerinsky replaces the missing constitutional law course.
+- **Organizational behaviour** and general management — OpenStax has free,
+  complete, open-licensed texts for both.
+- **Pharmacology** — Katzung and Goodman & Gilman, but only after
+  biochemistry and physiology. Out of order it's memorisation.
+
+A rule had to change with them: problem sets are the course, and a book has
+no grader. Replacement is end-of-chapter problems written out in full before
+checking, and the one-artifact rule unchanged.
+
 ---
 
 ## Books
