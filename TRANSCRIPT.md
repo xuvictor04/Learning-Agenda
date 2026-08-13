@@ -222,6 +222,14 @@ Named so you don't waste time searching.
 - **Clinical/abnormal psychology and pharmacology** — genuine holes.
 - **Latin American, African, Middle Eastern history** — poor. ChinaX is the
   only first-rate non-Western regional offering.
+- **Law** — no free 1L sequence, and no doctrinal constitutional law course
+  taught by a constitutional law professor. CopyrightX and the Penn intro are
+  the ceiling.
+- **Business** — no strategy, no organizational behaviour.
+- **Human geography** — close to absent.
+- **Economic history** — a genuine gap, not a search failure.
+- **Post-1970 social theory** and **comparative politics with actual
+  lectures** — thin to absent.
 - **Wet lab, cadaveric anatomy, clinical exposure, studio critique** — can't
   be got this way at all. Substitutes in the catalogue: community bio labs,
   community college lab courses, EMT-Basic, master naturalist programmes,
